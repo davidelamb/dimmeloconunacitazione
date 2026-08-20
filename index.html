@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#111111">
+  <title>Dimmelo con una citazione — Studio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <header>
+      <div>
+        <p class="eyebrow">DIMMELO CON UNA CITAZIONE</p>
+        <h1>Quote Studio</h1>
+        <p class="sub">Prepara il prossimo post direttamente dal tuo iPhone.</p>
+      </div>
+      <span class="badge">V1</span>
+    </header>
+
+    <section class="panel">
+      <label for="topic">Tema</label>
+      <div class="row">
+        <input id="topic" value="vita" placeholder="es. amore, disciplina, vita">
+        <button id="generate">Genera</button>
+      </div>
+      <div class="chips" aria-label="Temi rapidi">
+        <button class="chip">Amore</button>
+        <button class="chip">Vita</button>
+        <button class="chip">Motivazione</button>
+        <button class="chip">Disciplina</button>
+      </div>
+    </section>
+
+    <section class="workspace">
+      <div class="preview-wrap">
+        <div id="quoteCard" class="quote-card">
+          <div class="quote-mark">“</div>
+          <div id="quoteText" class="quote-text">La vita è fatta di scelte. Scegli ciò che ti rende davvero te stesso.</div>
+          <div id="author" class="author">— Dimmelo con una citazione</div>
+        </div>
+      </div>
+
+      <div class="details panel">
+        <label for="caption">Caption</label>
+        <textarea id="caption" rows="5">A volte la risposta è già dentro di noi. 🤍\n\nSalva questa frase se oggi ne avevi bisogno.</textarea>
+        <label for="hashtags">Hashtag</label>
+        <input id="hashtags" value="#citazioni #aforismi #frasi #vita #ispirazione">
+        <div class="actions">
+          <button id="regenerate" class="secondary">↻ Rigenera</button>
+          <button id="approve" class="primary">✓ Approva</button>
+        </div>
+        <p id="status" class="status">Nessun contenuto pubblicato. Questa V1 prepara soltanto il post.</p>
+      </div>
+    </section>
+
+    <section class="panel history">
+      <div class="section-title"><h2>Archivio</h2><span id="count">0 salvate</span></div>
+      <div id="historyList" class="history-list"><p class="empty">Le citazioni approvate appariranno qui.</p></div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

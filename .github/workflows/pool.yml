@@ -1,0 +1,32 @@
+name: Refill AI quote pool
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/.refill-pool'
+  schedule:
+    - cron: '0 */12 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  refill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate diverse quote pool
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python scripts/generate_pool.py
+      - name: Commit pool
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/pool.json
+          git diff --cached --quiet || git commit -m 'Refill AI quote pool'
+          git push

@@ -1,9 +1,17 @@
 {
-  "quote": "In attesa della prima generazione AI.",
-  "author": "Dimmelo con una citazione",
+  "quote": "La vita è ciò che ti accade mentre sei occupato a fare altri progetti.",
+  "author": "John Lennon",
   "category": "vita",
-  "caption": "La prima citazione generata da DeepSeek apparirà qui.",
-  "hashtags": ["#citazioni", "#aforismi", "#frasi", "#ispirazione"],
-  "generated_at": null,
+  "caption": "A volte la vita ti sorprende mentre stai pianificando altro. 🌿",
+  "hashtags": [
+    "#vita",
+    "#citazioni",
+    "#ispirazione",
+    "#pensieridelgiorno",
+    "#lifelessons",
+    "#instaquote",
+    "#frasicelebri"
+  ],
+  "generated_at": "2026-08-20T21:39:18.842096+00:00",
   "topic_requested": "vita"
 }

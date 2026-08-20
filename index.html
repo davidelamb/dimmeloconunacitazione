@@ -15,47 +15,52 @@
         <h1>Quote Studio</h1>
         <p class="sub">Prepara il prossimo post direttamente dal tuo iPhone.</p>
       </div>
-      <span class="badge">V1</span>
+      <span class="badge">V2</span>
     </header>
 
     <section class="panel">
-      <label for="topic">Tema</label>
+      <div class="section-title"><label for="topic">Tema</label><span id="availableCount" class="count-badge">Caricamento…</span></div>
       <div class="row">
-        <input id="topic" value="vita" placeholder="es. amore, disciplina, vita">
+        <select id="topic" aria-label="Scegli un tema"></select>
         <button id="generate">Genera</button>
       </div>
       <div class="chips" aria-label="Temi rapidi">
-        <button class="chip">Amore</button>
-        <button class="chip">Vita</button>
-        <button class="chip">Motivazione</button>
-        <button class="chip">Disciplina</button>
+        <button class="chip" data-topic="casuale">Casuale</button>
+        <button class="chip" data-topic="amore">Amore</button>
+        <button class="chip" data-topic="vita">Vita</button>
+        <button class="chip" data-topic="motivazione">Motivazione</button>
+        <button class="chip" data-topic="disciplina">Disciplina</button>
+        <button class="chip" data-topic="ironia">Ironia</button>
+        <button class="chip" data-topic="filosofia">Filosofia</button>
+        <button class="chip" data-topic="nostalgia">Nostalgia</button>
       </div>
+      <p class="hint">Ogni pressione su <strong>Genera</strong> sceglie una citazione diversa dalla riserva disponibile e non ripropone quelle già approvate su questo dispositivo.</p>
     </section>
 
     <section class="workspace">
       <div class="preview-wrap">
         <div id="quoteCard" class="quote-card">
           <div class="quote-mark">“</div>
-          <div id="quoteText" class="quote-text">La vita è fatta di scelte. Scegli ciò che ti rende davvero te stesso.</div>
-          <div id="author" class="author">— Dimmelo con una citazione</div>
+          <div id="quoteText" class="quote-text">Premi Genera per preparare il prossimo post.</div>
+          <div id="author" class="author">— Quote Studio</div>
         </div>
       </div>
 
       <div class="details panel">
         <label for="caption">Caption</label>
-        <textarea id="caption" rows="5">A volte la risposta è già dentro di noi. 🤍\n\nSalva questa frase se oggi ne avevi bisogno.</textarea>
+        <textarea id="caption" rows="5" placeholder="La caption apparirà qui…"></textarea>
         <label for="hashtags">Hashtag</label>
-        <input id="hashtags" value="#citazioni #aforismi #frasi #vita #ispirazione">
+        <input id="hashtags" placeholder="#citazioni #aforismi …">
         <div class="actions">
-          <button id="regenerate" class="secondary">↻ Rigenera</button>
+          <button id="regenerate" class="secondary">↻ Altro</button>
           <button id="approve" class="primary">✓ Approva</button>
         </div>
-        <p id="status" class="status">Nessun contenuto pubblicato. Questa V1 prepara soltanto il post.</p>
+        <p id="status" class="status">Pronto.</p>
       </div>
     </section>
 
     <section class="panel history">
-      <div class="section-title"><h2>Archivio</h2><span id="count">0 salvate</span></div>
+      <div class="section-title"><h2>Archivio locale</h2><span id="count">0 salvate</span></div>
       <div id="historyList" class="history-list"><p class="empty">Le citazioni approvate appariranno qui.</p></div>
     </section>
   </main>

@@ -1,0 +1,415 @@
+[
+  {
+    "quote": "Amare non è guardarsi a vicenda, ma guardare insieme nella stessa direzione.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "L'amore vero unisce gli sguardi verso un orizzonte comune. 🌅",
+    "hashtags": [
+      "#amore",
+      "#citazioni",
+      "#coppia",
+      "#sguardo",
+      "#orizzonte"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906848+00:00"
+  },
+  {
+    "quote": "La vita è ciò che ti accade mentre sei occupato a fare altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "A volte il presente è più importante dei piani. 🍃",
+    "hashtags": [
+      "#vita",
+      "#presente",
+      "#vivere",
+      "#citazioni",
+      "#lennon"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906877+00:00"
+  },
+  {
+    "quote": "Non smettere mai di sognare, perché chi smette di sognare smette di vivere.",
+    "author": "Walt Disney",
+    "category": "sogni",
+    "caption": "I sogni sono il carburante dell'anima. ✨",
+    "hashtags": [
+      "#sogni",
+      "#speranza",
+      "#disney",
+      "#motivazione",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906883+00:00"
+  },
+  {
+    "quote": "La disciplina è il ponte tra i tuoi obiettivi e i tuoi risultati.",
+    "author": "Jim Rohn",
+    "category": "disciplina",
+    "caption": "Costruisci il tuo ponte ogni giorno. 🌉",
+    "hashtags": [
+      "#disciplina",
+      "#obiettivi",
+      "#costanza",
+      "#motivazione",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906886+00:00"
+  },
+  {
+    "quote": "Il coraggio non è l'assenza di paura, ma la capacità di vincere la paura.",
+    "author": "Nelson Mandela",
+    "category": "coraggio",
+    "caption": "La paura è normale, il coraggio è una scelta. 🦁",
+    "hashtags": [
+      "#coraggio",
+      "#paura",
+      "#forza",
+      "#mandela",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906890+00:00"
+  },
+  {
+    "quote": "Il successo è la somma di piccoli sforzi ripetuti giorno dopo giorno.",
+    "author": "Robert Collier",
+    "category": "successo",
+    "caption": "La costanza batte il talento. 📈",
+    "hashtags": [
+      "#successo",
+      "#costanza",
+      "#lavoro",
+      "#impegno",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906895+00:00"
+  },
+  {
+    "quote": "Il fallimento è una grande opportunità per ricominciare con più intelligenza.",
+    "author": "Henry Ford",
+    "category": "fallimento",
+    "caption": "Ogni caduta è un passo verso la saggezza. 🧠",
+    "hashtags": [
+      "#fallimento",
+      "#crescita",
+      "#ricominciare",
+      "#ford",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906899+00:00"
+  },
+  {
+    "quote": "La resilienza è accettare la tua nuova realtà, anche se è meno buona di quella che avevi.",
+    "author": "Elizabeth Edwards",
+    "category": "resilienza",
+    "caption": "Adattarsi è la chiave per andare avanti. 🌱",
+    "hashtags": [
+      "#resilienza",
+      "#adattamento",
+      "#forza",
+      "#vita",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906902+00:00"
+  },
+  {
+    "quote": "Il segreto del cambiamento è concentrare tutta la tua energia non sul combattere il vecchio, ma sul costruire il nuovo.",
+    "author": "Socrate",
+    "category": "cambiamento",
+    "caption": "Costruisci il nuovo, lascia andare il vecchio. 🏗️",
+    "hashtags": [
+      "#cambiamento",
+      "#crescita",
+      "#socrate",
+      "#nuoviinizi",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906905+00:00"
+  },
+  {
+    "quote": "Non puoi cambiare il vento, ma puoi regolare le vele.",
+    "author": "Jim Rohn",
+    "category": "crescita personale",
+    "caption": "Adattati e naviga verso i tuoi sogni. ⛵",
+    "hashtags": [
+      "#crescitapersonale",
+      "#adattamento",
+      "#jimrohn",
+      "#vita",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906908+00:00"
+  },
+  {
+    "quote": "Credi in te stesso e tutto sarà possibile.",
+    "author": "Napoleon Hill",
+    "category": "autostima",
+    "caption": "La fiducia in te è il primo passo. 💪",
+    "hashtags": [
+      "#autostima",
+      "#fiducia",
+      "#napoleonhill",
+      "#motivazione",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906918+00:00"
+  },
+  {
+    "quote": "La felicità non è qualcosa di pronto. Viene dalle tue stesse azioni.",
+    "author": "Dalai Lama",
+    "category": "felicità",
+    "caption": "Costruisci la tua felicità ogni giorno. 😊",
+    "hashtags": [
+      "#felicità",
+      "#azione",
+      "#dalailama",
+      "#vita",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906923+00:00"
+  },
+  {
+    "quote": "La gratitudine trasforma ciò che abbiamo in abbastanza.",
+    "author": "Anonimo",
+    "category": "gratitudine",
+    "caption": "Apprezza ciò che hai, e avrai di più. 🙏",
+    "hashtags": [
+      "#gratitudine",
+      "#abbondanza",
+      "#ringraziamento",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906928+00:00"
+  },
+  {
+    "quote": "L'amicizia non è una grande cosa, ma è un milione di piccole cose.",
+    "author": "Paulo Coelho",
+    "category": "amicizia",
+    "caption": "Le piccole attenzioni fanno la differenza. 💛",
+    "hashtags": [
+      "#amicizia",
+      "#paolocoelho",
+      "#piccolecose",
+      "#relazioni",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906932+00:00"
+  },
+  {
+    "quote": "La famiglia non è un luogo, è un sentimento.",
+    "author": "Anonimo",
+    "category": "famiglia",
+    "caption": "La famiglia è dove ti senti a casa. 🏡",
+    "hashtags": [
+      "#famiglia",
+      "#casa",
+      "#amore",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906935+00:00"
+  },
+  {
+    "quote": "La solitudine è la condizione di chi non si incontra mai.",
+    "author": "Cesare Pavese",
+    "category": "solitudine",
+    "caption": "Essere soli non è sempre una scelta, ma può essere un'opportunità. 🌒",
+    "hashtags": [
+      "#solitudine",
+      "#pavese",
+      "#introspezione",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906938+00:00"
+  },
+  {
+    "quote": "Il tempo è la cosa più preziosa che un uomo possa spendere.",
+    "author": "Teofrasto",
+    "category": "tempo",
+    "caption": "Usa il tuo tempo con saggezza. ⏳",
+    "hashtags": [
+      "#tempo",
+      "#saggezza",
+      "#teofrasto",
+      "#vita",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906941+00:00"
+  },
+  {
+    "quote": "La pazienza è amara, ma il suo frutto è dolce.",
+    "author": "Jean-Jacques Rousseau",
+    "category": "pazienza",
+    "caption": "Aspetta, e il dolce arriverà. 🍯",
+    "hashtags": [
+      "#pazienza",
+      "#rousseau",
+      "#attesa",
+      "#frutti",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906946+00:00"
+  },
+  {
+    "quote": "I sogni sono i progetti della vita.",
+    "author": "Ralph Waldo Emerson",
+    "category": "ambizione",
+    "caption": "Sogna in grande, agisci in grande. 🌠",
+    "hashtags": [
+      "#ambizione",
+      "#sogni",
+      "#emerson",
+      "#progetti",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906949+00:00"
+  },
+  {
+    "quote": "Scegli un lavoro che ami e non lavorerai mai un giorno in vita tua.",
+    "author": "Confucio",
+    "category": "lavoro",
+    "caption": "Trasforma la passione in professione. 💼",
+    "hashtags": [
+      "#lavoro",
+      "#passione",
+      "#confucio",
+      "#carriera",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906953+00:00"
+  },
+  {
+    "quote": "Un leader è uno che conosce la strada, la percorre e la mostra.",
+    "author": "John C. Maxwell",
+    "category": "leadership",
+    "caption": "Guidare con l'esempio. 🧭",
+    "hashtags": [
+      "#leadership",
+      "#esempio",
+      "#maxwell",
+      "#guida",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906956+00:00"
+  },
+  {
+    "quote": "La libertà non è fare ciò che si vuole, ma volere ciò che si fa.",
+    "author": "Jean-Paul Sartre",
+    "category": "libertà",
+    "caption": "La vera libertà è nella scelta consapevole. 🕊️",
+    "hashtags": [
+      "#libertà",
+      "#sartre",
+      "#scelta",
+      "#consapevolezza",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906959+00:00"
+  },
+  {
+    "quote": "Il viaggio più bello è quello che ti porta verso te stesso.",
+    "author": "Anonimo",
+    "category": "viaggio",
+    "caption": "Esplora il mondo e te stesso. 🧳",
+    "hashtags": [
+      "#viaggio",
+      "#scoperta",
+      "#crescita",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906962+00:00"
+  },
+  {
+    "quote": "La nostalgia è un modo di ricordare ciò che non tornerà.",
+    "author": "Anonimo",
+    "category": "nostalgia",
+    "caption": "Ricorda con dolcezza, guarda avanti con speranza. 🌈",
+    "hashtags": [
+      "#nostalgia",
+      "#ricordi",
+      "#passato",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906965+00:00"
+  },
+  {
+    "quote": "La speranza è il sogno di chi è sveglio.",
+    "author": "Aristotele",
+    "category": "speranza",
+    "caption": "Non smettere mai di sperare. 🌟",
+    "hashtags": [
+      "#speranza",
+      "#aristotele",
+      "#sogni",
+      "#positività",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906969+00:00"
+  },
+  {
+    "quote": "La delusione è il ponte tra l'aspettativa e la realtà.",
+    "author": "Anonimo",
+    "category": "delusione",
+    "caption": "A volte le aspettative vanno calibrate. 🌉",
+    "hashtags": [
+      "#delusione",
+      "#aspettative",
+      "#realtà",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906972+00:00"
+  },
+  {
+    "quote": "L'ironia è l'arte di dire le cose senza dirle.",
+    "author": "Anonimo",
+    "category": "ironia",
+    "caption": "Un sorriso intelligente. 😉",
+    "hashtags": [
+      "#ironia",
+      "#umorismo",
+      "#intelligenza",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906975+00:00"
+  },
+  {
+    "quote": "Penso, quindi sono.",
+    "author": "Cartesio",
+    "category": "filosofia",
+    "caption": "La base di ogni riflessione. 🤔",
+    "hashtags": [
+      "#filosofia",
+      "#cartesio",
+      "#pensiero",
+      "#esistenza",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906979+00:00"
+  },
+  {
+    "quote": "La semplicità è la massima sofisticazione.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "Meno è meglio. 🍃",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#davinci",
+      "#stile",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906982+00:00"
+  },
+  {
+    "quote": "La pace viene da dentro. Non cercarla fuori.",
+    "author": "Buddha",
+    "category": "pace",
+    "caption": "Trova la calma interiore. 🧘",
+    "hashtags": [
+      "#pace",
+      "#buddha",
+      "#interiorità",
+      "#calma",
+      "#citazioni"
+    ],
+    "generated_at": "2026-08-20T21:54:24.906985+00:00"
+  }
+]

@@ -3042,5 +3042,33 @@
       "#disciplina"
     ],
     "generated_at": "2026-09-10T15:29:46.445425+00:00"
+  },
+  {
+    "quote": "La vita è quello che ti accade mentre sei impegnato a fare altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "A volte i piani migliori sono quelli che non avevi previsto.",
+    "hashtags": [
+      "#vita",
+      "#JohnLennon",
+      "#imprevisti",
+      "#carpeDiem",
+      "#filosofia"
+    ],
+    "generated_at": "2026-09-11T02:04:30.435796+00:00"
+  },
+  {
+    "quote": "La felicità non è qualcosa di pronto. Viene dalle tue azioni.",
+    "author": "Dalai Lama",
+    "category": "felicità",
+    "caption": "Costruisci la tua felicità, un'azione alla volta.",
+    "hashtags": [
+      "#felicità",
+      "#DalaiLama",
+      "#azione",
+      "#benessere",
+      "#mindfulness"
+    ],
+    "generated_at": "2026-09-11T02:04:30.435828+00:00"
   }
 ]

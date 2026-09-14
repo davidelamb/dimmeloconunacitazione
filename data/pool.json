@@ -3632,5 +3632,425 @@
       "#citazioni"
     ],
     "generated_at": "2026-09-14T02:24:14.737771+00:00"
+  },
+  {
+    "quote": "L'uomo che non ha mai commesso un errore non ha mai provato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Sbagliare è il prezzo di provarci davvero.",
+    "hashtags": [
+      "#errori",
+      "#crescita",
+      "#coraggio",
+      "#fallireperimparare",
+      "#Einstein",
+      "#riprovare"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334330+00:00"
+  },
+  {
+    "quote": "La migliore vendetta è non essere come il tuo nemico.",
+    "author": "Marco Aurelio",
+    "category": "perdono",
+    "caption": "Non abbassarti al loro livello: è la vittoria più elegante.",
+    "hashtags": [
+      "#MarcoAurelio",
+      "#perdono",
+      "#filosofia",
+      "#stoicismo",
+      "#vendetta",
+      "#dignita"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334356+00:00"
+  },
+  {
+    "quote": "Diventa chi sei.",
+    "author": "Pindaro",
+    "category": "crescita personale",
+    "caption": "Non inventarti: scopriti.",
+    "hashtags": [
+      "#diventachisei",
+      "#Pindaro",
+      "#crescita",
+      "#identita",
+      "#filosofia",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334362+00:00"
+  },
+  {
+    "quote": "Chi ha un perché per vivere può sopportare quasi ogni come.",
+    "author": "Friedrich Nietzsche",
+    "category": "resilienza",
+    "caption": "Quando il senso è chiaro, il dolore diventa sopportabile.",
+    "hashtags": [
+      "#Nietzsche",
+      "#resilienza",
+      "#senso",
+      "#filosofia",
+      "#sopportare",
+      "#forza"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334367+00:00"
+  },
+  {
+    "quote": "Non è perché le cose sono difficili che non osiamo, è perché non osiamo che sono difficili.",
+    "author": "Seneca",
+    "category": "coraggio",
+    "caption": "La difficoltà spesso è solo una scusa travestita da paura.",
+    "hashtags": [
+      "#Seneca",
+      "#coraggio",
+      "#osare",
+      "#stoicismo",
+      "#paura",
+      "#filosofia"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334372+00:00"
+  },
+  {
+    "quote": "Tutto scorre.",
+    "author": "Eraclito",
+    "category": "cambiamento",
+    "caption": "Niente resta fermo, nemmeno tu.",
+    "hashtags": [
+      "#Eraclito",
+      "#cambiamento",
+      "#scorrere",
+      "#filosofia",
+      "#divenire",
+      "#impermanenza"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334376+00:00"
+  },
+  {
+    "quote": "La conoscenza di sé è l'inizio di ogni saggezza.",
+    "author": "Aristotele",
+    "category": "consapevolezza",
+    "caption": "Prima di capire il mondo, prova a capire te.",
+    "hashtags": [
+      "#Aristotele",
+      "#conoscenzadise",
+      "#saggezza",
+      "#consapevolezza",
+      "#filosofia",
+      "#introspezione"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334380+00:00"
+  },
+  {
+    "quote": "Sono grato a chi mi ha detto no. Mi ha insegnato a fare da solo.",
+    "author": "Albert Einstein",
+    "category": "gratitudine",
+    "caption": "Anche i no, col tempo, diventano maestri.",
+    "hashtags": [
+      "#gratitudine",
+      "#Einstein",
+      "#no",
+      "#autonomia",
+      "#crescita",
+      "#ringraziare"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334384+00:00"
+  },
+  {
+    "quote": "La libertà è il diritto di dire no.",
+    "author": "Nicolás Gómez Dávila",
+    "category": "libertà",
+    "caption": "Essere liberi significa poter rifiutare.",
+    "hashtags": [
+      "#libertà",
+      "#direno",
+      "#GomezDavila",
+      "#filosofia",
+      "#autonomia",
+      "#scelta"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334391+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più pericoloso di un'idea quando è l'unica che hai.",
+    "author": "Alain Besançon",
+    "category": "filosofia",
+    "caption": "Le certezze uniche sono le più fragili.",
+    "hashtags": [
+      "#filosofia",
+      "#idee",
+      "#dubbio",
+      "#pensiero",
+      "#Besancon",
+      "#apertura"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334395+00:00"
+  },
+  {
+    "quote": "Il tempo guarisce quasi tutto, ma non restituisce nulla.",
+    "author": "Anonimo",
+    "category": "tempo",
+    "caption": "Il tempo passa, ma non torna indietro.",
+    "hashtags": [
+      "#tempo",
+      "#guarigione",
+      "#passato",
+      "#presente",
+      "#vita",
+      "#ricordi"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334400+00:00"
+  },
+  {
+    "quote": "La solitudine è il prezzo che paghi per essere te stesso.",
+    "author": "Anonimo",
+    "category": "solitudine",
+    "caption": "A volte stare soli è il prezzo dell'autenticità.",
+    "hashtags": [
+      "#solitudine",
+      "#autenticita",
+      "#essere",
+      "#coraggio",
+      "#silenzio",
+      "#se"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334407+00:00"
+  },
+  {
+    "quote": "La pazienza è il miglior rimedio per ogni dolore.",
+    "author": "Plauto",
+    "category": "pazienza",
+    "caption": "Il tempo e la calma aggiustano più di quanto credi.",
+    "hashtags": [
+      "#pazienza",
+      "#Plauto",
+      "#dolore",
+      "#calma",
+      "#tempo",
+      "#rimedio"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334411+00:00"
+  },
+  {
+    "quote": "Non è la forza, ma la costanza che compie grandi opere.",
+    "author": "Samuel Johnson",
+    "category": "disciplina",
+    "caption": "La costanza batte il talento quando il talento non insiste.",
+    "hashtags": [
+      "#costanza",
+      "#disciplina",
+      "#SamuelJohnson",
+      "#impegno",
+      "#obiettivi",
+      "#determinazione"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334416+00:00"
+  },
+  {
+    "quote": "La felicità non è un traguardo, è un modo di viaggiare.",
+    "author": "Anonimo",
+    "category": "felicità",
+    "caption": "Non aspettare di arrivare per essere felice.",
+    "hashtags": [
+      "#felicita",
+      "#viaggio",
+      "#presente",
+      "#gioia",
+      "#vita",
+      "#attitudine"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334420+00:00"
+  },
+  {
+    "quote": "Un sogno scritto con una data diventa un obiettivo.",
+    "author": "Greg Reid",
+    "category": "sogni",
+    "caption": "Dai un calendario ai tuoi sogni: diventano progetti.",
+    "hashtags": [
+      "#sogni",
+      "#obiettivi",
+      "#GregReid",
+      "#pianificare",
+      "#motivazione",
+      "#futuro"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334424+00:00"
+  },
+  {
+    "quote": "La leadership è servizio, non potere.",
+    "author": "Anonimo",
+    "category": "leadership",
+    "caption": "Guidare significa mettersi al servizio degli altri.",
+    "hashtags": [
+      "#leadership",
+      "#servizio",
+      "#guidare",
+      "#esempio",
+      "#squadra",
+      "#umilta"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334428+00:00"
+  },
+  {
+    "quote": "L'ambizione senza azione è solo un sogno a occhi aperti.",
+    "author": "Anonimo",
+    "category": "ambizione",
+    "caption": "Sognare in grande va bene, ma poi bisogna muoversi.",
+    "hashtags": [
+      "#ambizione",
+      "#azione",
+      "#sogni",
+      "#fare",
+      "#motivazione",
+      "#obiettivi"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334433+00:00"
+  },
+  {
+    "quote": "La giovinezza non è un periodo della vita, è uno stato d'animo.",
+    "author": "Anonimo",
+    "category": "giovinezza",
+    "caption": "Si può essere giovani anche a ottant'anni.",
+    "hashtags": [
+      "#giovinezza",
+      "#statoanimo",
+      "#energia",
+      "#vita",
+      "#entusiasmo",
+      "#eta"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334437+00:00"
+  },
+  {
+    "quote": "La maturità non è quando parli di grandi cose, ma quando capisci le piccole.",
+    "author": "Anonimo",
+    "category": "maturità",
+    "caption": "Crescere è accorgersi dei dettagli.",
+    "hashtags": [
+      "#maturita",
+      "#piccolecose",
+      "#crescita",
+      "#saggezza",
+      "#vita",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334441+00:00"
+  },
+  {
+    "quote": "La speranza è l'unica cosa che non si può comprare, ma si può coltivare.",
+    "author": "Anonimo",
+    "category": "speranza",
+    "caption": "Coltiva la speranza come un giardino.",
+    "hashtags": [
+      "#speranza",
+      "#coltivare",
+      "#futuro",
+      "#luce",
+      "#fiducia",
+      "#domani"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334446+00:00"
+  },
+  {
+    "quote": "La delusione è il prezzo che paghi per aver creduto in qualcuno.",
+    "author": "Anonimo",
+    "category": "delusione",
+    "caption": "Fidarsi ha un costo, ma ne vale comunque la pena.",
+    "hashtags": [
+      "#delusione",
+      "#fiducia",
+      "#aspettative",
+      "#realtà",
+      "#cuore",
+      "#crescere"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334452+00:00"
+  },
+  {
+    "quote": "L'ironia è l'ultimo rifugio di chi ha capito tutto.",
+    "author": "Anonimo",
+    "category": "ironia",
+    "caption": "Sorridere quando capisci è una forma di saggezza.",
+    "hashtags": [
+      "#ironia",
+      "#saggezza",
+      "#sorriso",
+      "#disincanto",
+      "#intelligenza",
+      "#vita"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334456+00:00"
+  },
+  {
+    "quote": "Il minimalismo è togliere il superfluo per vedere l'essenziale.",
+    "author": "Anonimo",
+    "category": "minimalismo",
+    "caption": "Meno cose, più spazio per ciò che conta.",
+    "hashtags": [
+      "#minimalismo",
+      "#essenziale",
+      "#semplicita",
+      "#spazio",
+      "#meno",
+      "#vita"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334461+00:00"
+  },
+  {
+    "quote": "La pace non è assenza di conflitto, è presenza di giustizia.",
+    "author": "Martin Luther King Jr.",
+    "category": "pace",
+    "caption": "La vera pace si costruisce con la giustizia.",
+    "hashtags": [
+      "#pace",
+      "#giustizia",
+      "#MartinLutherKing",
+      "#diritti",
+      "#uguaglianza",
+      "#nonviolenza"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334465+00:00"
+  },
+  {
+    "quote": "Lo sport non costruisce il carattere, lo rivela.",
+    "author": "Heywood Broun",
+    "category": "sport",
+    "caption": "Il campo da gioco mostra chi sei davvero.",
+    "hashtags": [
+      "#sport",
+      "#carattere",
+      "#HeywoodBroun",
+      "#agonismo",
+      "#crescita",
+      "#disciplina"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334469+00:00"
+  },
+  {
+    "quote": "La vera libertà è padroneggiare se stessi.",
+    "author": "Epitteto",
+    "category": "libertà",
+    "caption": "Libero è chi sa governare le proprie passioni.",
+    "hashtags": [
+      "#libertà",
+      "#Epitteto",
+      "#stoicismo",
+      "#autocontrollo",
+      "#filosofia",
+      "#padronanzadise"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334473+00:00"
+  },
+  {
+    "quote": "Il destino guida chi lo segue, trascina chi resiste.",
+    "author": "Cleante",
+    "category": "destino",
+    "caption": "Accettare ciò che non puoi cambiare è già una forma di forza.",
+    "hashtags": [
+      "#destino",
+      "#Cleante",
+      "#stoicismo",
+      "#accettazione",
+      "#filosofia",
+      "#forza"
+    ],
+    "generated_at": "2026-09-14T17:15:16.334477+00:00"
   }
 ]

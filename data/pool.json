@@ -1,103 +1,5 @@
 [
   {
-    "quote": "La vita è ciò che ti accade mentre sei occupato a fare altri progetti.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "A volte il presente è più importante dei piani. 🍃",
-    "hashtags": [
-      "#vita",
-      "#presente",
-      "#vivere",
-      "#citazioni",
-      "#lennon"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906877+00:00"
-  },
-  {
-    "quote": "Non smettere mai di sognare, perché chi smette di sognare smette di vivere.",
-    "author": "Walt Disney",
-    "category": "sogni",
-    "caption": "I sogni sono il carburante dell'anima. ✨",
-    "hashtags": [
-      "#sogni",
-      "#speranza",
-      "#disney",
-      "#motivazione",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906883+00:00"
-  },
-  {
-    "quote": "La disciplina è il ponte tra i tuoi obiettivi e i tuoi risultati.",
-    "author": "Jim Rohn",
-    "category": "disciplina",
-    "caption": "Costruisci il tuo ponte ogni giorno. 🌉",
-    "hashtags": [
-      "#disciplina",
-      "#obiettivi",
-      "#costanza",
-      "#motivazione",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906886+00:00"
-  },
-  {
-    "quote": "Il coraggio non è l'assenza di paura, ma la capacità di vincere la paura.",
-    "author": "Nelson Mandela",
-    "category": "coraggio",
-    "caption": "La paura è normale, il coraggio è una scelta. 🦁",
-    "hashtags": [
-      "#coraggio",
-      "#paura",
-      "#forza",
-      "#mandela",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906890+00:00"
-  },
-  {
-    "quote": "Il successo è la somma di piccoli sforzi ripetuti giorno dopo giorno.",
-    "author": "Robert Collier",
-    "category": "successo",
-    "caption": "La costanza batte il talento. 📈",
-    "hashtags": [
-      "#successo",
-      "#costanza",
-      "#lavoro",
-      "#impegno",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906895+00:00"
-  },
-  {
-    "quote": "Il fallimento è una grande opportunità per ricominciare con più intelligenza.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Ogni caduta è un passo verso la saggezza. 🧠",
-    "hashtags": [
-      "#fallimento",
-      "#crescita",
-      "#ricominciare",
-      "#ford",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906899+00:00"
-  },
-  {
-    "quote": "La resilienza è accettare la tua nuova realtà, anche se è meno buona di quella che avevi.",
-    "author": "Elizabeth Edwards",
-    "category": "resilienza",
-    "caption": "Adattarsi è la chiave per andare avanti. 🌱",
-    "hashtags": [
-      "#resilienza",
-      "#adattamento",
-      "#forza",
-      "#vita",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906902+00:00"
-  },
-  {
     "quote": "Il segreto del cambiamento è concentrare tutta la tua energia non sul combattere il vecchio, ma sul costruire il nuovo.",
     "author": "Socrate",
     "category": "cambiamento",
@@ -7181,5 +7083,110 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-09-24T02:15:03.161009+00:00"
+  },
+  {
+    "quote": "L'unica gioia al mondo è cominciare. È bello vivere perché vivere è cominciare, sempre, a ogni istante.",
+    "author": "Cesare Pavese",
+    "category": "vita",
+    "caption": "Ogni giorno è una pagina bianca: inizia a scrivere la tua storia.",
+    "hashtags": [
+      "#vita",
+      "#nuoviinizi",
+      "#citazioni",
+      "#pavese",
+      "#rinascita",
+      "#attimo"
+    ],
+    "generated_at": "2026-09-24T16:08:43.691276+00:00"
+  },
+  {
+    "quote": "La buona educazione consiste nel nascondere il bene che pensiamo di noi e il male che pensiamo degli altri.",
+    "author": "Mark Twain",
+    "category": "ironia",
+    "caption": "L'ironia è l'arte di dire la verità con un sorriso.",
+    "hashtags": [
+      "#ironia",
+      "#marktwain",
+      "#sarcasmo",
+      "#citazioni",
+      "#buonaeducazione",
+      "#verità"
+    ],
+    "generated_at": "2026-09-24T16:08:43.691314+00:00"
+  },
+  {
+    "quote": "La disciplina è la più alta forma di amore per se stessi.",
+    "author": "Anonimo",
+    "category": "disciplina",
+    "caption": "Amarsi significa anche darsi delle regole e rispettarle.",
+    "hashtags": [
+      "#disciplina",
+      "#amoreproprio",
+      "#crescita",
+      "#citazioni",
+      "#motivazione",
+      "#selflove"
+    ],
+    "generated_at": "2026-09-24T16:08:43.691321+00:00"
+  },
+  {
+    "quote": "La felicità non è una stazione alla quale arrivare, ma un modo di viaggiare.",
+    "author": "Margaret Lee Runbeck",
+    "category": "felicità",
+    "caption": "Non cercare la felicità alla meta: è già nel tragitto.",
+    "hashtags": [
+      "#felicità",
+      "#viaggio",
+      "#citazioni",
+      "#mindfulness",
+      "#gioia",
+      "#presente"
+    ],
+    "generated_at": "2026-09-24T16:08:43.691328+00:00"
+  },
+  {
+    "quote": "L'amicizia è il rifugio di chi non ha casa.",
+    "author": "Aristotele",
+    "category": "amicizia",
+    "caption": "Un amico è la casa che porti sempre con te.",
+    "hashtags": [
+      "#amicizia",
+      "#aristotele",
+      "#citazioni",
+      "#amici",
+      "#rifugio",
+      "#legami"
+    ],
+    "generated_at": "2026-09-24T16:08:43.691334+00:00"
+  },
+  {
+    "quote": "La famiglia è il luogo dove impariamo ad amare, a perdonare e a crescere.",
+    "author": "Madre Teresa di Calcutta",
+    "category": "famiglia",
+    "caption": "La famiglia è la palestra dell'amore.",
+    "hashtags": [
+      "#famiglia",
+      "#madreteresa",
+      "#citazioni",
+      "#amore",
+      "#crescita",
+      "#perdono"
+    ],
+    "generated_at": "2026-09-24T16:08:43.691338+00:00"
+  },
+  {
+    "quote": "La forza non è nel non cadere mai, ma nel rialzarsi ogni volta.",
+    "author": "Confucio",
+    "category": "forza",
+    "caption": "La vera forza è nella resilienza.",
+    "hashtags": [
+      "#forza",
+      "#confucio",
+      "#citazioni",
+      "#rialzarsi",
+      "#resilienza",
+      "#coraggio"
+    ],
+    "generated_at": "2026-09-24T16:08:43.691358+00:00"
   }
 ]

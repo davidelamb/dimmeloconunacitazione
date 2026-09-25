@@ -1,33 +1,5 @@
 [
   {
-    "quote": "Il segreto del cambiamento è concentrare tutta la tua energia non sul combattere il vecchio, ma sul costruire il nuovo.",
-    "author": "Socrate",
-    "category": "cambiamento",
-    "caption": "Costruisci il nuovo, lascia andare il vecchio. 🏗️",
-    "hashtags": [
-      "#cambiamento",
-      "#crescita",
-      "#socrate",
-      "#nuoviinizi",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906905+00:00"
-  },
-  {
-    "quote": "Non puoi cambiare il vento, ma puoi regolare le vele.",
-    "author": "Jim Rohn",
-    "category": "crescita personale",
-    "caption": "Adattati e naviga verso i tuoi sogni. ⛵",
-    "hashtags": [
-      "#crescitapersonale",
-      "#adattamento",
-      "#jimrohn",
-      "#vita",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906908+00:00"
-  },
-  {
     "quote": "Credi in te stesso e tutto sarà possibile.",
     "author": "Napoleon Hill",
     "category": "autostima",
@@ -7188,5 +7160,35 @@
       "#coraggio"
     ],
     "generated_at": "2026-09-24T16:08:43.691358+00:00"
+  },
+  {
+    "quote": "La semplicità è l'ultima sofisticazione.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "A volte meno è davvero più. La vera eleganza sta nella semplicità.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#essenziale",
+      "#leonardodavinci",
+      "#stiledivita",
+      "#menoèpiù"
+    ],
+    "generated_at": "2026-09-25T02:31:56.497465+00:00"
+  },
+  {
+    "quote": "La resilienza è la capacità di rialzarsi dopo ogni caduta.",
+    "author": "Confucio",
+    "category": "resilienza",
+    "caption": "Cadere è umano, rialzarsi è divino. La resilienza è la nostra forza.",
+    "hashtags": [
+      "#resilienza",
+      "#rialzarsi",
+      "#forza",
+      "#confucio",
+      "#cadute",
+      "#ripartire"
+    ],
+    "generated_at": "2026-09-25T02:31:56.497494+00:00"
   }
 ]

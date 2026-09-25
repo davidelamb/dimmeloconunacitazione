@@ -1,223 +1,5 @@
 [
   {
-    "quote": "Credi in te stesso e tutto sarà possibile.",
-    "author": "Napoleon Hill",
-    "category": "autostima",
-    "caption": "La fiducia in te è il primo passo. 💪",
-    "hashtags": [
-      "#autostima",
-      "#fiducia",
-      "#napoleonhill",
-      "#motivazione",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906918+00:00"
-  },
-  {
-    "quote": "La felicità non è qualcosa di pronto. Viene dalle tue stesse azioni.",
-    "author": "Dalai Lama",
-    "category": "felicità",
-    "caption": "Costruisci la tua felicità ogni giorno. 😊",
-    "hashtags": [
-      "#felicità",
-      "#azione",
-      "#dalailama",
-      "#vita",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906923+00:00"
-  },
-  {
-    "quote": "La gratitudine trasforma ciò che abbiamo in abbastanza.",
-    "author": "Anonimo",
-    "category": "gratitudine",
-    "caption": "Apprezza ciò che hai, e avrai di più. 🙏",
-    "hashtags": [
-      "#gratitudine",
-      "#abbondanza",
-      "#ringraziamento",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906928+00:00"
-  },
-  {
-    "quote": "L'amicizia non è una grande cosa, ma è un milione di piccole cose.",
-    "author": "Paulo Coelho",
-    "category": "amicizia",
-    "caption": "Le piccole attenzioni fanno la differenza. 💛",
-    "hashtags": [
-      "#amicizia",
-      "#paolocoelho",
-      "#piccolecose",
-      "#relazioni",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906932+00:00"
-  },
-  {
-    "quote": "La famiglia non è un luogo, è un sentimento.",
-    "author": "Anonimo",
-    "category": "famiglia",
-    "caption": "La famiglia è dove ti senti a casa. 🏡",
-    "hashtags": [
-      "#famiglia",
-      "#casa",
-      "#amore",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906935+00:00"
-  },
-  {
-    "quote": "La solitudine è la condizione di chi non si incontra mai.",
-    "author": "Cesare Pavese",
-    "category": "solitudine",
-    "caption": "Essere soli non è sempre una scelta, ma può essere un'opportunità. 🌒",
-    "hashtags": [
-      "#solitudine",
-      "#pavese",
-      "#introspezione",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906938+00:00"
-  },
-  {
-    "quote": "Il tempo è la cosa più preziosa che un uomo possa spendere.",
-    "author": "Teofrasto",
-    "category": "tempo",
-    "caption": "Usa il tuo tempo con saggezza. ⏳",
-    "hashtags": [
-      "#tempo",
-      "#saggezza",
-      "#teofrasto",
-      "#vita",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906941+00:00"
-  },
-  {
-    "quote": "La pazienza è amara, ma il suo frutto è dolce.",
-    "author": "Jean-Jacques Rousseau",
-    "category": "pazienza",
-    "caption": "Aspetta, e il dolce arriverà. 🍯",
-    "hashtags": [
-      "#pazienza",
-      "#rousseau",
-      "#attesa",
-      "#frutti",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906946+00:00"
-  },
-  {
-    "quote": "I sogni sono i progetti della vita.",
-    "author": "Ralph Waldo Emerson",
-    "category": "ambizione",
-    "caption": "Sogna in grande, agisci in grande. 🌠",
-    "hashtags": [
-      "#ambizione",
-      "#sogni",
-      "#emerson",
-      "#progetti",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906949+00:00"
-  },
-  {
-    "quote": "Scegli un lavoro che ami e non lavorerai mai un giorno in vita tua.",
-    "author": "Confucio",
-    "category": "lavoro",
-    "caption": "Trasforma la passione in professione. 💼",
-    "hashtags": [
-      "#lavoro",
-      "#passione",
-      "#confucio",
-      "#carriera",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906953+00:00"
-  },
-  {
-    "quote": "Un leader è uno che conosce la strada, la percorre e la mostra.",
-    "author": "John C. Maxwell",
-    "category": "leadership",
-    "caption": "Guidare con l'esempio. 🧭",
-    "hashtags": [
-      "#leadership",
-      "#esempio",
-      "#maxwell",
-      "#guida",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906956+00:00"
-  },
-  {
-    "quote": "La libertà non è fare ciò che si vuole, ma volere ciò che si fa.",
-    "author": "Jean-Paul Sartre",
-    "category": "libertà",
-    "caption": "La vera libertà è nella scelta consapevole. 🕊️",
-    "hashtags": [
-      "#libertà",
-      "#sartre",
-      "#scelta",
-      "#consapevolezza",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906959+00:00"
-  },
-  {
-    "quote": "Il viaggio più bello è quello che ti porta verso te stesso.",
-    "author": "Anonimo",
-    "category": "viaggio",
-    "caption": "Esplora il mondo e te stesso. 🧳",
-    "hashtags": [
-      "#viaggio",
-      "#scoperta",
-      "#crescita",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906962+00:00"
-  },
-  {
-    "quote": "La nostalgia è un modo di ricordare ciò che non tornerà.",
-    "author": "Anonimo",
-    "category": "nostalgia",
-    "caption": "Ricorda con dolcezza, guarda avanti con speranza. 🌈",
-    "hashtags": [
-      "#nostalgia",
-      "#ricordi",
-      "#passato",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906965+00:00"
-  },
-  {
-    "quote": "La speranza è il sogno di chi è sveglio.",
-    "author": "Aristotele",
-    "category": "speranza",
-    "caption": "Non smettere mai di sperare. 🌟",
-    "hashtags": [
-      "#speranza",
-      "#aristotele",
-      "#sogni",
-      "#positività",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906969+00:00"
-  },
-  {
-    "quote": "La delusione è il ponte tra l'aspettativa e la realtà.",
-    "author": "Anonimo",
-    "category": "delusione",
-    "caption": "A volte le aspettative vanno calibrate. 🌉",
-    "hashtags": [
-      "#delusione",
-      "#aspettative",
-      "#realtà",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906972+00:00"
-  },
-  {
     "quote": "L'ironia è l'arte di dire le cose senza dirle.",
     "author": "Anonimo",
     "category": "ironia",
@@ -7190,5 +6972,229 @@
       "#ripartire"
     ],
     "generated_at": "2026-09-25T02:31:56.497494+00:00"
+  },
+  {
+    "quote": "Nessun uomo è abbastanza ricco da comprare il proprio passato.",
+    "author": "Oscar Wilde",
+    "category": "nostalgia",
+    "caption": "Il passato non si compra, ma si porta dentro. A volte pesa, a volte scalda.",
+    "hashtags": [
+      "#nostalgia",
+      "#oscarwilde",
+      "#passato",
+      "#ricordi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653869+00:00"
+  },
+  {
+    "quote": "Tutti i grandi cambiamenti sono preceduti da un caos interiore.",
+    "author": "Carl Gustav Jung",
+    "category": "cambiamento",
+    "caption": "Prima di diventare qualcun altro, spesso ti senti a pezzi. È normale: stai rinascendo.",
+    "hashtags": [
+      "#cambiamento",
+      "#jung",
+      "#rinascita",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653896+00:00"
+  },
+  {
+    "quote": "Ciò che non affrontiamo dentro di noi finirà per accadere fuori di noi.",
+    "author": "Carl Gustav Jung",
+    "category": "consapevolezza",
+    "caption": "Le cose che evitiamo non spariscono: si trasferiscono nella nostra vita.",
+    "hashtags": [
+      "#consapevolezza",
+      "#jung",
+      "#psicologia",
+      "#dentro",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653903+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di cui aver paura tranne la paura stessa.",
+    "author": "Franklin D. Roosevelt",
+    "category": "coraggio",
+    "caption": "A volte l'unico ostacolo tra te e la vita che vuoi è la paura di viverla.",
+    "hashtags": [
+      "#coraggio",
+      "#roosevelt",
+      "#paura",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653909+00:00"
+  },
+  {
+    "quote": "La creatività è l'intelligenza che si diverte.",
+    "author": "Albert Einstein",
+    "category": "crescita personale",
+    "caption": "Non prenderti troppo sul serio: le idee migliori arrivano quando giochi.",
+    "hashtags": [
+      "#creativita",
+      "#einstein",
+      "#crescita",
+      "#idee",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653919+00:00"
+  },
+  {
+    "quote": "Ogni nostro problema è in gran parte un problema di comunicazione.",
+    "author": "Paul Watzlawick",
+    "category": "relazioni",
+    "caption": "Spesso non litighiamo per ciò che diciamo, ma per ciò che non riusciamo a dirci.",
+    "hashtags": [
+      "#relazioni",
+      "#comunicazione",
+      "#watzlawick",
+      "#ascolto",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653928+00:00"
+  },
+  {
+    "quote": "Non importa quanto vai piano, l'importante è non tornare indietro.",
+    "author": "Confucio",
+    "category": "resilienza",
+    "caption": "Anche un passo lento è un passo avanti. L'unica sconfitta è fermarsi.",
+    "hashtags": [
+      "#resilienza",
+      "#confucio",
+      "#passi",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653934+00:00"
+  },
+  {
+    "quote": "Chi non ha mai commesso un errore, non ha mai provato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Sbagliare è il pedaggio che paghi per imparare qualcosa che non sapevi.",
+    "hashtags": [
+      "#fallimento",
+      "#einstein",
+      "#errori",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653939+00:00"
+  },
+  {
+    "quote": "L'uomo che non legge non ha alcun vantaggio sull'uomo che non sa leggere.",
+    "author": "Mark Twain",
+    "category": "crescita personale",
+    "caption": "Leggere è il modo più economico per cambiare vita.",
+    "hashtags": [
+      "#lettura",
+      "#marktwain",
+      "#crescita",
+      "#libri",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653946+00:00"
+  },
+  {
+    "quote": "Fai attenzione ai tuoi pensieri: diventeranno parole.",
+    "author": "Lao Tzu",
+    "category": "consapevolezza",
+    "caption": "Tutto comincia da una piccola cosa che pensi. Scegli bene.",
+    "hashtags": [
+      "#consapevolezza",
+      "#laotzu",
+      "#pensieri",
+      "#mente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653952+00:00"
+  },
+  {
+    "quote": "La cosa più bella che possiamo sperimentare è il mistero.",
+    "author": "Albert Einstein",
+    "category": "filosofia",
+    "caption": "Non sapere tutto non è un difetto: è l'inizio della meraviglia.",
+    "hashtags": [
+      "#filosofia",
+      "#einstein",
+      "#mistero",
+      "#stupore",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653960+00:00"
+  },
+  {
+    "quote": "La musica è la forma più alta di comunicazione.",
+    "author": "Ludwig van Beethoven",
+    "category": "pace",
+    "caption": "Quando le parole non bastano, c'è sempre una melodia che parla per te.",
+    "hashtags": [
+      "#musica",
+      "#beethoven",
+      "#pace",
+      "#emozioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653965+00:00"
+  },
+  {
+    "quote": "Il miglior modo per predire il futuro è inventarlo.",
+    "author": "Alan Kay",
+    "category": "ambizione",
+    "caption": "Non aspettare che le cose cambino: scrivile tu, la tua storia.",
+    "hashtags": [
+      "#ambizione",
+      "#alankay",
+      "#futuro",
+      "#innovazione",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653971+00:00"
+  },
+  {
+    "quote": "Il tempo è ciò che impedisce che tutto accada contemporaneamente.",
+    "author": "John Archibald Wheeler",
+    "category": "tempo",
+    "caption": "Ogni cosa ha il suo momento. Forse anche la tua.",
+    "hashtags": [
+      "#tempo",
+      "#wheeler",
+      "#momenti",
+      "#attesa",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653977+00:00"
+  },
+  {
+    "quote": "Non sono le cose che ci accadono a turbarci, ma il nostro giudizio su di esse.",
+    "author": "Epitteto",
+    "category": "filosofia",
+    "caption": "Il fatto è neutro. È il modo in cui lo racconti a decidere come stai.",
+    "hashtags": [
+      "#filosofia",
+      "#epitteto",
+      "#stoicismo",
+      "#mente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653985+00:00"
+  },
+  {
+    "quote": "Non possiamo risolvere i problemi con lo stesso modo di pensare che li ha creati.",
+    "author": "Albert Einstein",
+    "category": "cambiamento",
+    "caption": "A volte la soluzione non è fare di più: è pensare diversamente.",
+    "hashtags": [
+      "#cambiamento",
+      "#einstein",
+      "#pensiero",
+      "#soluzioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-25T16:09:09.653991+00:00"
   }
 ]

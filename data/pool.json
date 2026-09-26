@@ -1,172 +1,5 @@
 [
   {
-    "quote": "L'ironia è l'arte di dire le cose senza dirle.",
-    "author": "Anonimo",
-    "category": "ironia",
-    "caption": "Un sorriso intelligente. 😉",
-    "hashtags": [
-      "#ironia",
-      "#umorismo",
-      "#intelligenza",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906975+00:00"
-  },
-  {
-    "quote": "Penso, quindi sono.",
-    "author": "Cartesio",
-    "category": "filosofia",
-    "caption": "La base di ogni riflessione. 🤔",
-    "hashtags": [
-      "#filosofia",
-      "#cartesio",
-      "#pensiero",
-      "#esistenza",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906979+00:00"
-  },
-  {
-    "quote": "La semplicità è la massima sofisticazione.",
-    "author": "Leonardo da Vinci",
-    "category": "minimalismo",
-    "caption": "Meno è meglio. 🍃",
-    "hashtags": [
-      "#minimalismo",
-      "#semplicità",
-      "#davinci",
-      "#stile",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906982+00:00"
-  },
-  {
-    "quote": "La pace viene da dentro. Non cercarla fuori.",
-    "author": "Buddha",
-    "category": "pace",
-    "caption": "Trova la calma interiore. 🧘",
-    "hashtags": [
-      "#pace",
-      "#buddha",
-      "#interiorità",
-      "#calma",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-20T21:54:24.906985+00:00"
-  },
-  {
-    "quote": "L'amore è composto da un'anima che abita in due corpi.",
-    "author": "Aristotele",
-    "category": "amore",
-    "caption": "Quando due diventano uno, ma restano due. 💞",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#animegemelle",
-      "#amorevero",
-      "#frasi"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370834+00:00"
-  },
-  {
-    "quote": "La vita è quello che ti costruisci da solo.",
-    "author": "Cesare Pavese",
-    "category": "vita",
-    "caption": "Ogni giorno è una tela bianca. Dipingi la tua vita. 🎨",
-    "hashtags": [
-      "#vita",
-      "#citazioni",
-      "#crescitapersonale",
-      "#viveremeglio",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370859+00:00"
-  },
-  {
-    "quote": "Non aspettare il momento perfetto, prendi il momento e rendilo perfetto.",
-    "author": "Zoey Sayward",
-    "category": "motivazione",
-    "caption": "Il momento perfetto sei tu che lo crei. ✨",
-    "hashtags": [
-      "#motivazione",
-      "#azione",
-      "#momento",
-      "#cambia",
-      "#forza"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370865+00:00"
-  },
-  {
-    "quote": "La disciplina è l'anima di un esercito. Essa rende formidabili i pochi, insignificanti i molti.",
-    "author": "George Washington",
-    "category": "disciplina",
-    "caption": "La disciplina non è limitazione, è potenza. 💪",
-    "hashtags": [
-      "#disciplina",
-      "#esercito",
-      "#potenza",
-      "#costanza",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370871+00:00"
-  },
-  {
-    "quote": "Il coraggio è la virtù che garantisce tutte le altre.",
-    "author": "Winston Churchill",
-    "category": "coraggio",
-    "caption": "Senza coraggio, niente di grande accade. 🦁",
-    "hashtags": [
-      "#coraggio",
-      "#virtù",
-      "#grandezza",
-      "#sfide",
-      "#audacia"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370879+00:00"
-  },
-  {
-    "quote": "Il successo è la capacità di andare da un fallimento all'altro senza perdere l'entusiasmo.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "L'entusiasmo è il motore del successo. 🔥",
-    "hashtags": [
-      "#successo",
-      "#entusiasmo",
-      "#fallimento",
-      "#perseveranza",
-      "#vincere"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370883+00:00"
-  },
-  {
-    "quote": "Il fallimento è l'opportunità di ricominciare in modo più intelligente.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Ogni errore è un passo avanti mascherato. 🚀",
-    "hashtags": [
-      "#fallimento",
-      "#ricominciare",
-      "#intelligenza",
-      "#crescita",
-      "#errori"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370888+00:00"
-  },
-  {
-    "quote": "La resilienza non è rimbalzare, è imparare a cadere con grazia.",
-    "author": "Sconosciuto",
-    "category": "resilienza",
-    "caption": "Cadere è inevitabile, rialzarsi è una scelta. 🌱",
-    "hashtags": [
-      "#resilienza",
-      "#grazia",
-      "#caduta",
-      "#forza",
-      "#rinascita"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370893+00:00"
-  },
-  {
     "quote": "Il cambiamento è la legge della vita. E chi guarda solo al passato o al presente è certo di perdere il futuro.",
     "author": "John F. Kennedy",
     "category": "cambiamento",
@@ -7196,5 +7029,185 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-09-25T16:09:09.653991+00:00"
+  },
+  {
+    "quote": "La morte non è nulla, ma vivere senza aver lasciato un segno è peggio.",
+    "author": "Ernesto Che Guevara",
+    "category": "vita",
+    "caption": "Non conta quanto vivi, ma quanto lasci di te negli altri.",
+    "hashtags": [
+      "#vita",
+      "#lasciareilsegno",
+      "#coraggio",
+      "#cheguevara",
+      "#passione",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543586+00:00"
+  },
+  {
+    "quote": "Non piangere perché è finita, sorridi perché è accaduto.",
+    "author": "Gabriel García Márquez",
+    "category": "nostalgia",
+    "caption": "La nostalgia non è rimpianto: è gratitudine per ciò che abbiamo vissuto.",
+    "hashtags": [
+      "#nostalgia",
+      "#gratitudine",
+      "#ricordi",
+      "#marquez",
+      "#sorridi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543618+00:00"
+  },
+  {
+    "quote": "Il successo è andare da un fallimento all'altro senza perdere l'entusiasmo.",
+    "author": "Winston Churchill",
+    "category": "successo",
+    "caption": "Il segreto non è non sbagliare, è non smettere di crederci.",
+    "hashtags": [
+      "#successo",
+      "#fallimento",
+      "#entusiasmo",
+      "#churchill",
+      "#resilienza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543628+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte di un cuore che ha imparato a battere da solo.",
+    "author": "Frida Kahlo",
+    "category": "solitudine",
+    "caption": "Imparare a stare bene da soli è la più grande forma di libertà.",
+    "hashtags": [
+      "#solitudine",
+      "#forza",
+      "#fridakahlo",
+      "#indipendenza",
+      "#cuore",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543632+00:00"
+  },
+  {
+    "quote": "Chi non legge non ha vantaggi su chi non sa leggere.",
+    "author": "Mark Twain",
+    "category": "consapevolezza",
+    "caption": "Leggere è la palestra silenziosa della mente.",
+    "hashtags": [
+      "#lettura",
+      "#consapevolezza",
+      "#marktwain",
+      "#libri",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543637+00:00"
+  },
+  {
+    "quote": "La libertà è sempre la libertà di chi pensa diversamente.",
+    "author": "Rosa Luxemburg",
+    "category": "libertà",
+    "caption": "La vera libertà si misura da quanto spazio dai a chi non la pensa come te.",
+    "hashtags": [
+      "#libertà",
+      "#pensiero",
+      "#rosaluxemburg",
+      "#diritti",
+      "#rispetto",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543647+00:00"
+  },
+  {
+    "quote": "Non c'è amicizia senza fiducia, e non c'è fiducia senza verità.",
+    "author": "Cicerone",
+    "category": "amicizia",
+    "caption": "Un amico vero è quello a cui puoi dire la verità senza paura.",
+    "hashtags": [
+      "#amicizia",
+      "#fiducia",
+      "#verità",
+      "#cicero",
+      "#relazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543651+00:00"
+  },
+  {
+    "quote": "Il tempo è il più saggio dei consiglieri.",
+    "author": "Plutarco",
+    "category": "tempo",
+    "caption": "Quando non sai cosa fare, aspetta: il tempo ha sempre una risposta.",
+    "hashtags": [
+      "#tempo",
+      "#saggezza",
+      "#plutarco",
+      "#attesa",
+      "#consiglio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543657+00:00"
+  },
+  {
+    "quote": "Un leader è un venditore di speranza.",
+    "author": "Napoleone Bonaparte",
+    "category": "leadership",
+    "caption": "Guidare significa dare agli altri una direzione e una speranza.",
+    "hashtags": [
+      "#leadership",
+      "#speranza",
+      "#napoleone",
+      "#guida",
+      "#visione",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543663+00:00"
+  },
+  {
+    "quote": "La speranza è il sogno di chi è sveglio.",
+    "author": "Aristotele",
+    "category": "sogni",
+    "caption": "Sognare a occhi aperti è il primo passo per cambiare la realtà.",
+    "hashtags": [
+      "#sogni",
+      "#speranza",
+      "#aristotele",
+      "#visione",
+      "#futuro",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543668+00:00"
+  },
+  {
+    "quote": "La vera scoperta non consiste nel trovare nuovi territori, ma nel vedere con occhi nuovi.",
+    "author": "Marcel Proust",
+    "category": "consapevolezza",
+    "caption": "Non serve andare lontano: basta imparare a guardare diversamente.",
+    "hashtags": [
+      "#consapevolezza",
+      "#sguardo",
+      "#proust",
+      "#scoperta",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543672+00:00"
+  },
+  {
+    "quote": "Il perdono è la fragranza che la viola sprigiona sul tallone che l'ha calpestata.",
+    "author": "Mark Twain",
+    "category": "perdono",
+    "caption": "Perdonare non è dimenticare: è liberarsi dal peso del rancore.",
+    "hashtags": [
+      "#perdono",
+      "#libertà",
+      "#marktwain",
+      "#pace",
+      "#cuore",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-26T02:34:29.543675+00:00"
   }
 ]

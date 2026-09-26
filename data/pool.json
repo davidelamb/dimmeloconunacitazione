@@ -1,89 +1,5 @@
 [
   {
-    "quote": "Il cambiamento è la legge della vita. E chi guarda solo al passato o al presente è certo di perdere il futuro.",
-    "author": "John F. Kennedy",
-    "category": "cambiamento",
-    "caption": "Il futuro appartiene a chi sa abbracciare il cambiamento. 🌍",
-    "hashtags": [
-      "#cambiamento",
-      "#futuro",
-      "#crescita",
-      "#evoluzione",
-      "#nuovo"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370898+00:00"
-  },
-  {
-    "quote": "La crescita personale è un viaggio, non una destinazione.",
-    "author": "Sconosciuto",
-    "category": "crescita personale",
-    "caption": "Goditi ogni passo del percorso. 🧗‍♂️",
-    "hashtags": [
-      "#crescitapersonale",
-      "#viaggio",
-      "#destinazione",
-      "#percorso",
-      "#selfimprovement"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370903+00:00"
-  },
-  {
-    "quote": "La fiducia in se stessi è il primo segreto del successo.",
-    "author": "Ralph Waldo Emerson",
-    "category": "autostima",
-    "caption": "Credi in te, e il mondo ti crederà. 🌟",
-    "hashtags": [
-      "#autostima",
-      "#fiducia",
-      "#successo",
-      "#amorproprio",
-      "#forza"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370907+00:00"
-  },
-  {
-    "quote": "La felicità è una scelta, non una conseguenza.",
-    "author": "Sconosciuto",
-    "category": "felicità",
-    "caption": "Scegli di essere felice oggi. 😊",
-    "hashtags": [
-      "#felicità",
-      "#scelta",
-      "#positività",
-      "#gioia",
-      "#benessere"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370913+00:00"
-  },
-  {
-    "quote": "La gratitudine è la memoria del cuore.",
-    "author": "Jean-Baptiste Massieu",
-    "category": "gratitudine",
-    "caption": "Ricorda di ringraziare per le piccole cose. 🙏",
-    "hashtags": [
-      "#gratitudine",
-      "#cuore",
-      "#riconoscenza",
-      "#grazie",
-      "#apprezzamento"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370918+00:00"
-  },
-  {
-    "quote": "Un amico è colui che ti conosce come sei, comprende dove sei stato, ti accompagna in ciò che sei diventato.",
-    "author": "William Shakespeare",
-    "category": "amicizia",
-    "caption": "Gli amici veri sono rari, custodiscili. 💛",
-    "hashtags": [
-      "#amicizia",
-      "#amici",
-      "#affetto",
-      "#lealtà",
-      "#compagnia"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370922+00:00"
-  },
-  {
     "quote": "La famiglia è il primo luogo in cui impariamo ad amare.",
     "author": "Papa Francesco",
     "category": "famiglia",
@@ -7209,5 +7125,95 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-09-26T02:34:29.543675+00:00"
+  },
+  {
+    "quote": "Ogni giorno trova qualcosa di bello e rallegrati.",
+    "author": "Robert Baden-Powell",
+    "category": "felicità",
+    "caption": "La gioia non è un traguardo lontano: è una piccola scoperta quotidiana.",
+    "hashtags": [
+      "#felicità",
+      "#gioia",
+      "#quotidiano",
+      "#badenpowell",
+      "#buonumore",
+      "#piccolecose"
+    ],
+    "generated_at": "2026-09-26T15:22:46.122610+00:00"
+  },
+  {
+    "quote": "La cosa più importante è non smettere di provare.",
+    "author": "Albert Einstein",
+    "category": "motivazione",
+    "caption": "A volte l'unica mossa giusta è riprovare domani.",
+    "hashtags": [
+      "#motivazione",
+      "#einstein",
+      "#provare",
+      "#costanza",
+      "#riprova",
+      "#maiarrendersi"
+    ],
+    "generated_at": "2026-09-26T15:22:46.122636+00:00"
+  },
+  {
+    "quote": "Non puoi cambiare il vento, ma puoi regolare le vele.",
+    "author": "Jimmy Dean",
+    "category": "cambiamento",
+    "caption": "Il vento non lo scegli. La rotta, sì.",
+    "hashtags": [
+      "#cambiamento",
+      "#vela",
+      "#rotta",
+      "#adattarsi",
+      "#citazioni",
+      "#vita"
+    ],
+    "generated_at": "2026-09-26T15:22:46.122644+00:00"
+  },
+  {
+    "quote": "Il coraggio non è l'assenza di paura, ma la capacità di agire nonostante essa.",
+    "author": "Nelson Mandela",
+    "category": "coraggio",
+    "caption": "Avere paura è normale. Fare comunque la cosa giusta, no.",
+    "hashtags": [
+      "#coraggio",
+      "#mandela",
+      "#paura",
+      "#agire",
+      "#forza",
+      "#citazioni"
+    ],
+    "generated_at": "2026-09-26T15:22:46.122650+00:00"
+  },
+  {
+    "quote": "Non è abbastanza essere occupati, le formiche lo sono. La domanda è: di cosa siamo occupati?",
+    "author": "Henry David Thoreau",
+    "category": "tempo",
+    "caption": "Essere indaffarati non è la stessa cosa di essere vivi.",
+    "hashtags": [
+      "#tempo",
+      "#thoreau",
+      "#priorità",
+      "#vita",
+      "#consapevolezza",
+      "#occupati"
+    ],
+    "generated_at": "2026-09-26T15:22:46.122657+00:00"
+  },
+  {
+    "quote": "Un viaggio di mille miglia inizia con un solo passo.",
+    "author": "Lao Tzu",
+    "category": "viaggio",
+    "caption": "Non serve vedere tutta la strada: basta iniziare.",
+    "hashtags": [
+      "#viaggio",
+      "#laotzu",
+      "#primopasso",
+      "#cammino",
+      "#iniziare",
+      "#citazioni"
+    ],
+    "generated_at": "2026-09-26T15:22:46.122663+00:00"
   }
 ]

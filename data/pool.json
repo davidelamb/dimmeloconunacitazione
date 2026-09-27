@@ -1,47 +1,5 @@
 [
   {
-    "quote": "L'ambizione è il motore dell'anima.",
-    "author": "Seneca",
-    "category": "ambizione",
-    "caption": "Senza ambizione, l'anima dorme. 🔥",
-    "hashtags": [
-      "#ambizione",
-      "#motore",
-      "#anima",
-      "#obiettivi",
-      "#determinazione"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370952+00:00"
-  },
-  {
-    "quote": "Il lavoro allontana da noi tre grandi mali: la noia, il vizio e il bisogno.",
-    "author": "Voltaire",
-    "category": "lavoro",
-    "caption": "Il lavoro è una benedizione, non una condanna. 💼",
-    "hashtags": [
-      "#lavoro",
-      "#noia",
-      "#vizio",
-      "#bisogno",
-      "#produttività"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370959+00:00"
-  },
-  {
-    "quote": "Un buon leader ispira le persone ad avere fiducia in lui; un grande leader le ispira ad avere fiducia in se stesse.",
-    "author": "Eleanor Roosevelt",
-    "category": "leadership",
-    "caption": "Il vero leader tira fuori il meglio dagli altri. 👥",
-    "hashtags": [
-      "#leadership",
-      "#fiducia",
-      "#ispirazione",
-      "#team",
-      "#crescita"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370963+00:00"
-  },
-  {
     "quote": "La libertà è il diritto di scegliere le proprie catene.",
     "author": "Jean-Jacques Rousseau",
     "category": "libertà",
@@ -7220,5 +7178,50 @@
       "#responsabilità"
     ],
     "generated_at": "2026-09-27T02:32:55.762021+00:00"
+  },
+  {
+    "quote": "La conoscenza parla, ma la saggezza ascolta.",
+    "author": "Jimi Hendrix",
+    "category": "consapevolezza",
+    "caption": "A volte basta tacere per capire davvero.",
+    "hashtags": [
+      "#consapevolezza",
+      "#ascolto",
+      "#saggezza",
+      "#crescita",
+      "#silenzio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-27T16:01:55.949383+00:00"
+  },
+  {
+    "quote": "Non possiamo risolvere i problemi pensando allo stesso modo in cui li abbiamo creati.",
+    "author": "Albert Einstein",
+    "category": "cambiamento",
+    "caption": "Cambiare prospettiva è già metà della soluzione.",
+    "hashtags": [
+      "#cambiamento",
+      "#prospettiva",
+      "#einstein",
+      "#pensiero",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-27T16:01:55.949408+00:00"
+  },
+  {
+    "quote": "La gratitudine è la memoria del cuore.",
+    "author": "Jean-Baptiste Massieu",
+    "category": "gratitudine",
+    "caption": "Ricordare con il cuore ciò che abbiamo ricevuto.",
+    "hashtags": [
+      "#gratitudine",
+      "#cuore",
+      "#memoria",
+      "#ringraziare",
+      "#felicità",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-27T16:01:55.949418+00:00"
   }
 ]

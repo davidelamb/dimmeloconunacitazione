@@ -1,19 +1,5 @@
 [
   {
-    "quote": "La pazienza è l'arte di sperare.",
-    "author": "Luc de Clapiers",
-    "category": "pazienza",
-    "caption": "Chi ha pazienza, ottiene.",
-    "hashtags": [
-      "#pazienza",
-      "#lucdeclapiers",
-      "#attesa",
-      "#speranza",
-      "#virtù"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228302+00:00"
-  },
-  {
     "quote": "I sogni sono il carburante dell'anima.",
     "author": "Anonimo",
     "category": "sogni",
@@ -7246,5 +7232,20 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-09-28T02:36:10.705654+00:00"
+  },
+  {
+    "quote": "La consapevolezza è l'inizio di ogni cambiamento.",
+    "author": "Sconosciuto",
+    "category": "consapevolezza",
+    "caption": "Non puoi trasformare ciò che non hai ancora visto.",
+    "hashtags": [
+      "#consapevolezza",
+      "#cambiamento",
+      "#crescita",
+      "#ascoltarsi",
+      "#verità",
+      "#cammino"
+    ],
+    "generated_at": "2026-09-28T18:57:30.142004+00:00"
   }
 ]

@@ -1,327 +1,5 @@
 [
   {
-    "quote": "La libertà è il diritto di scegliere le proprie catene.",
-    "author": "Jean-Jacques Rousseau",
-    "category": "libertà",
-    "caption": "Scegli con saggezza ciò a cui ti leghi. 🕊️",
-    "hashtags": [
-      "#libertà",
-      "#scelta",
-      "#catene",
-      "#saggezza",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370968+00:00"
-  },
-  {
-    "quote": "Il viaggio è l'unica cosa che compri e ti rende più ricco.",
-    "author": "Anonimo",
-    "category": "viaggio",
-    "caption": "Esplora, scopri, vivi. ✈️",
-    "hashtags": [
-      "#viaggio",
-      "#ricchezza",
-      "#esplorazione",
-      "#avventura",
-      "#mondo"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370972+00:00"
-  },
-  {
-    "quote": "La nostalgia è il ricordo che ha perso il suo corpo.",
-    "author": "Milan Kundera",
-    "category": "nostalgia",
-    "caption": "Il passato vive in noi, ma non deve imprigionarci. 🌫️",
-    "hashtags": [
-      "#nostalgia",
-      "#ricordi",
-      "#passato",
-      "#emozioni",
-      "#tempo"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370977+00:00"
-  },
-  {
-    "quote": "La speranza è una finestra sul futuro.",
-    "author": "Sconosciuto",
-    "category": "speranza",
-    "caption": "Apri la finestra e lascia entrare la luce. 🌅",
-    "hashtags": [
-      "#speranza",
-      "#futuro",
-      "#luce",
-      "#ottimismo",
-      "#fede"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370981+00:00"
-  },
-  {
-    "quote": "La delusione è il prezzo che paghi per aver creduto.",
-    "author": "Sconosciuto",
-    "category": "delusione",
-    "caption": "Ma credere è sempre meglio che non credere. 💔",
-    "hashtags": [
-      "#delusione",
-      "#fiducia",
-      "#emozioni",
-      "#vita",
-      "#speranza"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370988+00:00"
-  },
-  {
-    "quote": "L'ironia è la forma più alta di intelligenza.",
-    "author": "Oscar Wilde",
-    "category": "ironia",
-    "caption": "Un po' di ironia rende la vita più leggera. 😏",
-    "hashtags": [
-      "#ironia",
-      "#intelligenza",
-      "#umorismo",
-      "#leggerezza",
-      "#saggezza"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370992+00:00"
-  },
-  {
-    "quote": "La filosofia è un martello con cui plasmare il proprio destino.",
-    "author": "Friedrich Nietzsche",
-    "category": "filosofia",
-    "caption": "Pensa, rifletti, crea la tua strada. 🔨",
-    "hashtags": [
-      "#filosofia",
-      "#pensiero",
-      "#destino",
-      "#riflessione",
-      "#vita"
-    ],
-    "generated_at": "2026-08-21T00:43:23.370997+00:00"
-  },
-  {
-    "quote": "Il minimalismo non è avere poco, ma fare spazio a ciò che conta.",
-    "author": "Sconosciuto",
-    "category": "minimalismo",
-    "caption": "Meno è meglio, soprattutto per l'anima. 🧘‍♂️",
-    "hashtags": [
-      "#minimalismo",
-      "#essenziale",
-      "#spazio",
-      "#semplice",
-      "#pace"
-    ],
-    "generated_at": "2026-08-21T00:43:23.371001+00:00"
-  },
-  {
-    "quote": "L'amore vince sempre, anche quando perde.",
-    "author": "Fabrizio De André",
-    "category": "amore",
-    "caption": "L'amore resta, anche nelle sconfitte.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#fabriziodeandre",
-      "#poesia",
-      "#cuore"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228184+00:00"
-  },
-  {
-    "quote": "La vita è un viaggio, non una destinazione.",
-    "author": "Ralph Waldo Emerson",
-    "category": "vita",
-    "caption": "Goditi ogni passo del cammino.",
-    "hashtags": [
-      "#vita",
-      "#viaggio",
-      "#emerson",
-      "#filosofia",
-      "#vivere"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228212+00:00"
-  },
-  {
-    "quote": "Non importa quanto lentamente vai, finché non ti fermi.",
-    "author": "Confucio",
-    "category": "motivazione",
-    "caption": "La costanza batte la velocità.",
-    "hashtags": [
-      "#motivazione",
-      "#costanza",
-      "#confucio",
-      "#obiettivi",
-      "#crescita"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228220+00:00"
-  },
-  {
-    "quote": "La disciplina è la madre del successo.",
-    "author": "Esopo",
-    "category": "disciplina",
-    "caption": "Ogni giorno un passo avanti.",
-    "hashtags": [
-      "#disciplina",
-      "#successo",
-      "#esopo",
-      "#impegno",
-      "#costanza"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228228+00:00"
-  },
-  {
-    "quote": "Il coraggio non è l'assenza di paura, ma la capacità di andare avanti nonostante essa.",
-    "author": "Nelson Mandela",
-    "category": "coraggio",
-    "caption": "La paura è normale, il coraggio è scegliere di agire.",
-    "hashtags": [
-      "#coraggio",
-      "#mandela",
-      "#paura",
-      "#forza",
-      "#determinazione"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228234+00:00"
-  },
-  {
-    "quote": "Il successo è la somma di piccoli sforzi ripetuti ogni giorno.",
-    "author": "Robert Collier",
-    "category": "successo",
-    "caption": "Le piccole azioni costruiscono grandi risultati.",
-    "hashtags": [
-      "#successo",
-      "#collier",
-      "#costanza",
-      "#lavoro",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228240+00:00"
-  },
-  {
-    "quote": "Il fallimento è solo l'opportunità di ricominciare in modo più intelligente.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Ogni errore è una lezione.",
-    "hashtags": [
-      "#fallimento",
-      "#ford",
-      "#resilienza",
-      "#lezione",
-      "#crescita"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228245+00:00"
-  },
-  {
-    "quote": "La resilienza è la capacità di rialzarsi più forti di prima.",
-    "author": "Anonimo",
-    "category": "resilienza",
-    "caption": "Le difficoltà ci rendono più forti.",
-    "hashtags": [
-      "#resilienza",
-      "#forza",
-      "#superazione",
-      "#rinascita",
-      "#coraggio"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228250+00:00"
-  },
-  {
-    "quote": "Il cambiamento è l'essenza della vita. Sii disposto a lasciar andare ciò che sei per diventare ciò che potresti essere.",
-    "author": "Anonimo",
-    "category": "cambiamento",
-    "caption": "Evolvere è vivere.",
-    "hashtags": [
-      "#cambiamento",
-      "#evoluzione",
-      "#crescita",
-      "#trasformazione",
-      "#vita"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228255+00:00"
-  },
-  {
-    "quote": "La crescita personale è un processo continuo di miglioramento di sé.",
-    "author": "Anonimo",
-    "category": "crescita personale",
-    "caption": "Investi su te stesso ogni giorno.",
-    "hashtags": [
-      "#crescitapersonale",
-      "#miglioramento",
-      "#selfimprovement",
-      "#cambiamento",
-      "#mindset"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228264+00:00"
-  },
-  {
-    "quote": "L'autostima è la reputazione che abbiamo con noi stessi.",
-    "author": "Anonimo",
-    "category": "autostima",
-    "caption": "Ama te stesso prima di tutto.",
-    "hashtags": [
-      "#autostima",
-      "#amorproprio",
-      "#fiducia",
-      "#selflove",
-      "#crescitapersonale"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228272+00:00"
-  },
-  {
-    "quote": "La felicità non è avere ciò che vuoi, ma volere ciò che hai.",
-    "author": "Anonimo",
-    "category": "felicità",
-    "caption": "Apprezza ciò che hai.",
-    "hashtags": [
-      "#felicità",
-      "#gratitudine",
-      "#contentezza",
-      "#vita",
-      "#positività"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228278+00:00"
-  },
-  {
-    "quote": "La gratitudine è la più grande delle virtù.",
-    "author": "Cicerone",
-    "category": "gratitudine",
-    "caption": "Ringrazia per ogni piccolo dono.",
-    "hashtags": [
-      "#gratitudine",
-      "#cicerone",
-      "#grazie",
-      "#virtù",
-      "#cuore"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228283+00:00"
-  },
-  {
-    "quote": "L'amicizia è un'anima che abita in due corpi.",
-    "author": "Aristotele",
-    "category": "amicizia",
-    "caption": "Gli amici sono la famiglia che scegliamo.",
-    "hashtags": [
-      "#amicizia",
-      "#aristotele",
-      "#amici",
-      "#legami",
-      "#affetto"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228289+00:00"
-  },
-  {
-    "quote": "La famiglia è la patria del cuore.",
-    "author": "Giuseppe Mazzini",
-    "category": "famiglia",
-    "caption": "La famiglia è sempre con te.",
-    "hashtags": [
-      "#famiglia",
-      "#mazzini",
-      "#casa",
-      "#amore",
-      "#legami"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228294+00:00"
-  },
-  {
     "quote": "La pazienza è l'arte di sperare.",
     "author": "Luc de Clapiers",
     "category": "pazienza",
@@ -7223,5 +6901,350 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-09-27T16:01:55.949418+00:00"
+  },
+  {
+    "quote": "Niente è più forte dell'abitudine.",
+    "author": "Ovidio",
+    "category": "disciplina",
+    "caption": "Le piccole azioni quotidiane costruiscono chi diventi.",
+    "hashtags": [
+      "#disciplina",
+      "#abitudini",
+      "#costanza",
+      "#crescita",
+      "#quotidiano",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705542+00:00"
+  },
+  {
+    "quote": "Chi non risica non rosica.",
+    "author": "Proverbio italiano",
+    "category": "coraggio",
+    "caption": "A volte il rischio è l'unica strada verso qualcosa di grande.",
+    "hashtags": [
+      "#coraggio",
+      "#rischio",
+      "#proverbio",
+      "#osare",
+      "#vita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705567+00:00"
+  },
+  {
+    "quote": "Il bello è il principio del terribile.",
+    "author": "Rainer Maria Rilke",
+    "category": "consapevolezza",
+    "caption": "Ciò che ci incanta può anche metterci in crisi: è lì che cresciamo.",
+    "hashtags": [
+      "#consapevolezza",
+      "#rilke",
+      "#bellezza",
+      "#poesia",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705572+00:00"
+  },
+  {
+    "quote": "Non si può insegnare nulla a un uomo; lo si può solo aiutare a trovarlo dentro di sé.",
+    "author": "Galileo Galilei",
+    "category": "consapevolezza",
+    "caption": "Le risposte più vere le hai già dentro: serve solo qualcuno che ti aiuti a vederle.",
+    "hashtags": [
+      "#consapevolezza",
+      "#galileo",
+      "#conoscenza",
+      "#dentro",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705580+00:00"
+  },
+  {
+    "quote": "La gioia è la forma più semplice di gratitudine.",
+    "author": "Karl Barth",
+    "category": "gratitudine",
+    "caption": "Riconoscere ciò che hai è già un modo di dire grazie.",
+    "hashtags": [
+      "#gratitudine",
+      "#gioia",
+      "#ringraziare",
+      "#vita",
+      "#quotidiano",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705585+00:00"
+  },
+  {
+    "quote": "La libertà comincia con l'ironia.",
+    "author": "Victor Hugo",
+    "category": "ironia",
+    "caption": "Ridere di sé è il primo passo per non farsi dominare da nulla.",
+    "hashtags": [
+      "#ironia",
+      "#victorhugo",
+      "#libertà",
+      "#autoironia",
+      "#pensiero",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705590+00:00"
+  },
+  {
+    "quote": "La giovinezza è la sola cosa che valga la pena di avere.",
+    "author": "Oscar Wilde",
+    "category": "giovinezza",
+    "caption": "Non è un'età, è il coraggio di guardare il mondo con occhi nuovi.",
+    "hashtags": [
+      "#giovinezza",
+      "#oscarwilde",
+      "#spensieratezza",
+      "#vita",
+      "#energia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705594+00:00"
+  },
+  {
+    "quote": "L'uomo è condannato a essere libero.",
+    "author": "Jean-Paul Sartre",
+    "category": "libertà",
+    "caption": "Scegliere è inevitabile: anche non scegliere è una scelta.",
+    "hashtags": [
+      "#libertà",
+      "#sartre",
+      "#esistenzialismo",
+      "#scelta",
+      "#responsabilità",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705599+00:00"
+  },
+  {
+    "quote": "Chi ha il coraggio di ridere è padrone del mondo.",
+    "author": "Giacomo Leopardi",
+    "category": "ironia",
+    "caption": "L'ironia è l'arma gentile di chi non si prende troppo sul serio.",
+    "hashtags": [
+      "#ironia",
+      "#leopardi",
+      "#coraggio",
+      "#sorriso",
+      "#letteratura",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705603+00:00"
+  },
+  {
+    "quote": "Il tempo è il più saggio di tutti i consiglieri.",
+    "author": "Plutarco",
+    "category": "tempo",
+    "caption": "A volte non serve una risposta subito: serve solo un po' di tempo.",
+    "hashtags": [
+      "#tempo",
+      "#plutarco",
+      "#saggezza",
+      "#pazienza",
+      "#attesa",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705607+00:00"
+  },
+  {
+    "quote": "La noia è il desiderio di un desiderio.",
+    "author": "Arthur Schopenhauer",
+    "category": "filosofia",
+    "caption": "Quando non sai cosa vuoi, forse stai solo cercando una direzione.",
+    "hashtags": [
+      "#filosofia",
+      "#schopenhauer",
+      "#desiderio",
+      "#noia",
+      "#pensiero",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705610+00:00"
+  },
+  {
+    "quote": "La speranza è una buona colazione ma una cattiva cena.",
+    "author": "Francis Bacon",
+    "category": "speranza",
+    "caption": "Sperare va bene, ma poi bisogna anche agire.",
+    "hashtags": [
+      "#speranza",
+      "#francisbacon",
+      "#azione",
+      "#equilibrio",
+      "#vita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705613+00:00"
+  },
+  {
+    "quote": "La musica è l'arte più potente perché parla direttamente all'anima.",
+    "author": "Ludwig van Beethoven",
+    "category": "pace",
+    "caption": "Ci sono emozioni che solo la musica sa dire.",
+    "hashtags": [
+      "#musica",
+      "#beethoven",
+      "#pace",
+      "#emozioni",
+      "#anima",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705617+00:00"
+  },
+  {
+    "quote": "Il genio è pazienza.",
+    "author": "Isaac Newton",
+    "category": "pazienza",
+    "caption": "Anche i grandi risultati nascono da attese lunghe e silenziose.",
+    "hashtags": [
+      "#pazienza",
+      "#newton",
+      "#genio",
+      "#costanza",
+      "#scienza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705620+00:00"
+  },
+  {
+    "quote": "La lettura è un atto di resistenza.",
+    "author": "Primo Levi",
+    "category": "consapevolezza",
+    "caption": "Leggere è un modo per non lasciarsi raccontare il mondo da altri.",
+    "hashtags": [
+      "#lettura",
+      "#primolevi",
+      "#resilienza",
+      "#pensiero",
+      "#libri",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705624+00:00"
+  },
+  {
+    "quote": "Non si può fare la rivoluzione con i guanti di velluto.",
+    "author": "Che Guevara",
+    "category": "cambiamento",
+    "caption": "I grandi cambiamenti richiedono coraggio, non comodità.",
+    "hashtags": [
+      "#cambiamento",
+      "#coraggio",
+      "#rivoluzione",
+      "#azione",
+      "#storia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705626+00:00"
+  },
+  {
+    "quote": "La vera eleganza è la semplicità.",
+    "author": "Coco Chanel",
+    "category": "minimalismo",
+    "caption": "Meno cose, più significato: la bellezza sta nell'essenziale.",
+    "hashtags": [
+      "#minimalismo",
+      "#cocochanel",
+      "#semplicità",
+      "#eleganza",
+      "#stile",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705629+00:00"
+  },
+  {
+    "quote": "Un popolo che ignora il proprio passato non saprà mai nulla del proprio presente.",
+    "author": "Primo Levi",
+    "category": "nostalgia",
+    "caption": "Ricordare non è rimpiangere: è capire da dove veniamo.",
+    "hashtags": [
+      "#nostalgia",
+      "#primolevi",
+      "#memoria",
+      "#passato",
+      "#identità",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705633+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più pratico di una buona teoria.",
+    "author": "Kurt Lewin",
+    "category": "lavoro",
+    "caption": "Le idee buone, se ben pensate, si trasformano in azioni concrete.",
+    "hashtags": [
+      "#lavoro",
+      "#teoria",
+      "#pratica",
+      "#psicologia",
+      "#efficacia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705638+00:00"
+  },
+  {
+    "quote": "Chi non sa ascoltare non sa nemmeno comandare.",
+    "author": "Publilio Siro",
+    "category": "leadership",
+    "caption": "Guidare significa prima di tutto ascoltare.",
+    "hashtags": [
+      "#leadership",
+      "#ascolto",
+      "#guidare",
+      "#saggezza",
+      "#lavoro",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705641+00:00"
+  },
+  {
+    "quote": "L'amicizia è un lusso che pochi possono permettersi.",
+    "author": "Marlene Dietrich",
+    "category": "amicizia",
+    "caption": "Gli amici veri sono rari: coltivali come tesori.",
+    "hashtags": [
+      "#amicizia",
+      "#marlenedietrich",
+      "#amici",
+      "#relazioni",
+      "#fiducia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705644+00:00"
+  },
+  {
+    "quote": "Il fallimento è la condizione stessa del successo.",
+    "author": "Henry Ford",
+    "category": "fallimento",
+    "caption": "Cadere non è la fine: è il modo in cui impari a rialzarti meglio.",
+    "hashtags": [
+      "#fallimento",
+      "#henryford",
+      "#successo",
+      "#ripartire",
+      "#resilienza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705650+00:00"
+  },
+  {
+    "quote": "La maturità è la capacità di vivere con l'incertezza.",
+    "author": "John Keats",
+    "category": "maturità",
+    "caption": "Diventare grandi significa imparare a stare nelle domande, non solo nelle risposte.",
+    "hashtags": [
+      "#maturità",
+      "#keats",
+      "#incertezza",
+      "#crescita",
+      "#consapevolezza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-28T02:36:10.705654+00:00"
   }
 ]

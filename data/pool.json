@@ -1,215 +1,5 @@
 [
   {
-    "quote": "I sogni sono il carburante dell'anima.",
-    "author": "Anonimo",
-    "category": "sogni",
-    "caption": "Continua a sognare.",
-    "hashtags": [
-      "#sogni",
-      "#speranza",
-      "#futuro",
-      "#ispirazione",
-      "#anima"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228307+00:00"
-  },
-  {
-    "quote": "L'ambizione è il primo passo verso il successo.",
-    "author": "Anonimo",
-    "category": "ambizione",
-    "caption": "Sogna in grande.",
-    "hashtags": [
-      "#ambizione",
-      "#successo",
-      "#obiettivi",
-      "#determinazione",
-      "#sogni"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228314+00:00"
-  },
-  {
-    "quote": "Il lavoro nobilita l'uomo.",
-    "author": "Anonimo",
-    "category": "lavoro",
-    "caption": "Il lavoro dà dignità.",
-    "hashtags": [
-      "#lavoro",
-      "#dignità",
-      "#impegno",
-      "#professione",
-      "#etica"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228319+00:00"
-  },
-  {
-    "quote": "La leadership non è una posizione, ma un'azione.",
-    "author": "Anonimo",
-    "category": "leadership",
-    "caption": "Guida con l'esempio.",
-    "hashtags": [
-      "#leadership",
-      "#esempio",
-      "#guida",
-      "#azione",
-      "#influenza"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228324+00:00"
-  },
-  {
-    "quote": "La nostalgia è la memoria del cuore.",
-    "author": "Anonimo",
-    "category": "nostalgia",
-    "caption": "Ricorda con amore.",
-    "hashtags": [
-      "#nostalgia",
-      "#memoria",
-      "#cuore",
-      "#passato",
-      "#emozioni"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228332+00:00"
-  },
-  {
-    "quote": "La speranza è l'ultima a morire.",
-    "author": "Proverbio",
-    "category": "speranza",
-    "caption": "Non perdere mai la speranza.",
-    "hashtags": [
-      "#speranza",
-      "#proverbio",
-      "#ottimismo",
-      "#futuro",
-      "#fede"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228340+00:00"
-  },
-  {
-    "quote": "Il minimalismo è la via per la libertà.",
-    "author": "Anonimo",
-    "category": "minimalismo",
-    "caption": "Meno è meglio.",
-    "hashtags": [
-      "#minimalismo",
-      "#libertà",
-      "#essenziale",
-      "#semplicità",
-      "#vita"
-    ],
-    "generated_at": "2026-08-21T12:26:30.228349+00:00"
-  },
-  {
-    "quote": "Amor che a nullo amato amar perdona.",
-    "author": "Dante Alighieri",
-    "category": "amore",
-    "caption": "L'amore vero non conosce limiti, nemmeno quello del ricambio. ❤️",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#dante",
-      "#poesia",
-      "#cuore"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582855+00:00"
-  },
-  {
-    "quote": "La vita non è che l'ombra di un sogno.",
-    "author": "William Shakespeare",
-    "category": "vita",
-    "caption": "A volte la vita sembra un sogno, ma sta a noi renderla reale. 🌟",
-    "hashtags": [
-      "#vita",
-      "#shakespeare",
-      "#sogni",
-      "#filosofia",
-      "#riflessioni"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582911+00:00"
-  },
-  {
-    "quote": "Non si può fermare il vento, ma si possono costruire mulini.",
-    "author": "Proverbio olandese",
-    "category": "motivazione",
-    "caption": "Le difficoltà ci sono, ma possiamo trasformarle in opportunità. 💪",
-    "hashtags": [
-      "#motivazione",
-      "#proverbi",
-      "#forza",
-      "#determinazione",
-      "#cambiamento"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582916+00:00"
-  },
-  {
-    "quote": "La disciplina è la più grande forma di amor proprio.",
-    "author": "Sconosciuto",
-    "category": "disciplina",
-    "caption": "Prendersi cura di sé parte anche dalla costanza. 🧘‍♀️",
-    "hashtags": [
-      "#disciplina",
-      "#amorproprio",
-      "#costanza",
-      "#crescitapersonale",
-      "#routine"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582919+00:00"
-  },
-  {
-    "quote": "Il coraggio è l'arte di avere paura senza mostrarla.",
-    "author": "Mark Twain",
-    "category": "coraggio",
-    "caption": "Essere coraggiosi non significa non avere paura, ma andare avanti lo stesso. 🦁",
-    "hashtags": [
-      "#coraggio",
-      "#marktwain",
-      "#paura",
-      "#forza",
-      "#superamento"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582922+00:00"
-  },
-  {
-    "quote": "Il successo è la capacità di passare da un fallimento all'altro senza perdere l'entusiasmo.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "Ogni errore è un passo avanti se non ci fermiamo. 🚀",
-    "hashtags": [
-      "#successo",
-      "#churchill",
-      "#fallimento",
-      "#entusiasmo",
-      "#perseveranza"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582925+00:00"
-  },
-  {
-    "quote": "Il fallimento è il condimento che dà sapore al successo.",
-    "author": "Truman Capote",
-    "category": "fallimento",
-    "caption": "Senza cadute, non sapremmo apprezzare le vittorie. 🌱",
-    "hashtags": [
-      "#fallimento",
-      "#trumancapote",
-      "#successo",
-      "#crescita",
-      "#resilienza"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582927+00:00"
-  },
-  {
-    "quote": "La resilienza è la capacità di navigare tra i temporali della vita.",
-    "author": "Boris Cyrulnik",
-    "category": "resilienza",
-    "caption": "Le tempeste ci rendono più forti se impariamo a navigarle. ⛈️",
-    "hashtags": [
-      "#resilienza",
-      "#boriscyrulnik",
-      "#tempeste",
-      "#forza",
-      "#superamento"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582930+00:00"
-  },
-  {
     "quote": "Non si può scoprire nuovi oceani se non si ha il coraggio di perdere di vista la riva.",
     "author": "André Gide",
     "category": "cambiamento",
@@ -7247,5 +7037,230 @@
       "#cammino"
     ],
     "generated_at": "2026-09-28T18:57:30.142004+00:00"
+  },
+  {
+    "quote": "La semplicità è la massima sofisticazione.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "La vera eleganza non ha bisogno di eccessi.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#eleganza",
+      "#leonardodavinci",
+      "#stile",
+      "#essenziale"
+    ],
+    "generated_at": "2026-09-29T03:18:46.753977+00:00"
+  },
+  {
+    "quote": "La cosa più importante è non smettere mai di fare domande.",
+    "author": "Albert Einstein",
+    "category": "consapevolezza",
+    "caption": "La curiosità è il motore della conoscenza.",
+    "hashtags": [
+      "#consapevolezza",
+      "#curiosità",
+      "#einstein",
+      "#domande",
+      "#conoscenza",
+      "#crescita"
+    ],
+    "generated_at": "2026-09-29T03:18:46.753999+00:00"
+  },
+  {
+    "quote": "La libertà non è fare ciò che vogliamo, ma volere ciò che facciamo.",
+    "author": "Jean-Paul Sartre",
+    "category": "libertà",
+    "caption": "Essere liberi significa scegliere con consapevolezza.",
+    "hashtags": [
+      "#libertà",
+      "#sartre",
+      "#scelta",
+      "#consapevolezza",
+      "#filosofia",
+      "#responsabilità"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754010+00:00"
+  },
+  {
+    "quote": "La pazienza è l'arte di sperare.",
+    "author": "Luc de Clapiers de Vauvenargues",
+    "category": "pazienza",
+    "caption": "Saper aspettare è già un passo verso la meta.",
+    "hashtags": [
+      "#pazienza",
+      "#speranza",
+      "#vauvenargues",
+      "#attesa",
+      "#fiducia",
+      "#tempo"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754020+00:00"
+  },
+  {
+    "quote": "La famiglia è il rifugio nella tempesta e il sole quando splende.",
+    "author": "Anonimo",
+    "category": "famiglia",
+    "caption": "La famiglia è la casa dell'anima.",
+    "hashtags": [
+      "#famiglia",
+      "#rifugio",
+      "#amore",
+      "#casa",
+      "#unione",
+      "#sostegno"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754026+00:00"
+  },
+  {
+    "quote": "La solitudine è la culla del pensiero.",
+    "author": "Anonimo",
+    "category": "solitudine",
+    "caption": "A volte stare soli è il modo migliore per ritrovarsi.",
+    "hashtags": [
+      "#solitudine",
+      "#pensiero",
+      "#introspezione",
+      "#silenzio",
+      "#crescita",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754033+00:00"
+  },
+  {
+    "quote": "Il tempo è l'immagine mobile dell'eternità.",
+    "author": "Platone",
+    "category": "tempo",
+    "caption": "Il tempo ci sfugge, ma l'eternità ci attende.",
+    "hashtags": [
+      "#tempo",
+      "#eternità",
+      "#platone",
+      "#filosofia",
+      "#attimo",
+      "#vita"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754038+00:00"
+  },
+  {
+    "quote": "L'amicizia è il profumo dell'anima.",
+    "author": "Anonimo",
+    "category": "amicizia",
+    "caption": "Un amico è un dono che si sente nell'aria.",
+    "hashtags": [
+      "#amicizia",
+      "#anima",
+      "#dono",
+      "#condivisione",
+      "#fiducia",
+      "#legame"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754046+00:00"
+  },
+  {
+    "quote": "La felicità è quando ciò che pensi, dici e fai sono in armonia.",
+    "author": "Mahatma Gandhi",
+    "category": "felicità",
+    "caption": "La coerenza è la strada maestra per la gioia.",
+    "hashtags": [
+      "#felicità",
+      "#gandhi",
+      "#coerenza",
+      "#armonia",
+      "#pace",
+      "#gioia"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754051+00:00"
+  },
+  {
+    "quote": "Il fallimento è l'opportunità di ricominciare con più intelligenza.",
+    "author": "Henry Ford",
+    "category": "fallimento",
+    "caption": "Cadere non è la fine, è l'inizio di una nuova strategia.",
+    "hashtags": [
+      "#fallimento",
+      "#henryford",
+      "#ripartire",
+      "#lezione",
+      "#successo",
+      "#resilienza"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754056+00:00"
+  },
+  {
+    "quote": "Il cambiamento è la legge della vita.",
+    "author": "John F. Kennedy",
+    "category": "cambiamento",
+    "caption": "Chi si adatta al cambiamento, cresce.",
+    "hashtags": [
+      "#cambiamento",
+      "#kennedy",
+      "#vita",
+      "#adattarsi",
+      "#crescita",
+      "#futuro"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754062+00:00"
+  },
+  {
+    "quote": "La crescita personale è un viaggio, non una destinazione.",
+    "author": "Anonimo",
+    "category": "crescita personale",
+    "caption": "Ogni giorno è un'occasione per diventare migliori.",
+    "hashtags": [
+      "#crescita",
+      "#viaggio",
+      "#miglioramento",
+      "#consapevolezza",
+      "#evoluzione",
+      "#vita"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754067+00:00"
+  },
+  {
+    "quote": "L'autostima è la reputazione che hai con te stesso.",
+    "author": "Nathaniel Branden",
+    "category": "autostima",
+    "caption": "Coltiva il rispetto per te stesso, giorno dopo giorno.",
+    "hashtags": [
+      "#autostima",
+      "#branden",
+      "#rispetto",
+      "#sé",
+      "#fiducia",
+      "#valore"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754072+00:00"
+  },
+  {
+    "quote": "L'ambizione è il motore del successo, ma la perseveranza è il carburante.",
+    "author": "Anonimo",
+    "category": "ambizione",
+    "caption": "Sogna in grande, ma non mollare mai.",
+    "hashtags": [
+      "#ambizione",
+      "#successo",
+      "#perseveranza",
+      "#motivazione",
+      "#obiettivi",
+      "#determinazione"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754077+00:00"
+  },
+  {
+    "quote": "La pace è la virtù della civiltà.",
+    "author": "Anonimo",
+    "category": "pace",
+    "caption": "Senza pace interiore, nessuna pace esteriore è possibile.",
+    "hashtags": [
+      "#pace",
+      "#interiore",
+      "#armonia",
+      "#serenità",
+      "#equilibrio",
+      "#vita"
+    ],
+    "generated_at": "2026-09-29T03:18:46.754091+00:00"
   }
 ]

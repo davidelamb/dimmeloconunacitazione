@@ -1,257 +1,5 @@
 [
   {
-    "quote": "Non si può scoprire nuovi oceani se non si ha il coraggio di perdere di vista la riva.",
-    "author": "André Gide",
-    "category": "cambiamento",
-    "caption": "Per cambiare bisogna osare andare oltre il conosciuto. 🌊",
-    "hashtags": [
-      "#cambiamento",
-      "#andregide",
-      "#coraggio",
-      "#nuovi orizzonti",
-      "#crescita"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582933+00:00"
-  },
-  {
-    "quote": "La crescita personale è un processo, non un evento.",
-    "author": "Jim Rohn",
-    "category": "crescita personale",
-    "caption": "Ogni giorno è un'opportunità per diventare la migliore versione di te. 🌱",
-    "hashtags": [
-      "#crescitapersonale",
-      "#jimrohn",
-      "#miglioramentocontinuo",
-      "#selfimprovement",
-      "#vita"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582935+00:00"
-  },
-  {
-    "quote": "Il rispetto di sé è il frutto della disciplina.",
-    "author": "Abraham Lincoln",
-    "category": "autostima",
-    "caption": "Quando ti rispetti, gli altri lo sentono. ✨",
-    "hashtags": [
-      "#autostima",
-      "#abrahamlincoln",
-      "#disciplina",
-      "#rispetto",
-      "#fiducia"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582938+00:00"
-  },
-  {
-    "quote": "La felicità è una farfalla che, se la insegui, ti sfugge; ma se ti metti in silenzio, potrebbe posarsi su di te.",
-    "author": "Nathaniel Hawthorne",
-    "category": "felicità",
-    "caption": "La felicità arriva quando smetti di inseguirla. 🦋",
-    "hashtags": [
-      "#felicità",
-      "#nathanielhawthorne",
-      "#leggerezza",
-      "#pace",
-      "#momenti"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582943+00:00"
-  },
-  {
-    "quote": "La gratitudine è il fiore più bello che sboccia dall'anima.",
-    "author": "Henry Ward Beecher",
-    "category": "gratitudine",
-    "caption": "Essere grati apre il cuore e la mente. 🌸",
-    "hashtags": [
-      "#gratitudine",
-      "#henrywardbeecher",
-      "#cuore",
-      "#anima",
-      "#riconoscenza"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582946+00:00"
-  },
-  {
-    "quote": "L'amicizia è il più alto grado di perfezione in società.",
-    "author": "Michel de Montaigne",
-    "category": "amicizia",
-    "caption": "Un vero amico è un tesoro raro. 🤝",
-    "hashtags": [
-      "#amicizia",
-      "#montaigne",
-      "#tesoro",
-      "#legame",
-      "#cuore"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582948+00:00"
-  },
-  {
-    "quote": "La famiglia è il primo abbraccio che ci insegna ad amare.",
-    "author": "Anonimo",
-    "category": "famiglia",
-    "caption": "La famiglia è il nostro porto sicuro. 🏠",
-    "hashtags": [
-      "#famiglia",
-      "#abbraccio",
-      "#amore",
-      "#casa",
-      "#sicurezza"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582950+00:00"
-  },
-  {
-    "quote": "Il tempo è la moneta della tua vita. È l'unica moneta che hai, e solo tu puoi determinare come verrà spesa.",
-    "author": "Carl Sandburg",
-    "category": "tempo",
-    "caption": "Usa il tuo tempo come il tesoro che è. ⏳",
-    "hashtags": [
-      "#tempo",
-      "#carlsandburg",
-      "#vita",
-      "#priorità",
-      "#tempo"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582954+00:00"
-  },
-  {
-    "quote": "I sogni sono i mattoni con cui costruiamo il nostro futuro.",
-    "author": "Eleanor Roosevelt",
-    "category": "sogni",
-    "caption": "Ogni sogno è un passo verso il domani. 🌠",
-    "hashtags": [
-      "#sogni",
-      "#eleanorroosevelt",
-      "#futuro",
-      "#speranza",
-      "#costruzione"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582957+00:00"
-  },
-  {
-    "quote": "L'ambizione è la via verso il successo, la perseveranza è il veicolo che ti ci porta.",
-    "author": "Bill Bradley",
-    "category": "ambizione",
-    "caption": "Ambizione e perseveranza: la coppia vincente. 🏆",
-    "hashtags": [
-      "#ambizione",
-      "#billbradley",
-      "#perseveranza",
-      "#successo",
-      "#determinazione"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582959+00:00"
-  },
-  {
-    "quote": "Il lavoro è la medicina migliore contro il dolore.",
-    "author": "Ippocrate",
-    "category": "lavoro",
-    "caption": "Immergersi nel lavoro può lenire le ferite. 🛠️",
-    "hashtags": [
-      "#lavoro",
-      "#ippocrate",
-      "#dolore",
-      "#terapia",
-      "#impegno"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582962+00:00"
-  },
-  {
-    "quote": "Il buon leader deve comunicare la visione e ispirare gli altri a seguirlo.",
-    "author": "John C. Maxwell",
-    "category": "leadership",
-    "caption": "La leadership è ispirazione. 👥",
-    "hashtags": [
-      "#leadership",
-      "#johncmaxwell",
-      "#visione",
-      "#ispirazione",
-      "#team"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582964+00:00"
-  },
-  {
-    "quote": "La libertà è la possibilità di dubitare, di sbagliare, di cercare.",
-    "author": "Norberto Bobbio",
-    "category": "libertà",
-    "caption": "Libertà è anche il diritto di sbagliare. 🕊️",
-    "hashtags": [
-      "#libertà",
-      "#norbertobobbio",
-      "#dubbio",
-      "#ricerca",
-      "#diritti"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582966+00:00"
-  },
-  {
-    "quote": "Il viaggio più grande è quello interiore.",
-    "author": "Rainer Maria Rilke",
-    "category": "viaggio",
-    "caption": "Scoprire sé stessi è l'avventura più affascinante. 🧳",
-    "hashtags": [
-      "#viaggio",
-      "#rilke",
-      "#interiore",
-      "#scoperta",
-      "#crescita"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582969+00:00"
-  },
-  {
-    "quote": "La nostalgia è il rimpianto di un tempo che non tornerà, ma che vive nel cuore.",
-    "author": "Anonimo",
-    "category": "nostalgia",
-    "caption": "Il passato ci accompagna, ma non deve imprigionarci. 🌌",
-    "hashtags": [
-      "#nostalgia",
-      "#passato",
-      "#ricordi",
-      "#cuore",
-      "#tempo"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582971+00:00"
-  },
-  {
-    "quote": "La speranza è la luce che brilla anche nel buio più profondo.",
-    "author": "Martin Luther King",
-    "category": "speranza",
-    "caption": "Non perdere mai la speranza, è la tua guida. 🕯️",
-    "hashtags": [
-      "#speranza",
-      "#martinlutherking",
-      "#luce",
-      "#buio",
-      "#fede"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582973+00:00"
-  },
-  {
-    "quote": "La delusione è la distanza tra l'aspettativa e la realtà.",
-    "author": "Anonimo",
-    "category": "delusione",
-    "caption": "A volte la realtà non corrisponde ai sogni. Ma si può ricominciare. 🌧️",
-    "hashtags": [
-      "#delusione",
-      "#aspettative",
-      "#realtà",
-      "#ricominciare",
-      "#forza"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582975+00:00"
-  },
-  {
-    "quote": "L'ironia è la forma più sottile di intelligenza.",
-    "author": "Oscar Wilde",
-    "category": "ironia",
-    "caption": "Un sorriso ironico dice più di mille parole. 😏",
-    "hashtags": [
-      "#ironia",
-      "#oscarwilde",
-      "#intelligenza",
-      "#umorismo",
-      "#sorriso"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582979+00:00"
-  },
-  {
     "quote": "La filosofia è un dialogo interiore che ci aiuta a vivere meglio.",
     "author": "Epicuro",
     "category": "filosofia",
@@ -7262,5 +7010,250 @@
       "#vita"
     ],
     "generated_at": "2026-09-29T03:18:46.754091+00:00"
+  },
+  {
+    "quote": "Non c'è vento favorevole per chi non sa dove andare.",
+    "author": "Lucio Anneo Seneca",
+    "category": "scelte",
+    "caption": "Prima di remare, decidi la rotta.",
+    "hashtags": [
+      "#seneca",
+      "#scelte",
+      "#direzione",
+      "#stoicismo",
+      "#rotta",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482303+00:00"
+  },
+  {
+    "quote": "Siamo quello che facciamo con ciò che abbiamo.",
+    "author": "Jean-Paul Sartre",
+    "category": "consapevolezza",
+    "caption": "Non conta cosa hai, ma cosa ne fai.",
+    "hashtags": [
+      "#sartre",
+      "#consapevolezza",
+      "#esistenzialismo",
+      "#azioni",
+      "#responsabilita"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482329+00:00"
+  },
+  {
+    "quote": "La vecchiaia non è altro che l'ultima scena del dramma.",
+    "author": "Cicerone",
+    "category": "maturità",
+    "caption": "Anche l'ultimo atto merita dignità.",
+    "hashtags": [
+      "#cicerone",
+      "#maturita",
+      "#vecchiaia",
+      "#saggezza",
+      "#vita"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482339+00:00"
+  },
+  {
+    "quote": "Non esiste amicizia senza fiducia.",
+    "author": "Marco Tullio Cicerone",
+    "category": "amicizia",
+    "caption": "La fiducia è il collante di ogni legame.",
+    "hashtags": [
+      "#amicizia",
+      "#fiducia",
+      "#cicerone",
+      "#legami",
+      "#relazioni"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482344+00:00"
+  },
+  {
+    "quote": "Il sonno della ragione genera mostri.",
+    "author": "Francisco Goya",
+    "category": "consapevolezza",
+    "caption": "Quando smetti di pensare, iniziano gli incubi.",
+    "hashtags": [
+      "#goya",
+      "#ragione",
+      "#consapevolezza",
+      "#arte",
+      "#pensiero"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482351+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte di un cuore gentile.",
+    "author": "Anonimo",
+    "category": "forza",
+    "caption": "La gentilezza è una forma di potenza.",
+    "hashtags": [
+      "#gentilezza",
+      "#forza",
+      "#cuore",
+      "#umanita"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482356+00:00"
+  },
+  {
+    "quote": "Il coraggio non è l'assenza di paura, ma il trionfo sulla paura.",
+    "author": "Nelson Mandela",
+    "category": "coraggio",
+    "caption": "La paura c'è, ma tu vai avanti.",
+    "hashtags": [
+      "#coraggio",
+      "#mandela",
+      "#paura",
+      "#forza",
+      "#determinazione"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482365+00:00"
+  },
+  {
+    "quote": "La disciplina è la madre del successo.",
+    "author": "Anonimo",
+    "category": "disciplina",
+    "caption": "Senza regole non si arriva lontano.",
+    "hashtags": [
+      "#disciplina",
+      "#successo",
+      "#costanza",
+      "#obiettivi"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482372+00:00"
+  },
+  {
+    "quote": "Chi non ha mai fallito non ha mai osato.",
+    "author": "Anonimo",
+    "category": "fallimento",
+    "caption": "Sbagliare è il prezzo di provarci.",
+    "hashtags": [
+      "#fallimento",
+      "#coraggio",
+      "#osare",
+      "#errori",
+      "#crescita"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482376+00:00"
+  },
+  {
+    "quote": "L'ambizione senza azione è solo un sogno.",
+    "author": "Anonimo",
+    "category": "ambizione",
+    "caption": "Sogna, ma muoviti.",
+    "hashtags": [
+      "#ambizione",
+      "#azione",
+      "#sogni",
+      "#obiettivi",
+      "#determinazione"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482388+00:00"
+  },
+  {
+    "quote": "Il vero viaggio è dentro te stesso.",
+    "author": "Anonimo",
+    "category": "viaggio",
+    "caption": "Il viaggio più importante è quello interiore.",
+    "hashtags": [
+      "#viaggio",
+      "#interiore",
+      "#crescita",
+      "#scoperta"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482392+00:00"
+  },
+  {
+    "quote": "La nostalgia è il profumo dei ricordi.",
+    "author": "Anonimo",
+    "category": "nostalgia",
+    "caption": "A volte il passato profuma di casa.",
+    "hashtags": [
+      "#nostalgia",
+      "#ricordi",
+      "#passato",
+      "#cuore"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482397+00:00"
+  },
+  {
+    "quote": "L'ironia è l'arma dei saggi.",
+    "author": "Anonimo",
+    "category": "ironia",
+    "caption": "Ridere di sé è un atto di intelligenza.",
+    "hashtags": [
+      "#ironia",
+      "#saggezza",
+      "#umorismo",
+      "#intelligenza"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482402+00:00"
+  },
+  {
+    "quote": "La pace è la sola battaglia che vale la pena combattere.",
+    "author": "Albert Camus",
+    "category": "pace",
+    "caption": "Lottare per la pace è la lotta più giusta.",
+    "hashtags": [
+      "#pace",
+      "#camus",
+      "#filosofia",
+      "#giustizia",
+      "#battaglia"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482407+00:00"
+  },
+  {
+    "quote": "La giovinezza non è un periodo, è uno stato d'animo.",
+    "author": "Anonimo",
+    "category": "giovinezza",
+    "caption": "Giovani dentro, sempre.",
+    "hashtags": [
+      "#giovinezza",
+      "#spirito",
+      "#giovani",
+      "#vita"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482413+00:00"
+  },
+  {
+    "quote": "La leadership è servire, non comandare.",
+    "author": "Anonimo",
+    "category": "leadership",
+    "caption": "Un vero leader si mette al servizio degli altri.",
+    "hashtags": [
+      "#leadership",
+      "#servizio",
+      "#esempio",
+      "#guida"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482417+00:00"
+  },
+  {
+    "quote": "Lo sport è la scuola della vita.",
+    "author": "Anonimo",
+    "category": "sport",
+    "caption": "Sul campo impari a vincere e a perdere.",
+    "hashtags": [
+      "#sport",
+      "#vita",
+      "#scuola",
+      "#disciplina",
+      "#squadra"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482425+00:00"
+  },
+  {
+    "quote": "Le relazioni più preziose sono quelle in cui puoi essere te stesso.",
+    "author": "Anonimo",
+    "category": "relazioni",
+    "caption": "Circondati di chi ti fa stare bene.",
+    "hashtags": [
+      "#relazioni",
+      "#autenticita",
+      "#legami",
+      "#benessere"
+    ],
+    "generated_at": "2026-09-29T17:16:32.482431+00:00"
   }
 ]

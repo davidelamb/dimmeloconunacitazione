@@ -1,19 +1,5 @@
 [
   {
-    "quote": "La giovinezza è il tempo di imparare, la maturità è il tempo di capire.",
-    "author": "Marie von Ebner-Eschenbach",
-    "category": "giovinezza",
-    "caption": "Ogni età ha il suo dono.",
-    "hashtags": [
-      "#giovinezza",
-      "#maturità",
-      "#crescita",
-      "#saggezza",
-      "#vita"
-    ],
-    "generated_at": "2026-08-22T12:19:10.323894+00:00"
-  },
-  {
     "quote": "Le nostre scelte rivelano chi siamo, molto più delle nostre capacità.",
     "author": "J.K. Rowling",
     "category": "scelte",
@@ -7258,5 +7244,20 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-09-30T03:01:04.670074+00:00"
+  },
+  {
+    "quote": "La nostalgia è il dolore di non poter tornare indietro.",
+    "author": "Anonimo",
+    "category": "nostalgia",
+    "caption": "A volte il passato fa male non perché era meglio, ma perché non torna.",
+    "hashtags": [
+      "#nostalgia",
+      "#passato",
+      "#ricordi",
+      "#malinconia",
+      "#tempo",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-30T17:14:46.363786+00:00"
   }
 ]

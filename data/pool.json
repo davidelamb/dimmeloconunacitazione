@@ -1,47 +1,5 @@
 [
   {
-    "quote": "La filosofia è un dialogo interiore che ci aiuta a vivere meglio.",
-    "author": "Epicuro",
-    "category": "filosofia",
-    "caption": "Pensare per capire, capire per vivere. 💭",
-    "hashtags": [
-      "#filosofia",
-      "#epicuro",
-      "#pensiero",
-      "#vita",
-      "#saggezza"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582982+00:00"
-  },
-  {
-    "quote": "Il minimalismo è la ricerca dell'essenziale.",
-    "author": "Anonimo",
-    "category": "minimalismo",
-    "caption": "Liberarsi del superfluo per trovare ciò che conta. 🍃",
-    "hashtags": [
-      "#minimalismo",
-      "#essenziale",
-      "#semplicità",
-      "#libertà",
-      "#equilibrio"
-    ],
-    "generated_at": "2026-08-22T00:40:13.582984+00:00"
-  },
-  {
-    "quote": "La forza non deriva dalla capacità fisica, ma da una volontà indomabile.",
-    "author": "Mahatma Gandhi",
-    "category": "forza",
-    "caption": "La vera forza è quella della mente e dello spirito.",
-    "hashtags": [
-      "#forza",
-      "#gandhi",
-      "#volontà",
-      "#spirito",
-      "#resilienza"
-    ],
-    "generated_at": "2026-08-22T12:19:10.323871+00:00"
-  },
-  {
     "quote": "La giovinezza è il tempo di imparare, la maturità è il tempo di capire.",
     "author": "Marie von Ebner-Eschenbach",
     "category": "giovinezza",
@@ -7255,5 +7213,50 @@
       "#benessere"
     ],
     "generated_at": "2026-09-29T17:16:32.482431+00:00"
+  },
+  {
+    "quote": "Il coraggio è la resistenza alla paura, non l'assenza di paura.",
+    "author": "Nelson Mandela",
+    "category": "coraggio",
+    "caption": "Coraggiosi non è chi non trema, ma chi trema e va avanti lo stesso.",
+    "hashtags": [
+      "#coraggio",
+      "#paura",
+      "#resilienza",
+      "#andareavanti",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-30T03:01:04.670024+00:00"
+  },
+  {
+    "quote": "Non è la forza, ma la perseveranza che compie grandi opere.",
+    "author": "Samuel Johnson",
+    "category": "resilienza",
+    "caption": "La tenacia silenziosa arriva dove la fretta si ferma.",
+    "hashtags": [
+      "#resilienza",
+      "#perseveranza",
+      "#forza",
+      "#nonmollare",
+      "#determinazione",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-30T03:01:04.670060+00:00"
+  },
+  {
+    "quote": "La speranza non è la certezza che qualcosa andrà bene, ma la certezza che qualcosa ha senso.",
+    "author": "Václav Havel",
+    "category": "speranza",
+    "caption": "Anche quando non capisci il perché, puoi scegliere di credere che conti.",
+    "hashtags": [
+      "#speranza",
+      "#senso",
+      "#fiducia",
+      "#domani",
+      "#resilienza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-09-30T03:01:04.670074+00:00"
   }
 ]

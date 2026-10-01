@@ -1,97 +1,5 @@
 [
   {
-    "quote": "Le nostre scelte rivelano chi siamo, molto più delle nostre capacità.",
-    "author": "J.K. Rowling",
-    "category": "scelte",
-    "caption": "Siamo ciò che scegliamo di essere.",
-    "hashtags": [
-      "#scelte",
-      "#rowling",
-      "#identità",
-      "#vita",
-      "#responsabilità"
-    ],
-    "generated_at": "2026-08-22T12:19:10.323904+00:00"
-  },
-  {
-    "quote": "Il destino non è una questione di sorte, ma di scelta.",
-    "author": "William Jennings Bryan",
-    "category": "destino",
-    "caption": "Il tuo futuro dipende da te.",
-    "hashtags": [
-      "#destino",
-      "#scelte",
-      "#bryan",
-      "#futuro",
-      "#determinazione"
-    ],
-    "generated_at": "2026-08-22T12:19:10.323910+00:00"
-  },
-  {
-    "quote": "La consapevolezza è il primo passo verso il cambiamento.",
-    "author": "Anonimo",
-    "category": "consapevolezza",
-    "caption": "Per cambiare, devi prima vedere.",
-    "hashtags": [
-      "#consapevolezza",
-      "#cambiamento",
-      "#crescita",
-      "#mindfulness",
-      "#introspezione"
-    ],
-    "generated_at": "2026-08-22T12:19:10.323915+00:00"
-  },
-  {
-    "quote": "Perdonare è la forma più alta di amore.",
-    "author": "Anonimo",
-    "category": "perdono",
-    "caption": "Perdonare libera il cuore.",
-    "hashtags": [
-      "#perdono",
-      "#amore",
-      "#liberazione",
-      "#cuore",
-      "#pace"
-    ],
-    "generated_at": "2026-08-22T12:19:10.323969+00:00"
-  },
-  {
-    "quote": "Amor che move il sole e l'altre stelle.",
-    "author": "Dante Alighieri",
-    "category": "amore",
-    "caption": "L'amore come forza cosmica che muove l'universo.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#poesia"
-    ],
-    "generated_at": "2026-08-23T00:43:05.105613+00:00"
-  },
-  {
-    "quote": "La vita è quello che ti accade mentre sei occupato a fare altri progetti.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "Vivi il presente, non rimandare la felicità.",
-    "hashtags": [
-      "#vita",
-      "#presente",
-      "#lennon"
-    ],
-    "generated_at": "2026-08-23T00:43:05.105639+00:00"
-  },
-  {
-    "quote": "Non smettere mai di lottare per ciò che vuoi.",
-    "author": "Madre Teresa di Calcutta",
-    "category": "motivazione",
-    "caption": "La determinazione vince su tutto.",
-    "hashtags": [
-      "#motivazione",
-      "#lotta",
-      "#determinazione"
-    ],
-    "generated_at": "2026-08-23T00:43:05.105647+00:00"
-  },
-  {
     "quote": "Il coraggio non è l'assenza di paura, ma la capacità di vincerla.",
     "author": "Nelson Mandela",
     "category": "coraggio",
@@ -7259,5 +7167,110 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-09-30T17:14:46.363786+00:00"
+  },
+  {
+    "quote": "La vita non è ciò che si vive, ma ciò che si ricorda e come lo si ricorda.",
+    "author": "Gabriel García Márquez",
+    "category": "vita",
+    "caption": "La memoria è il vero regista della nostra storia.",
+    "hashtags": [
+      "#vita",
+      "#memoria",
+      "#garciaMarquez",
+      "#ricordi",
+      "#letteratura",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-01T03:07:41.317899+00:00"
+  },
+  {
+    "quote": "Amare non è guardarsi l'un l'altro, ma guardare insieme nella stessa direzione.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "L'amore è un progetto condiviso, non uno specchio.",
+    "hashtags": [
+      "#amore",
+      "#saintExupery",
+      "#coppia",
+      "#sguardo",
+      "#dimmeloconunacitazione",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-01T03:07:41.317926+00:00"
+  },
+  {
+    "quote": "Che tu creda di farcela o di non farcela, avrai comunque ragione.",
+    "author": "Henry Ford",
+    "category": "motivazione",
+    "caption": "La mente decide il risultato prima ancora delle azioni.",
+    "hashtags": [
+      "#motivazione",
+      "#henryFord",
+      "#fiducia",
+      "#mentalità",
+      "#dimmeloconunacitazione",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-01T03:07:41.317935+00:00"
+  },
+  {
+    "quote": "Il fallimento è il condimento che dà sapore al successo.",
+    "author": "Truman Capote",
+    "category": "fallimento",
+    "caption": "Senza cadute, la vittoria avrebbe un sapore insipido.",
+    "hashtags": [
+      "#fallimento",
+      "#successo",
+      "#trumanCapote",
+      "#cadere",
+      "#dimmeloconunacitazione",
+      "#ripartire"
+    ],
+    "generated_at": "2026-10-01T03:07:41.317942+00:00"
+  },
+  {
+    "quote": "Il cambiamento non avviene senza disagio, ma nulla cambia senza di esso.",
+    "author": "James Baldwin",
+    "category": "cambiamento",
+    "caption": "Il disagio è il prezzo del diventare qualcosa di nuovo.",
+    "hashtags": [
+      "#cambiamento",
+      "#jamesBaldwin",
+      "#disagio",
+      "#trasformazione",
+      "#dimmeloconunacitazione",
+      "#crescita"
+    ],
+    "generated_at": "2026-10-01T03:07:41.317947+00:00"
+  },
+  {
+    "quote": "Diventa ciò che sei.",
+    "author": "Friedrich Nietzsche",
+    "category": "crescita personale",
+    "caption": "Non inventarti: scopriti.",
+    "hashtags": [
+      "#crescita",
+      "#nietzsche",
+      "#diventare",
+      "#identità",
+      "#dimmeloconunacitazione",
+      "#filosofia"
+    ],
+    "generated_at": "2026-10-01T03:07:41.317952+00:00"
+  },
+  {
+    "quote": "Un amico è qualcuno che ti conosce e ti ama comunque.",
+    "author": "Elbert Hubbard",
+    "category": "amicizia",
+    "caption": "L'amicizia vera non chiede perfezione.",
+    "hashtags": [
+      "#amicizia",
+      "#elbertHubbard",
+      "#amici",
+      "#accettazione",
+      "#dimmeloconunacitazione",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-01T03:07:41.317959+00:00"
   }
 ]

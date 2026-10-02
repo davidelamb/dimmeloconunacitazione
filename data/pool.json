@@ -1,33 +1,5 @@
 [
   {
-    "quote": "Il segreto del successo è la costanza dell'intento.",
-    "author": "Benjamin Disraeli",
-    "category": "successo",
-    "caption": "La costanza batte il talento, se il talento non è costante. 🌟",
-    "hashtags": [
-      "#successo",
-      "#costanza",
-      "#motivazione",
-      "#obiettivi",
-      "#crescita"
-    ],
-    "generated_at": "2026-08-23T12:19:47.157312+00:00"
-  },
-  {
-    "quote": "La vita è ciò che fai di essa.",
-    "author": "Helen Keller",
-    "category": "vita",
-    "caption": "Ogni giorno è una tela bianca. Dipingi la tua vita. 🎨",
-    "hashtags": [
-      "#vita",
-      "#ispirazione",
-      "#positività",
-      "#vivere",
-      "#ognigiorno"
-    ],
-    "generated_at": "2026-08-23T12:19:47.157339+00:00"
-  },
-  {
     "quote": "Non contare i giorni, fai sì che i giorni contino.",
     "author": "Muhammad Ali",
     "category": "tempo",
@@ -7275,5 +7247,33 @@
       "#presente"
     ],
     "generated_at": "2026-10-01T17:43:23.691605+00:00"
+  },
+  {
+    "quote": "L'amore non è amore se muta quando trova mutamento.",
+    "author": "William Shakespeare",
+    "category": "amore",
+    "caption": "L'amore vero non cambia con le circostanze.",
+    "hashtags": [
+      "#amore",
+      "#shakespeare",
+      "#citazioni",
+      "#amorevero",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-02T03:09:42.288816+00:00"
+  },
+  {
+    "quote": "Il cambiamento è la legge della vita. E coloro che guardano solo al passato o al presente si perderanno il futuro.",
+    "author": "John F. Kennedy",
+    "category": "cambiamento",
+    "caption": "Abbraccia il cambiamento, è l'unica costante.",
+    "hashtags": [
+      "#cambiamento",
+      "#kennedy",
+      "#citazioni",
+      "#futuro",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-02T03:09:42.288852+00:00"
   }
 ]

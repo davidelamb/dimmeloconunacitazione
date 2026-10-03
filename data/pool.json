@@ -1,188 +1,5 @@
 [
   {
-    "quote": "Non contare i giorni, fai sì che i giorni contino.",
-    "author": "Muhammad Ali",
-    "category": "tempo",
-    "caption": "Il tempo è l'unica risorsa che non si può recuperare. Usalo bene. ⏳",
-    "hashtags": [
-      "#tempo",
-      "#vita",
-      "#consapevolezza",
-      "#tempoèvita",
-      "#motivazione"
-    ],
-    "generated_at": "2026-08-23T12:19:47.157345+00:00"
-  },
-  {
-    "quote": "Il coraggio è la virtù più importante, perché senza coraggio non puoi praticare nessun'altra virtù con costanza.",
-    "author": "Maya Angelou",
-    "category": "coraggio",
-    "caption": "Il coraggio non è non avere paura, ma agire nonostante essa. 🦁",
-    "hashtags": [
-      "#coraggio",
-      "#paura",
-      "#forza",
-      "#determinazione",
-      "#virtù"
-    ],
-    "generated_at": "2026-08-23T12:19:47.157351+00:00"
-  },
-  {
-    "quote": "L'autostima non è un lusso, ma una necessità.",
-    "author": "Anonimo",
-    "category": "autostima",
-    "caption": "Ama te stesso, è il primo passo per amare gli altri. 💖",
-    "hashtags": [
-      "#autostima",
-      "#amorproprio",
-      "#fiducia",
-      "#selflove",
-      "#benessere"
-    ],
-    "generated_at": "2026-08-23T12:19:47.157358+00:00"
-  },
-  {
-    "quote": "Il segreto per andare avanti è iniziare.",
-    "author": "Mark Twain",
-    "category": "motivazione",
-    "caption": "Il primo passo è sempre il più difficile, ma è quello che ti porta lontano. 🚀",
-    "hashtags": [
-      "#motivazione",
-      "#cambiamento",
-      "#crescitapersonale",
-      "#inizia",
-      "#passoallavolta"
-    ],
-    "generated_at": "2026-08-24T12:27:54.270514+00:00"
-  },
-  {
-    "quote": "Chi non ama se stesso non può amare nessuno.",
-    "author": "Confucio",
-    "category": "autostima",
-    "caption": "L'amore per sé è il fondamento di ogni relazione. ❤️",
-    "hashtags": [
-      "#autostima",
-      "#amoreproprio",
-      "#crescitapersonale",
-      "#consapevolezza",
-      "#benessere"
-    ],
-    "generated_at": "2026-08-24T12:27:54.270541+00:00"
-  },
-  {
-    "quote": "La disciplina è la scelta tra ciò che vuoi ora e ciò che vuoi di più.",
-    "author": "Abraham Lincoln",
-    "category": "disciplina",
-    "caption": "La vera forza è saper aspettare il momento giusto. ⏳",
-    "hashtags": [
-      "#disciplina",
-      "#pazienza",
-      "#obiettivi",
-      "#forzadivolontà",
-      "#costanza"
-    ],
-    "generated_at": "2026-08-24T12:27:54.270550+00:00"
-  },
-  {
-    "quote": "L'amicizia è la cosa più difficile da spiegare al mondo.",
-    "author": "Anonimo",
-    "category": "amicizia",
-    "caption": "Non è una scuola, ma è lì che impariamo le cose più importanti. 👫",
-    "hashtags": [
-      "#amicizia",
-      "#relazioni",
-      "#affetto",
-      "#compagnia",
-      "#cuore"
-    ],
-    "generated_at": "2026-08-24T12:27:54.270560+00:00"
-  },
-  {
-    "quote": "Il tempo è la moneta della tua vita.",
-    "author": "Carl Sandburg",
-    "category": "tempo",
-    "caption": "Spendilo con saggezza, perché non si può ricomprare. ⏰",
-    "hashtags": [
-      "#tempo",
-      "#vita",
-      "#saggezza",
-      "#prezioso",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-08-24T12:27:54.270567+00:00"
-  },
-  {
-    "quote": "La pazienza è la forza dei deboli e l'impazienza la debolezza dei forti.",
-    "author": "Immanuel Kant",
-    "category": "pazienza",
-    "caption": "Chi sa aspettare, ottiene. 🌱",
-    "hashtags": [
-      "#pazienza",
-      "#forza",
-      "#attesa",
-      "#saggezza",
-      "#tempo"
-    ],
-    "generated_at": "2026-08-24T12:27:54.270572+00:00"
-  },
-  {
-    "quote": "Lo sport è la vita in miniatura.",
-    "author": "Anonimo",
-    "category": "sport",
-    "caption": "Ogni sfida è un'opportunità per superarsi. 🏃",
-    "hashtags": [
-      "#sport",
-      "#sfida",
-      "#superamento",
-      "#determinazione",
-      "#vita"
-    ],
-    "generated_at": "2026-08-24T12:27:54.270592+00:00"
-  },
-  {
-    "quote": "La giovinezza è il tempo di imparare, la maturità il tempo di capire.",
-    "author": "Anonimo",
-    "category": "giovinezza",
-    "caption": "Ogni età ha il suo dono. 🌱",
-    "hashtags": [
-      "#giovinezza",
-      "#maturità",
-      "#apprendimento",
-      "#comprensione",
-      "#vita"
-    ],
-    "generated_at": "2026-08-24T12:27:54.270597+00:00"
-  },
-  {
-    "quote": "La maturità è la capacità di pensare prima di agire.",
-    "author": "Anonimo",
-    "category": "maturità",
-    "caption": "La saggezza arriva con la riflessione. 🌳",
-    "hashtags": [
-      "#maturità",
-      "#saggezza",
-      "#riflessione",
-      "#scelte",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-08-24T12:27:54.270602+00:00"
-  },
-  {
-    "quote": "Le relazioni sono lo specchio dell'anima.",
-    "author": "Anonimo",
-    "category": "relazioni",
-    "caption": "Le persone che incontri ti mostrano chi sei davvero. Le relazioni sono maestre di vita.",
-    "hashtags": [
-      "#relazioni",
-      "#specchio",
-      "#anima",
-      "#citazioni",
-      "#crescita",
-      "#persone"
-    ],
-    "generated_at": "2026-08-25T00:41:16.921181+00:00"
-  },
-  {
     "quote": "L'amicizia è la cosa più difficile da spiegare al mondo. Non è qualcosa che impari a scuola. Ma se non hai imparato il significato dell'amicizia, non hai imparato proprio nulla.",
     "author": "Muhammad Ali",
     "category": "amicizia",
@@ -7275,5 +7092,200 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-02T03:09:42.288852+00:00"
+  },
+  {
+    "quote": "La speranza è un buon colazione ma una cattiva cena.",
+    "author": "Francesco Bacone",
+    "category": "speranza",
+    "caption": "Sperare apre la giornata, ma è l'azione che la chiude bene.",
+    "hashtags": [
+      "#speranza",
+      "#filosofia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#crescita",
+      "#motivazione"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664661+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di nobile nell'essere superiore a un altro uomo. La vera nobiltà è essere superiore al tuo io precedente.",
+    "author": "Ernest Hemingway",
+    "category": "crescita personale",
+    "caption": "L'unico confronto che vale è con chi eri ieri.",
+    "hashtags": [
+      "#crescita",
+      "#crescenzapersonale",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#migliorarsi",
+      "#ispirazione"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664689+00:00"
+  },
+  {
+    "quote": "Ogni uomo prende i limiti del proprio campo visivo per i limiti del mondo.",
+    "author": "Arthur Schopenhauer",
+    "category": "consapevolezza",
+    "caption": "Il mondo finisce dove finisce il nostro sguardo. Allargalo.",
+    "hashtags": [
+      "#consapevolezza",
+      "#filosofia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#pensieri",
+      "#riflessioni"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664696+00:00"
+  },
+  {
+    "quote": "La gioventù non è un periodo della vita, è una condizione dello spirito.",
+    "author": "Johann Wolfgang von Goethe",
+    "category": "giovinezza",
+    "caption": "Si può invecchiare senza diventare vecchi.",
+    "hashtags": [
+      "#giovinezza",
+      "#spirito",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#energia",
+      "#vita"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664701+00:00"
+  },
+  {
+    "quote": "La vecchiaia è la cosa più inaspettata che possa capitare a un uomo.",
+    "author": "Leo Tolstoj",
+    "category": "maturità",
+    "caption": "Nessuno ci prepara davvero a diventare grandi.",
+    "hashtags": [
+      "#maturità",
+      "#vecchiaia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#vita",
+      "#riflessioni"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664709+00:00"
+  },
+  {
+    "quote": "La libertà non è assenza di impegno, ma capacità di scegliere il proprio.",
+    "author": "Paulo Freire",
+    "category": "libertà",
+    "caption": "Essere liberi non significa non avere legami, ma sceglierli.",
+    "hashtags": [
+      "#libertà",
+      "#scelte",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#pensiero",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664716+00:00"
+  },
+  {
+    "quote": "Il coraggio è la più importante delle virtù perché senza di esso non possiamo praticare nessuna delle altre.",
+    "author": "Winston Churchill",
+    "category": "coraggio",
+    "caption": "Senza coraggio, ogni altra virtù resta un'idea.",
+    "hashtags": [
+      "#coraggio",
+      "#virtù",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#forza",
+      "#motivazione"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664723+00:00"
+  },
+  {
+    "quote": "La disciplina è l'anima di un esercito.",
+    "author": "George Washington",
+    "category": "disciplina",
+    "caption": "Anche i grandi progetti hanno bisogno di piccoli ordini quotidiani.",
+    "hashtags": [
+      "#disciplina",
+      "#leadership",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#costanza",
+      "#obiettivi"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664727+00:00"
+  },
+  {
+    "quote": "Il fallimento è il maestro più severo, ma anche il più utile.",
+    "author": "Charles Dickens",
+    "category": "fallimento",
+    "caption": "Gli errori che ci fanno male sono quelli che ci insegnano di più.",
+    "hashtags": [
+      "#fallimento",
+      "#errori",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#resilienza",
+      "#crescita"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664732+00:00"
+  },
+  {
+    "quote": "Non è il più forte che sopravvive, né il più intelligente, ma quello che meglio risponde al cambiamento.",
+    "author": "Leon Megginson",
+    "category": "cambiamento",
+    "caption": "Adattarsi non è debolezza: è la forma più intelligente di forza.",
+    "hashtags": [
+      "#cambiamento",
+      "#adattamento",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#resilienza",
+      "#evoluzione"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664736+00:00"
+  },
+  {
+    "quote": "La resilienza non è resistere alla tempesta, è ballare sotto la pioggia.",
+    "author": "Viktor Frankl",
+    "category": "resilienza",
+    "caption": "Non puoi fermare la pioggia. Puoi imparare a muoverti dentro.",
+    "hashtags": [
+      "#resilienza",
+      "#forza",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#coraggio",
+      "#vita"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664740+00:00"
+  },
+  {
+    "quote": "Non è la mente che deve essere riempita, ma il fuoco che deve essere acceso.",
+    "author": "Plutarco",
+    "category": "filosofia",
+    "caption": "Imparare non è accumulare nozioni: è accendere qualcosa dentro.",
+    "hashtags": [
+      "#filosofia",
+      "#conoscenza",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#crescita",
+      "#pensiero"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664744+00:00"
+  },
+  {
+    "quote": "Il tempo è la cosa più preziosa che un uomo possa spendere.",
+    "author": "Teofrasto",
+    "category": "tempo",
+    "caption": "Non si compra, non si risparmia: si sceglie come spenderlo.",
+    "hashtags": [
+      "#tempo",
+      "#vita",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#scelte",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-10-03T02:55:35.664752+00:00"
   }
 ]

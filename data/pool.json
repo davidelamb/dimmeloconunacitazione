@@ -1,62 +1,5 @@
 [
   {
-    "quote": "L'amicizia è la cosa più difficile da spiegare al mondo. Non è qualcosa che impari a scuola. Ma se non hai imparato il significato dell'amicizia, non hai imparato proprio nulla.",
-    "author": "Muhammad Ali",
-    "category": "amicizia",
-    "caption": "L'amicizia vera non si insegna, si vive. È la lezione più importante. #amicizia #legami #affetto #fiducia #vita #valori",
-    "hashtags": [
-      "#amicizia",
-      "#legami",
-      "#affetto",
-      "#fiducia",
-      "#vita",
-      "#valori"
-    ],
-    "generated_at": "2026-08-26T00:42:09.911566+00:00"
-  },
-  {
-    "quote": "L'amore è la sola forza capace di trasformare un nemico in un amico.",
-    "author": "Martin Luther King Jr.",
-    "category": "amore",
-    "caption": "Il potere dell'amore va oltre ogni confine.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#frasi",
-      "#cuore",
-      "#amorevero"
-    ],
-    "generated_at": "2026-08-26T12:31:26.476888+00:00"
-  },
-  {
-    "quote": "La vita è ciò che accade mentre sei occupato a fare altri progetti.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "Vivi il presente, è l'unico momento che conta.",
-    "hashtags": [
-      "#vita",
-      "#presente",
-      "#citazioni",
-      "#viveremeglio",
-      "#attimo"
-    ],
-    "generated_at": "2026-08-26T12:31:26.476913+00:00"
-  },
-  {
-    "quote": "Non è la forza, ma la perseveranza che fa grandi le cose.",
-    "author": "Samuel Johnson",
-    "category": "resilienza",
-    "caption": "La costanza vince su tutto.",
-    "hashtags": [
-      "#resilienza",
-      "#perseveranza",
-      "#forza",
-      "#costanza",
-      "#nonmollare"
-    ],
-    "generated_at": "2026-08-26T12:31:26.476923+00:00"
-  },
-  {
     "quote": "Il cambiamento è il risultato finale di tutto il vero apprendimento.",
     "author": "Leo Buscaglia",
     "category": "cambiamento",
@@ -7287,5 +7230,65 @@
       "#consapevolezza"
     ],
     "generated_at": "2026-10-03T02:55:35.664752+00:00"
+  },
+  {
+    "quote": "La cosa più difficile è conoscere se stessi, ma è anche la più necessaria.",
+    "author": "Aristotele",
+    "category": "consapevolezza",
+    "caption": "Guardarsi dentro è il viaggio più lungo che esista.",
+    "hashtags": [
+      "#consapevolezza",
+      "#conoscersi",
+      "#crescita",
+      "#filosofia",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-03T15:25:22.027196+00:00"
+  },
+  {
+    "quote": "Non è la forza ma la costanza che compie grandi opere.",
+    "author": "Samuel Johnson",
+    "category": "resilienza",
+    "caption": "La costanza batte il talento quando il talento si ferma.",
+    "hashtags": [
+      "#resilienza",
+      "#costanza",
+      "#forza",
+      "#motivazione",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-03T15:25:22.027221+00:00"
+  },
+  {
+    "quote": "Non importa quanto lentamente vai, l'importante è non tornare indietro.",
+    "author": "Confucio",
+    "category": "motivazione",
+    "caption": "La direzione conta più della velocità.",
+    "hashtags": [
+      "#motivazione",
+      "#confucio",
+      "#passi",
+      "#costanza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-03T15:25:22.027239+00:00"
+  },
+  {
+    "quote": "Il talento vince le partite, ma il lavoro di squadra vince i campionati.",
+    "author": "Michael Jordan",
+    "category": "sport",
+    "caption": "Da soli si corre, insieme si arriva.",
+    "hashtags": [
+      "#sport",
+      "#squadra",
+      "#talento",
+      "#lavoro",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-03T15:25:22.027249+00:00"
   }
 ]

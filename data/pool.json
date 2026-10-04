@@ -1,103 +1,5 @@
 [
   {
-    "quote": "Il cambiamento è il risultato finale di tutto il vero apprendimento.",
-    "author": "Leo Buscaglia",
-    "category": "cambiamento",
-    "caption": "Imparare significa trasformarsi.",
-    "hashtags": [
-      "#cambiamento",
-      "#crescita",
-      "#apprendimento",
-      "#evoluzione",
-      "#trasformazione"
-    ],
-    "generated_at": "2026-08-26T12:31:26.476928+00:00"
-  },
-  {
-    "quote": "L'amore non si vede, non si tocca, ma si sente.",
-    "author": "Madre Teresa di Calcutta",
-    "category": "amore",
-    "caption": "L'amore vero va oltre i sensi.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#cuore",
-      "#sentimenti",
-      "#amorevero"
-    ],
-    "generated_at": "2026-08-27T05:47:26.963290+00:00"
-  },
-  {
-    "quote": "La vita è un'opportunità, coglila.",
-    "author": "Madre Teresa di Calcutta",
-    "category": "vita",
-    "caption": "Ogni giorno è un dono.",
-    "hashtags": [
-      "#vita",
-      "#opportunità",
-      "#citazioni",
-      "#vivere",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-08-27T05:47:26.963321+00:00"
-  },
-  {
-    "quote": "Il coraggio è la resistenza alla paura, al dominio della paura, non l'assenza di paura.",
-    "author": "Mark Twain",
-    "category": "coraggio",
-    "caption": "Il coraggio è agire nonostante la paura.",
-    "hashtags": [
-      "#coraggio",
-      "#paura",
-      "#citazioni",
-      "#forza",
-      "#superamento"
-    ],
-    "generated_at": "2026-08-27T05:47:26.963331+00:00"
-  },
-  {
-    "quote": "Ho fallito più e più volte nella mia vita. Ecco perché ho avuto successo.",
-    "author": "Michael Jordan",
-    "category": "fallimento",
-    "caption": "Il fallimento è il trampolino.",
-    "hashtags": [
-      "#fallimento",
-      "#successo",
-      "#citazioni",
-      "#resilienza",
-      "#imparare"
-    ],
-    "generated_at": "2026-08-27T05:47:26.963338+00:00"
-  },
-  {
-    "quote": "La resilienza è la capacità di affrontare le avversità e di uscirne più forti di prima.",
-    "author": "Boris Cyrulnik",
-    "category": "resilienza",
-    "caption": "Le difficoltà ci rendono più forti.",
-    "hashtags": [
-      "#resilienza",
-      "#forza",
-      "#citazioni",
-      "#superazione",
-      "#crescita"
-    ],
-    "generated_at": "2026-08-27T05:47:26.963343+00:00"
-  },
-  {
-    "quote": "Il successo non è la chiave della felicità. La felicità è la chiave del successo.",
-    "author": "Albert Schweitzer",
-    "category": "successo",
-    "caption": "Se ami ciò che fai, il successo arriva da solo. 💫",
-    "hashtags": [
-      "#successo",
-      "#felicità",
-      "#albertschweitzer",
-      "#motivazione",
-      "#passione"
-    ],
-    "generated_at": "2026-08-27T21:26:45.735761+00:00"
-  },
-  {
     "quote": "L'amore non è guardarsi a vicenda, ma guardare insieme nella stessa direzione.",
     "author": "Antoine de Saint-Exupéry",
     "category": "amore",
@@ -7290,5 +7192,110 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-03T15:25:22.027249+00:00"
+  },
+  {
+    "quote": "La vita è quella cosa che ti succede mentre sei impegnato a fare altri piani.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "I piani perfetti esistono solo sulla carta.",
+    "hashtags": [
+      "#vita",
+      "#citazioni",
+      "#johnlennon",
+      "#piani",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-04T16:10:03.163663+00:00"
+  },
+  {
+    "quote": "Non è che abbiamo poco tempo, è che ne perdiamo molto.",
+    "author": "Seneca",
+    "category": "tempo",
+    "caption": "Il tempo non manca mai: lo sprechiamo noi.",
+    "hashtags": [
+      "#tempo",
+      "#citazioni",
+      "#seneca",
+      "#stoicismo",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-04T16:10:03.163690+00:00"
+  },
+  {
+    "quote": "La disciplina è la scelta tra ciò che vuoi ora e ciò che vuoi di più.",
+    "author": "Abraham Lincoln",
+    "category": "disciplina",
+    "caption": "Ogni no di oggi è un sì più grande domani.",
+    "hashtags": [
+      "#disciplina",
+      "#citazioni",
+      "#lincoln",
+      "#obiettivi",
+      "#costanza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-04T16:10:03.163699+00:00"
+  },
+  {
+    "quote": "Non importa quanto vai piano, l'importante è che non ti fermi.",
+    "author": "Confucio",
+    "category": "resilienza",
+    "caption": "La costanza batte la velocità, sempre.",
+    "hashtags": [
+      "#resilienza",
+      "#citazioni",
+      "#confucio",
+      "#costanza",
+      "#nonfermarti",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-04T16:10:03.163706+00:00"
+  },
+  {
+    "quote": "La più grande gloria non consiste nel non cadere mai, ma nel rialzarsi ogni volta che cadiamo.",
+    "author": "Confucio",
+    "category": "forza",
+    "caption": "Cadere è umano, rialzarsi è una scelta.",
+    "hashtags": [
+      "#forza",
+      "#citazioni",
+      "#confucio",
+      "#rialzarsi",
+      "#cadute",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-04T16:10:03.163712+00:00"
+  },
+  {
+    "quote": "L'amicizia è un'anima sola in due corpi.",
+    "author": "Aristotele",
+    "category": "amicizia",
+    "caption": "Ci sono amici che sono casa.",
+    "hashtags": [
+      "#amicizia",
+      "#citazioni",
+      "#aristotele",
+      "#anima",
+      "#amici",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-04T16:10:03.163725+00:00"
+  },
+  {
+    "quote": "Il vero viaggio di scoperta non consiste nel cercare nuove terre, ma nell'avere nuovi occhi.",
+    "author": "Marcel Proust",
+    "category": "viaggio",
+    "caption": "Si può viaggiare anche restando fermi, basta cambiare sguardo.",
+    "hashtags": [
+      "#viaggio",
+      "#citazioni",
+      "#proust",
+      "#scoperta",
+      "#sguardo",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-04T16:10:03.163740+00:00"
   }
 ]

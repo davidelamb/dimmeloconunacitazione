@@ -1,35 +1,5 @@
 [
   {
-    "quote": "L'amore non è guardarsi a vicenda, ma guardare insieme nella stessa direzione.",
-    "author": "Antoine de Saint-Exupéry",
-    "category": "amore",
-    "caption": "Due sguardi che si incontrano, due cuori che camminano insieme. L'amore vero è una direzione condivisa.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#coppia",
-      "#amorevero",
-      "#instaquote",
-      "#frasi"
-    ],
-    "generated_at": "2026-08-29T04:48:51.600452+00:00"
-  },
-  {
-    "quote": "L'amore è l'unica forza capace di trasformare un nemico in un amico.",
-    "author": "Martin Luther King",
-    "category": "amore",
-    "caption": "L'amore ha il potere di cambiare le persone e le relazioni.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#frasi",
-      "#amorevero",
-      "#cuore",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-08-30T15:43:23.522243+00:00"
-  },
-  {
     "quote": "Amor che a nullo amato amar perdona",
     "author": "Dante Alighieri",
     "category": "amore",
@@ -7297,5 +7267,33 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-04T16:10:03.163740+00:00"
+  },
+  {
+    "quote": "La felicità non è avere tutto, ma apprezzare ciò che hai.",
+    "author": "Anonimo",
+    "category": "felicità",
+    "caption": "La felicità è una questione di prospettiva.",
+    "hashtags": [
+      "#felicità",
+      "#gratitudine",
+      "#prospettiva",
+      "#apprezzare",
+      "#vita"
+    ],
+    "generated_at": "2026-10-05T03:03:19.887512+00:00"
+  },
+  {
+    "quote": "Il coraggio non è la mancanza di paura, ma la capacità di agire nonostante essa.",
+    "author": "Nelson Mandela",
+    "category": "coraggio",
+    "caption": "La paura non deve fermarti: agisci comunque.",
+    "hashtags": [
+      "#coraggio",
+      "#Mandela",
+      "#paura",
+      "#azione",
+      "#forza"
+    ],
+    "generated_at": "2026-10-05T03:03:19.887538+00:00"
   }
 ]

@@ -1,356 +1,5 @@
 [
   {
-    "quote": "Amare se stessi è l'inizio di una storia d'amore lunga una vita.",
-    "author": "Oscar Wilde",
-    "category": "autostima",
-    "caption": "L'amore per sé è il fondamento di ogni altro amore. 🌟",
-    "hashtags": [
-      "#autostima",
-      "#amorproprio",
-      "#crescitapersonale",
-      "#benessere",
-      "#selflove",
-      "#citazioni"
-    ],
-    "generated_at": "2026-09-02T15:37:45.917911+00:00"
-  },
-  {
-    "quote": "Non importa quanto lentamente tu vada, finché non ti fermi.",
-    "author": "Confucio",
-    "category": "motivazione",
-    "caption": "Ogni passo avanti conta, anche il più piccolo.",
-    "hashtags": [
-      "#motivazione",
-      "#costanza",
-      "#citazioni",
-      "#vaiavanti",
-      "#nonsmettemai"
-    ],
-    "generated_at": "2026-09-03T15:28:50.844140+00:00"
-  },
-  {
-    "quote": "Amare è agire.",
-    "author": "Victor Hugo",
-    "category": "amore",
-    "caption": "L'amore non è solo un sentimento, è una scelta che si rinnova ogni giorno.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#amorevero",
-      "#vita",
-      "#cuore"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229011+00:00"
-  },
-  {
-    "quote": "Non smettere mai di imparare, perché la vita non smette mai di insegnare.",
-    "author": "Anonimo",
-    "category": "crescita personale",
-    "caption": "Ogni giorno è una lezione, se sai ascoltare.",
-    "hashtags": [
-      "#crescita",
-      "#imparare",
-      "#saggezza",
-      "#vita",
-      "#lezione"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229051+00:00"
-  },
-  {
-    "quote": "La disciplina è l'arte di volere ciò che si fa.",
-    "author": "Jim Rohn",
-    "category": "disciplina",
-    "caption": "Quando ami quello che fai, la disciplina diventa naturale.",
-    "hashtags": [
-      "#disciplina",
-      "#costanza",
-      "#motivazione",
-      "#lavoro",
-      "#abitudini"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229057+00:00"
-  },
-  {
-    "quote": "Il fallimento è il fondamento del successo.",
-    "author": "William Shakespeare",
-    "category": "fallimento",
-    "caption": "Ogni errore è un passo avanti verso la vetta.",
-    "hashtags": [
-      "#fallimento",
-      "#successo",
-      "#resilienza",
-      "#errori",
-      "#crescita"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229064+00:00"
-  },
-  {
-    "quote": "L'amicizia è uno spirito in due corpi.",
-    "author": "Aristotele",
-    "category": "amicizia",
-    "caption": "Chi ha un amico, ha un tesoro.",
-    "hashtags": [
-      "#amicizia",
-      "#amici",
-      "#legami",
-      "#affetto",
-      "#compagnia"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229076+00:00"
-  },
-  {
-    "quote": "La solitudine è una scelta, la solitudine è un'arte.",
-    "author": "Anonimo",
-    "category": "solitudine",
-    "caption": "Impara a stare con te stesso, è lì che inizia la vera compagnia.",
-    "hashtags": [
-      "#solitudine",
-      "#introspezione",
-      "#crescita",
-      "#pace",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229081+00:00"
-  },
-  {
-    "quote": "Il tempo è ciò che più desideriamo e ciò che peggio usiamo.",
-    "author": "William Penn",
-    "category": "tempo",
-    "caption": "Il tempo è l'unica risorsa che non si può comprare.",
-    "hashtags": [
-      "#tempo",
-      "#vita",
-      "#priorità",
-      "#gestione",
-      "#prezioso"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229085+00:00"
-  },
-  {
-    "quote": "I sogni sono la linfa dell'anima.",
-    "author": "Anonimo",
-    "category": "sogni",
-    "caption": "Senza sogni, la vita è solo un'esistenza.",
-    "hashtags": [
-      "#sogni",
-      "#speranza",
-      "#anima",
-      "#futuro",
-      "#desideri"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229089+00:00"
-  },
-  {
-    "quote": "L'ambizione è la via verso il successo. La perseveranza è il veicolo che ti ci porta.",
-    "author": "Bill Bradley",
-    "category": "ambizione",
-    "caption": "Ambizione e perseveranza: il binomio vincente.",
-    "hashtags": [
-      "#ambizione",
-      "#perseveranza",
-      "#successo",
-      "#obiettivi",
-      "#determinazione"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229093+00:00"
-  },
-  {
-    "quote": "Il lavoro vince su tutto.",
-    "author": "Virgilio",
-    "category": "lavoro",
-    "caption": "La costanza nel lavoro è la chiave di ogni risultato.",
-    "hashtags": [
-      "#lavoro",
-      "#impegno",
-      "#costanza",
-      "#successo",
-      "#etica"
-    ],
-    "generated_at": "2026-09-06T01:57:09.229099+00:00"
-  },
-  {
-    "quote": "L'unica cosa di cui dobbiamo avere paura è la paura stessa.",
-    "author": "Franklin D. Roosevelt",
-    "category": "coraggio",
-    "caption": "Il coraggio non è l'assenza di paura, ma la capacità di agire nonostante essa.",
-    "hashtags": [
-      "#coraggio",
-      "#paura",
-      "#forza",
-      "#ispirazione",
-      "#citate"
-    ],
-    "generated_at": "2026-09-06T14:37:48.184304+00:00"
-  },
-  {
-    "quote": "Non puoi attraversare il mare semplicemente stando in piedi a guardare l'acqua.",
-    "author": "Rabindranath Tagore",
-    "category": "azione",
-    "caption": "Non aspettare il momento perfetto. Muoviti e crea il tuo percorso.",
-    "hashtags": [
-      "#azione",
-      "#mare",
-      "#coraggio",
-      "#vita",
-      "#nonaspettare"
-    ],
-    "generated_at": "2026-09-06T14:37:48.184336+00:00"
-  },
-  {
-    "quote": "L'amicizia duplica le gioie e divide le angosce.",
-    "author": "Francis Bacon",
-    "category": "amicizia",
-    "caption": "Un vero amico è un tesoro prezioso. Coltiva le tue amicizie.",
-    "hashtags": [
-      "#amicizia",
-      "#amici",
-      "#gioie",
-      "#condivisione",
-      "#affetto"
-    ],
-    "generated_at": "2026-09-06T14:37:48.184345+00:00"
-  },
-  {
-    "quote": "Amare è un atto di coraggio, non un sentimento.",
-    "author": "Paulo Coelho",
-    "category": "amore",
-    "caption": "L'amore non è un'emozione passiva, ma una scelta attiva.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#coraggio",
-      "#paolocoelho",
-      "#frasi"
-    ],
-    "generated_at": "2026-09-07T01:54:34.123495+00:00"
-  },
-  {
-    "quote": "La vita è quello che fai di essa.",
-    "author": "Helen Keller",
-    "category": "vita",
-    "caption": "Il potere di plasmare la nostra vita è nelle nostre mani.",
-    "hashtags": [
-      "#vita",
-      "#citazioni",
-      "#helenkeller",
-      "#frasimotivazionali",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-09-07T01:54:34.123565+00:00"
-  },
-  {
-    "quote": "Il modo migliore per prevedere il futuro è inventarlo.",
-    "author": "Alan Kay",
-    "category": "innovazione",
-    "caption": "Il futuro non si aspetta, si costruisce. 🚀",
-    "hashtags": [
-      "#futuro",
-      "#innovazione",
-      "#creatività",
-      "#visione",
-      "#cambiamento"
-    ],
-    "generated_at": "2026-09-07T16:52:09.615740+00:00"
-  },
-  {
-    "quote": "L'importante non è ciò che si guarda, ma ciò che si vede.",
-    "author": "Henry David Thoreau",
-    "category": "percezione",
-    "caption": "Osserva il mondo con occhi nuovi. 👀",
-    "hashtags": [
-      "#percezione",
-      "#sguardo",
-      "#bellezza",
-      "#filosofia",
-      "#quotidiano"
-    ],
-    "generated_at": "2026-09-07T16:52:09.615765+00:00"
-  },
-  {
-    "quote": "La vita è un'opera teatrale che non prova mai. Perciò canta, ridi, balla, ama e vivi intensamente ad ogni atto.",
-    "author": "Anonimo",
-    "category": "vita",
-    "caption": "Ogni giorno è una prima. 🎭",
-    "hashtags": [
-      "#vita",
-      "#spettacolo",
-      "#intensità",
-      "#gioia",
-      "#vivere"
-    ],
-    "generated_at": "2026-09-07T16:52:09.615771+00:00"
-  },
-  {
-    "quote": "Non puoi fermare le onde, ma puoi imparare a surfare.",
-    "author": "Jon Kabat-Zinn",
-    "category": "resilienza",
-    "caption": "Adattarsi è la chiave. 🌊",
-    "hashtags": [
-      "#resilienza",
-      "#adattamento",
-      "#vita",
-      "#cambiamento",
-      "#superamento"
-    ],
-    "generated_at": "2026-09-07T16:52:09.615779+00:00"
-  },
-  {
-    "quote": "Solo chi rischia di andare troppo lontano può scoprire quanto lontano può arrivare.",
-    "author": "T.S. Eliot",
-    "category": "coraggio",
-    "caption": "Osare per scoprire i propri limiti. 🚀",
-    "hashtags": [
-      "#coraggio",
-      "#rischio",
-      "#crescita",
-      "#scoperta",
-      "#limiti"
-    ],
-    "generated_at": "2026-09-07T16:52:09.615784+00:00"
-  },
-  {
-    "quote": "La vita è come andare in bicicletta. Per mantenere l'equilibrio devi continuare a muoverti.",
-    "author": "Albert Einstein",
-    "category": "vita",
-    "caption": "Il movimento è vita. 🚴",
-    "hashtags": [
-      "#vita",
-      "#movimento",
-      "#equilibrio",
-      "#cambiamento",
-      "#progredire"
-    ],
-    "generated_at": "2026-09-07T16:52:09.615787+00:00"
-  },
-  {
-    "quote": "Non giudicare ogni giorno dal raccolto che ottieni, ma dai semi che pianti.",
-    "author": "Robert Louis Stevenson",
-    "category": "pazienza",
-    "caption": "Il raccolto arriva con il tempo. 🌱",
-    "hashtags": [
-      "#pazienza",
-      "#semina",
-      "#fiducia",
-      "#tempo",
-      "#crescita"
-    ],
-    "generated_at": "2026-09-07T16:52:09.615792+00:00"
-  },
-  {
-    "quote": "La scelta è il destino.",
-    "author": "Anonimo",
-    "category": "scelte",
-    "caption": "Scegli con cura. 🧭",
-    "hashtags": [
-      "#scelte",
-      "#destino",
-      "#decisione",
-      "#vita",
-      "#libertà"
-    ],
-    "generated_at": "2026-09-07T16:52:09.615809+00:00"
-  },
-  {
     "quote": "L'essenziale è invisibile agli occhi.",
     "author": "Antoine de Saint-Exupéry",
     "category": "filosofia",
@@ -7302,5 +6951,355 @@
       "#verità"
     ],
     "generated_at": "2026-10-06T03:52:29.468917+00:00"
+  },
+  {
+    "quote": "L'esperienza non è ciò che accade a un uomo, ma ciò che un uomo fa con ciò che gli accade.",
+    "author": "Aldous Huxley",
+    "category": "crescita personale",
+    "caption": "Non è quello che ti succede, ma quello che ne fai a fare la differenza.",
+    "hashtags": [
+      "#crescitapersonale",
+      "#esperienza",
+      "#aldoushuxley",
+      "#consapevolezza",
+      "#vita"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367552+00:00"
+  },
+  {
+    "quote": "La semplicità è la chiave della felicità.",
+    "author": "Confucio",
+    "category": "minimalismo",
+    "caption": "Meno cose, più gioia. La semplicità è una scelta di libertà.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#confucio",
+      "#felicità",
+      "#menoperpiù"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367583+00:00"
+  },
+  {
+    "quote": "La vera amicizia è una pianta che cresce lentamente.",
+    "author": "George Washington",
+    "category": "amicizia",
+    "caption": "Le amicizie più solide non nascono in fretta: si coltivano giorno dopo giorno.",
+    "hashtags": [
+      "#amicizia",
+      "#georgewashington",
+      "#crescereinsieme",
+      "#fiducia",
+      "#legami"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367591+00:00"
+  },
+  {
+    "quote": "La solitudine è il rifugio di chi ha bisogno di ritrovarsi.",
+    "author": "Anonimo",
+    "category": "solitudine",
+    "caption": "A volte stare soli non è una condanna, ma un modo per tornare a se stessi.",
+    "hashtags": [
+      "#solitudine",
+      "#ritrovarsi",
+      "#silenzio",
+      "#introspezione",
+      "#pace"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367596+00:00"
+  },
+  {
+    "quote": "Il tempo non guarisce le ferite, insegna a conviverci.",
+    "author": "Anonimo",
+    "category": "tempo",
+    "caption": "Non è il tempo a cancellare il dolore, ma la forza che impariamo a trovare.",
+    "hashtags": [
+      "#tempo",
+      "#ferite",
+      "#resilienza",
+      "#guarigione",
+      "#forza"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367600+00:00"
+  },
+  {
+    "quote": "I sogni sono il carburante dell'anima.",
+    "author": "Anonimo",
+    "category": "sogni",
+    "caption": "Senza sogni si va avanti, ma senza sogni non si vola.",
+    "hashtags": [
+      "#sogni",
+      "#anima",
+      "#carburante",
+      "#passione",
+      "#volare"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367608+00:00"
+  },
+  {
+    "quote": "L'ambizione è la strada per il successo, ma l'umiltà è il veicolo.",
+    "author": "Anonimo",
+    "category": "ambizione",
+    "caption": "Punta in alto, ma non dimenticare da dove vieni.",
+    "hashtags": [
+      "#ambizione",
+      "#successo",
+      "#umiltà",
+      "#strada",
+      "#obiettivi"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367612+00:00"
+  },
+  {
+    "quote": "Un leader è colui che sa ascoltare prima di parlare.",
+    "author": "Anonimo",
+    "category": "leadership",
+    "caption": "La vera leadership inizia dall'ascolto, non dal comando.",
+    "hashtags": [
+      "#leadership",
+      "#ascolto",
+      "#leader",
+      "#umiltà",
+      "#guidare"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367618+00:00"
+  },
+  {
+    "quote": "La libertà è il diritto di scegliere il proprio destino.",
+    "author": "Anonimo",
+    "category": "libertà",
+    "caption": "Essere liberi significa poter decidere chi diventare.",
+    "hashtags": [
+      "#libertà",
+      "#destino",
+      "#scelta",
+      "#diritti",
+      "#indipendenza"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367623+00:00"
+  },
+  {
+    "quote": "Il viaggio più importante è quello verso se stessi.",
+    "author": "Anonimo",
+    "category": "viaggio",
+    "caption": "Non serve andare lontano per scoprire chi sei: a volte basta guardarti dentro.",
+    "hashtags": [
+      "#viaggio",
+      "#interiore",
+      "#scoperta",
+      "#crescita",
+      "#cammino"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367627+00:00"
+  },
+  {
+    "quote": "La speranza è l'ultima dea.",
+    "author": "Ovidio",
+    "category": "speranza",
+    "caption": "Anche quando tutto sembra perduto, la speranza resta.",
+    "hashtags": [
+      "#speranza",
+      "#ovidio",
+      "#fiducia",
+      "#futuro",
+      "#resilienza"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367632+00:00"
+  },
+  {
+    "quote": "La filosofia è l'arte di meravigliarsi.",
+    "author": "Anonimo",
+    "category": "filosofia",
+    "caption": "Fare filosofia è tornare a stupirsi delle cose più semplici.",
+    "hashtags": [
+      "#filosofia",
+      "#meraviglia",
+      "#domande",
+      "#pensiero",
+      "#saggezza"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367637+00:00"
+  },
+  {
+    "quote": "La pace è il sorriso della natura.",
+    "author": "Anonimo",
+    "category": "pace",
+    "caption": "La pace non è solo assenza di guerra, è armonia con se stessi e il mondo.",
+    "hashtags": [
+      "#pace",
+      "#armonia",
+      "#natura",
+      "#serenità",
+      "#interiore"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367641+00:00"
+  },
+  {
+    "quote": "Lo sport è la poesia del corpo.",
+    "author": "Anonimo",
+    "category": "sport",
+    "caption": "Nel gesto atletico c'è la stessa bellezza di un verso.",
+    "hashtags": [
+      "#sport",
+      "#poesia",
+      "#corpo",
+      "#movimento",
+      "#passione"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367645+00:00"
+  },
+  {
+    "quote": "La giovinezza è il tempo delle promesse.",
+    "author": "Anonimo",
+    "category": "giovinezza",
+    "caption": "Essere giovani significa avere il lusso di poter sognare in grande.",
+    "hashtags": [
+      "#giovinezza",
+      "#promesse",
+      "#sogni",
+      "#futuro",
+      "#energia"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367649+00:00"
+  },
+  {
+    "quote": "La maturità è la capacità di aspettare.",
+    "author": "Anonimo",
+    "category": "maturità",
+    "caption": "Crescere vuol dire imparare a dare il giusto tempo alle cose.",
+    "hashtags": [
+      "#maturità",
+      "#pazienza",
+      "#attesa",
+      "#crescita",
+      "#saggezza"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367654+00:00"
+  },
+  {
+    "quote": "Ogni scelta è una rinuncia.",
+    "author": "Anonimo",
+    "category": "scelte",
+    "caption": "Scegliere significa lasciare andare qualcosa per qualcos'altro.",
+    "hashtags": [
+      "#scelte",
+      "#rinuncia",
+      "#decisioni",
+      "#vita",
+      "#coraggio"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367658+00:00"
+  },
+  {
+    "quote": "Il destino è ciò che costruiamo con le nostre mani.",
+    "author": "Anonimo",
+    "category": "destino",
+    "caption": "Non esiste un fato già scritto: il futuro lo scriviamo noi.",
+    "hashtags": [
+      "#destino",
+      "#costruire",
+      "#futuro",
+      "#responsabilità",
+      "#vita"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367661+00:00"
+  },
+  {
+    "quote": "La consapevolezza è la luce che illumina il cammino.",
+    "author": "Anonimo",
+    "category": "consapevolezza",
+    "caption": "Solo quando ci vediamo chiaramente possiamo scegliere dove andare.",
+    "hashtags": [
+      "#consapevolezza",
+      "#luce",
+      "#cammino",
+      "#crescita",
+      "#interiore"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367665+00:00"
+  },
+  {
+    "quote": "Perdonare è liberare il cuore dal peso del rancore.",
+    "author": "Anonimo",
+    "category": "perdono",
+    "caption": "Il perdono non è per l'altro, è per te stesso.",
+    "hashtags": [
+      "#perdono",
+      "#libertà",
+      "#cuore",
+      "#rancore",
+      "#pace"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367672+00:00"
+  },
+  {
+    "quote": "Le relazioni sono lo specchio della nostra anima.",
+    "author": "Anonimo",
+    "category": "relazioni",
+    "caption": "Come trattiamo gli altri dice molto di come trattiamo noi stessi.",
+    "hashtags": [
+      "#relazioni",
+      "#specchio",
+      "#anima",
+      "#empatia",
+      "#legami"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367676+00:00"
+  },
+  {
+    "quote": "La resilienza è la capacità di fiorire nel deserto.",
+    "author": "Anonimo",
+    "category": "resilienza",
+    "caption": "Anche nelle condizioni più aride, la forza interiore può far nascere qualcosa di bello.",
+    "hashtags": [
+      "#resilienza",
+      "#fiorire",
+      "#deserto",
+      "#forza",
+      "#rinascita"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367680+00:00"
+  },
+  {
+    "quote": "Il fallimento è il maestro che ti insegna a riprovare.",
+    "author": "Anonimo",
+    "category": "fallimento",
+    "caption": "Sbagliare non è la fine, è l'inizio di una nuova consapevolezza.",
+    "hashtags": [
+      "#fallimento",
+      "#riprovare",
+      "#lezione",
+      "#crescita",
+      "#successo"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367683+00:00"
+  },
+  {
+    "quote": "La disciplina è la strada per la libertà.",
+    "author": "Anonimo",
+    "category": "disciplina",
+    "caption": "Solo chi sa darsi delle regole può davvero essere libero.",
+    "hashtags": [
+      "#disciplina",
+      "#libertà",
+      "#regole",
+      "#obiettivi",
+      "#costanza"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367690+00:00"
+  },
+  {
+    "quote": "L'autostima è il coraggio di piacersi.",
+    "author": "Anonimo",
+    "category": "autostima",
+    "caption": "Volersi bene è il primo passo per farsi volere bene dagli altri.",
+    "hashtags": [
+      "#autostima",
+      "#coraggio",
+      "#piacersi",
+      "#amorproprio",
+      "#benessere"
+    ],
+    "generated_at": "2026-10-06T17:36:35.367694+00:00"
   }
 ]

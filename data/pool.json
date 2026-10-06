@@ -1,88 +1,5 @@
 [
   {
-    "quote": "Amor che a nullo amato amar perdona",
-    "author": "Dante Alighieri",
-    "category": "amore",
-    "caption": "L'amore vero non conosce limiti: chi ama, non può non essere riamato. Un verso eterno che parla al cuore.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#dante",
-      "#poesia",
-      "#cuore"
-    ],
-    "generated_at": "2026-08-31T02:22:33.829390+00:00"
-  },
-  {
-    "quote": "La vita non è che l'ombra di un sogno",
-    "author": "William Shakespeare",
-    "category": "vita",
-    "caption": "La vita è effimera come un sogno, ma proprio per questo va vissuta con intensità.",
-    "hashtags": [
-      "#vita",
-      "#shakespeare",
-      "#sogni",
-      "#riflessioni",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-31T02:22:33.829422+00:00"
-  },
-  {
-    "quote": "Non importa quanto lentamente vai, finché non ti fermi",
-    "author": "Confucio",
-    "category": "motivazione",
-    "caption": "Il progresso è fatto di piccoli passi costanti. L'importante è non fermarsi mai.",
-    "hashtags": [
-      "#motivazione",
-      "#confucio",
-      "#costanza",
-      "#obiettivi",
-      "#crescitapersonale"
-    ],
-    "generated_at": "2026-08-31T02:22:33.829431+00:00"
-  },
-  {
-    "quote": "Il perdono è la chiave che apre la porta della libertà.",
-    "author": "Anonimo",
-    "category": "perdono",
-    "caption": "Perdonare libera te stesso, non l'altro. Apri quella porta.",
-    "hashtags": [
-      "#perdono",
-      "#libertà",
-      "#pace",
-      "#cuore",
-      "#crescitapersonale"
-    ],
-    "generated_at": "2026-08-31T02:22:33.829468+00:00"
-  },
-  {
-    "quote": "La vita è quello che ti fai da te.",
-    "author": "George Bernard Shaw",
-    "category": "vita",
-    "caption": "La vita non è un destino subito, ma un'opera da costruire. ✨",
-    "hashtags": [
-      "#vita",
-      "#crescita",
-      "#filosofia",
-      "#ispirazione",
-      "#citazioni"
-    ],
-    "generated_at": "2026-08-31T18:26:50.904835+00:00"
-  },
-  {
-    "quote": "Perdonare è la chiave che apre la porta della libertà.",
-    "author": "Anonimo",
-    "category": "perdono",
-    "caption": "Perdonare libera il cuore. 🗝️",
-    "hashtags": [
-      "#perdono",
-      "#libertà",
-      "#pace",
-      "#citazioni"
-    ],
-    "generated_at": "2026-09-02T02:00:23.051764+00:00"
-  },
-  {
     "quote": "Amare se stessi è l'inizio di una storia d'amore lunga una vita.",
     "author": "Oscar Wilde",
     "category": "autostima",
@@ -7295,5 +7212,95 @@
       "#forza"
     ],
     "generated_at": "2026-10-05T03:03:19.887538+00:00"
+  },
+  {
+    "quote": "Non si può insegnare nulla a un uomo; si può solo aiutarlo a scoprire ciò che è già dentro di lui.",
+    "author": "Galileo Galilei",
+    "category": "crescita personale",
+    "caption": "Nessuno ti salva: ti si può solo indicare la porta. Aprirla tocca a te.",
+    "hashtags": [
+      "#crescitapersonale",
+      "#galileogalilei",
+      "#consapevolezza",
+      "#conoscersi",
+      "#cambiamento",
+      "#dentro"
+    ],
+    "generated_at": "2026-10-06T03:52:29.468840+00:00"
+  },
+  {
+    "quote": "Chi non ha mai commesso un errore non ha mai provato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Sbagliare è la ricevuta di chi ci ha provato davvero.",
+    "hashtags": [
+      "#fallimento",
+      "#einstein",
+      "#errori",
+      "#provare",
+      "#crescita",
+      "#coraggio"
+    ],
+    "generated_at": "2026-10-06T03:52:29.468885+00:00"
+  },
+  {
+    "quote": "La resilienza è più grande della forza.",
+    "author": "Seneca",
+    "category": "resilienza",
+    "caption": "Non conta quanto spingi: conta quanto sai rialzarti.",
+    "hashtags": [
+      "#resilienza",
+      "#seneca",
+      "#forza",
+      "#rialzarsi",
+      "#cadute",
+      "#filosofia"
+    ],
+    "generated_at": "2026-10-06T03:52:29.468895+00:00"
+  },
+  {
+    "quote": "La vita è ciò che facciamo di essa.",
+    "author": "Jean-Paul Sartre",
+    "category": "vita",
+    "caption": "Non è quello che ti capita: è quello che ne fai.",
+    "hashtags": [
+      "#vita",
+      "#sartre",
+      "#scelte",
+      "#esistenza",
+      "#responsabilità",
+      "#presente"
+    ],
+    "generated_at": "2026-10-06T03:52:29.468902+00:00"
+  },
+  {
+    "quote": "La motivazione ti fa iniziare, l'abitudine ti fa continuare.",
+    "author": "Jim Rohn",
+    "category": "motivazione",
+    "caption": "L'entusiasmo accende, la routine tiene acceso.",
+    "hashtags": [
+      "#motivazione",
+      "#jimrohn",
+      "#abitudini",
+      "#costanza",
+      "#disciplina",
+      "#obiettivi"
+    ],
+    "generated_at": "2026-10-06T03:52:29.468906+00:00"
+  },
+  {
+    "quote": "La delusione è il prezzo dell'aver creduto.",
+    "author": "Friedrich Nietzsche",
+    "category": "delusione",
+    "caption": "Chi non si fida di nessuno non resta deluso: resta solo.",
+    "hashtags": [
+      "#delusione",
+      "#nietzsche",
+      "#fiducia",
+      "#aspettative",
+      "#dolore",
+      "#verità"
+    ],
+    "generated_at": "2026-10-06T03:52:29.468917+00:00"
   }
 ]

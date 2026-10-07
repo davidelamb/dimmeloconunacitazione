@@ -1,47 +1,5 @@
 [
   {
-    "quote": "Un amico è uno che ti conosce come sei, comprende dove sei stato, ti accompagna in ciò che sei diventato.",
-    "author": "William Shakespeare",
-    "category": "amicizia",
-    "caption": "L'amicizia vera è un viaggio condiviso.",
-    "hashtags": [
-      "#amicizia",
-      "#shakespeare",
-      "#viaggio",
-      "#condivisione",
-      "#cuore"
-    ],
-    "generated_at": "2026-09-08T02:05:32.839470+00:00"
-  },
-  {
-    "quote": "La vita è ciò che accade mentre sei impegnato a fare altri progetti.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "Vivi il presente, non rimandare.",
-    "hashtags": [
-      "#vita",
-      "#presente",
-      "#mindfulness",
-      "#felicità",
-      "#vivere"
-    ],
-    "generated_at": "2026-09-08T15:40:04.811496+00:00"
-  },
-  {
-    "quote": "Amor ch'a nullo amato amar perdona.",
-    "author": "Dante Alighieri",
-    "category": "amore",
-    "caption": "L'amore è una forza inarrestabile che ci spinge oltre ogni limite.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#dante",
-      "#poesia",
-      "#cuore"
-    ],
-    "generated_at": "2026-09-09T02:10:03.233569+00:00"
-  },
-  {
     "quote": "Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza.",
     "author": "Dante Alighieri",
     "category": "crescita personale",
@@ -7309,5 +7267,47 @@
       "#benessere"
     ],
     "generated_at": "2026-10-07T03:20:23.041971+00:00"
+  },
+  {
+    "quote": "La vita è quello che succede mentre sei impegnato a fare altri programmi.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Mentre pianifichi tutto, la vita ti passa accanto.",
+    "hashtags": [
+      "#citazioni",
+      "#vita",
+      "#johnlennon",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-07T18:08:02.543442+00:00"
+  },
+  {
+    "quote": "Non aspettare. Non sarà mai il momento giusto.",
+    "author": "Napoleon Hill",
+    "category": "motivazione",
+    "caption": "Il momento giusto non esiste: esisti tu che decidi di partire.",
+    "hashtags": [
+      "#citazioni",
+      "#motivazione",
+      "#agire",
+      "#napoleonhill",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-07T18:08:02.543472+00:00"
+  },
+  {
+    "quote": "Non ho mai sognato il successo. Ci ho lavorato.",
+    "author": "Estée Lauder",
+    "category": "successo",
+    "caption": "I sogni sono belli, ma il lavoro li rende reali.",
+    "hashtags": [
+      "#citazioni",
+      "#successo",
+      "#lavoro",
+      "#esteelauder",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-07T18:08:02.543480+00:00"
   }
 ]

@@ -1,103 +1,5 @@
 [
   {
-    "quote": "Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza.",
-    "author": "Dante Alighieri",
-    "category": "crescita personale",
-    "caption": "Siamo fatti per crescere, non per accontentarci.",
-    "hashtags": [
-      "#crescita",
-      "#dante",
-      "#virtu",
-      "#conoscenza",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920238+00:00"
-  },
-  {
-    "quote": "La semplicità è la massima raffinatezza.",
-    "author": "Leonardo da Vinci",
-    "category": "minimalismo",
-    "caption": "Meno è meglio, sempre.",
-    "hashtags": [
-      "#minimalismo",
-      "#semplicità",
-      "#leonardo",
-      "#essenziale",
-      "#stile"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920272+00:00"
-  },
-  {
-    "quote": "Non c'è vento favorevole per il marinaio che non sa dove andare.",
-    "author": "Seneca",
-    "category": "scelte",
-    "caption": "Senza una meta, ogni rotta è sbagliata.",
-    "hashtags": [
-      "#scelte",
-      "#seneca",
-      "#meta",
-      "#stoicismo",
-      "#direzione"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920280+00:00"
-  },
-  {
-    "quote": "Nessun uomo è un'isola, completo in se stesso.",
-    "author": "John Donne",
-    "category": "relazioni",
-    "caption": "Siamo connessi, che ci piaccia o no.",
-    "hashtags": [
-      "#relazioni",
-      "#connessioni",
-      "#donne",
-      "#umanità",
-      "#insieme"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920286+00:00"
-  },
-  {
-    "quote": "Ciò che non mi uccide mi rende più forte.",
-    "author": "Friedrich Nietzsche",
-    "category": "forza",
-    "caption": "Le ferite più profonde ci temprano.",
-    "hashtags": [
-      "#forza",
-      "#nietzsche",
-      "#resilienza",
-      "#coraggio",
-      "#filosofia"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920291+00:00"
-  },
-  {
-    "quote": "La cosa più difficile al mondo è conoscere se stessi.",
-    "author": "Galileo Galilei",
-    "category": "consapevolezza",
-    "caption": "Il viaggio più arduo è dentro di noi.",
-    "hashtags": [
-      "#consapevolezza",
-      "#galileo",
-      "#conoscenza",
-      "#introspezione",
-      "#verità"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920296+00:00"
-  },
-  {
-    "quote": "Chi non fa niente non sbaglia mai.",
-    "author": "Theodore Roosevelt",
-    "category": "fallimento",
-    "caption": "Sbagliare è il prezzo di provarci.",
-    "hashtags": [
-      "#fallimento",
-      "#roosevelt",
-      "#coraggio",
-      "#errori",
-      "#azione"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920301+00:00"
-  },
-  {
     "quote": "La pazienza è il compagno della saggezza.",
     "author": "Sant'Agostino",
     "category": "pazienza",
@@ -7309,5 +7211,111 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-07T18:08:02.543480+00:00"
+  },
+  {
+    "quote": "Il modo migliore per predire il futuro è inventarlo.",
+    "author": "Alan Kay",
+    "category": "cambiamento",
+    "caption": "Nessuno ti consegnerà il domani: costruiscilo tu, un pezzo alla volta.",
+    "hashtags": [
+      "#cambiamento",
+      "#futuro",
+      "#visione",
+      "#ispirazione",
+      "#dimmeloconunacitazione",
+      "#crescita",
+      "#azione"
+    ],
+    "generated_at": "2026-10-08T03:35:41.093053+00:00"
+  },
+  {
+    "quote": "Il successo non è la chiave della felicità. La felicità è la chiave del successo.",
+    "author": "Albert Schweitzer",
+    "category": "felicità",
+    "caption": "Inverti l'ordine delle cose e tutto comincia a girare meglio.",
+    "hashtags": [
+      "#felicità",
+      "#successo",
+      "#benessere",
+      "#dimmeloconunacitazione",
+      "#equilibrio",
+      "#vita"
+    ],
+    "generated_at": "2026-10-08T03:35:41.093088+00:00"
+  },
+  {
+    "quote": "La gratitudine è il vino delle anime nobili.",
+    "author": "Friedrich Nietzsche",
+    "category": "gratitudine",
+    "caption": "Ringraziare non è ingenuità: è la forma più elegante di forza.",
+    "hashtags": [
+      "#gratitudine",
+      "#anima",
+      "#nobiltà",
+      "#dimmeloconunacitazione",
+      "#ringraziare",
+      "#vita"
+    ],
+    "generated_at": "2026-10-08T03:35:41.093096+00:00"
+  },
+  {
+    "quote": "Un amico è una persona con cui puoi essere sincero.",
+    "author": "Ralph Waldo Emerson",
+    "category": "amicizia",
+    "caption": "La vera amicizia non teme le verità scomode.",
+    "hashtags": [
+      "#amicizia",
+      "#sincerità",
+      "#fiducia",
+      "#dimmeloconunacitazione",
+      "#relazioni",
+      "#verità"
+    ],
+    "generated_at": "2026-10-08T03:35:41.093102+00:00"
+  },
+  {
+    "quote": "La famiglia è la patria del cuore.",
+    "author": "Giuseppe Mazzini",
+    "category": "famiglia",
+    "caption": "Ovunque tu vada, c'è un posto che ti aspetta senza chiederti spiegazioni.",
+    "hashtags": [
+      "#famiglia",
+      "#cuore",
+      "#casa",
+      "#dimmeloconunacitazione",
+      "#radici",
+      "#amore"
+    ],
+    "generated_at": "2026-10-08T03:35:41.093107+00:00"
+  },
+  {
+    "quote": "Il tempo è il tessuto di cui è fatta la vita.",
+    "author": "Benjamin Franklin",
+    "category": "tempo",
+    "caption": "Non perdere tempo: è il filo con cui stai cucendo la tua storia.",
+    "hashtags": [
+      "#tempo",
+      "#vita",
+      "#presente",
+      "#dimmeloconunacitazione",
+      "#consapevolezza",
+      "#priorità"
+    ],
+    "generated_at": "2026-10-08T03:35:41.093112+00:00"
+  },
+  {
+    "quote": "I sogni non svaniscono finché non smetti di inseguirli.",
+    "author": "Paulo Coelho",
+    "category": "sogni",
+    "caption": "Finché continui a camminare, il sogno resta vivo davanti a te.",
+    "hashtags": [
+      "#sogni",
+      "#inseguire",
+      "#passione",
+      "#dimmeloconunacitazione",
+      "#motivazione",
+      "#coraggio"
+    ],
+    "generated_at": "2026-10-08T03:35:41.093122+00:00"
   }
 ]

@@ -1,89 +1,5 @@
 [
   {
-    "quote": "La pazienza è il compagno della saggezza.",
-    "author": "Sant'Agostino",
-    "category": "pazienza",
-    "caption": "Saper aspettare è una forma di intelligenza.",
-    "hashtags": [
-      "#pazienza",
-      "#agostino",
-      "#saggezza",
-      "#tempo",
-      "#attesa"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920305+00:00"
-  },
-  {
-    "quote": "La libertà non è un dono, è una conquista.",
-    "author": "Albert Camus",
-    "category": "libertà",
-    "caption": "Nessuno te la regala, te la prendi.",
-    "hashtags": [
-      "#libertà",
-      "#camus",
-      "#conquista",
-      "#diritti",
-      "#filosofia"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920312+00:00"
-  },
-  {
-    "quote": "Il coraggio è la paura che ha detto le sue preghiere.",
-    "author": "George S. Patton",
-    "category": "coraggio",
-    "caption": "Avere paura non è vergogna, è umanità.",
-    "hashtags": [
-      "#coraggio",
-      "#patton",
-      "#paura",
-      "#forza",
-      "#guerra"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920319+00:00"
-  },
-  {
-    "quote": "La felicità non è qualcosa di già pronto. Viene dalle tue azioni.",
-    "author": "Dalai Lama",
-    "category": "felicità",
-    "caption": "Non aspettarla, costruiscila.",
-    "hashtags": [
-      "#felicità",
-      "#dalailama",
-      "#azione",
-      "#gioia",
-      "#vita"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920325+00:00"
-  },
-  {
-    "quote": "L'amicizia è un'anima in due corpi.",
-    "author": "Aristotele",
-    "category": "amicizia",
-    "caption": "Un vero amico è una parte di te.",
-    "hashtags": [
-      "#amicizia",
-      "#aristotele",
-      "#anima",
-      "#legame",
-      "#filosofia"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920332+00:00"
-  },
-  {
-    "quote": "La solitudine è la patria dei forti.",
-    "author": "Friedrich Nietzsche",
-    "category": "solitudine",
-    "caption": "Stare soli non è una condanna, è una scelta.",
-    "hashtags": [
-      "#solitudine",
-      "#nietzsche",
-      "#forza",
-      "#introspezione",
-      "#silenzio"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920337+00:00"
-  },
-  {
     "quote": "Il tempo è il miglior consigliere.",
     "author": "Plutarco",
     "category": "tempo",
@@ -7317,5 +7233,95 @@
       "#coraggio"
     ],
     "generated_at": "2026-10-08T03:35:41.093122+00:00"
+  },
+  {
+    "quote": "La cosa più grande è saper essere piccoli.",
+    "author": "Johann Wolfgang von Goethe",
+    "category": "minimalismo",
+    "caption": "La grandezza a volte è fatta di piccole cose.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#goethe",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#filosofia"
+    ],
+    "generated_at": "2026-10-08T18:10:29.168903+00:00"
+  },
+  {
+    "quote": "Non è la più forte delle specie che sopravvive, né la più intelligente, ma quella più reattiva ai cambiamenti.",
+    "author": "Charles Darwin",
+    "category": "cambiamento",
+    "caption": "Adattarsi non è debolezza: è intelligenza.",
+    "hashtags": [
+      "#cambiamento",
+      "#adattamento",
+      "#darwin",
+      "#evoluzione",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-08T18:10:29.168928+00:00"
+  },
+  {
+    "quote": "La speranza non è la convinzione che qualcosa andrà bene, ma la certezza che qualcosa ha senso, indipendentemente da come vada a finire.",
+    "author": "Václav Havel",
+    "category": "speranza",
+    "caption": "La speranza non promette risultati, dà senso al cammino.",
+    "hashtags": [
+      "#speranza",
+      "#senso",
+      "#havel",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#resilienza"
+    ],
+    "generated_at": "2026-10-08T18:10:29.168934+00:00"
+  },
+  {
+    "quote": "La solitudine è il luogo in cui si impara a stare con se stessi.",
+    "author": "Hannah Arendt",
+    "category": "solitudine",
+    "caption": "Stare soli non è vuoto: è spazio.",
+    "hashtags": [
+      "#solitudine",
+      "#consapevolezza",
+      "#arendt",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#interiorità"
+    ],
+    "generated_at": "2026-10-08T18:10:29.168938+00:00"
+  },
+  {
+    "quote": "La libertà non è fare ciò che si vuole, ma volere ciò che si fa.",
+    "author": "Jean-Paul Sartre",
+    "category": "libertà",
+    "caption": "Liberi davvero quando scegliamo con coscienza.",
+    "hashtags": [
+      "#libertà",
+      "#scelte",
+      "#sartre",
+      "#filosofia",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-08T18:10:29.168944+00:00"
+  },
+  {
+    "quote": "Il tempo è il fuoco in cui bruciamo.",
+    "author": "Delmore Schwartz",
+    "category": "tempo",
+    "caption": "Il tempo non passa: ci trasforma.",
+    "hashtags": [
+      "#tempo",
+      "#vita",
+      "#schwartz",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#filosofia"
+    ],
+    "generated_at": "2026-10-08T18:10:29.168949+00:00"
   }
 ]

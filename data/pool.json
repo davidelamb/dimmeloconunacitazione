@@ -1,19 +1,5 @@
 [
   {
-    "quote": "Il tempo è il miglior consigliere.",
-    "author": "Plutarco",
-    "category": "tempo",
-    "caption": "A volte basta aspettare per capire.",
-    "hashtags": [
-      "#tempo",
-      "#plutarco",
-      "#consiglio",
-      "#pazienza",
-      "#saggezza"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920341+00:00"
-  },
-  {
     "quote": "Il successo è la capacità di andare di fallimento in fallimento senza perdere l'entusiasmo.",
     "author": "Winston Churchill",
     "category": "successo",
@@ -7323,5 +7309,20 @@
       "#filosofia"
     ],
     "generated_at": "2026-10-08T18:10:29.168949+00:00"
+  },
+  {
+    "quote": "Sii il cambiamento che vuoi vedere nel mondo.",
+    "author": "Mahatma Gandhi",
+    "category": "cambiamento",
+    "caption": "Non aspettare che siano gli altri a iniziare. Il primo passo è sempre il tuo.",
+    "hashtags": [
+      "#cambiamento",
+      "#Gandhi",
+      "#citazioni",
+      "#ispirazione",
+      "#frasimotivazionali",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-09T03:40:48.877482+00:00"
   }
 ]

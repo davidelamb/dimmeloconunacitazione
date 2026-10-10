@@ -1,80 +1,5 @@
 [
   {
-    "quote": "Il dubbio è l'inizio della saggezza.",
-    "author": "Aristotele",
-    "category": "filosofia",
-    "caption": "Chi non dubita mai, raramente impara qualcosa.",
-    "hashtags": [
-      "#filosofia",
-      "#aristotele",
-      "#saggezza",
-      "#dubbio",
-      "#dimmeloconunacitazione",
-      "#citazioni"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996676+00:00"
-  },
-  {
-    "quote": "Non c'è niente di permanente tranne il cambiamento.",
-    "author": "Eraclito",
-    "category": "cambiamento",
-    "caption": "Resistere al cambiamento è come resistere al respiro.",
-    "hashtags": [
-      "#cambiamento",
-      "#eraclito",
-      "#filosofia",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#crescita"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996680+00:00"
-  },
-  {
-    "quote": "La mente è tutto. Diventi ciò che pensi.",
-    "author": "Buddha",
-    "category": "consapevolezza",
-    "caption": "I tuoi pensieri di oggi sono la tua realtà di domani.",
-    "hashtags": [
-      "#consapevolezza",
-      "#buddha",
-      "#mente",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#crescita"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996683+00:00"
-  },
-  {
-    "quote": "Chi guarda fuori sogna, chi guarda dentro si sveglia.",
-    "author": "Carl Gustav Jung",
-    "category": "crescita personale",
-    "caption": "Il viaggio più importante è quello verso te stesso.",
-    "hashtags": [
-      "#crescita",
-      "#jung",
-      "#psicologia",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996686+00:00"
-  },
-  {
-    "quote": "La semplicità è la massima saggezza.",
-    "author": "Bruce Lee",
-    "category": "minimalismo",
-    "caption": "Meno rumore, più essenza: la vera forza è nella semplicità.",
-    "hashtags": [
-      "#minimalismo",
-      "#brucelee",
-      "#semplicità",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#essenziale"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996690+00:00"
-  },
-  {
     "quote": "Il successo è camminare da un fallimento all'altro con entusiasmo.",
     "author": "Winston Churchill",
     "category": "successo",
@@ -7336,5 +7261,85 @@
       "#vita"
     ],
     "generated_at": "2026-10-10T03:22:53.430718+00:00"
+  },
+  {
+    "quote": "Non tutte le persone che vagano sono perdute.",
+    "author": "J.R.R. Tolkien",
+    "category": "viaggio",
+    "caption": "A volte perdersi è il modo più onesto di ritrovarsi.",
+    "hashtags": [
+      "#dimmeloconunacitazione",
+      "#viaggio",
+      "#perdersi",
+      "#tolkien",
+      "#citazioni",
+      "#anima",
+      "#cammino"
+    ],
+    "generated_at": "2026-10-10T16:36:16.278102+00:00"
+  },
+  {
+    "quote": "La famiglia non è un'importante cosa: è tutto.",
+    "author": "Michael J. Fox",
+    "category": "famiglia",
+    "caption": "Ci sono legami che non scegli, ma che ti salvano.",
+    "hashtags": [
+      "#dimmeloconunacitazione",
+      "#famiglia",
+      "#legami",
+      "#citazioni",
+      "#casa",
+      "#amore",
+      "#radici"
+    ],
+    "generated_at": "2026-10-10T16:36:16.278128+00:00"
+  },
+  {
+    "quote": "Siamo noi a decidere cosa fare del tempo che ci è dato.",
+    "author": "J.R.R. Tolkien",
+    "category": "tempo",
+    "caption": "Il tempo non si trova: si sceglie come spenderlo.",
+    "hashtags": [
+      "#dimmeloconunacitazione",
+      "#tempo",
+      "#scelte",
+      "#tolkien",
+      "#citazioni",
+      "#presente",
+      "#vita"
+    ],
+    "generated_at": "2026-10-10T16:36:16.278134+00:00"
+  },
+  {
+    "quote": "Non è la montagna che conquistiamo, ma noi stessi.",
+    "author": "Edmund Hillary",
+    "category": "coraggio",
+    "caption": "Ogni sfida vera è prima di tutto interiore.",
+    "hashtags": [
+      "#dimmeloconunacitazione",
+      "#coraggio",
+      "#montagna",
+      "#sfide",
+      "#citazioni",
+      "#superarsi",
+      "#determinazione"
+    ],
+    "generated_at": "2026-10-10T16:36:16.278138+00:00"
+  },
+  {
+    "quote": "Chi vuole essere amato deve prima amare.",
+    "author": "Seneca",
+    "category": "amore",
+    "caption": "L'amore non si pretende: si semina.",
+    "hashtags": [
+      "#dimmeloconunacitazione",
+      "#amore",
+      "#seneca",
+      "#citazioni",
+      "#relazioni",
+      "#cuore",
+      "#filosofia"
+    ],
+    "generated_at": "2026-10-10T16:36:16.278145+00:00"
   }
 ]

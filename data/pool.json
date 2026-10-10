@@ -1,233 +1,5 @@
 [
   {
-    "quote": "Il successo è la capacità di andare di fallimento in fallimento senza perdere l'entusiasmo.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "Cadere e rialzarsi, sempre.",
-    "hashtags": [
-      "#successo",
-      "#churchill",
-      "#fallimento",
-      "#entusiasmo",
-      "#perseveranza"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920347+00:00"
-  },
-  {
-    "quote": "La leadership è l'arte di far fare a qualcun altro ciò che vuoi fare tu, perché lui lo vuole fare.",
-    "author": "Dwight D. Eisenhower",
-    "category": "leadership",
-    "caption": "Guidare è ispirare, non comandare.",
-    "hashtags": [
-      "#leadership",
-      "#eisenhower",
-      "#guida",
-      "#team",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920351+00:00"
-  },
-  {
-    "quote": "Il lavoro è amore reso visibile.",
-    "author": "Khalil Gibran",
-    "category": "lavoro",
-    "caption": "Metti passione in ciò che fai.",
-    "hashtags": [
-      "#lavoro",
-      "#gibran",
-      "#passione",
-      "#amore",
-      "#dedizione"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920356+00:00"
-  },
-  {
-    "quote": "La giovinezza è il tempo di seminare, la maturità di raccogliere.",
-    "author": "Anonimo",
-    "category": "giovinezza",
-    "caption": "Ogni età ha il suo compito.",
-    "hashtags": [
-      "#giovinezza",
-      "#maturità",
-      "#semina",
-      "#raccolta",
-      "#vita"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920361+00:00"
-  },
-  {
-    "quote": "La maturità è la capacità di stare soli senza sentirsi soli.",
-    "author": "Anonimo",
-    "category": "maturità",
-    "caption": "Crescere è imparare a bastarsi.",
-    "hashtags": [
-      "#maturità",
-      "#solitudine",
-      "#crescita",
-      "#indipendenza",
-      "#equilibrio"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920368+00:00"
-  },
-  {
-    "quote": "Il destino non è una questione di caso, ma di scelta.",
-    "author": "William Jennings Bryan",
-    "category": "destino",
-    "caption": "Siamo noi a scrivere la nostra storia.",
-    "hashtags": [
-      "#destino",
-      "#scelta",
-      "#bryan",
-      "#libertà",
-      "#responsabilità"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920373+00:00"
-  },
-  {
-    "quote": "La delusione è la morte di un'illusione.",
-    "author": "Anonimo",
-    "category": "delusione",
-    "caption": "A volte perdere un sogno è un regalo.",
-    "hashtags": [
-      "#delusione",
-      "#illusione",
-      "#realtà",
-      "#crescita",
-      "#verità"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920379+00:00"
-  },
-  {
-    "quote": "La filosofia è l'arte di porre le domande giuste.",
-    "author": "Socrate",
-    "category": "filosofia",
-    "caption": "Più che risposte, servono domande.",
-    "hashtags": [
-      "#filosofia",
-      "#socrate",
-      "#domande",
-      "#pensiero",
-      "#conoscenza"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920385+00:00"
-  },
-  {
-    "quote": "La nostalgia è il dolore di un ritorno impossibile.",
-    "author": "Anonimo",
-    "category": "nostalgia",
-    "caption": "A volte il passato chiama, ma non risponde.",
-    "hashtags": [
-      "#nostalgia",
-      "#passato",
-      "#ricordi",
-      "#malinconia",
-      "#cuore"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920392+00:00"
-  },
-  {
-    "quote": "Il perdono è la fragranza che il fiore rilascia quando viene calpestato.",
-    "author": "Mark Twain",
-    "category": "perdono",
-    "caption": "Perdonare è un atto di libertà.",
-    "hashtags": [
-      "#perdono",
-      "#marktwain",
-      "#libertà",
-      "#cuore",
-      "#rinascita"
-    ],
-    "generated_at": "2026-09-10T02:07:35.920397+00:00"
-  },
-  {
-    "quote": "La vita è un sogno, ma sognarlo è vivere.",
-    "author": "Pindaro",
-    "category": "vita",
-    "caption": "Sognare è già vivere, non smettere mai di farlo.",
-    "hashtags": [
-      "#vita",
-      "#sogni",
-      "#pindaro",
-      "#filosofia",
-      "#citazioni",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-09-10T15:29:46.445389+00:00"
-  },
-  {
-    "quote": "L'amore è l'unica cosa che cresce quando la dividi.",
-    "author": "Antoine de Saint-Exupéry",
-    "category": "amore",
-    "caption": "Condividere amore non lo consuma, lo moltiplica.",
-    "hashtags": [
-      "#amore",
-      "#condivisione",
-      "#saintexupery",
-      "#citazioni",
-      "#cuore",
-      "#relazioni"
-    ],
-    "generated_at": "2026-09-10T15:29:46.445418+00:00"
-  },
-  {
-    "quote": "La motivazione è ciò che ti fa iniziare. L'abitudine è ciò che ti fa continuare.",
-    "author": "Jim Ryun",
-    "category": "motivazione",
-    "caption": "Inizia con motivazione, continua con abitudine.",
-    "hashtags": [
-      "#motivazione",
-      "#abitudini",
-      "#jimryun",
-      "#citazioni",
-      "#crescita",
-      "#disciplina"
-    ],
-    "generated_at": "2026-09-10T15:29:46.445425+00:00"
-  },
-  {
-    "quote": "La vita è quello che ti accade mentre sei impegnato a fare altri progetti.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "A volte i piani migliori sono quelli che non avevi previsto.",
-    "hashtags": [
-      "#vita",
-      "#JohnLennon",
-      "#imprevisti",
-      "#carpeDiem",
-      "#filosofia"
-    ],
-    "generated_at": "2026-09-11T02:04:30.435796+00:00"
-  },
-  {
-    "quote": "La felicità non è qualcosa di pronto. Viene dalle tue azioni.",
-    "author": "Dalai Lama",
-    "category": "felicità",
-    "caption": "Costruisci la tua felicità, un'azione alla volta.",
-    "hashtags": [
-      "#felicità",
-      "#DalaiLama",
-      "#azione",
-      "#benessere",
-      "#mindfulness"
-    ],
-    "generated_at": "2026-09-11T02:04:30.435828+00:00"
-  },
-  {
-    "quote": "Siamo fatti della stessa sostanza dei sogni.",
-    "author": "William Shakespeare",
-    "category": "sogni",
-    "caption": "La realtà è solo la parte visibile di ciò che sogniamo.",
-    "hashtags": [
-      "#sogni",
-      "#shakespeare",
-      "#immaginazione",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996648+00:00"
-  },
-  {
     "quote": "Il dubbio è l'inizio della saggezza.",
     "author": "Aristotele",
     "category": "filosofia",
@@ -7324,5 +7096,245 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-09T03:40:48.877482+00:00"
+  },
+  {
+    "quote": "L'uomo che sposta una montagna comincia portando via piccole pietre.",
+    "author": "Confucio",
+    "category": "pazienza",
+    "caption": "Nessuna vetta si conquista in un salto. Si conquista un passo alla volta.",
+    "hashtags": [
+      "#pazienza",
+      "#piccolipassi",
+      "#costanza",
+      "#crescita",
+      "#confucio",
+      "#fiducia"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430625+00:00"
+  },
+  {
+    "quote": "Non è vero che abbiamo poco tempo: la verità è che ne perdiamo molto.",
+    "author": "Seneca",
+    "category": "tempo",
+    "caption": "Il tempo non manca mai. Siamo noi a sprecarlo con distrazione.",
+    "hashtags": [
+      "#tempo",
+      "#seneca",
+      "#consapevolezza",
+      "#presente",
+      "#filosofia",
+      "#vita"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430651+00:00"
+  },
+  {
+    "quote": "Non c'è vento favorevole per il marinaio che non sa dove andare.",
+    "author": "Lucio Anneo Seneca",
+    "category": "scelte",
+    "caption": "Prima la direzione. Poi le vele. Altrimenti ogni vento è inutile.",
+    "hashtags": [
+      "#scelte",
+      "#direzione",
+      "#seneca",
+      "#obiettivi",
+      "#vita",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430657+00:00"
+  },
+  {
+    "quote": "La cosa più difficile al mondo non è scegliere, ma accettare le conseguenze.",
+    "author": "Paulo Coelho",
+    "category": "scelte",
+    "caption": "Scegliere è facile. Vivere le conseguenze è dove si vede chi sei.",
+    "hashtags": [
+      "#scelte",
+      "#conseguenze",
+      "#paolocoelho",
+      "#responsabilita",
+      "#crescita",
+      "#vita"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430661+00:00"
+  },
+  {
+    "quote": "Immagina che tutti siano felici e avrai creato un mondo felice.",
+    "author": "John Lennon",
+    "category": "speranza",
+    "caption": "A volte basta immaginare un mondo diverso per iniziare a costruirlo.",
+    "hashtags": [
+      "#speranza",
+      "#johnlennon",
+      "#immaginazione",
+      "#pace",
+      "#mondo",
+      "#futuro"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430676+00:00"
+  },
+  {
+    "quote": "Il modo migliore per predire il futuro è crearlo.",
+    "author": "Peter Drucker",
+    "category": "ambizione",
+    "caption": "Smetti di aspettare che accada. Inizia a farlo accadere.",
+    "hashtags": [
+      "#ambizione",
+      "#drucker",
+      "#futuro",
+      "#azione",
+      "#leadership",
+      "#obiettivi"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430683+00:00"
+  },
+  {
+    "quote": "La cultura mangia la strategia a colazione.",
+    "author": "Peter Drucker",
+    "category": "leadership",
+    "caption": "Nessun piano regge se le persone non ci credono davvero.",
+    "hashtags": [
+      "#leadership",
+      "#drucker",
+      "#cultura",
+      "#squadra",
+      "#management",
+      "#lavoro"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430686+00:00"
+  },
+  {
+    "quote": "Il modo migliore per trovare te stesso è perderti al servizio degli altri.",
+    "author": "Mahatma Gandhi",
+    "category": "crescita personale",
+    "caption": "A volte ci si ritrova solo quando si smette di guardarsi allo specchio.",
+    "hashtags": [
+      "#crescita",
+      "#gandhi",
+      "#servizio",
+      "#altri",
+      "#cuore",
+      "#vita"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430689+00:00"
+  },
+  {
+    "quote": "La forza non deriva dalla capacità fisica, ma da una volontà indomabile.",
+    "author": "Mahatma Gandhi",
+    "category": "forza",
+    "caption": "Il corpo ha limiti. La volontà, spesso, ne ha molti meno.",
+    "hashtags": [
+      "#forza",
+      "#gandhi",
+      "#volonta",
+      "#resilienza",
+      "#spirito",
+      "#coraggio"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430693+00:00"
+  },
+  {
+    "quote": "Non ho mai sognato il successo. Ho lavorato per esso.",
+    "author": "Estée Lauder",
+    "category": "lavoro",
+    "caption": "I sogni sono belli. Ma è il lavoro che li rende reali.",
+    "hashtags": [
+      "#lavoro",
+      "#estelauder",
+      "#successo",
+      "#impegno",
+      "#obiettivi",
+      "#motivazione"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430696+00:00"
+  },
+  {
+    "quote": "Il tuo tempo è limitato, non sprecarlo vivendo la vita di qualcun altro.",
+    "author": "Steve Jobs",
+    "category": "libertà",
+    "caption": "Non esiste prigione peggiore di una vita che non è la tua.",
+    "hashtags": [
+      "#liberta",
+      "#stevejobs",
+      "#autenticita",
+      "#tempo",
+      "#scelte",
+      "#vita"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430702+00:00"
+  },
+  {
+    "quote": "La semplicità è la massima raffinatezza.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "Togliere è più difficile che aggiungere. Ma è lì che nasce la bellezza.",
+    "hashtags": [
+      "#minimalismo",
+      "#leonardo",
+      "#semplicita",
+      "#essenziale",
+      "#arte",
+      "#vita"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430705+00:00"
+  },
+  {
+    "quote": "Ogni ostacolo è una possibilità per crescere.",
+    "author": "Ryan Holiday",
+    "category": "resilienza",
+    "caption": "L'ostacolo non è la fine del percorso. Spesso è l'inizio.",
+    "hashtags": [
+      "#resilienza",
+      "#ryanholiday",
+      "#ostacoli",
+      "#crescita",
+      "#stoicismo",
+      "#forza"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430708+00:00"
+  },
+  {
+    "quote": "La pace interiore è la più grande delle conquiste.",
+    "author": "Buddha",
+    "category": "pace",
+    "caption": "Nessuna vittoria esterna vale quanto un cuore finalmente tranquillo.",
+    "hashtags": [
+      "#pace",
+      "#buddha",
+      "#interiore",
+      "#serenita",
+      "#equilibrio",
+      "#dentro"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430711+00:00"
+  },
+  {
+    "quote": "Il tempo è un fiume che non torna mai indietro.",
+    "author": "Marco Aurelio",
+    "category": "tempo",
+    "caption": "Non puoi recuperare un istante. Puoi solo viverlo bene adesso.",
+    "hashtags": [
+      "#tempo",
+      "#marcoaurelio",
+      "#presente",
+      "#stoicismo",
+      "#vita",
+      "#attimo"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430715+00:00"
+  },
+  {
+    "quote": "Ciò che non mi uccide mi rende più forte.",
+    "author": "Friedrich Nietzsche",
+    "category": "forza",
+    "caption": "A volte è proprio la ferita a diventare il tuo punto più solido.",
+    "hashtags": [
+      "#forza",
+      "#nietzsche",
+      "#resilienza",
+      "#dolore",
+      "#crescita",
+      "#vita"
+    ],
+    "generated_at": "2026-10-10T03:22:53.430718+00:00"
   }
 ]

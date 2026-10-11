@@ -1,35 +1,5 @@
 [
   {
-    "quote": "Il successo è camminare da un fallimento all'altro con entusiasmo.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "Ogni caduta è un gradino, non un muro.",
-    "hashtags": [
-      "#successo",
-      "#churchill",
-      "#fallimento",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#resilienza"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996693+00:00"
-  },
-  {
-    "quote": "La cosa più importante è non smettere di interrogarsi.",
-    "author": "Albert Einstein",
-    "category": "filosofia",
-    "caption": "La curiosità è il motore di ogni scoperta.",
-    "hashtags": [
-      "#filosofia",
-      "#einstein",
-      "#curiosità",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#scienza"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996695+00:00"
-  },
-  {
     "quote": "Sii grato per ciò che hai mentre lavori per ciò che vuoi.",
     "author": "Jim Rohn",
     "category": "gratitudine",
@@ -7341,5 +7311,33 @@
       "#filosofia"
     ],
     "generated_at": "2026-10-10T16:36:16.278145+00:00"
+  },
+  {
+    "quote": "La speranza è l'arte di aspettare con fiducia.",
+    "author": "Charles Péguy",
+    "category": "speranza",
+    "caption": "Sperare non è chiudere gli occhi: è tenerli aperti sul domani.",
+    "hashtags": [
+      "#speranza",
+      "#peguy",
+      "#fiducia",
+      "#domani",
+      "#attesa"
+    ],
+    "generated_at": "2026-10-11T02:56:03.878783+00:00"
+  },
+  {
+    "quote": "L'amicizia è una sola anima in due corpi.",
+    "author": "Aristotele",
+    "category": "amicizia",
+    "caption": "Ci sono amici che sono, semplicemente, un'altra parte di noi.",
+    "hashtags": [
+      "#amicizia",
+      "#aristotele",
+      "#anima",
+      "#legame",
+      "#fiducia"
+    ],
+    "generated_at": "2026-10-11T02:56:03.878810+00:00"
   }
 ]

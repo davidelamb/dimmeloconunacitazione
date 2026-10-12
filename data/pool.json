@@ -1,50 +1,5 @@
 [
   {
-    "quote": "Sii grato per ciò che hai mentre lavori per ciò che vuoi.",
-    "author": "Jim Rohn",
-    "category": "gratitudine",
-    "caption": "La gratitudine apre la porta all'abbondanza.",
-    "hashtags": [
-      "#gratitudine",
-      "#jimrohn",
-      "#abbondanza",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#ringraziamento"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996697+00:00"
-  },
-  {
-    "quote": "La disciplina è il ponte tra gli obiettivi e i risultati.",
-    "author": "Jim Rohn",
-    "category": "disciplina",
-    "caption": "Senza costanza, anche il sogno più grande resta un'idea.",
-    "hashtags": [
-      "#disciplina",
-      "#jimrohn",
-      "#obiettivi",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#costanza"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996700+00:00"
-  },
-  {
-    "quote": "Non è la specie più forte che sopravvive, ma quella più adattabile al cambiamento.",
-    "author": "Charles Darwin",
-    "category": "resilienza",
-    "caption": "Adattarsi non è arrendersi: è evolvere.",
-    "hashtags": [
-      "#resilienza",
-      "#darwin",
-      "#evoluzione",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#adattamento"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996703+00:00"
-  },
-  {
     "quote": "La felicità dipende da noi stessi.",
     "author": "Aristotele",
     "category": "felicità",
@@ -7339,5 +7294,50 @@
       "#fiducia"
     ],
     "generated_at": "2026-10-11T02:56:03.878810+00:00"
+  },
+  {
+    "quote": "Siamo ciò che facciamo ripetutamente. L'eccellenza, quindi, non è un atto, ma un'abitudine.",
+    "author": "Aristotele",
+    "category": "disciplina",
+    "caption": "La disciplina non è un gesto eclatante, è la somma di piccoli gesti quotidiani. Costruisci la tua eccellenza un giorno alla volta.",
+    "hashtags": [
+      "#disciplina",
+      "#abitudini",
+      "#eccellenza",
+      "#crescita",
+      "#filosofia",
+      "#aristotele"
+    ],
+    "generated_at": "2026-10-12T03:19:19.220308+00:00"
+  },
+  {
+    "quote": "Il successo è la capacità di andare da un fallimento all'altro senza perdere l'entusiasmo.",
+    "author": "Winston Churchill",
+    "category": "successo",
+    "caption": "Non contano le cadute, ma la capacità di rialzarsi con lo stesso fuoco di sempre. Il successo è un cammino, non un traguardo.",
+    "hashtags": [
+      "#successo",
+      "#fallimento",
+      "#resilienza",
+      "#motivazione",
+      "#churchill",
+      "#entusiasmo"
+    ],
+    "generated_at": "2026-10-12T03:19:19.220334+00:00"
+  },
+  {
+    "quote": "La felicità non è qualcosa di già pronto. Viene dalle tue azioni.",
+    "author": "Dalai Lama",
+    "category": "felicità",
+    "caption": "Non aspettare che la felicità bussi alla porta: costruiscila con le tue scelte quotidiane. Ogni azione è un mattone.",
+    "hashtags": [
+      "#felicità",
+      "#azioni",
+      "#dalailama",
+      "#mindfulness",
+      "#crescita",
+      "#benessere"
+    ],
+    "generated_at": "2026-10-12T03:19:19.220385+00:00"
   }
 ]

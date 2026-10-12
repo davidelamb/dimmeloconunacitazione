@@ -1,95 +1,5 @@
 [
   {
-    "quote": "La felicità dipende da noi stessi.",
-    "author": "Aristotele",
-    "category": "felicità",
-    "caption": "Nessuno può regalarti la felicità: si costruisce dentro.",
-    "hashtags": [
-      "#felicità",
-      "#aristotele",
-      "#filosofia",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#benessere"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996707+00:00"
-  },
-  {
-    "quote": "Il tempo è ciò che più vorremmo avere e ciò che peggio utilizziamo.",
-    "author": "William Penn",
-    "category": "tempo",
-    "caption": "Il tempo non si trova, si sceglie.",
-    "hashtags": [
-      "#tempo",
-      "#williampenn",
-      "#priorità",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#vita"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996709+00:00"
-  },
-  {
-    "quote": "La libertà è la possibilità di dubitare.",
-    "author": "Ugo Foscolo",
-    "category": "libertà",
-    "caption": "Essere liberi significa poter mettere tutto in discussione.",
-    "hashtags": [
-      "#libertà",
-      "#foscolo",
-      "#dubbio",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#pensiero"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996713+00:00"
-  },
-  {
-    "quote": "La vera amicizia è quella che resiste al tempo e alla distanza.",
-    "author": "Cicerone",
-    "category": "amicizia",
-    "caption": "Gli amici veri non si contano, si riconoscono.",
-    "hashtags": [
-      "#amicizia",
-      "#cicerone",
-      "#lealtà",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#legami"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996722+00:00"
-  },
-  {
-    "quote": "La famiglia è il rifugio nella tempesta.",
-    "author": "Papa Giovanni Paolo II",
-    "category": "famiglia",
-    "caption": "La casa non è un luogo: è chi ti aspetta lì.",
-    "hashtags": [
-      "#famiglia",
-      "#giovannipaoloii",
-      "#casa",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#amore"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996725+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più forte di un cuore che ha imparato a perdonare.",
-    "author": "Nelson Mandela",
-    "category": "perdono",
-    "caption": "Perdonare non è dimenticare: è liberarsi.",
-    "hashtags": [
-      "#perdono",
-      "#mandela",
-      "#libertà",
-      "#dimmeloconunacitazione",
-      "#citazioni",
-      "#pace"
-    ],
-    "generated_at": "2026-09-11T15:31:40.996727+00:00"
-  },
-  {
     "quote": "Il coraggio non è l'assenza di paura, ma il giudizio che qualcosa è più importante della paura.",
     "author": "Ambrose Redmoon",
     "category": "coraggio",
@@ -7339,5 +7249,95 @@
       "#benessere"
     ],
     "generated_at": "2026-10-12T03:19:19.220385+00:00"
+  },
+  {
+    "quote": "L'amore non consiste nel guardarsi l'un l'altro, ma nel guardare insieme nella stessa direzione.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "Amare è condividere una direzione, non solo uno sguardo.",
+    "hashtags": [
+      "#amore",
+      "#citazioni",
+      "#frasi",
+      "#coppia",
+      "#saintExupery",
+      "#condivisione"
+    ],
+    "generated_at": "2026-10-12T20:36:01.306152+00:00"
+  },
+  {
+    "quote": "La vita è ciò che accade quando sei impegnato a fare altri programmi.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "A volte i piani migliori sono quelli che non avevi previsto.",
+    "hashtags": [
+      "#vita",
+      "#citazioni",
+      "#frasi",
+      "#johnlennon",
+      "#imprevisti",
+      "#presente"
+    ],
+    "generated_at": "2026-10-12T20:36:01.306176+00:00"
+  },
+  {
+    "quote": "La disciplina è il ponte tra gli obiettivi e i risultati.",
+    "author": "Jim Rohn",
+    "category": "disciplina",
+    "caption": "Senza il ponte, le mete restano solo desideri.",
+    "hashtags": [
+      "#disciplina",
+      "#citazioni",
+      "#frasi",
+      "#jimrohn",
+      "#obiettivi",
+      "#costanza"
+    ],
+    "generated_at": "2026-10-12T20:36:01.306184+00:00"
+  },
+  {
+    "quote": "Il coraggio è la grazia sotto pressione.",
+    "author": "Ernest Hemingway",
+    "category": "coraggio",
+    "caption": "La vera eleganza si vede quando tutto spinge nella direzione opposta.",
+    "hashtags": [
+      "#coraggio",
+      "#citazioni",
+      "#frasi",
+      "#hemingway",
+      "#pressione",
+      "#grazia"
+    ],
+    "generated_at": "2026-10-12T20:36:01.306189+00:00"
+  },
+  {
+    "quote": "Il successo non è la fine, il fallimento non è fatale: è il coraggio di continuare che conta.",
+    "author": "Winston Churchill",
+    "category": "successo",
+    "caption": "Continuare, anche quando nessuno applaude.",
+    "hashtags": [
+      "#successo",
+      "#citazioni",
+      "#frasi",
+      "#churchill",
+      "#determinazione",
+      "#continua"
+    ],
+    "generated_at": "2026-10-12T20:36:01.306193+00:00"
+  },
+  {
+    "quote": "Il cambiamento è la legge della vita. Chi guarda solo al passato o al presente si perderà il futuro.",
+    "author": "John F. Kennedy",
+    "category": "cambiamento",
+    "caption": "Il futuro appartiene a chi sa voltare pagina.",
+    "hashtags": [
+      "#cambiamento",
+      "#citazioni",
+      "#frasi",
+      "#kennedy",
+      "#futuro",
+      "#trasformazione"
+    ],
+    "generated_at": "2026-10-12T20:36:01.306199+00:00"
   }
 ]

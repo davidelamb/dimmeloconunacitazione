@@ -1,80 +1,5 @@
 [
   {
-    "quote": "La conoscenza di sé è l'inizio di ogni saggezza.",
-    "author": "Aristotele",
-    "category": "consapevolezza",
-    "caption": "Prima di capire il mondo, prova a capire te.",
-    "hashtags": [
-      "#Aristotele",
-      "#conoscenzadise",
-      "#saggezza",
-      "#consapevolezza",
-      "#filosofia",
-      "#introspezione"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334380+00:00"
-  },
-  {
-    "quote": "Sono grato a chi mi ha detto no. Mi ha insegnato a fare da solo.",
-    "author": "Albert Einstein",
-    "category": "gratitudine",
-    "caption": "Anche i no, col tempo, diventano maestri.",
-    "hashtags": [
-      "#gratitudine",
-      "#Einstein",
-      "#no",
-      "#autonomia",
-      "#crescita",
-      "#ringraziare"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334384+00:00"
-  },
-  {
-    "quote": "La libertà è il diritto di dire no.",
-    "author": "Nicolás Gómez Dávila",
-    "category": "libertà",
-    "caption": "Essere liberi significa poter rifiutare.",
-    "hashtags": [
-      "#libertà",
-      "#direno",
-      "#GomezDavila",
-      "#filosofia",
-      "#autonomia",
-      "#scelta"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334391+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più pericoloso di un'idea quando è l'unica che hai.",
-    "author": "Alain Besançon",
-    "category": "filosofia",
-    "caption": "Le certezze uniche sono le più fragili.",
-    "hashtags": [
-      "#filosofia",
-      "#idee",
-      "#dubbio",
-      "#pensiero",
-      "#Besancon",
-      "#apertura"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334395+00:00"
-  },
-  {
-    "quote": "Il tempo guarisce quasi tutto, ma non restituisce nulla.",
-    "author": "Anonimo",
-    "category": "tempo",
-    "caption": "Il tempo passa, ma non torna indietro.",
-    "hashtags": [
-      "#tempo",
-      "#guarigione",
-      "#passato",
-      "#presente",
-      "#vita",
-      "#ricordi"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334400+00:00"
-  },
-  {
     "quote": "La solitudine è il prezzo che paghi per essere te stesso.",
     "author": "Anonimo",
     "category": "solitudine",
@@ -7347,5 +7272,81 @@
       "#crescita"
     ],
     "generated_at": "2026-10-13T04:34:14.627647+00:00"
+  },
+  {
+    "quote": "L'uomo che non ha mai fallito è l'uomo che non ha mai tentato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Il fallimento non è la fine: è la prova che hai avuto il coraggio di provare.",
+    "hashtags": [
+      "#fallimento",
+      "#coraggio",
+      "#crescita",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#riprova",
+      "#lezione"
+    ],
+    "generated_at": "2026-10-14T02:43:48.253624+00:00"
+  },
+  {
+    "quote": "La libertà non è fare ciò che ci piace, ma volere ciò che possiamo.",
+    "author": "Jean-Jacques Rousseau",
+    "category": "libertà",
+    "caption": "Liberi davvero non quando facciamo tutto, ma quando scegliamo ciò che ci rende migliori.",
+    "hashtags": [
+      "#libertà",
+      "#scelte",
+      "#filosofia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-10-14T02:43:48.253654+00:00"
+  },
+  {
+    "quote": "La pazienza è la più eroica delle virtù, proprio perché non ha alcuna apparenza di eroismo.",
+    "author": "Giacomo Leopardi",
+    "category": "pazienza",
+    "caption": "Nessuno applaude chi aspetta, eppure è lì che si costruiscono le cose grandi.",
+    "hashtags": [
+      "#pazienza",
+      "#virtù",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#tempo",
+      "#costanza"
+    ],
+    "generated_at": "2026-10-14T02:43:48.253662+00:00"
+  },
+  {
+    "quote": "Non esiste vento favorevole per il marinaio che non sa dove andare.",
+    "author": "Lucio Anneo Seneca",
+    "category": "scelte",
+    "caption": "Prima di remare, decidi la rotta. Altrimenti ogni vento è sbagliato.",
+    "hashtags": [
+      "#scelte",
+      "#direzione",
+      "#seneca",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#obiettivi"
+    ],
+    "generated_at": "2026-10-14T02:43:48.253670+00:00"
+  },
+  {
+    "quote": "L'amicizia è una pianta che cresce lentamente.",
+    "author": "George Washington",
+    "category": "amicizia",
+    "caption": "Le amicizie vere non nascono in fretta: si coltivano.",
+    "hashtags": [
+      "#amicizia",
+      "#fiducia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#tempo",
+      "#legami"
+    ],
+    "generated_at": "2026-10-14T02:43:48.253684+00:00"
   }
 ]

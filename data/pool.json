@@ -1,50 +1,5 @@
 [
   {
-    "quote": "La delusione è il prezzo che paghi per aver creduto in qualcuno.",
-    "author": "Anonimo",
-    "category": "delusione",
-    "caption": "Fidarsi ha un costo, ma ne vale comunque la pena.",
-    "hashtags": [
-      "#delusione",
-      "#fiducia",
-      "#aspettative",
-      "#realtà",
-      "#cuore",
-      "#crescere"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334452+00:00"
-  },
-  {
-    "quote": "L'ironia è l'ultimo rifugio di chi ha capito tutto.",
-    "author": "Anonimo",
-    "category": "ironia",
-    "caption": "Sorridere quando capisci è una forma di saggezza.",
-    "hashtags": [
-      "#ironia",
-      "#saggezza",
-      "#sorriso",
-      "#disincanto",
-      "#intelligenza",
-      "#vita"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334456+00:00"
-  },
-  {
-    "quote": "Il minimalismo è togliere il superfluo per vedere l'essenziale.",
-    "author": "Anonimo",
-    "category": "minimalismo",
-    "caption": "Meno cose, più spazio per ciò che conta.",
-    "hashtags": [
-      "#minimalismo",
-      "#essenziale",
-      "#semplicita",
-      "#spazio",
-      "#meno",
-      "#vita"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334461+00:00"
-  },
-  {
     "quote": "La pace non è assenza di conflitto, è presenza di giustizia.",
     "author": "Martin Luther King Jr.",
     "category": "pace",
@@ -7348,5 +7303,47 @@
       "#futuro"
     ],
     "generated_at": "2026-10-14T16:10:56.944277+00:00"
+  },
+  {
+    "quote": "La vita è quella cosa che ci accade mentre siamo impegnati a fare altri piani.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Quante volte ci perdiamo i momenti migliori mentre inseguiamo il futuro?",
+    "hashtags": [
+      "#vita",
+      "#presente",
+      "#consapevolezza",
+      "#filosofia",
+      "#attimopersi"
+    ],
+    "generated_at": "2026-10-15T15:58:45.747973+00:00"
+  },
+  {
+    "quote": "L'amore non è guardarsi l'un l'altro, ma guardare insieme nella stessa direzione.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "L'amore vero non è specchiarsi, è remare insieme.",
+    "hashtags": [
+      "#amore",
+      "#coppia",
+      "#direzione",
+      "#saintExupéry",
+      "#complicità"
+    ],
+    "generated_at": "2026-10-15T15:58:45.748004+00:00"
+  },
+  {
+    "quote": "La motivazione ti fa partire, ma l'abitudine ti fa arrivare.",
+    "author": "Jim Rohn",
+    "category": "motivazione",
+    "caption": "Non basta l'entusiasmo iniziale: serve la costanza quotidiana.",
+    "hashtags": [
+      "#motivazione",
+      "#abitudini",
+      "#costanza",
+      "#jimrohn",
+      "#crescita"
+    ],
+    "generated_at": "2026-10-15T15:58:45.748010+00:00"
   }
 ]

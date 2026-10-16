@@ -1,199 +1,5 @@
 [
   {
-    "quote": "La pace non è assenza di conflitto, è presenza di giustizia.",
-    "author": "Martin Luther King Jr.",
-    "category": "pace",
-    "caption": "La vera pace si costruisce con la giustizia.",
-    "hashtags": [
-      "#pace",
-      "#giustizia",
-      "#MartinLutherKing",
-      "#diritti",
-      "#uguaglianza",
-      "#nonviolenza"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334465+00:00"
-  },
-  {
-    "quote": "Lo sport non costruisce il carattere, lo rivela.",
-    "author": "Heywood Broun",
-    "category": "sport",
-    "caption": "Il campo da gioco mostra chi sei davvero.",
-    "hashtags": [
-      "#sport",
-      "#carattere",
-      "#HeywoodBroun",
-      "#agonismo",
-      "#crescita",
-      "#disciplina"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334469+00:00"
-  },
-  {
-    "quote": "La vera libertà è padroneggiare se stessi.",
-    "author": "Epitteto",
-    "category": "libertà",
-    "caption": "Libero è chi sa governare le proprie passioni.",
-    "hashtags": [
-      "#libertà",
-      "#Epitteto",
-      "#stoicismo",
-      "#autocontrollo",
-      "#filosofia",
-      "#padronanzadise"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334473+00:00"
-  },
-  {
-    "quote": "Il destino guida chi lo segue, trascina chi resiste.",
-    "author": "Cleante",
-    "category": "destino",
-    "caption": "Accettare ciò che non puoi cambiare è già una forma di forza.",
-    "hashtags": [
-      "#destino",
-      "#Cleante",
-      "#stoicismo",
-      "#accettazione",
-      "#filosofia",
-      "#forza"
-    ],
-    "generated_at": "2026-09-14T17:15:16.334477+00:00"
-  },
-  {
-    "quote": "L'unico modo per fare un ottimo lavoro è amare quello che fai.",
-    "author": "Steve Jobs",
-    "category": "lavoro",
-    "caption": "Se ami ciò che fai, la passione diventa il motore di ogni giorno.",
-    "hashtags": [
-      "#lavoro",
-      "#passione",
-      "#stevejobs",
-      "#citazioni",
-      "#motivazione",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-15T15:54:52.109515+00:00"
-  },
-  {
-    "quote": "Il tempo è la sostanza di cui è fatta la vita.",
-    "author": "Benjamin Franklin",
-    "category": "tempo",
-    "caption": "Il tempo è l'unica risorsa non rinnovabile: usalo con saggezza.",
-    "hashtags": [
-      "#tempo",
-      "#benjaminfranklin",
-      "#citazioni",
-      "#vita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-15T15:54:52.109551+00:00"
-  },
-  {
-    "quote": "Non possiamo fare grandi cose, solo piccole cose con grande amore.",
-    "author": "Madre Teresa di Calcutta",
-    "category": "amore",
-    "caption": "Non serve grandezza: serve amore nelle piccole cose di ogni giorno.",
-    "hashtags": [
-      "#amore",
-      "#madreteresa",
-      "#piccolecose",
-      "#citazioni",
-      "#gentilezza",
-      "#quotidiano"
-    ],
-    "generated_at": "2026-09-16T02:23:20.233055+00:00"
-  },
-  {
-    "quote": "La vita è davvero semplice, ma insistiamo a renderla complicata.",
-    "author": "Confucio",
-    "category": "vita",
-    "caption": "Forse il problema non è la vita: siamo noi che aggiungiamo complicazioni.",
-    "hashtags": [
-      "#vita",
-      "#confucio",
-      "#semplicità",
-      "#citazioni",
-      "#filosofia",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-09-16T02:23:20.233083+00:00"
-  },
-  {
-    "quote": "La disciplina è la scelta tra ciò che vuoi adesso e ciò che vuoi di più.",
-    "author": "Abraham Lincoln",
-    "category": "disciplina",
-    "caption": "Ogni volta che scegli il poi invece dell'ora, stai costruendo il tuo futuro.",
-    "hashtags": [
-      "#disciplina",
-      "#lincoln",
-      "#obiettivi",
-      "#citazioni",
-      "#focus",
-      "#determinazione"
-    ],
-    "generated_at": "2026-09-16T02:23:20.233094+00:00"
-  },
-  {
-    "quote": "La paura uccide più sogni della morte.",
-    "author": "Robin Sharma",
-    "category": "coraggio",
-    "caption": "Quante cose non hai fatto solo per paura? Inizia da lì.",
-    "hashtags": [
-      "#coraggio",
-      "#paura",
-      "#sogni",
-      "#citazioni",
-      "#crescita",
-      "#coraggiodivivere"
-    ],
-    "generated_at": "2026-09-16T02:23:20.233101+00:00"
-  },
-  {
-    "quote": "Il successo non è definitivo, il fallimento non è fatale: è il coraggio di continuare che conta.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "Né il trionfo né la caduta sono la fine: conta solo andare avanti.",
-    "hashtags": [
-      "#successo",
-      "#churchill",
-      "#fallimento",
-      "#citazioni",
-      "#motivazione",
-      "#resilienza"
-    ],
-    "generated_at": "2026-09-16T02:23:20.233108+00:00"
-  },
-  {
-    "quote": "Le avversità non costruiscono il carattere, lo rivelano.",
-    "author": "James Lane Allen",
-    "category": "resilienza",
-    "caption": "Le difficoltà non ti cambiano: ti mostrano chi sei davvero.",
-    "hashtags": [
-      "#resilienza",
-      "#avversità",
-      "#carattere",
-      "#citazioni",
-      "#forza",
-      "#crescita"
-    ],
-    "generated_at": "2026-09-16T02:23:20.233116+00:00"
-  },
-  {
-    "quote": "Nessuno può farti sentire inferiore senza il tuo consenso.",
-    "author": "Eleanor Roosevelt",
-    "category": "autostima",
-    "caption": "Il permesso di farti male, lo dai tu. E puoi anche toglierlo.",
-    "hashtags": [
-      "#autostima",
-      "#eleanorroosevelt",
-      "#rispetto",
-      "#citazioni",
-      "#amorproprio",
-      "#forza"
-    ],
-    "generated_at": "2026-09-16T02:23:20.233129+00:00"
-  },
-  {
     "quote": "Un amico è qualcuno che sa tutto di te e ti vuole bene comunque.",
     "author": "Elbert Hubbard",
     "category": "amicizia",
@@ -7345,5 +7151,201 @@
       "#crescita"
     ],
     "generated_at": "2026-10-15T15:58:45.748010+00:00"
+  },
+  {
+    "quote": "Non ho tempo per odiare chi mi ha fatto del male, sono troppo occupato ad amare chi mi ha fatto del bene.",
+    "author": "Dante Alighieri",
+    "category": "perdono",
+    "caption": "Il tempo è troppo prezioso per sprecarlo nel rancore.",
+    "hashtags": [
+      "#perdono",
+      "#dantealighieri",
+      "#citazioni",
+      "#cuore",
+      "#lasciareandare",
+      "#tempo",
+      "#amore"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037040+00:00"
+  },
+  {
+    "quote": "Non si vede bene che col cuore.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "Le cose importanti non si vedono, si sentono.",
+    "hashtags": [
+      "#amore",
+      "#saintexupery",
+      "#piccoloprincipe",
+      "#citazioni",
+      "#cuore",
+      "#essenziale"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037066+00:00"
+  },
+  {
+    "quote": "Colui che ha un perché per vivere può sopportare quasi ogni come.",
+    "author": "Friedrich Nietzsche",
+    "category": "resilienza",
+    "caption": "Un senso chiaro ti fa reggere anche i giorni pesanti.",
+    "hashtags": [
+      "#resilienza",
+      "#nietzsche",
+      "#senso",
+      "#citazioni",
+      "#forza",
+      "#filosofia"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037072+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di buono o di cattivo, ma è il pensiero che lo rende tale.",
+    "author": "William Shakespeare",
+    "category": "consapevolezza",
+    "caption": "Cambia lo sguardo e cambia il mondo che vedi.",
+    "hashtags": [
+      "#consapevolezza",
+      "#shakespeare",
+      "#citazioni",
+      "#mente",
+      "#prospettiva",
+      "#filosofia"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037078+00:00"
+  },
+  {
+    "quote": "Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza.",
+    "author": "Dante Alighieri",
+    "category": "crescita personale",
+    "caption": "Siamo fatti per imparare e per diventare migliori.",
+    "hashtags": [
+      "#crescita personale",
+      "#dante",
+      "#citazioni",
+      "#conoscenza",
+      "#virtù",
+      "#letteratura"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037084+00:00"
+  },
+  {
+    "quote": "La felicità dipende da noi stessi.",
+    "author": "Aristotele",
+    "category": "felicità",
+    "caption": "Non è qualcosa che accade: è qualcosa che scegli.",
+    "hashtags": [
+      "#felicità",
+      "#aristotele",
+      "#citazioni",
+      "#scelta",
+      "#filosofia",
+      "#benessere"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037091+00:00"
+  },
+  {
+    "quote": "Chi non legge, a 70 anni avrà vissuto una sola vita: la propria.",
+    "author": "Umberto Eco",
+    "category": "filosofia",
+    "caption": "Ogni libro è una vita in più che ti regali.",
+    "hashtags": [
+      "#filosofia",
+      "#umbertoeco",
+      "#citazioni",
+      "#lettura",
+      "#libri",
+      "#cultura"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037096+00:00"
+  },
+  {
+    "quote": "Non si può risolvere un problema con lo stesso livello di pensiero che l'ha creato.",
+    "author": "Albert Einstein",
+    "category": "cambiamento",
+    "caption": "Per uscire da un vicolo cieco serve un pensiero nuovo.",
+    "hashtags": [
+      "#cambiamento",
+      "#einstein",
+      "#citazioni",
+      "#pensiero",
+      "#soluzioni",
+      "#mente"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037101+00:00"
+  },
+  {
+    "quote": "L'amicizia è un'anima in due corpi.",
+    "author": "Aristotele",
+    "category": "amicizia",
+    "caption": "Un vero amico è una parte di te che cammina altrove.",
+    "hashtags": [
+      "#amicizia",
+      "#aristotele",
+      "#citazioni",
+      "#legami",
+      "#filosofia",
+      "#cuore"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037109+00:00"
+  },
+  {
+    "quote": "La giovinezza è un dono, ma la maturità è una conquista.",
+    "author": "Eleanor Roosevelt",
+    "category": "maturità",
+    "caption": "Crescere non è perdere tempo: è guadagnare profondità.",
+    "hashtags": [
+      "#maturità",
+      "#eleanorroosevelt",
+      "#citazioni",
+      "#crescita",
+      "#vita",
+      "#saggezza"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037116+00:00"
+  },
+  {
+    "quote": "I sogni sono l'unica cosa che non puoi comprare con il denaro.",
+    "author": "Walt Disney",
+    "category": "sogni",
+    "caption": "I sogni si costruiscono con il coraggio, non con il portafoglio.",
+    "hashtags": [
+      "#sogni",
+      "#waltdisney",
+      "#citazioni",
+      "#coraggio",
+      "#immaginazione",
+      "#vita"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037120+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte di un cuore che ha imparato a perdonare.",
+    "author": "Buddha",
+    "category": "perdono",
+    "caption": "Perdonare non è dimenticare: è smettere di portare peso.",
+    "hashtags": [
+      "#perdono",
+      "#buddha",
+      "#citazioni",
+      "#cuore",
+      "#lasciareandare",
+      "#pace"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037125+00:00"
+  },
+  {
+    "quote": "Chi guarda fuori sogna, chi guarda dentro si sveglia.",
+    "author": "Carl Gustav Jung",
+    "category": "consapevolezza",
+    "caption": "Il risveglio non è fuori: è dentro di te.",
+    "hashtags": [
+      "#consapevolezza",
+      "#jung",
+      "#citazioni",
+      "#interiorità",
+      "#sogni",
+      "#psicologia"
+    ],
+    "generated_at": "2026-10-16T02:16:28.037132+00:00"
   }
 ]

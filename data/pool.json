@@ -1,318 +1,5 @@
 [
   {
-    "quote": "La felicità non è qualcosa di pronto: viene dalle tue azioni.",
-    "author": "Dalai Lama",
-    "category": "felicità",
-    "caption": "Non aspettarla. Costruiscila.",
-    "hashtags": [
-      "#felicità",
-      "#azioni",
-      "#benessere",
-      "#vita",
-      "#scelte",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-18T15:27:14.773173+00:00"
-  },
-  {
-    "quote": "La vera libertà è padroneggiare sé stessi.",
-    "author": "Epitteto",
-    "category": "libertà",
-    "caption": "Il padrone più difficile da vincere sei tu.",
-    "hashtags": [
-      "#libertà",
-      "#epitteto",
-      "#autocontrollo",
-      "#filosofia",
-      "#stoicismo",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-18T15:27:14.773184+00:00"
-  },
-  {
-    "quote": "Non si vede bene che col cuore. L'essenziale è invisibile agli occhi.",
-    "author": "Antoine de Saint-Exupéry",
-    "category": "amore",
-    "caption": "A volte basta chiudere gli occhi per vedere davvero.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#cuore",
-      "#essenziale",
-      "#dimmeloconunacitazione",
-      "#frasiamore"
-    ],
-    "generated_at": "2026-09-19T02:16:29.042913+00:00"
-  },
-  {
-    "quote": "La più grande gloria non sta nel non cadere mai, ma nel rialzarsi ogni volta che cadiamo.",
-    "author": "Confucio",
-    "category": "coraggio",
-    "caption": "Cadere è umano, rialzarsi è una scelta.",
-    "hashtags": [
-      "#coraggio",
-      "#citazioni",
-      "#confucio",
-      "#rialzarsi",
-      "#dimmeloconunacitazione",
-      "#forza"
-    ],
-    "generated_at": "2026-09-19T02:16:29.042946+00:00"
-  },
-  {
-    "quote": "Non ho mai incontrato un uomo così ignorante da non poter imparare qualcosa da lui.",
-    "author": "Galileo Galilei",
-    "category": "crescita personale",
-    "caption": "Ogni persona che incontri ha qualcosa da insegnarti: basta avere l'umiltà di ascoltare.",
-    "hashtags": [
-      "#crescitaPersonale",
-      "#umiltà",
-      "#imparare",
-      "#galileo",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445313+00:00"
-  },
-  {
-    "quote": "Fai della tua vita un sogno, e di un sogno una realtà.",
-    "author": "Antoine de Saint-Exupéry",
-    "category": "sogni",
-    "caption": "I sogni non restano tali per caso: diventano realtà quando iniziamo a costruirli.",
-    "hashtags": [
-      "#sogni",
-      "#saintExupéry",
-      "#realtà",
-      "#ispirazione",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445341+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più forte al mondo di un cuore gentile.",
-    "author": "Anne Frank",
-    "category": "forza",
-    "caption": "La gentilezza non è debolezza: è la forma più silenziosa e potente di coraggio.",
-    "hashtags": [
-      "#gentilezza",
-      "#forza",
-      "#anneFrank",
-      "#cuore",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445347+00:00"
-  },
-  {
-    "quote": "La mente che si apre a una nuova idea non torna mai alla sua dimensione originale.",
-    "author": "Oliver Wendell Holmes",
-    "category": "cambiamento",
-    "caption": "Ogni idea nuova è una porta che, una volta aperta, non si può più chiudere.",
-    "hashtags": [
-      "#cambiamento",
-      "#nuoveIdee",
-      "#menteAperta",
-      "#crescita",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445350+00:00"
-  },
-  {
-    "quote": "La miglior vendetta è vivere bene.",
-    "author": "George Herbert",
-    "category": "resilienza",
-    "caption": "Non sprecare energia per rispondere: usa quella forza per stare bene.",
-    "hashtags": [
-      "#resilienza",
-      "#vivereBene",
-      "#forzaInteriore",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445353+00:00"
-  },
-  {
-    "quote": "Quello che non si affronta, non si supera.",
-    "author": "James Baldwin",
-    "category": "coraggio",
-    "caption": "Le paure crescono nell'ombra: affrontale alla luce e inizieranno a sciogliersi.",
-    "hashtags": [
-      "#coraggio",
-      "#affrontare",
-      "#jamesBaldwin",
-      "#paure",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445357+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di buono o di cattivo, ma il pensiero lo rende tale.",
-    "author": "William Shakespeare",
-    "category": "filosofia",
-    "caption": "Il significato delle cose dipende spesso dallo sguardo con cui le osserviamo.",
-    "hashtags": [
-      "#filosofia",
-      "#shakespeare",
-      "#pensiero",
-      "#prospettiva",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445360+00:00"
-  },
-  {
-    "quote": "La felicità non è una stazione a cui arrivare, ma il modo in cui viaggi.",
-    "author": "Margaret Lee Runbeck",
-    "category": "felicità",
-    "caption": "Smetti di rincorrere la felicità come una meta: è già nel tragitto.",
-    "hashtags": [
-      "#felicità",
-      "#viaggio",
-      "#presente",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445364+00:00"
-  },
-  {
-    "quote": "Il coraggio è la cosa più importante che possiamo avere, perché senza di esso non possiamo praticare nessun'altra virtù.",
-    "author": "Maya Angelou",
-    "category": "coraggio",
-    "caption": "Prima il coraggio, poi tutto il resto: è la base su cui costruire ogni altra qualità.",
-    "hashtags": [
-      "#coraggio",
-      "#mayaAngelou",
-      "#virtù",
-      "#forza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445367+00:00"
-  },
-  {
-    "quote": "Non è abbastanza essere operosi: bisogna essere operosi in modo produttivo.",
-    "author": "Henry David Thoreau",
-    "category": "lavoro",
-    "caption": "Non basta fare: conta ciò che costruiamo con ciò che facciamo.",
-    "hashtags": [
-      "#lavoro",
-      "#thoreau",
-      "#produttività",
-      "#senso",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445370+00:00"
-  },
-  {
-    "quote": "La vera scoperta non consiste nel trovare nuove terre, ma nell'avere occhi nuovi.",
-    "author": "Marcel Proust",
-    "category": "consapevolezza",
-    "caption": "Cambia lo sguardo e anche il mondo intorno a te inizierà a cambiare.",
-    "hashtags": [
-      "#consapevolezza",
-      "#proust",
-      "#sguardo",
-      "#scoperta",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445372+00:00"
-  },
-  {
-    "quote": "Ogni cosa ha la sua bellezza, ma non tutti la vedono.",
-    "author": "Confucio",
-    "category": "gratitudine",
-    "caption": "La gratitudine è una lente: ti fa vedere la bellezza dove prima c'era solo abitudine.",
-    "hashtags": [
-      "#gratitudine",
-      "#confucio",
-      "#bellezza",
-      "#sguardo",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445375+00:00"
-  },
-  {
-    "quote": "La solitudine è il prezzo che paghiamo per essere liberi.",
-    "author": "Arthur Schopenhauer",
-    "category": "solitudine",
-    "caption": "A volte la solitudine non è una condanna, ma la condizione per restare fedeli a se stessi.",
-    "hashtags": [
-      "#solitudine",
-      "#libertà",
-      "#schopenhauer",
-      "#introspezione",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445377+00:00"
-  },
-  {
-    "quote": "Non c'è nulla come il tempo per rivelare la vera amicizia.",
-    "author": "Charles Dickens",
-    "category": "amicizia",
-    "caption": "Le amicizie vere non hanno fretta: le riconosci dal tempo che resistono.",
-    "hashtags": [
-      "#amicizia",
-      "#tempo",
-      "#dickens",
-      "#fiducia",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445379+00:00"
-  },
-  {
-    "quote": "La pazienza è la compagna della saggezza.",
-    "author": "Sant'Agostino",
-    "category": "pazienza",
-    "caption": "Chi sa aspettare ha già capito qualcosa che gli altri ancora non vedono.",
-    "hashtags": [
-      "#pazienza",
-      "#saggezza",
-      "#agostino",
-      "#attesa",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445382+00:00"
-  },
-  {
-    "quote": "Il successo è camminare da un fallimento all'altro senza perdere la speranza.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "Il successo non è una linea retta: è la capacità di continuare dopo ogni caduta.",
-    "hashtags": [
-      "#successo",
-      "#churchill",
-      "#fallimento",
-      "#speranza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445384+00:00"
-  },
-  {
-    "quote": "La cosa più difficile non è prendere decisioni, ma accettare le conseguenze.",
-    "author": "Paulo Coelho",
-    "category": "scelte",
-    "caption": "Scegliere è solo l'inizio: il vero coraggio sta nel vivere le conseguenze.",
-    "hashtags": [
-      "#scelte",
-      "#pauloCoelho",
-      "#conseguenze",
-      "#responsabilità",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445387+00:00"
-  },
-  {
     "quote": "La famiglia non è un'ancora che ti trattiene, è il vento che ti spinge.",
     "author": "Mitch Albom",
     "category": "famiglia",
@@ -7335,5 +7022,299 @@
       "#dimmelloconunacitazione"
     ],
     "generated_at": "2026-10-17T14:39:36.400717+00:00"
+  },
+  {
+    "quote": "Non si può fare nulla di grande senza entusiasmo.",
+    "author": "Ralph Waldo Emerson",
+    "category": "motivazione",
+    "caption": "L'entusiasmo non è rumore: è la benzina silenziosa delle cose grandi.",
+    "hashtags": [
+      "#motivazione",
+      "#emerson",
+      "#entusiasmo",
+      "#citazioni",
+      "#spinta"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721001+00:00"
+  },
+  {
+    "quote": "La gioia è negli occhi di chi guarda.",
+    "author": "Kahlil Gibran",
+    "category": "felicità",
+    "caption": "A volte la felicità non cambia posizione: cambia sguardo.",
+    "hashtags": [
+      "#felicità",
+      "#gibran",
+      "#gioia",
+      "#citazioni",
+      "#sguardo"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721048+00:00"
+  },
+  {
+    "quote": "La vera misura di un uomo è ciò che fa con il potere.",
+    "author": "Platone",
+    "category": "leadership",
+    "caption": "Il potere racconta chi sei davvero, non quanto vali.",
+    "hashtags": [
+      "#leadership",
+      "#platone",
+      "#potere",
+      "#citazioni",
+      "#responsabilità"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721052+00:00"
+  },
+  {
+    "quote": "La fortuna aiuta gli audaci.",
+    "author": "Virgilio",
+    "category": "coraggio",
+    "caption": "A volte il destino aspetta solo che tu faccia il primo passo.",
+    "hashtags": [
+      "#coraggio",
+      "#virgilio",
+      "#audacia",
+      "#citazioni",
+      "#fortuna"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721055+00:00"
+  },
+  {
+    "quote": "L'uomo è ciò che mangia.",
+    "author": "Ludwig Feuerbach",
+    "category": "consapevolezza",
+    "caption": "Siamo anche ciò che scegliamo di nutrire, ogni giorno.",
+    "hashtags": [
+      "#consapevolezza",
+      "#feuerbach",
+      "#nutrimento",
+      "#citazioni",
+      "#abitudini"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721057+00:00"
+  },
+  {
+    "quote": "Il cuore ha le sue ragioni che la ragione non conosce.",
+    "author": "Blaise Pascal",
+    "category": "amore",
+    "caption": "Non tutto si spiega, e va bene così.",
+    "hashtags": [
+      "#amore",
+      "#pascal",
+      "#cuore",
+      "#citazioni",
+      "#ragione"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721061+00:00"
+  },
+  {
+    "quote": "Siamo nani sulle spalle di giganti.",
+    "author": "Bernardo di Chartres",
+    "category": "crescita personale",
+    "caption": "Crescere non è partire da zero: è salire su chi ci ha preceduto.",
+    "hashtags": [
+      "#crescita",
+      "#giganti",
+      "#citazioni",
+      "#umiltà",
+      "#storia"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721063+00:00"
+  },
+  {
+    "quote": "La verità vi renderà liberi.",
+    "author": "Vangelo di Giovanni",
+    "category": "libertà",
+    "caption": "A volte la libertà comincia con una frase detta ad alta voce.",
+    "hashtags": [
+      "#libertà",
+      "#verità",
+      "#citazioni",
+      "#coraggio",
+      "#parole"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721065+00:00"
+  },
+  {
+    "quote": "Chi ha un perché per vivere può sopportare quasi ogni come.",
+    "author": "Friedrich Nietzsche",
+    "category": "resilienza",
+    "caption": "Il come diventa più leggero quando il perché è chiaro.",
+    "hashtags": [
+      "#resilienza",
+      "#nietzsche",
+      "#senso",
+      "#citazioni",
+      "#forza"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721068+00:00"
+  },
+  {
+    "quote": "L'uomo è la misura di tutte le cose.",
+    "author": "Protagora",
+    "category": "filosofia",
+    "caption": "Il mondo cambia misura a seconda di chi lo guarda.",
+    "hashtags": [
+      "#filosofia",
+      "#protagora",
+      "#misura",
+      "#citazioni",
+      "#relatività"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721070+00:00"
+  },
+  {
+    "quote": "La memoria è il diario che portiamo sempre con noi.",
+    "author": "Oscar Wilde",
+    "category": "nostalgia",
+    "caption": "Alcuni ricordi non pesano: accompagnano.",
+    "hashtags": [
+      "#nostalgia",
+      "#wilde",
+      "#memoria",
+      "#citazioni",
+      "#ricordi"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721072+00:00"
+  },
+  {
+    "quote": "L'educazione è l'arma più potente che puoi usare per cambiare il mondo.",
+    "author": "Nelson Mandela",
+    "category": "crescita personale",
+    "caption": "La cultura non è un lusso: è la prima forma di libertà.",
+    "hashtags": [
+      "#crescita",
+      "#mandela",
+      "#educazione",
+      "#citazioni",
+      "#cultura"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721074+00:00"
+  },
+  {
+    "quote": "La solitudine è pericolosa quando si è innamorati.",
+    "author": "Napoleone Bonaparte",
+    "category": "solitudine",
+    "caption": "Ci sono solitudini scelte e solitudini che pesano: distinguerle è già un passo.",
+    "hashtags": [
+      "#solitudine",
+      "#napoleone",
+      "#citazioni",
+      "#cuore",
+      "#silenzio"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721078+00:00"
+  },
+  {
+    "quote": "Nessun uomo è un'isola.",
+    "author": "John Donne",
+    "category": "relazioni",
+    "caption": "Anche chi si isola, in fondo, sta chiedendo di essere raggiunto.",
+    "hashtags": [
+      "#relazioni",
+      "#johndonne",
+      "#isola",
+      "#citazioni",
+      "#comunità"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721081+00:00"
+  },
+  {
+    "quote": "La pazienza è la virtù dei forti.",
+    "author": "Proverbio italiano",
+    "category": "pazienza",
+    "caption": "Aspettare bene è una forma di forza, non di rassegnazione.",
+    "hashtags": [
+      "#pazienza",
+      "#proverbio",
+      "#forza",
+      "#citazioni",
+      "#attesa"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721083+00:00"
+  },
+  {
+    "quote": "Chi non ha memoria non ha futuro.",
+    "author": "Papa Giovanni Paolo II",
+    "category": "consapevolezza",
+    "caption": "Guardare indietro serve, a patto di non restarci.",
+    "hashtags": [
+      "#consapevolezza",
+      "#memoria",
+      "#citazioni",
+      "#futuro",
+      "#storia"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721085+00:00"
+  },
+  {
+    "quote": "Il lavoro nobilita l'uomo.",
+    "author": "Proverbio italiano",
+    "category": "lavoro",
+    "caption": "Non è la fatica a nobilitare: è il senso che le diamo.",
+    "hashtags": [
+      "#lavoro",
+      "#proverbio",
+      "#dignità",
+      "#citazioni",
+      "#impegno"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721087+00:00"
+  },
+  {
+    "quote": "La felicità è reale solo quando è condivisa.",
+    "author": "Christopher McCandless",
+    "category": "felicità",
+    "caption": "Le gioie tenute in tasca si consumano: quelle condivise si moltiplicano.",
+    "hashtags": [
+      "#felicità",
+      "#condivisione",
+      "#citazioni",
+      "#gioia",
+      "#insieme"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721091+00:00"
+  },
+  {
+    "quote": "Chi non sa piangere non sa nemmeno ridere.",
+    "author": "Proverbio ebraico",
+    "category": "forza",
+    "caption": "La forza vera non nasconde le lacrime: le attraversa.",
+    "hashtags": [
+      "#forza",
+      "#proverbio",
+      "#emozioni",
+      "#citazioni",
+      "#cuore"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721093+00:00"
+  },
+  {
+    "quote": "L'abitudine è la seconda natura.",
+    "author": "Cicerone",
+    "category": "disciplina",
+    "caption": "Ogni giorno scegli quale seconda natura costruirti.",
+    "hashtags": [
+      "#disciplina",
+      "#cicero",
+      "#abitudine",
+      "#citazioni",
+      "#costanza"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721095+00:00"
+  },
+  {
+    "quote": "Il coraggio è la prima delle qualità umane perché garantisce tutte le altre.",
+    "author": "Winston Churchill",
+    "category": "coraggio",
+    "caption": "Senza coraggio, anche i talenti migliori restano in silenzio.",
+    "hashtags": [
+      "#coraggio",
+      "#churchill",
+      "#citazioni",
+      "#qualità",
+      "#audacia"
+    ],
+    "generated_at": "2026-10-18T02:08:49.721097+00:00"
   }
 ]

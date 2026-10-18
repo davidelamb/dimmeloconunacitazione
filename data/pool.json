@@ -1,78 +1,5 @@
 [
   {
-    "quote": "La famiglia non è un'ancora che ti trattiene, è il vento che ti spinge.",
-    "author": "Mitch Albom",
-    "category": "famiglia",
-    "caption": "La famiglia vera non ti tiene fermo: ti dà la forza per andare lontano.",
-    "hashtags": [
-      "#famiglia",
-      "#radici",
-      "#mitchAlbom",
-      "#forza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445389+00:00"
-  },
-  {
-    "quote": "La libertà è la capacità di dire no.",
-    "author": "Nicolás Gómez Dávila",
-    "category": "libertà",
-    "caption": "Essere liberi non significa fare tutto, ma poter scegliere cosa rifiutare.",
-    "hashtags": [
-      "#libertà",
-      "#direNo",
-      "#scelta",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445395+00:00"
-  },
-  {
-    "quote": "La cosa più importante è non smettere mai di interrogarsi.",
-    "author": "Albert Einstein",
-    "category": "filosofia",
-    "caption": "Le domande giuste valgono più delle risposte facili.",
-    "hashtags": [
-      "#filosofia",
-      "#domande",
-      "#einstein",
-      "#curiosità",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445399+00:00"
-  },
-  {
-    "quote": "La vita è un'opera d'arte che si costruisce giorno per giorno.",
-    "author": "Anonimo",
-    "category": "vita",
-    "caption": "Non serve un grande evento: ogni piccolo gesto quotidiano è un tratto del tuo capolavoro.",
-    "hashtags": [
-      "#vita",
-      "#quotidiano",
-      "#operaDarte",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445402+00:00"
-  },
-  {
-    "quote": "Chi non sa guardare avanti, non sa nemmeno dove sta andando.",
-    "author": "Proverbio",
-    "category": "ambizione",
-    "caption": "L'ambizione non è solo desiderare: è avere una direzione chiara.",
-    "hashtags": [
-      "#ambizione",
-      "#direzione",
-      "#proverbio",
-      "#obiettivi",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445405+00:00"
-  },
-  {
     "quote": "La maturità non è l'età, è la capacità di assumersi la responsabilità.",
     "author": "Anonimo",
     "category": "maturità",
@@ -7316,5 +7243,80 @@
       "#audacia"
     ],
     "generated_at": "2026-10-18T02:08:49.721097+00:00"
+  },
+  {
+    "quote": "Non ho paura delle tempeste, perché sto imparando a guidare la mia nave.",
+    "author": "Louisa May Alcott",
+    "category": "coraggio",
+    "caption": "La paura non sparisce: impari a tenere la barra.",
+    "hashtags": [
+      "#coraggio",
+      "#tempeste",
+      "#citazioni",
+      "#forza",
+      "#dimmeloconunacitazione",
+      "#anima"
+    ],
+    "generated_at": "2026-10-18T15:06:06.054751+00:00"
+  },
+  {
+    "quote": "Ogni cosa che puoi immaginare è reale.",
+    "author": "Pablo Picasso",
+    "category": "sogni",
+    "caption": "A volte basta credere che sia possibile.",
+    "hashtags": [
+      "#sogni",
+      "#immaginazione",
+      "#picasso",
+      "#citazioni",
+      "#creativita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-18T15:06:06.054777+00:00"
+  },
+  {
+    "quote": "La solitudine è il laboratorio in cui si forgia il carattere.",
+    "author": "Henry David Thoreau",
+    "category": "solitudine",
+    "caption": "Stare soli non è vuoto: è spazio.",
+    "hashtags": [
+      "#solitudine",
+      "#silenzio",
+      "#carattere",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#introspezione"
+    ],
+    "generated_at": "2026-10-18T15:06:06.054785+00:00"
+  },
+  {
+    "quote": "Un uomo che non ha mai commesso un errore non ha mai provato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Sbagliare è il pedaggio per imparare.",
+    "hashtags": [
+      "#fallimento",
+      "#errori",
+      "#einstein",
+      "#citazioni",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-18T15:06:06.054799+00:00"
+  },
+  {
+    "quote": "Sii fedele a te stesso.",
+    "author": "William Shakespeare",
+    "category": "autostima",
+    "caption": "L'unica approvazione che conta davvero è la tua.",
+    "hashtags": [
+      "#autostima",
+      "#shakespeare",
+      "#citazioni",
+      "#fedelta",
+      "#dimmeloconunacitazione",
+      "#se stesso"
+    ],
+    "generated_at": "2026-10-18T15:06:06.054806+00:00"
   }
 ]

@@ -1,330 +1,5 @@
 [
   {
-    "quote": "La maturità non è l'età, è la capacità di assumersi la responsabilità.",
-    "author": "Anonimo",
-    "category": "maturità",
-    "caption": "Si diventa adulti quando si smette di cercare colpevoli e si iniziano a prendere decisioni.",
-    "hashtags": [
-      "#maturità",
-      "#responsabilità",
-      "#crescita",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445407+00:00"
-  },
-  {
-    "quote": "La speranza non è un'illusione, è la forza che ci tiene in piedi.",
-    "author": "Anonimo",
-    "category": "speranza",
-    "caption": "Sperare non è ingenuo: è la scelta di credere che domani valga la pena.",
-    "hashtags": [
-      "#speranza",
-      "#forza",
-      "#domani",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445410+00:00"
-  },
-  {
-    "quote": "Perdonare non significa dimenticare, ma smettere di lasciare che il passato ti controlli.",
-    "author": "Anonimo",
-    "category": "perdono",
-    "caption": "Il perdono non cancella il dolore: ti restituisce la libertà di andare avanti.",
-    "hashtags": [
-      "#perdono",
-      "#libertà",
-      "#passato",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445412+00:00"
-  },
-  {
-    "quote": "Il viaggio più importante è quello che ti porta a conoscere te stesso.",
-    "author": "Anonimo",
-    "category": "viaggio",
-    "caption": "Puoi girare il mondo, ma il vero viaggio inizia quando torni a casa dentro di te.",
-    "hashtags": [
-      "#viaggio",
-      "#conoscenzaDiSé",
-      "#introspezione",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445416+00:00"
-  },
-  {
-    "quote": "La nostalgia è il modo in cui il cuore ricorda ciò che ha amato.",
-    "author": "Anonimo",
-    "category": "nostalgia",
-    "caption": "Non è solo rimpianto: è la prova che qualcosa è stato davvero importante.",
-    "hashtags": [
-      "#nostalgia",
-      "#ricordi",
-      "#cuore",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445419+00:00"
-  },
-  {
-    "quote": "Il minimalismo non è rinunciare, è scegliere con cura cosa tenere.",
-    "author": "Anonimo",
-    "category": "minimalismo",
-    "caption": "Togliere il superfluo non è una perdita: è un atto di rispetto verso ciò che conta.",
-    "hashtags": [
-      "#minimalismo",
-      "#essenziale",
-      "#scelta",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-20T02:24:15.445421+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di permanente tranne il cambiamento.",
-    "author": "Eraclito",
-    "category": "cambiamento",
-    "caption": "Tutto scorre, tutto cambia: aggrapparsi è l'unico vero errore.",
-    "hashtags": [
-      "#cambiamento",
-      "#eraclito",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#filosofia",
-      "#impermanenza",
-      "#vita"
-    ],
-    "generated_at": "2026-09-20T15:05:57.224080+00:00"
-  },
-  {
-    "quote": "L'amor che move il sole e l'altre stelle.",
-    "author": "Dante Alighieri",
-    "category": "amore",
-    "caption": "C'è una forza che tiene insieme l'universo. E passa anche da te.",
-    "hashtags": [
-      "#amore",
-      "#dante",
-      "#poesia",
-      "#citazioni",
-      "#cuore",
-      "#universo"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159171+00:00"
-  },
-  {
-    "quote": "Eppur si muove.",
-    "author": "Galileo Galilei",
-    "category": "coraggio",
-    "caption": "A volte una sola frase silenziosa vale più di mille urla.",
-    "hashtags": [
-      "#coraggio",
-      "#galileo",
-      "#verita",
-      "#scienza",
-      "#citazioni",
-      "#libertà"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159200+00:00"
-  },
-  {
-    "quote": "Chi non stima la vita, non la merita.",
-    "author": "Leonardo da Vinci",
-    "category": "vita",
-    "caption": "La vita non si possiede: si merita, giorno dopo giorno.",
-    "hashtags": [
-      "#vita",
-      "#leonardo",
-      "#rispetto",
-      "#citazioni",
-      "#giorni",
-      "#gratitudine"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159206+00:00"
-  },
-  {
-    "quote": "Niente affatto: io non mi pento mai di nulla.",
-    "author": "Friedrich Nietzsche",
-    "category": "scelte",
-    "caption": "Ogni scelta ti ha portato qui. Anche quelle che sembravano sbagliate.",
-    "hashtags": [
-      "#scelte",
-      "#nietzsche",
-      "#filosofia",
-      "#citazioni",
-      "#consapevolezza",
-      "#vita"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159210+00:00"
-  },
-  {
-    "quote": "Non è la specie più forte che sopravvive, né la più intelligente, ma quella più reattiva al cambiamento.",
-    "author": "Charles Darwin",
-    "category": "cambiamento",
-    "caption": "Adattarsi non è arrendersi. È la forma più intelligente di coraggio.",
-    "hashtags": [
-      "#cambiamento",
-      "#darwin",
-      "#adattamento",
-      "#evoluzione",
-      "#citazioni",
-      "#resilienza"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159215+00:00"
-  },
-  {
-    "quote": "La cosa più bella che possiamo provare è il mistero.",
-    "author": "Albert Einstein",
-    "category": "filosofia",
-    "caption": "Chi non si stupisce più ha smesso di vivere davvero.",
-    "hashtags": [
-      "#filosofia",
-      "#einstein",
-      "#mistero",
-      "#stupore",
-      "#citazioni",
-      "#curiosità"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159219+00:00"
-  },
-  {
-    "quote": "Immaginazione è più importante della conoscenza.",
-    "author": "Albert Einstein",
-    "category": "sogni",
-    "caption": "La conoscenza ti dice cosa è. L'immaginazione ti mostra cosa potrebbe essere.",
-    "hashtags": [
-      "#sogni",
-      "#einstein",
-      "#immaginazione",
-      "#creatività",
-      "#citazioni",
-      "#futuro"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159224+00:00"
-  },
-  {
-    "quote": "Non ho mai sognato di avere successo, ho lavorato per esso.",
-    "author": "Estée Lauder",
-    "category": "successo",
-    "caption": "I sogni senza sveglia restano sogni. Con la sveglia diventano lavoro.",
-    "hashtags": [
-      "#successo",
-      "#lavoro",
-      "#motivazione",
-      "#citazioni",
-      "#obiettivi",
-      "#determinazione"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159227+00:00"
-  },
-  {
-    "quote": "Abbi cura dei tuoi pensieri: diventeranno parole.",
-    "author": "Proverbio cinese",
-    "category": "consapevolezza",
-    "caption": "Tutto comincia da un pensiero. Scegli bene il primo.",
-    "hashtags": [
-      "#consapevolezza",
-      "#pensieri",
-      "#proverbio",
-      "#citazioni",
-      "#mente",
-      "#crescita"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159233+00:00"
-  },
-  {
-    "quote": "Non puoi insegnare niente a un uomo. Puoi solo aiutarlo a scoprire ciò che ha dentro di sé.",
-    "author": "Galileo Galilei",
-    "category": "leadership",
-    "caption": "Un vero leader non riempie teste: accende persone.",
-    "hashtags": [
-      "#leadership",
-      "#galileo",
-      "#insegnare",
-      "#citazioni",
-      "#crescita",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159237+00:00"
-  },
-  {
-    "quote": "Chi ben comincia è a metà dell'opera.",
-    "author": "Proverbio italiano",
-    "category": "disciplina",
-    "caption": "Il segreto non è finire. È iniziare bene, ogni giorno.",
-    "hashtags": [
-      "#disciplina",
-      "#iniziare",
-      "#proverbio",
-      "#citazioni",
-      "#abitudini",
-      "#costanza"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159241+00:00"
-  },
-  {
-    "quote": "L'appetito vien mangiando.",
-    "author": "Proverbio italiano",
-    "category": "motivazione",
-    "caption": "Non aspettare la voglia. La voglia arriva mentre fai.",
-    "hashtags": [
-      "#motivazione",
-      "#azione",
-      "#proverbio",
-      "#citazioni",
-      "#fare",
-      "#abitudini"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159244+00:00"
-  },
-  {
-    "quote": "Meglio soli che male accompagnati.",
-    "author": "Proverbio italiano",
-    "category": "solitudine",
-    "caption": "Stare soli è meglio che stare con chi ti fa sentire solo.",
-    "hashtags": [
-      "#solitudine",
-      "#proverbio",
-      "#citazioni",
-      "#scelta",
-      "#benessere",
-      "#relazioni"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159247+00:00"
-  },
-  {
-    "quote": "Chi va piano va sano e va lontano.",
-    "author": "Proverbio italiano",
-    "category": "pazienza",
-    "caption": "La fretta brucia. La costanza costruisce.",
-    "hashtags": [
-      "#pazienza",
-      "#proverbio",
-      "#citazioni",
-      "#costanza",
-      "#tempo",
-      "#cammino"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159250+00:00"
-  },
-  {
-    "quote": "Non tutte le ciambelle riescono col buco.",
-    "author": "Proverbio italiano",
-    "category": "fallimento",
-    "caption": "Non ogni tentativo va a segno. Ma ogni tentativo insegna.",
-    "hashtags": [
-      "#fallimento",
-      "#proverbio",
-      "#citazioni",
-      "#errori",
-      "#crescita",
-      "#imperfezione"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159253+00:00"
-  },
-  {
     "quote": "L'ospite è come il pesce: dopo tre giorni puzza.",
     "author": "Proverbio italiano",
     "category": "ironia",
@@ -7318,5 +6993,313 @@
       "#se stesso"
     ],
     "generated_at": "2026-10-18T15:06:06.054806+00:00"
+  },
+  {
+    "quote": "Non possiamo fare grandi cose, solo piccole cose con grande amore.",
+    "author": "Madre Teresa di Calcutta",
+    "category": "amore",
+    "caption": "Piccolo non vuol dire poco.",
+    "hashtags": [
+      "#madreteresa",
+      "#amore",
+      "#piccolecose",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565503+00:00"
+  },
+  {
+    "quote": "La vita è quella cosa che accade mentre sei impegnato a fare altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Mentre programmi, succede.",
+    "hashtags": [
+      "#johnlennon",
+      "#vita",
+      "#citazioni",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565535+00:00"
+  },
+  {
+    "quote": "Vivi come se dovessi morire domani. Impara come se dovessi vivere per sempre.",
+    "author": "Mahatma Gandhi",
+    "category": "crescita personale",
+    "caption": "Urgenza nel vivere, pazienza nell'imparare.",
+    "hashtags": [
+      "#gandhi",
+      "#crescita",
+      "#apprendimento",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565542+00:00"
+  },
+  {
+    "quote": "Nessun uomo è un'isola, completo in se stesso.",
+    "author": "John Donne",
+    "category": "relazioni",
+    "caption": "Siamo fili dello stesso tessuto.",
+    "hashtags": [
+      "#johndonne",
+      "#relazioni",
+      "#comunità",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565550+00:00"
+  },
+  {
+    "quote": "La fortuna è cieca, ma non così cieca da non vedere chi la cerca.",
+    "author": "Lucio Anneo Seneca",
+    "category": "successo",
+    "caption": "La dea aiuta chi rema.",
+    "hashtags": [
+      "#seneca",
+      "#successo",
+      "#fortuna",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565555+00:00"
+  },
+  {
+    "quote": "Nella vita non si tratta di avere carte buone, ma di giocare bene quelle che si hanno.",
+    "author": "Josh Billings",
+    "category": "resilienza",
+    "caption": "Le carte contano meno di come le giochi.",
+    "hashtags": [
+      "#resilienza",
+      "#gioco",
+      "#citazioni",
+      "#vita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565558+00:00"
+  },
+  {
+    "quote": "La speranza è l'uccello che si posa nell'anima e canta senza parole.",
+    "author": "Emily Dickinson",
+    "category": "speranza",
+    "caption": "Canta anche quando non sai perché.",
+    "hashtags": [
+      "#emilydickinson",
+      "#speranza",
+      "#poesia",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565562+00:00"
+  },
+  {
+    "quote": "Il successo è la capacità di andare di fallimento in fallimento senza perdere l'entusiasmo.",
+    "author": "Winston Churchill",
+    "category": "fallimento",
+    "caption": "Cadere è previsto, continuare è una scelta.",
+    "hashtags": [
+      "#churchill",
+      "#fallimento",
+      "#entusiasmo",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565565+00:00"
+  },
+  {
+    "quote": "Un pessimista vede la difficoltà in ogni opportunità; un ottimista vede l'opportunità in ogni difficoltà.",
+    "author": "Winston Churchill",
+    "category": "motivazione",
+    "caption": "Cambia lente, cambia scena.",
+    "hashtags": [
+      "#churchill",
+      "#motivazione",
+      "#ottimismo",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565569+00:00"
+  },
+  {
+    "quote": "La libertà non vale nulla se non include la libertà di sbagliare.",
+    "author": "Mahatma Gandhi",
+    "category": "libertà",
+    "caption": "Libertà vera, anche di sbagliare.",
+    "hashtags": [
+      "#gandhi",
+      "#libertà",
+      "#errori",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565572+00:00"
+  },
+  {
+    "quote": "Il perdono è la fragranza che il fiore lascia sulla mano che lo schiaccia.",
+    "author": "Mahatma Gandhi",
+    "category": "perdono",
+    "caption": "Profumo che resta a chi perdona.",
+    "hashtags": [
+      "#gandhi",
+      "#perdono",
+      "#citazioni",
+      "#anima",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565576+00:00"
+  },
+  {
+    "quote": "La leadership è l'arte di far fare a qualcuno ciò che vuoi perché lui lo vuole fare.",
+    "author": "Dwight D. Eisenhower",
+    "category": "leadership",
+    "caption": "Guidare è far desiderare.",
+    "hashtags": [
+      "#eisenhower",
+      "#leadership",
+      "#squadra",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565579+00:00"
+  },
+  {
+    "quote": "La pazienza è la compagna della saggezza.",
+    "author": "Sant'Agostino",
+    "category": "pazienza",
+    "caption": "Il tempo giusto non si affretta.",
+    "hashtags": [
+      "#agostino",
+      "#pazienza",
+      "#saggezza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565583+00:00"
+  },
+  {
+    "quote": "La solitudine è per lo spirito ciò che la dieta è per il corpo.",
+    "author": "Lucio Anneo Seneca",
+    "category": "solitudine",
+    "caption": "A volte meno rumore è più nutrimento.",
+    "hashtags": [
+      "#seneca",
+      "#solitudine",
+      "#silenzio",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565587+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di permanente tranne l'impermanenza.",
+    "author": "Eraclito",
+    "category": "filosofia",
+    "caption": "Tutto scorre, anche ciò che temi.",
+    "hashtags": [
+      "#eraclito",
+      "#filosofia",
+      "#cambiamento",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565590+00:00"
+  },
+  {
+    "quote": "La conoscenza di sé è l'inizio di ogni saggezza.",
+    "author": "Aristotele",
+    "category": "consapevolezza",
+    "caption": "Prima domanda: chi sono io?",
+    "hashtags": [
+      "#aristotele",
+      "#consapevolezza",
+      "#saggezza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565595+00:00"
+  },
+  {
+    "quote": "La nostalgia è il desiderio di ritornare a casa, ma la casa non esiste più.",
+    "author": "Milan Kundera",
+    "category": "nostalgia",
+    "caption": "A volte manca un luogo che non c'è.",
+    "hashtags": [
+      "#kundera",
+      "#nostalgia",
+      "#ricordi",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565599+00:00"
+  },
+  {
+    "quote": "La giovinezza è una cosa meravigliosa; peccato che sia sprecata dai giovani.",
+    "author": "George Bernard Shaw",
+    "category": "giovinezza",
+    "caption": "Ironia per chi l'ha vissuta.",
+    "hashtags": [
+      "#bernardshaw",
+      "#giovinezza",
+      "#ironia",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565602+00:00"
+  },
+  {
+    "quote": "La maturità è quando si smette di incolpare gli altri e si comincia a guardarsi dentro.",
+    "author": "Carl Gustav Jung",
+    "category": "maturità",
+    "caption": "Lo specchio è più scomodo del tribunale.",
+    "hashtags": [
+      "#jung",
+      "#maturità",
+      "#introspezione",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565606+00:00"
+  },
+  {
+    "quote": "Conosci tutte le teorie, ma non conosci il sapore della torta.",
+    "author": "Bruce Lee",
+    "category": "consapevolezza",
+    "caption": "Teoria senza pratica è solo rumore.",
+    "hashtags": [
+      "#brucelee",
+      "#consapevolezza",
+      "#pratica",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565609+00:00"
+  },
+  {
+    "quote": "Non pregare per una vita facile, prega per la forza di sopportarne una difficile.",
+    "author": "Bruce Lee",
+    "category": "forza",
+    "caption": "Non meno peso, più muscoli.",
+    "hashtags": [
+      "#brucelee",
+      "#forza",
+      "#resilienza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565613+00:00"
+  },
+  {
+    "quote": "Non è la forza che conta, ma la costanza.",
+    "author": "Samuel Johnson",
+    "category": "disciplina",
+    "caption": "Ogni giorno un passo.",
+    "hashtags": [
+      "#samueljohnson",
+      "#disciplina",
+      "#costanza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T02:25:14.565617+00:00"
   }
 ]

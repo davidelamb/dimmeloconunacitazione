@@ -1,313 +1,5 @@
 [
   {
-    "quote": "L'ospite è come il pesce: dopo tre giorni puzza.",
-    "author": "Proverbio italiano",
-    "category": "ironia",
-    "caption": "Anche l'ospitalità ha il suo tempo. E il suo profumo.",
-    "hashtags": [
-      "#ironia",
-      "#proverbio",
-      "#citazioni",
-      "#ospitalità",
-      "#saggezza",
-      "#ridere"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159258+00:00"
-  },
-  {
-    "quote": "Chi trova un amico trova un tesoro.",
-    "author": "Proverbio italiano",
-    "category": "amicizia",
-    "caption": "Non tutti i tesori luccicano. Alcuni ti ascoltano.",
-    "hashtags": [
-      "#amicizia",
-      "#proverbio",
-      "#citazioni",
-      "#tesoro",
-      "#amici",
-      "#relazioni"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159262+00:00"
-  },
-  {
-    "quote": "Tale padre, tale figlio.",
-    "author": "Proverbio italiano",
-    "category": "famiglia",
-    "caption": "Portiamo dentro le impronte di chi ci ha cresciuti.",
-    "hashtags": [
-      "#famiglia",
-      "#proverbio",
-      "#citazioni",
-      "#radici",
-      "#generazioni",
-      "#identità"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159265+00:00"
-  },
-  {
-    "quote": "Il tempo è denaro.",
-    "author": "Benjamin Franklin",
-    "category": "tempo",
-    "caption": "Ogni minuto speso male è un pezzo di vita regalato.",
-    "hashtags": [
-      "#tempo",
-      "#franklin",
-      "#citazioni",
-      "#denaro",
-      "#priorità",
-      "#vita"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159268+00:00"
-  },
-  {
-    "quote": "Non rimandare a domani quello che puoi fare oggi.",
-    "author": "Benjamin Franklin",
-    "category": "disciplina",
-    "caption": "Il domani è il rifugio preferito di chi non vuole iniziare.",
-    "hashtags": [
-      "#disciplina",
-      "#franklin",
-      "#citazioni",
-      "#azione",
-      "#oggi",
-      "#procrastinazione"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159273+00:00"
-  },
-  {
-    "quote": "La cosa più importante è che tu sia fedele a te stesso.",
-    "author": "William Shakespeare",
-    "category": "autostima",
-    "caption": "Tradire se stessi è il primo passo verso una vita che non è tua.",
-    "hashtags": [
-      "#autostima",
-      "#shakespeare",
-      "#citazioni",
-      "#fedeltà",
-      "#identità",
-      "#coraggio"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159277+00:00"
-  },
-  {
-    "quote": "Essere o non essere, questo è il problema.",
-    "author": "William Shakespeare",
-    "category": "scelte",
-    "caption": "Ogni giorno scegliamo chi essere. Anche quando fingiamo di no.",
-    "hashtags": [
-      "#scelte",
-      "#shakespeare",
-      "#citazioni",
-      "#essere",
-      "#filosofia",
-      "#vita"
-    ],
-    "generated_at": "2026-09-21T02:22:54.159281+00:00"
-  },
-  {
-    "quote": "Non possiamo scegliere il vento, ma possiamo orientare le vele.",
-    "author": "Plutarco",
-    "category": "scelte",
-    "caption": "Non tutto dipende da noi. Ma il timone, quello sì.",
-    "hashtags": [
-      "#scelte",
-      "#plutarco",
-      "#filosofia",
-      "#citazioni",
-      "#crescita",
-      "#saggezza"
-    ],
-    "generated_at": "2026-09-21T17:26:09.093488+00:00"
-  },
-  {
-    "quote": "La nostra più grande gloria non sta nel non cadere mai, ma nel rialzarci ogni volta che cadiamo.",
-    "author": "Confucio",
-    "category": "resilienza",
-    "caption": "Cadere è concesso. Restare a terra, no.",
-    "hashtags": [
-      "#resilienza",
-      "#confucio",
-      "#rialzarsi",
-      "#forza",
-      "#citazioni",
-      "#motivazione"
-    ],
-    "generated_at": "2026-09-21T17:26:09.093513+00:00"
-  },
-  {
-    "quote": "Chi guarda fuori, sogna; chi guarda dentro, si sveglia.",
-    "author": "Carl Jung",
-    "category": "consapevolezza",
-    "caption": "Lo specchio più utile è quello che porti dentro.",
-    "hashtags": [
-      "#consapevolezza",
-      "#carljung",
-      "#introspezione",
-      "#citazioni",
-      "#crescita",
-      "#psicologia"
-    ],
-    "generated_at": "2026-09-21T17:26:09.093519+00:00"
-  },
-  {
-    "quote": "La mente è tutto. Ciò che pensi, diventi.",
-    "author": "Buddha",
-    "category": "crescita personale",
-    "caption": "I pensieri non sono visitatori innocui: costruiscono.",
-    "hashtags": [
-      "#crescita",
-      "#buddha",
-      "#pensieri",
-      "#citazioni",
-      "#mente",
-      "#saggezza"
-    ],
-    "generated_at": "2026-09-21T17:26:09.093524+00:00"
-  },
-  {
-    "quote": "Non è la specie più forte a sopravvivere, né la più intelligente, ma quella più adatta al cambiamento.",
-    "author": "Charles Darwin",
-    "category": "cambiamento",
-    "caption": "Adattarsi non è debolezza: è intelligenza.",
-    "hashtags": [
-      "#cambiamento",
-      "#darwin",
-      "#adattamento",
-      "#citazioni",
-      "#evoluzione",
-      "#vita"
-    ],
-    "generated_at": "2026-09-21T17:26:09.093528+00:00"
-  },
-  {
-    "quote": "L'amicizia non è una grande cosa, è un milione di piccole cose.",
-    "author": "Anonimo",
-    "category": "amicizia",
-    "caption": "Non si misura in gesti enormi, ma in presenze quotidiane.",
-    "hashtags": [
-      "#amicizia",
-      "#piccolecose",
-      "#citazioni",
-      "#legami",
-      "#quotidiano",
-      "#affetto"
-    ],
-    "generated_at": "2026-09-21T17:26:09.093544+00:00"
-  },
-  {
-    "quote": "Il talento vince le partite, ma il lavoro di squadra e l'intelligenza vincono i campionati.",
-    "author": "Michael Jordan",
-    "category": "sport",
-    "caption": "I numeri personali riempiono le statistiche, non le bacheche.",
-    "hashtags": [
-      "#sport",
-      "#michaeljordan",
-      "#squadra",
-      "#citazioni",
-      "#basket",
-      "#lavorodisquadra"
-    ],
-    "generated_at": "2026-09-21T17:26:09.093557+00:00"
-  },
-  {
-    "quote": "Non puoi cambiare il passato, ma puoi costruire il futuro.",
-    "author": "Confucio",
-    "category": "cambiamento",
-    "caption": "Quello che è stato non si riscrive. Quello che sarà, sì.",
-    "hashtags": [
-      "#cambiamento",
-      "#futuro",
-      "#rinascita",
-      "#citazioni",
-      "#ripartire"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527394+00:00"
-  },
-  {
-    "quote": "Non c'è strada per la felicità: la felicità è la strada.",
-    "author": "Buddha",
-    "category": "felicità",
-    "caption": "Smetti di cercare la meta: forse ci stai già camminando sopra.",
-    "hashtags": [
-      "#felicità",
-      "#cammino",
-      "#presente",
-      "#citazioni",
-      "#serenità"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527429+00:00"
-  },
-  {
-    "quote": "Chi non ha mai sofferto non sa nulla della vita.",
-    "author": "Fëdor Dostoevskij",
-    "category": "resilienza",
-    "caption": "Le crepe che ci portiamo dentro sono anche le nostre fessure di luce.",
-    "hashtags": [
-      "#resilienza",
-      "#sofferenza",
-      "#vita",
-      "#citazioni",
-      "#forza"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527437+00:00"
-  },
-  {
-    "quote": "La bellezza salverà il mondo.",
-    "author": "Fëdor Dostoevskij",
-    "category": "speranza",
-    "caption": "Anche nei giorni grigi, qualcosa di bello continua a resistere.",
-    "hashtags": [
-      "#speranza",
-      "#bellezza",
-      "#citazioni",
-      "#anima",
-      "#resistere"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527442+00:00"
-  },
-  {
-    "quote": "La cosa più importante è non smettere di fare domande.",
-    "author": "Albert Einstein",
-    "category": "filosofia",
-    "caption": "Le risposte invecchiano, le domande giuste no.",
-    "hashtags": [
-      "#filosofia",
-      "#domande",
-      "#curiosità",
-      "#citazioni",
-      "#pensiero"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527447+00:00"
-  },
-  {
-    "quote": "Fai del tuo meglio dove sei, con quello che hai.",
-    "author": "Theodore Roosevelt",
-    "category": "motivazione",
-    "caption": "Non serve il momento perfetto: serve quello che hai adesso.",
-    "hashtags": [
-      "#motivazione",
-      "#presente",
-      "#fare",
-      "#citazioni",
-      "#azioni"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527452+00:00"
-  },
-  {
-    "quote": "Il futuro appartiene a coloro che credono nella bellezza dei propri sogni.",
-    "author": "Eleanor Roosevelt",
-    "category": "sogni",
-    "caption": "Se ci credi davvero, stai già costruendo il domani.",
-    "hashtags": [
-      "#sogni",
-      "#futuro",
-      "#credere",
-      "#citazioni",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527460+00:00"
-  },
-  {
     "quote": "La gratitudine è la più bella forma di memoria.",
     "author": "Proverbio",
     "category": "gratitudine",
@@ -7301,5 +6993,320 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-19T02:25:14.565617+00:00"
+  },
+  {
+    "quote": "Non c'è vento favorevole per il navigatore che non sa dove andare.",
+    "author": "Lucio Anneo Seneca",
+    "category": "scelte",
+    "caption": "Prima di remare, decidi la rotta.",
+    "hashtags": [
+      "#seneca",
+      "#scelte",
+      "#direzione",
+      "#saggezza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001305+00:00"
+  },
+  {
+    "quote": "L'uomo che non ha mai commesso un errore non ha mai tentato nulla.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Sbagliare è il pedaggio di chi prova davvero.",
+    "hashtags": [
+      "#einstein",
+      "#fallimento",
+      "#errori",
+      "#citazioni",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001332+00:00"
+  },
+  {
+    "quote": "La semplicità è il massimo grado della sofisticazione.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "Togliere, non aggiungere.",
+    "hashtags": [
+      "#leonardo",
+      "#minimalismo",
+      "#semplicità",
+      "#citazioni",
+      "#essenziale",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001342+00:00"
+  },
+  {
+    "quote": "Chi non sa sorridere non sa nemmeno vivere.",
+    "author": "Khalil Gibran",
+    "category": "felicità",
+    "caption": "Il sorriso è il primo atto di coraggio quotidiano.",
+    "hashtags": [
+      "#gibran",
+      "#felicità",
+      "#sorriso",
+      "#citazioni",
+      "#gioia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001349+00:00"
+  },
+  {
+    "quote": "La libertà è la scelta di ciò che siamo disposti a perdere.",
+    "author": "Albert Camus",
+    "category": "libertà",
+    "caption": "Essere liberi costa sempre qualcosa.",
+    "hashtags": [
+      "#camus",
+      "#libertà",
+      "#scelte",
+      "#citazioni",
+      "#filosofia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001401+00:00"
+  },
+  {
+    "quote": "Il coraggio è la paura che ha detto le sue preghiere.",
+    "author": "Khalil Gibran",
+    "category": "coraggio",
+    "caption": "Anche la paura, se ascoltata, può diventare forza.",
+    "hashtags": [
+      "#gibran",
+      "#coraggio",
+      "#paura",
+      "#citazioni",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001416+00:00"
+  },
+  {
+    "quote": "La cosa più importante non è ciò che sai, ma ciò che fai con ciò che sai.",
+    "author": "Johann Wolfgang von Goethe",
+    "category": "consapevolezza",
+    "caption": "La conoscenza diventa vera solo quando si muove.",
+    "hashtags": [
+      "#goethe",
+      "#consapevolezza",
+      "#azione",
+      "#citazioni",
+      "#saggezza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001427+00:00"
+  },
+  {
+    "quote": "La pazienza è l'arte di nascondere la fretta.",
+    "author": "Jean-Jacques Rousseau",
+    "category": "pazienza",
+    "caption": "Chi sa aspettare ha già vinto metà della gara.",
+    "hashtags": [
+      "#rousseau",
+      "#pazienza",
+      "#tempo",
+      "#citazioni",
+      "#calma",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001437+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più pericoloso di un'idea quando è l'unica che hai.",
+    "author": "Émile-Auguste Chartier",
+    "category": "filosofia",
+    "caption": "Coltiva più di un pensiero: la mente è un giardino.",
+    "hashtags": [
+      "#alain",
+      "#filosofia",
+      "#idee",
+      "#citazioni",
+      "#pensiero",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001447+00:00"
+  },
+  {
+    "quote": "Il perdono è la forza dei forti, non la debolezza dei vinti.",
+    "author": "Mahatma Gandhi",
+    "category": "perdono",
+    "caption": "Perdonare è un atto di potere, non di resa.",
+    "hashtags": [
+      "#gandhi",
+      "#perdono",
+      "#forza",
+      "#citazioni",
+      "#pace",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001452+00:00"
+  },
+  {
+    "quote": "Non tutti quelli che vagano sono perduti.",
+    "author": "J. R. R. Tolkien",
+    "category": "viaggio",
+    "caption": "A volte perdersi è il modo migliore per trovarsi.",
+    "hashtags": [
+      "#tolkien",
+      "#viaggio",
+      "#perdersi",
+      "#citazioni",
+      "#cammino",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001457+00:00"
+  },
+  {
+    "quote": "La disciplina è il ponte tra i sogni e la realtà.",
+    "author": "Jim Rohn",
+    "category": "disciplina",
+    "caption": "Sognare è facile: alzarsi presto un po' meno.",
+    "hashtags": [
+      "#rohn",
+      "#disciplina",
+      "#sogni",
+      "#citazioni",
+      "#obiettivi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001462+00:00"
+  },
+  {
+    "quote": "Un amico è qualcuno che sa tutto di te e ti vuole bene lo stesso.",
+    "author": "Elbert Hubbard",
+    "category": "amicizia",
+    "caption": "L'amicizia vera non ha paura della verità.",
+    "hashtags": [
+      "#hubbard",
+      "#amicizia",
+      "#verità",
+      "#citazioni",
+      "#affetto",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001470+00:00"
+  },
+  {
+    "quote": "La solitudine è la stanza in cui si impara a parlare con se stessi.",
+    "author": "Henry David Thoreau",
+    "category": "solitudine",
+    "caption": "Stare soli non è vuoto: è spazio.",
+    "hashtags": [
+      "#thoreau",
+      "#solitudine",
+      "#silenzio",
+      "#citazioni",
+      "#introspezione",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001474+00:00"
+  },
+  {
+    "quote": "La mente che si apre a una nuova idea non torna mai alle sue dimensioni originali.",
+    "author": "Oliver Wendell Holmes",
+    "category": "crescita personale",
+    "caption": "Ogni idea nuova allarga lo spazio che abiti.",
+    "hashtags": [
+      "#holmes",
+      "#crescita",
+      "#idee",
+      "#citazioni",
+      "#mente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001480+00:00"
+  },
+  {
+    "quote": "Il cambiamento è la legge della vita: chi guarda solo al passato si perderà il futuro.",
+    "author": "John F. Kennedy",
+    "category": "cambiamento",
+    "caption": "Il futuro non aspetta chi resta fermo.",
+    "hashtags": [
+      "#kennedy",
+      "#cambiamento",
+      "#futuro",
+      "#citazioni",
+      "#adattarsi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001485+00:00"
+  },
+  {
+    "quote": "La nostalgia è il desiderio di tornare a casa, ma la casa non esiste più.",
+    "author": "Milan Kundera",
+    "category": "nostalgia",
+    "caption": "Cerchiamo un posto che nel frattempo è cambiato.",
+    "hashtags": [
+      "#kundera",
+      "#nostalgia",
+      "#memoria",
+      "#citazioni",
+      "#passato",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001492+00:00"
+  },
+  {
+    "quote": "La vera scoperta non consiste nel cercare nuovi paesaggi, ma nell'avere occhi nuovi.",
+    "author": "Marcel Proust",
+    "category": "consapevolezza",
+    "caption": "Cambiare sguardo vale più di cambiare posto.",
+    "hashtags": [
+      "#proust",
+      "#consapevolezza",
+      "#sguardo",
+      "#citazioni",
+      "#viaggio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001499+00:00"
+  },
+  {
+    "quote": "L'amore è l'unica cosa che cresce quando la doniamo.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "Dare amore non è mai un investimento a fondo perduto.",
+    "hashtags": [
+      "#saintexupery",
+      "#amore",
+      "#dono",
+      "#citazioni",
+      "#cuore",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001504+00:00"
+  },
+  {
+    "quote": "L'ambizione è la passione che spinge gli uomini a fare grandi cose.",
+    "author": "John Dryden",
+    "category": "ambizione",
+    "caption": "Senza ambizione i sogni restano bozze.",
+    "hashtags": [
+      "#dryden",
+      "#ambizione",
+      "#sogni",
+      "#citazioni",
+      "#obiettivi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001508+00:00"
+  },
+  {
+    "quote": "L'esperienza è il nome che diamo ai nostri errori.",
+    "author": "Oscar Wilde",
+    "category": "fallimento",
+    "caption": "Ogni cicatrice è una lezione pagata a caro prezzo.",
+    "hashtags": [
+      "#wilde",
+      "#fallimento",
+      "#esperienza",
+      "#citazioni",
+      "#ironia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-19T17:57:50.001517+00:00"
   }
 ]

@@ -1,384 +1,5 @@
 [
   {
-    "quote": "La gratitudine è la più bella forma di memoria.",
-    "author": "Proverbio",
-    "category": "gratitudine",
-    "caption": "Ricordare chi ci ha dato qualcosa è già un modo di restituire.",
-    "hashtags": [
-      "#gratitudine",
-      "#memoria",
-      "#cuore",
-      "#citazioni",
-      "#ringraziare"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527466+00:00"
-  },
-  {
-    "quote": "Non importa quanto vai lento, l'importante è non tornare indietro.",
-    "author": "Proverbio cinese",
-    "category": "pazienza",
-    "caption": "Il passo lento è comunque un passo avanti.",
-    "hashtags": [
-      "#pazienza",
-      "#costanza",
-      "#passi",
-      "#citazioni",
-      "#cammino"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527473+00:00"
-  },
-  {
-    "quote": "Il silenzio è l'ultima virtù dei forti.",
-    "author": "Proverbio",
-    "category": "forza",
-    "caption": "A volte la risposta più potente è non rispondere.",
-    "hashtags": [
-      "#forza",
-      "#silenzio",
-      "#carattere",
-      "#citazioni",
-      "#saggezza"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527477+00:00"
-  },
-  {
-    "quote": "Non c'è amore più sincero di quello che non chiede nulla in cambio.",
-    "author": "William Shakespeare",
-    "category": "amore",
-    "caption": "Amare senza contratto: la forma più rara e più pura.",
-    "hashtags": [
-      "#amore",
-      "#sincerità",
-      "#cuore",
-      "#citazioni",
-      "#sentimenti"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527482+00:00"
-  },
-  {
-    "quote": "Il dolore è inevitabile, la sofferenza è una scelta.",
-    "author": "Haruki Murakami",
-    "category": "resilienza",
-    "caption": "Quello che proviamo non lo scegliamo. Quello che ne facciamo, sì.",
-    "hashtags": [
-      "#resilienza",
-      "#dolore",
-      "#scelta",
-      "#citazioni",
-      "#forza"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527487+00:00"
-  },
-  {
-    "quote": "La solitudine è la casa di chi non ha paura di ascoltarsi.",
-    "author": "Alda Merini",
-    "category": "solitudine",
-    "caption": "Stare soli non è una condanna: a volte è un ritorno a casa.",
-    "hashtags": [
-      "#solitudine",
-      "#ascolto",
-      "#poesia",
-      "#citazioni",
-      "#silenzio"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527492+00:00"
-  },
-  {
-    "quote": "La libertà è la capacità di dire no a ciò che non ci appartiene.",
-    "author": "Albert Camus",
-    "category": "libertà",
-    "caption": "Essere liberi comincia dal rifiutare quello che non ci somiglia.",
-    "hashtags": [
-      "#libertà",
-      "#scelta",
-      "#no",
-      "#citazioni",
-      "#coraggio"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527497+00:00"
-  },
-  {
-    "quote": "Il successo è la somma di piccoli gesti ripetuti con costanza.",
-    "author": "Robert Collier",
-    "category": "successo",
-    "caption": "Non è il colpo di genio: è la ripetizione quotidiana.",
-    "hashtags": [
-      "#successo",
-      "#costanza",
-      "#abitudini",
-      "#citazioni",
-      "#lavoro"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527501+00:00"
-  },
-  {
-    "quote": "La disciplina è il ponte tra chi sei e chi vuoi diventare.",
-    "author": "Jim Rohn",
-    "category": "disciplina",
-    "caption": "Ogni piccolo gesto disciplinato ti avvicina alla versione migliore di te.",
-    "hashtags": [
-      "#disciplina",
-      "#crescita",
-      "#abitudini",
-      "#citazioni",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527506+00:00"
-  },
-  {
-    "quote": "Non c'è notte così lunga da non finire con un'alba.",
-    "author": "Victor Hugo",
-    "category": "speranza",
-    "caption": "Anche il buio ha una scadenza: abbi fiducia nell'alba.",
-    "hashtags": [
-      "#speranza",
-      "#alba",
-      "#fiducia",
-      "#citazioni",
-      "#resistere"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527510+00:00"
-  },
-  {
-    "quote": "La vera scoperta è vedere con occhi nuovi ciò che tutti hanno sempre davanti.",
-    "author": "Marcel Proust",
-    "category": "consapevolezza",
-    "caption": "Guardare è facile: vedere è un'arte.",
-    "hashtags": [
-      "#consapevolezza",
-      "#sguardo",
-      "#arte",
-      "#citazioni",
-      "#meraviglia"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527515+00:00"
-  },
-  {
-    "quote": "Il coraggio è la paura che ha trovato una ragione più grande.",
-    "author": "Ambrose Redmoon",
-    "category": "coraggio",
-    "caption": "Non serve non avere paura: serve avere un motivo più forte.",
-    "hashtags": [
-      "#coraggio",
-      "#paura",
-      "#scelta",
-      "#citazioni",
-      "#forza"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527520+00:00"
-  },
-  {
-    "quote": "La pazienza è la compagna silenziosa di ogni grande impresa.",
-    "author": "Proverbio",
-    "category": "pazienza",
-    "caption": "Le cose importanti maturano lentamente, come i frutti.",
-    "hashtags": [
-      "#pazienza",
-      "#tempo",
-      "#maturazione",
-      "#citazioni",
-      "#costanza"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527524+00:00"
-  },
-  {
-    "quote": "Il lavoro è il riflesso di chi lo fa.",
-    "author": "Proverbio",
-    "category": "lavoro",
-    "caption": "Quello che fai dice più di quello che dici.",
-    "hashtags": [
-      "#lavoro",
-      "#passione",
-      "#identità",
-      "#citazioni",
-      "#fare"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527531+00:00"
-  },
-  {
-    "quote": "Un leader è chi lascia negli altri la voglia di fare, non la paura di sbagliare.",
-    "author": "Proverbio",
-    "category": "leadership",
-    "caption": "Guidare non è comandare: è far crescere.",
-    "hashtags": [
-      "#leadership",
-      "#guida",
-      "#fiducia",
-      "#citazioni",
-      "#squadra"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527536+00:00"
-  },
-  {
-    "quote": "La nostalgia è il profumo delle cose che non tornano.",
-    "author": "Proverbio",
-    "category": "nostalgia",
-    "caption": "Certe memorie non si spiegano: si sentono.",
-    "hashtags": [
-      "#nostalgia",
-      "#ricordi",
-      "#passato",
-      "#citazioni",
-      "#cuore"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527540+00:00"
-  },
-  {
-    "quote": "Il perdono è il modo più alto di lasciare andare.",
-    "author": "Proverbio",
-    "category": "perdono",
-    "caption": "Perdonare non è dimenticare: è smettere di portare peso.",
-    "hashtags": [
-      "#perdono",
-      "#lasciareandare",
-      "#pace",
-      "#citazioni",
-      "#libertà"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527545+00:00"
-  },
-  {
-    "quote": "La vera ricchezza è avere tempo per ciò che conta.",
-    "author": "Proverbio",
-    "category": "tempo",
-    "caption": "I soldi si rifanno. Il tempo no.",
-    "hashtags": [
-      "#tempo",
-      "#priorità",
-      "#vita",
-      "#citazioni",
-      "#scelte"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527550+00:00"
-  },
-  {
-    "quote": "Chi ha un perché per vivere sopporta quasi ogni come.",
-    "author": "Friedrich Nietzsche",
-    "category": "filosofia",
-    "caption": "Un senso chiaro rende più leggero anche il peso.",
-    "hashtags": [
-      "#filosofia",
-      "#senso",
-      "#vita",
-      "#citazioni",
-      "#nietzsche"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527559+00:00"
-  },
-  {
-    "quote": "La speranza è la fede che tiene la mano tesa verso il domani.",
-    "author": "Proverbio",
-    "category": "speranza",
-    "caption": "Sperare è già un gesto di coraggio.",
-    "hashtags": [
-      "#speranza",
-      "#domani",
-      "#fede",
-      "#citazioni",
-      "#coraggio"
-    ],
-    "generated_at": "2026-09-22T02:26:29.527563+00:00"
-  },
-  {
-    "quote": "Noi siamo ciò che facciamo ripetutamente. L'eccellenza, quindi, non è un atto ma un'abitudine.",
-    "author": "Aristotele",
-    "category": "disciplina",
-    "caption": "La disciplina non si vede, ma si sente nei risultati.",
-    "hashtags": [
-      "#disciplina",
-      "#citazioni",
-      "#Aristotele",
-      "#abitudini",
-      "#eccellenza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871096+00:00"
-  },
-  {
-    "quote": "La vita si restringe o si espande in proporzione al proprio coraggio.",
-    "author": "Anaïs Nin",
-    "category": "coraggio",
-    "caption": "Ogni volta che osi, il tuo mondo si allarga un po'.",
-    "hashtags": [
-      "#coraggio",
-      "#citazioni",
-      "#AnaïsNin",
-      "#osare",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871120+00:00"
-  },
-  {
-    "quote": "La vita non è aspettare che passi la tempesta, ma imparare a ballare sotto la pioggia.",
-    "author": "Vivian Greene",
-    "category": "resilienza",
-    "caption": "Non aspettare che smetta: impara a muoverti comunque.",
-    "hashtags": [
-      "#resilienza",
-      "#citazioni",
-      "#tempesta",
-      "#forza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871127+00:00"
-  },
-  {
-    "quote": "Il più grande errore che puoi fare nella vita è avere paura di farne uno.",
-    "author": "Elbert Hubbard",
-    "category": "crescita personale",
-    "caption": "Crescere significa accettare di sbagliare qualche volta.",
-    "hashtags": [
-      "#crescita",
-      "#citazioni",
-      "#errori",
-      "#imparare",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871133+00:00"
-  },
-  {
-    "quote": "Parla con te stesso come parleresti a qualcuno che ami.",
-    "author": "Brené Brown",
-    "category": "autostima",
-    "caption": "La gentilezza verso te stesso non è debolezza.",
-    "hashtags": [
-      "#autostima",
-      "#citazioni",
-      "#BrenéBrown",
-      "#gentilezza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871138+00:00"
-  },
-  {
-    "quote": "La felicità non è qualcosa che rimandi al futuro: è qualcosa che progetti per il presente.",
-    "author": "Jim Rohn",
-    "category": "felicità",
-    "caption": "La felicità non si aspetta: si costruisce oggi.",
-    "hashtags": [
-      "#felicità",
-      "#citazioni",
-      "#presente",
-      "#JimRohn",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871145+00:00"
-  },
-  {
-    "quote": "La gratitudine è la più grande delle virtù, ma anche la madre di tutte le altre.",
-    "author": "Cicerone",
-    "category": "gratitudine",
-    "caption": "Ringraziare cambia il modo in cui vedi tutto il resto.",
-    "hashtags": [
-      "#gratitudine",
-      "#citazioni",
-      "#Cicerone",
-      "#ringraziare",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871149+00:00"
-  },
-  {
     "quote": "L'amicizia non è qualcosa che impari a scuola. Ma se non hai imparato il significato dell'amicizia, non hai imparato proprio nulla.",
     "author": "Muhammad Ali",
     "category": "amicizia",
@@ -7308,5 +6929,384 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-19T17:57:50.001517+00:00"
+  },
+  {
+    "quote": "Sii il padrone dei tuoi desideri, non lo schiavo delle tue abitudini.",
+    "author": "Publilio Siro",
+    "category": "disciplina",
+    "caption": "Le abitudini sono comode, ma non sempre ci somigliano.",
+    "hashtags": [
+      "#disciplina",
+      "#abitudini",
+      "#sceltequotidiane",
+      "#crescita",
+      "#consapevolezza",
+      "#citazioni"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175830+00:00"
+  },
+  {
+    "quote": "Chi non sa ridere di se stesso è destinato a essere preso sul serio dagli altri.",
+    "author": "Carlo Dossi",
+    "category": "ironia",
+    "caption": "Un po' di autoironia fa risparmiare parecchie discussioni.",
+    "hashtags": [
+      "#ironia",
+      "#autoironia",
+      "#leggerezza",
+      "#citazioni",
+      "#umorismo"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175864+00:00"
+  },
+  {
+    "quote": "Chi vuole seppellire il proprio passato, non ha capito che è il seme del presente.",
+    "author": "Friedrich Nietzsche",
+    "category": "consapevolezza",
+    "caption": "Il passato non si cancella: si attraversa.",
+    "hashtags": [
+      "#consapevolezza",
+      "#passato",
+      "#nietzsche",
+      "#crescita",
+      "#citazioni"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175870+00:00"
+  },
+  {
+    "quote": "La solitudine è la compagna di chi ha molto da dire a se stesso.",
+    "author": "Ugo Foscolo",
+    "category": "solitudine",
+    "caption": "Stare soli non è sempre vuoto: a volte è una conversazione.",
+    "hashtags": [
+      "#solitudine",
+      "#silenzio",
+      "#introspezione",
+      "#citazioni",
+      "#foscolo"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175873+00:00"
+  },
+  {
+    "quote": "Non c'è cosa più difficile che sapere ciò che si vuole, e più facile che desiderarlo.",
+    "author": "Niccolò Machiavelli",
+    "category": "scelte",
+    "caption": "Volere è facile, scegliere un po' meno.",
+    "hashtags": [
+      "#scelte",
+      "#volontà",
+      "#decisionalità",
+      "#citazioni",
+      "#machiavelli"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175880+00:00"
+  },
+  {
+    "quote": "La pazienza è la più eroica delle virtù, perché è la più difficile.",
+    "author": "Giacomo Leopardi",
+    "category": "pazienza",
+    "caption": "Aspettare bene è una forma di coraggio silenzioso.",
+    "hashtags": [
+      "#pazienza",
+      "#attesa",
+      "#virtù",
+      "#leopardi",
+      "#citazioni"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175883+00:00"
+  },
+  {
+    "quote": "La felicità non è una meta da raggiungere, ma un modo di camminare.",
+    "author": "Roberto Gervaso",
+    "category": "felicità",
+    "caption": "Forse non arriva: forse accompagna.",
+    "hashtags": [
+      "#felicità",
+      "#cammino",
+      "#presente",
+      "#citazioni",
+      "#benessere"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175888+00:00"
+  },
+  {
+    "quote": "Chi non ha mai perso qualcosa non sa quanto pesa il vuoto.",
+    "author": "Kahlil Gibran",
+    "category": "perdono",
+    "caption": "Il vuoto insegna a tenere più stretto ciò che resta.",
+    "hashtags": [
+      "#perdono",
+      "#perdita",
+      "#gibran",
+      "#cuore",
+      "#citazioni"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175891+00:00"
+  },
+  {
+    "quote": "Il vero coraggio è saper rinunciare a qualcosa per qualcos'altro.",
+    "author": "Seneca",
+    "category": "coraggio",
+    "caption": "Rinunciare bene è una forma di forza.",
+    "hashtags": [
+      "#coraggio",
+      "#rinuncia",
+      "#seneca",
+      "#scelte",
+      "#citazioni"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175894+00:00"
+  },
+  {
+    "quote": "La libertà è il diritto di essere diversi senza doversi giustificare.",
+    "author": "Norberto Bobbio",
+    "category": "libertà",
+    "caption": "Essere diversi non è un reato: è un diritto.",
+    "hashtags": [
+      "#libertà",
+      "#diversità",
+      "#diritti",
+      "#bobbio",
+      "#citazioni"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175897+00:00"
+  },
+  {
+    "quote": "La famiglia è il luogo dove si impara a volersi bene senza doversi piacere.",
+    "author": "Anna Maria Ortese",
+    "category": "famiglia",
+    "caption": "A casa si è amati anche nei giorni storti.",
+    "hashtags": [
+      "#famiglia",
+      "#casa",
+      "#affetti",
+      "#citazioni",
+      "#radici"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175900+00:00"
+  },
+  {
+    "quote": "L'amicizia è una forma di pazienza che non si stanca.",
+    "author": "Giovanni Papini",
+    "category": "amicizia",
+    "caption": "A volte un amico è solo qualcuno che aspetta.",
+    "hashtags": [
+      "#amicizia",
+      "#pazienza",
+      "#legami",
+      "#citazioni",
+      "#fiducia"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175903+00:00"
+  },
+  {
+    "quote": "La speranza non è mai una certezza: per questo è coraggiosa.",
+    "author": "Piero Angela",
+    "category": "speranza",
+    "caption": "Sperare senza garanzie è il gesto più audace che conosco.",
+    "hashtags": [
+      "#speranza",
+      "#coraggio",
+      "#futuro",
+      "#pieroangela",
+      "#citazioni"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175908+00:00"
+  },
+  {
+    "quote": "Il tempo è il medico di tutte le cose, ma non di tutte le ferite.",
+    "author": "Plutarco",
+    "category": "tempo",
+    "caption": "Il tempo cura, ma non sempre è un chirurgo preciso.",
+    "hashtags": [
+      "#tempo",
+      "#ferite",
+      "#plutarco",
+      "#citazioni",
+      "#guarigione"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175911+00:00"
+  },
+  {
+    "quote": "La giovinezza è il tempo in cui si crede che tutto sia possibile, e si ha ragione.",
+    "author": "Pablo Neruda",
+    "category": "giovinezza",
+    "caption": "Forse è proprio vero: è il resto della vita a toglierci le ali.",
+    "hashtags": [
+      "#giovinezza",
+      "#possibilità",
+      "#neruda",
+      "#citazioni",
+      "#sogni"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175914+00:00"
+  },
+  {
+    "quote": "La maturità è la capacità di convivere con le domande senza risposta.",
+    "author": "Italo Calvino",
+    "category": "maturità",
+    "caption": "Crescere è anche smettere di pretendere tutte le risposte.",
+    "hashtags": [
+      "#maturità",
+      "#domande",
+      "#calvino",
+      "#citazioni",
+      "#crescita"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175917+00:00"
+  },
+  {
+    "quote": "Il successo è una scala che non si sale con le mani in tasca.",
+    "author": "Zig Ziglar",
+    "category": "successo",
+    "caption": "Le mani in tasca non hanno mai scalato niente.",
+    "hashtags": [
+      "#successo",
+      "#impegno",
+      "#lavoro",
+      "#citazioni",
+      "#motivazione"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175919+00:00"
+  },
+  {
+    "quote": "La leadership è l'arte di far emergere il meglio degli altri.",
+    "author": "John Maxwell",
+    "category": "leadership",
+    "caption": "Un capo vero non si mette in mostra: mette in mostra gli altri.",
+    "hashtags": [
+      "#leadership",
+      "#squadra",
+      "#crescita",
+      "#citazioni",
+      "#guida"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175922+00:00"
+  },
+  {
+    "quote": "Il fallimento insegna più di quanto il successo possa mai promettere.",
+    "author": "Henry Ford",
+    "category": "fallimento",
+    "caption": "Le cadute hanno un programma di studio molto denso.",
+    "hashtags": [
+      "#fallimento",
+      "#lezioni",
+      "#ford",
+      "#citazioni",
+      "#ripartire"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175925+00:00"
+  },
+  {
+    "quote": "La resilienza è la forza di tornare al proprio posto dopo essere stati piegati.",
+    "author": "Boris Cyrulnik",
+    "category": "resilienza",
+    "caption": "Non è restare rigidi: è tornare su, magari diversi.",
+    "hashtags": [
+      "#resilienza",
+      "#forza",
+      "#cyrulnik",
+      "#citazioni",
+      "#riprendersi"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175927+00:00"
+  },
+  {
+    "quote": "L'ambizione è un fuoco: scalda, ma va tenuto sotto controllo.",
+    "author": "Francesco Alberoni",
+    "category": "ambizione",
+    "caption": "Anche il fuoco buono, se non lo governi, brucia la casa.",
+    "hashtags": [
+      "#ambizione",
+      "#equilibrio",
+      "#alberoni",
+      "#citazioni",
+      "#desideri"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175930+00:00"
+  },
+  {
+    "quote": "La nostalgia è la memoria che si ferma a guardare.",
+    "author": "Milan Kundera",
+    "category": "nostalgia",
+    "caption": "A volte il cuore si sofferma e non vuole saperne di ripartire.",
+    "hashtags": [
+      "#nostalgia",
+      "#memoria",
+      "#kundera",
+      "#citazioni",
+      "#passato"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175933+00:00"
+  },
+  {
+    "quote": "La forza è la capacità di restare gentili in un mondo che non lo è.",
+    "author": "Alda Merini",
+    "category": "forza",
+    "caption": "Essere gentili quando tutto spinge al contrario: questa è forza.",
+    "hashtags": [
+      "#forza",
+      "#gentilezza",
+      "#merini",
+      "#citazioni",
+      "#anima"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175937+00:00"
+  },
+  {
+    "quote": "Il perdono è la chiave che apre la porta che hai chiuso dall'interno.",
+    "author": "Corrie ten Boom",
+    "category": "perdono",
+    "caption": "A volte perdonare libera prima di tutto chi perdona.",
+    "hashtags": [
+      "#perdono",
+      "#libertà",
+      "#cuore",
+      "#citazioni",
+      "#lasciareandare"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175939+00:00"
+  },
+  {
+    "quote": "Il destino è la somma delle nostre scelte più piccole.",
+    "author": "Viktor Frankl",
+    "category": "destino",
+    "caption": "Nessun fato improvviso: solo tante scelte messe insieme.",
+    "hashtags": [
+      "#destino",
+      "#scelte",
+      "#frankl",
+      "#citazioni",
+      "#responsabilità"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175942+00:00"
+  },
+  {
+    "quote": "La pace non è l'assenza di conflitto, ma la presenza della giustizia.",
+    "author": "Martin Luther King",
+    "category": "pace",
+    "caption": "Il silenzio senza giustizia non è pace: è attesa.",
+    "hashtags": [
+      "#pace",
+      "#giustizia",
+      "#king",
+      "#citazioni",
+      "#diritti"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175946+00:00"
+  },
+  {
+    "quote": "La consapevolezza è sapere di non sapere abbastanza.",
+    "author": "Socrate",
+    "category": "consapevolezza",
+    "caption": "Il primo passo è accorgersi di quanto manca.",
+    "hashtags": [
+      "#consapevolezza",
+      "#socrate",
+      "#saggezza",
+      "#citazioni",
+      "#conoscenza"
+    ],
+    "generated_at": "2026-10-20T02:38:28.175949+00:00"
   }
 ]

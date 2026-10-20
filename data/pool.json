@@ -1,230 +1,5 @@
 [
   {
-    "quote": "L'amicizia non è qualcosa che impari a scuola. Ma se non hai imparato il significato dell'amicizia, non hai imparato proprio nulla.",
-    "author": "Muhammad Ali",
-    "category": "amicizia",
-    "caption": "Ci sono lezioni che solo un amico può insegnarti.",
-    "hashtags": [
-      "#amicizia",
-      "#citazioni",
-      "#MuhammadAli",
-      "#amici",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871153+00:00"
-  },
-  {
-    "quote": "Non è che abbiamo poco tempo: è che ne perdiamo molto.",
-    "author": "Seneca",
-    "category": "tempo",
-    "caption": "Il tempo non manca: a volte siamo noi a lasciarlo andare.",
-    "hashtags": [
-      "#tempo",
-      "#citazioni",
-      "#Seneca",
-      "#presente",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871159+00:00"
-  },
-  {
-    "quote": "La pazienza è amara, ma i suoi frutti sono dolci.",
-    "author": "Jean-Jacques Rousseau",
-    "category": "pazienza",
-    "caption": "Aspettare bene è già metà del risultato.",
-    "hashtags": [
-      "#pazienza",
-      "#citazioni",
-      "#Rousseau",
-      "#attesa",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871163+00:00"
-  },
-  {
-    "quote": "Se puoi sognarlo, puoi farlo.",
-    "author": "Walt Disney",
-    "category": "sogni",
-    "caption": "I sogni non sono fughe: sono direzioni.",
-    "hashtags": [
-      "#sogni",
-      "#citazioni",
-      "#WaltDisney",
-      "#immaginazione",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871167+00:00"
-  },
-  {
-    "quote": "Scegli un lavoro che ami e non dovrai lavorare nemmeno un giorno della tua vita.",
-    "author": "Confucio",
-    "category": "lavoro",
-    "caption": "Quando il lavoro ha senso, non pesa.",
-    "hashtags": [
-      "#lavoro",
-      "#citazioni",
-      "#Confucio",
-      "#passione",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871172+00:00"
-  },
-  {
-    "quote": "La libertà non vale nulla se non comprende la libertà di sbagliare.",
-    "author": "Mahatma Gandhi",
-    "category": "libertà",
-    "caption": "Essere liberi significa anche poter sbagliare.",
-    "hashtags": [
-      "#libertà",
-      "#citazioni",
-      "#Gandhi",
-      "#sbagliare",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871180+00:00"
-  },
-  {
-    "quote": "Il viaggio è la cosa che compri e ti rende più ricco.",
-    "author": "Anonimo",
-    "category": "viaggio",
-    "caption": "Non è una spesa: è un investimento su te stesso.",
-    "hashtags": [
-      "#viaggio",
-      "#citazioni",
-      "#partire",
-      "#ricchezza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-22T15:57:12.871184+00:00"
-  },
-  {
-    "quote": "Non c'è amore più grande di quello che sa aspettare.",
-    "author": "Gabriel García Márquez",
-    "category": "amore",
-    "caption": "Amare è anche avere la pazienza di lasciare che l'altro arrivi.",
-    "hashtags": [
-      "#amore",
-      "#pazienza",
-      "#citazioni",
-      "#attesa",
-      "#coppia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537707+00:00"
-  },
-  {
-    "quote": "La vita è quella cosa che ci accade mentre siamo occupati a fare altri programmi.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "A volte la vita non chiede il permesso: entra e cambia tutto.",
-    "hashtags": [
-      "#vita",
-      "#citazioni",
-      "#attimopresente",
-      "#consapevolezza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537734+00:00"
-  },
-  {
-    "quote": "Il successo è imparare a convivere con i propri dubbi.",
-    "author": "Ettore Scola",
-    "category": "successo",
-    "caption": "Fare bene le cose senza smettere di dubitare: forse è questa la strada.",
-    "hashtags": [
-      "#successo",
-      "#dubbi",
-      "#citazioni",
-      "#crescita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537741+00:00"
-  },
-  {
-    "quote": "La resilienza è la capacità di trasformare il dolore in forza.",
-    "author": "Boris Cyrulnik",
-    "category": "resilienza",
-    "caption": "Non si tratta di non soffrire, ma di cosa sai farne della sofferenza.",
-    "hashtags": [
-      "#resilienza",
-      "#forza",
-      "#citazioni",
-      "#crescita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537749+00:00"
-  },
-  {
-    "quote": "Non puoi cambiare ciò che non accetti.",
-    "author": "Carl Jung",
-    "category": "cambiamento",
-    "caption": "Il cambiamento comincia quando smetti di fingere che vada tutto bene.",
-    "hashtags": [
-      "#cambiamento",
-      "#consapevolezza",
-      "#citazioni",
-      "#crescita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537754+00:00"
-  },
-  {
-    "quote": "La crescita personale è la scelta di diventare ogni giorno un po' più te stesso.",
-    "author": "Carl Rogers",
-    "category": "crescita personale",
-    "caption": "Crescere non è diventare un altro: è togliere ciò che ti copre.",
-    "hashtags": [
-      "#crescita",
-      "#personale",
-      "#citazioni",
-      "#autenticita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537759+00:00"
-  },
-  {
-    "quote": "Un vero amico è chi entra quando tutti gli altri escono.",
-    "author": "Walter Winchell",
-    "category": "amicizia",
-    "caption": "Gli amici veri si vedono nei momenti in cui gli altri spariscono.",
-    "hashtags": [
-      "#amicizia",
-      "#amici",
-      "#citazioni",
-      "#fiducia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537769+00:00"
-  },
-  {
-    "quote": "La famiglia è dove la vita comincia e l'amore non finisce mai.",
-    "author": "Michael J. Fox",
-    "category": "famiglia",
-    "caption": "La famiglia è quel posto dove torni anche quando sbagli tutto.",
-    "hashtags": [
-      "#famiglia",
-      "#amore",
-      "#citazioni",
-      "#casa",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537774+00:00"
-  },
-  {
-    "quote": "La solitudine è il momento in cui finalmente ti ascolti.",
-    "author": "Paul Tillich",
-    "category": "solitudine",
-    "caption": "Stare soli non è vuoto: è lo spazio in cui ti ritrovi.",
-    "hashtags": [
-      "#solitudine",
-      "#ascolto",
-      "#citazioni",
-      "#silenzio",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537778+00:00"
-  },
-  {
     "quote": "Il tempo è il bene più prezioso che possiamo spendere.",
     "author": "Teofrasto",
     "category": "tempo",
@@ -7308,5 +7083,230 @@
       "#conoscenza"
     ],
     "generated_at": "2026-10-20T02:38:28.175949+00:00"
+  },
+  {
+    "quote": "Siamo ciò che facciamo ripetutamente. L'eccellenza, quindi, non è un atto ma un'abitudine.",
+    "author": "Will Durant",
+    "category": "disciplina",
+    "caption": "Le piccole ripetizioni quotidiane costruiscono chi diventi.",
+    "hashtags": [
+      "#disciplina",
+      "#abitudini",
+      "#eccellenza",
+      "#crescitaquotidiana",
+      "#costanza",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.171935+00:00"
+  },
+  {
+    "quote": "La vita è un'avventura audace o non è nulla.",
+    "author": "Helen Keller",
+    "category": "coraggio",
+    "caption": "Meglio rischiare di vivere che accontentarsi di sopravvivere.",
+    "hashtags": [
+      "#coraggio",
+      "#vita",
+      "#avventura",
+      "#osare",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.171965+00:00"
+  },
+  {
+    "quote": "Non tutti quelli che contano i giorni sanno contare i momenti.",
+    "author": "Anonimo",
+    "category": "tempo",
+    "caption": "Il tempo si misura in attimi vissuti, non in caselle di calendario.",
+    "hashtags": [
+      "#tempo",
+      "#momenti",
+      "#presente",
+      "#consapevolezza",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.171972+00:00"
+  },
+  {
+    "quote": "Un ostacolo è ciò che vedi quando distogli lo sguardo dalla meta.",
+    "author": "Henry Ford",
+    "category": "motivazione",
+    "caption": "Guarda dove vuoi arrivare, non dove ti sei fermato.",
+    "hashtags": [
+      "#motivazione",
+      "#obiettivi",
+      "#meta",
+      "#determinazione",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.171981+00:00"
+  },
+  {
+    "quote": "La vera scoperta non consiste nel trovare nuove terre, ma nell'avere occhi nuovi.",
+    "author": "Marcel Proust",
+    "category": "consapevolezza",
+    "caption": "Cambiare sguardo cambia tutto il resto.",
+    "hashtags": [
+      "#consapevolezza",
+      "#sguardo",
+      "#scoperta",
+      "#crescita",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.171986+00:00"
+  },
+  {
+    "quote": "L'amore è composto da un'anima sola che abita in due corpi.",
+    "author": "Aristotele",
+    "category": "amore",
+    "caption": "Due persone, un solo modo di guardare il mondo.",
+    "hashtags": [
+      "#amore",
+      "#anime",
+      "#coppia",
+      "#sentimenti",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.171990+00:00"
+  },
+  {
+    "quote": "Chi non ha mai fatto un errore non ha mai tentato niente di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Sbagliare è il prezzo onesto di chi prova davvero.",
+    "hashtags": [
+      "#fallimento",
+      "#errori",
+      "#riprovare",
+      "#coraggio",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.171994+00:00"
+  },
+  {
+    "quote": "La speranza è come un uccello che si posa sull'anima e canta senza parole.",
+    "author": "Emily Dickinson",
+    "category": "speranza",
+    "caption": "Anche quando non sai spiegarlo, dentro qualcosa continua a cantare.",
+    "hashtags": [
+      "#speranza",
+      "#anima",
+      "#resilienza",
+      "#fiducia",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.171998+00:00"
+  },
+  {
+    "quote": "La semplicità è la massima forma di eleganza.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "Togliere il superfluo è un'arte difficile.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#eleganza",
+      "#essenziale",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.172006+00:00"
+  },
+  {
+    "quote": "La felicità dipende da noi.",
+    "author": "Aristotele",
+    "category": "felicità",
+    "caption": "Non è qualcosa che arriva: è qualcosa che costruisci.",
+    "hashtags": [
+      "#felicità",
+      "#scelta",
+      "#vita",
+      "#benessere",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.172014+00:00"
+  },
+  {
+    "quote": "Dove c'è amore per l'umanità, lì c'è anche amore per l'arte.",
+    "author": "Lev Tolstoj",
+    "category": "amicizia",
+    "caption": "Chi sa voler bene alle persone sa anche creare cose belle.",
+    "hashtags": [
+      "#amicizia",
+      "#umanità",
+      "#arte",
+      "#relazioni",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.172020+00:00"
+  },
+  {
+    "quote": "Il lavoro è il rifugio di chi non ha altro rifugio.",
+    "author": "Oscar Wilde",
+    "category": "lavoro",
+    "caption": "A volte il lavoro è salvezza, non solo dovere.",
+    "hashtags": [
+      "#lavoro",
+      "#rifugio",
+      "#quotidiano",
+      "#ironia",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.172025+00:00"
+  },
+  {
+    "quote": "La maturità è la capacità di vivere con le domande senza risposta.",
+    "author": "Anonimo",
+    "category": "maturità",
+    "caption": "Crescere è anche imparare a convivere con l'incertezza.",
+    "hashtags": [
+      "#maturità",
+      "#domande",
+      "#crescita",
+      "#incertezza",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.172033+00:00"
+  },
+  {
+    "quote": "La gratitudine è la più bella delle virtù, ma anche la più dimenticata.",
+    "author": "Anonimo",
+    "category": "gratitudine",
+    "caption": "Ricordarsi di dire grazie è un gesto piccolo e potentissimo.",
+    "hashtags": [
+      "#gratitudine",
+      "#grazie",
+      "#virtù",
+      "#quotidiano",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.172037+00:00"
+  },
+  {
+    "quote": "Il viaggio più lungo è quello che porta dentro di sé.",
+    "author": "Anonimo",
+    "category": "viaggio",
+    "caption": "A volte la meta più lontana è la propria interiorità.",
+    "hashtags": [
+      "#viaggio",
+      "#interiorità",
+      "#scoperta",
+      "#cammino",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.172042+00:00"
+  },
+  {
+    "quote": "La delusione è il prezzo di aver creduto.",
+    "author": "Anonimo",
+    "category": "delusione",
+    "caption": "Chi non si fida di nessuno non rischia di restare deluso, ma nemmeno di essere felice.",
+    "hashtags": [
+      "#delusione",
+      "#fiducia",
+      "#rischio",
+      "#sentimenti",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-20T16:02:11.172050+00:00"
   }
 ]

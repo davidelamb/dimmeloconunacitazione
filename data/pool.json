@@ -1,173 +1,5 @@
 [
   {
-    "quote": "Il tempo è il bene più prezioso che possiamo spendere.",
-    "author": "Teofrasto",
-    "category": "tempo",
-    "caption": "Non è questione di quanto tempo hai, ma di come lo scegli.",
-    "hashtags": [
-      "#tempo",
-      "#scelte",
-      "#citazioni",
-      "#presente",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537783+00:00"
-  },
-  {
-    "quote": "La pazienza è il coraggio di fidarsi del tempo.",
-    "author": "Ralph Waldo Emerson",
-    "category": "pazienza",
-    "caption": "Aspettare non è perdere tempo: è dare tempo alle cose di maturare.",
-    "hashtags": [
-      "#pazienza",
-      "#tempo",
-      "#citazioni",
-      "#fiducia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537787+00:00"
-  },
-  {
-    "quote": "I sogni non hanno scadenza.",
-    "author": "Paulo Coelho",
-    "category": "sogni",
-    "caption": "Non c'è età giusta per inseguire ciò che ti fa stare bene.",
-    "hashtags": [
-      "#sogni",
-      "#desideri",
-      "#citazioni",
-      "#coraggio",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537791+00:00"
-  },
-  {
-    "quote": "L'ambizione è il motore, ma l'umiltà è il volante.",
-    "author": "John C. Maxwell",
-    "category": "ambizione",
-    "caption": "Vuoi arrivare lontano? Tieni insieme fame e umiltà.",
-    "hashtags": [
-      "#ambizione",
-      "#umilta",
-      "#citazioni",
-      "#successo",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537796+00:00"
-  },
-  {
-    "quote": "Scegli un lavoro che ami e non dovrai lavorare neanche un giorno.",
-    "author": "Confucio",
-    "category": "lavoro",
-    "caption": "Il lavoro non è solo ciò che fai: è anche come ti senti mentre lo fai.",
-    "hashtags": [
-      "#lavoro",
-      "#passione",
-      "#citazioni",
-      "#carriera",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537800+00:00"
-  },
-  {
-    "quote": "Un leader è colui che sa trasformare una visione in realtà.",
-    "author": "Warren Bennis",
-    "category": "leadership",
-    "caption": "Guidare non è comandare: è rendere possibile ciò che sembrava impossibile.",
-    "hashtags": [
-      "#leadership",
-      "#visione",
-      "#citazioni",
-      "#guida",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537807+00:00"
-  },
-  {
-    "quote": "La libertà è la possibilità di scegliere chi diventare.",
-    "author": "Jean-Paul Sartre",
-    "category": "libertà",
-    "caption": "Essere liberi non è fare ciò che vuoi, ma scegliere ciò che sei.",
-    "hashtags": [
-      "#liberta",
-      "#scelte",
-      "#citazioni",
-      "#responsabilita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537812+00:00"
-  },
-  {
-    "quote": "Il viaggio non serve a fuggire, serve a tornare diversi.",
-    "author": "Nicolas Bouvier",
-    "category": "viaggio",
-    "caption": "Partire cambia la mappa, ma soprattutto cambia chi la legge.",
-    "hashtags": [
-      "#viaggio",
-      "#cambiamento",
-      "#citazioni",
-      "#partire",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537817+00:00"
-  },
-  {
-    "quote": "La speranza è la fede che tiene duro quando tutto dice di mollare.",
-    "author": "Desmond Tutu",
-    "category": "speranza",
-    "caption": "La speranza non è ottimismo: è tenacia del cuore.",
-    "hashtags": [
-      "#speranza",
-      "#fede",
-      "#citazioni",
-      "#resilienza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537821+00:00"
-  },
-  {
-    "quote": "La delusione è il prezzo dell'aver osato sperare.",
-    "author": "William Shakespeare",
-    "category": "delusione",
-    "caption": "Se ti hanno deluso, significa che avevi il coraggio di fidarti.",
-    "hashtags": [
-      "#delusione",
-      "#fiducia",
-      "#citazioni",
-      "#dolore",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537826+00:00"
-  },
-  {
-    "quote": "L'ironia è la scusa che la verità usa per non ferire.",
-    "author": "Umberto Eco",
-    "category": "ironia",
-    "caption": "A volte si dice la cosa più seria con il tono più leggero.",
-    "hashtags": [
-      "#ironia",
-      "#verita",
-      "#citazioni",
-      "#intelligenza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537833+00:00"
-  },
-  {
-    "quote": "La filosofia è il coraggio di non accontentarsi delle risposte facili.",
-    "author": "Karl Jaspers",
-    "category": "filosofia",
-    "caption": "Farsi domande è già un modo di stare al mondo.",
-    "hashtags": [
-      "#filosofia",
-      "#domande",
-      "#citazioni",
-      "#pensiero",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537838+00:00"
-  },
-  {
     "quote": "Il minimalismo è la libertà di non dover possedere per essere.",
     "author": "Joshua Becker",
     "category": "minimalismo",
@@ -7308,5 +7140,174 @@
       "#frasi"
     ],
     "generated_at": "2026-10-20T16:02:11.172050+00:00"
+  },
+  {
+    "quote": "La bellezza salverà il mondo.",
+    "author": "Fëdor Dostoevskij",
+    "category": "filosofia",
+    "caption": "A volte basta uno sguardo attento per accorgersi che il mondo si sta già salvando.",
+    "hashtags": [
+      "#bellezza",
+      "#dostoevskij",
+      "#filosofia",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163356+00:00"
+  },
+  {
+    "quote": "Non si vede bene che col cuore. L'essenziale è invisibile agli occhi.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "Le cose che contano davvero non si pesano, non si misurano: si sentono.",
+    "hashtags": [
+      "#amore",
+      "#piccoloprincipe",
+      "#essenziale",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163381+00:00"
+  },
+  {
+    "quote": "La vita è ciò che accade quando sei impegnato a fare altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Mentre pianifichi tutto, la vita ti passa accanto. Alza lo sguardo.",
+    "hashtags": [
+      "#vita",
+      "#johnlennon",
+      "#presente",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163388+00:00"
+  },
+  {
+    "quote": "Il successo è l'1% di ispirazione e il 99% di traspirazione.",
+    "author": "Thomas Edison",
+    "category": "lavoro",
+    "caption": "Le idee sono solo l'inizio: il resto è sudore, costanza, giornate normali.",
+    "hashtags": [
+      "#lavoro",
+      "#successo",
+      "#costanza",
+      "#edison",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163393+00:00"
+  },
+  {
+    "quote": "Non ho fallito. Ho solo trovato 10.000 modi che non funzionano.",
+    "author": "Thomas Edison",
+    "category": "fallimento",
+    "caption": "Ogni tentativo andato male è una mappa che ti dice dove non passare.",
+    "hashtags": [
+      "#fallimento",
+      "#edison",
+      "#riprovare",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163398+00:00"
+  },
+  {
+    "quote": "Chi ha coraggio, ha anche potere.",
+    "author": "Seneca",
+    "category": "coraggio",
+    "caption": "Il coraggio non toglie la paura: la rende qualcosa con cui puoi camminare.",
+    "hashtags": [
+      "#coraggio",
+      "#seneca",
+      "#paura",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163404+00:00"
+  },
+  {
+    "quote": "Ogni uomo è l'artefice del proprio destino.",
+    "author": "Appio Claudio Cieco",
+    "category": "destino",
+    "caption": "Non tutto dipende da te, ma la tua parte la scegli tu. Ogni giorno.",
+    "hashtags": [
+      "#destino",
+      "#scelte",
+      "#responsabilita",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163411+00:00"
+  },
+  {
+    "quote": "Il tempo è denaro.",
+    "author": "Benjamin Franklin",
+    "category": "tempo",
+    "caption": "Non è solo denaro: è la materia prima di tutto ciò che di bello puoi ancora costruire.",
+    "hashtags": [
+      "#tempo",
+      "#franklin",
+      "#presente",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163415+00:00"
+  },
+  {
+    "quote": "La famiglia è il luogo dove si impara ad amare.",
+    "author": "Papa Giovanni Paolo II",
+    "category": "famiglia",
+    "caption": "A volte è complicata, a volte è rumorosa: ma è la prima palestra d'amore.",
+    "hashtags": [
+      "#famiglia",
+      "#amore",
+      "#radici",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163423+00:00"
+  },
+  {
+    "quote": "La pazienza è amara, ma i suoi frutti sono dolci.",
+    "author": "Jean-Jacques Rousseau",
+    "category": "pazienza",
+    "caption": "Aspettare bene è un'arte: non passiva, ma piena di fiducia.",
+    "hashtags": [
+      "#pazienza",
+      "#rousseau",
+      "#attesa",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163433+00:00"
+  },
+  {
+    "quote": "L'uomo che non ha mai commesso un errore non ha mai tentato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "crescita personale",
+    "caption": "Se non sbagli mai, probabilmente stai solo ripetendo ciò che già sai fare.",
+    "hashtags": [
+      "#crescita",
+      "#einstein",
+      "#errori",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163442+00:00"
+  },
+  {
+    "quote": "Il viaggio è la ricompensa.",
+    "author": "Robert Louis Stevenson",
+    "category": "viaggio",
+    "caption": "Non conta solo dove arrivi: conta come ti trasforma la strada.",
+    "hashtags": [
+      "#viaggio",
+      "#stevenson",
+      "#strada",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-21T02:32:28.163449+00:00"
   }
 ]

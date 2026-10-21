@@ -1,92 +1,5 @@
 [
   {
-    "quote": "Il minimalismo è la libertà di non dover possedere per essere.",
-    "author": "Joshua Becker",
-    "category": "minimalismo",
-    "caption": "Meno cose, più spazio per ciò che conta davvero.",
-    "hashtags": [
-      "#minimalismo",
-      "#essenziale",
-      "#citazioni",
-      "#semplicita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537842+00:00"
-  },
-  {
-    "quote": "La pace non è qualcosa che trovi, è qualcosa che crei.",
-    "author": "Thich Nhat Hanh",
-    "category": "pace",
-    "caption": "La pace comincia da dentro, un respiro alla volta.",
-    "hashtags": [
-      "#pace",
-      "#interiore",
-      "#citazioni",
-      "#calma",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537846+00:00"
-  },
-  {
-    "quote": "La forza non è non cadere, è scegliere di rialzarsi.",
-    "author": "Confucio",
-    "category": "forza",
-    "caption": "La vera forza è la decisione che prendi dopo la caduta.",
-    "hashtags": [
-      "#forza",
-      "#rialzarsi",
-      "#citazioni",
-      "#resilienza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-23T02:26:32.537852+00:00"
-  },
-  {
-    "quote": "Il dubbio non è piacevole, ma la certezza è ridicola.",
-    "author": "Voltaire",
-    "category": "filosofia",
-    "caption": "Meglio una domanda scomoda che una risposta troppo facile.",
-    "hashtags": [
-      "#filosofia",
-      "#dubbio",
-      "#voltaire",
-      "#pensiero",
-      "#certezze",
-      "#ironia"
-    ],
-    "generated_at": "2026-09-23T15:47:01.369093+00:00"
-  },
-  {
-    "quote": "La felicità non è avere tutto, ma godere di ciò che si ha.",
-    "author": "Confucio",
-    "category": "gratitudine",
-    "caption": "A volte basta guardare ciò che hai con occhi nuovi.",
-    "hashtags": [
-      "#gratitudine",
-      "#felicità",
-      "#confucio",
-      "#saggezza",
-      "#ringraziare",
-      "#presente"
-    ],
-    "generated_at": "2026-09-23T15:47:01.369123+00:00"
-  },
-  {
-    "quote": "La cosa più difficile è conoscere se stessi.",
-    "author": "Talete",
-    "category": "consapevolezza",
-    "caption": "Il viaggio più lungo è quello verso il proprio centro.",
-    "hashtags": [
-      "#consapevolezza",
-      "#conoscenzadisé",
-      "#talete",
-      "#filosofia",
-      "#introspezione",
-      "#crescita"
-    ],
-    "generated_at": "2026-09-23T15:47:01.369130+00:00"
-  },
-  {
     "quote": "Il tempo è un fiume che scorre e non torna mai indietro.",
     "author": "Marco Aurelio",
     "category": "tempo",
@@ -7309,5 +7222,91 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-21T02:32:28.163449+00:00"
+  },
+  {
+    "quote": "Non c'è amore più sincero di quello che sa aspettare.",
+    "author": "Paulo Coelho",
+    "category": "amore",
+    "caption": "A volte l'amore è soprattutto saper aspettare.",
+    "hashtags": [
+      "#amore",
+      "#paolocoelho",
+      "#citazioni",
+      "#attesa",
+      "#frasi",
+      "#cuore"
+    ],
+    "generated_at": "2026-10-21T16:18:56.169538+00:00"
+  },
+  {
+    "quote": "La vita è un'opera d'arte che si crea giorno per giorno.",
+    "author": "Anonimo",
+    "category": "vita",
+    "caption": "Nessun copione: la vita la scriviamo noi.",
+    "hashtags": [
+      "#vita",
+      "#citazioni",
+      "#frasi",
+      "#ispirazione",
+      "#quotidiano"
+    ],
+    "generated_at": "2026-10-21T16:18:56.169562+00:00"
+  },
+  {
+    "quote": "La motivazione è ciò che ti fa iniziare, l'abitudine è ciò che ti fa continuare.",
+    "author": "Jim Rohn",
+    "category": "motivazione",
+    "caption": "Parti con la spinta, resta con le abitudini.",
+    "hashtags": [
+      "#motivazione",
+      "#jimrohn",
+      "#citazioni",
+      "#abitudini",
+      "#crescita",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-21T16:18:56.169569+00:00"
+  },
+  {
+    "quote": "Il fallimento è l'opportunità di ricominciare, questa volta con più esperienza.",
+    "author": "Henry Ford",
+    "category": "fallimento",
+    "caption": "Cadere non è la fine: è un nuovo punto di partenza.",
+    "hashtags": [
+      "#fallimento",
+      "#henryford",
+      "#citazioni",
+      "#ripartire",
+      "#lezione"
+    ],
+    "generated_at": "2026-10-21T16:18:56.169577+00:00"
+  },
+  {
+    "quote": "La felicità non è qualcosa di già pronto: viene dalle tue azioni.",
+    "author": "Dalai Lama",
+    "category": "felicità",
+    "caption": "La felicità è un verbo, non un oggetto.",
+    "hashtags": [
+      "#felicità",
+      "#dalailama",
+      "#citazioni",
+      "#azioni",
+      "#gioia"
+    ],
+    "generated_at": "2026-10-21T16:18:56.169590+00:00"
+  },
+  {
+    "quote": "Trova un lavoro che ami e non dovrai lavorare neanche un giorno.",
+    "author": "Confucio",
+    "category": "lavoro",
+    "caption": "Quando la passione diventa mestiere, il peso cambia.",
+    "hashtags": [
+      "#lavoro",
+      "#confucio",
+      "#citazioni",
+      "#passione",
+      "#frasi"
+    ],
+    "generated_at": "2026-10-21T16:18:56.169601+00:00"
   }
 ]

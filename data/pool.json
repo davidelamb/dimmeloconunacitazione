@@ -1,189 +1,5 @@
 [
   {
-    "quote": "Il tempo è un fiume che scorre e non torna mai indietro.",
-    "author": "Marco Aurelio",
-    "category": "tempo",
-    "caption": "Non perdere l'attimo: è l'unico che hai davvero.",
-    "hashtags": [
-      "#tempo",
-      "#marcoaurelio",
-      "#attimo",
-      "#presente",
-      "#filosofia",
-      "#scorrere"
-    ],
-    "generated_at": "2026-09-23T15:47:01.369138+00:00"
-  },
-  {
-    "quote": "L'autostima è il frutto della disciplina.",
-    "author": "Jim Rohn",
-    "category": "autostima",
-    "caption": "Rispettare se stessi inizia dalle piccole promesse mantenute.",
-    "hashtags": [
-      "#autostima",
-      "#jimrohn",
-      "#disciplina",
-      "#rispetto",
-      "#fiducia",
-      "#selfcare"
-    ],
-    "generated_at": "2026-09-23T15:47:01.369150+00:00"
-  },
-  {
-    "quote": "La vita non vissuta è una vita che non vale la pena di essere vissuta.",
-    "author": "Socrate",
-    "category": "consapevolezza",
-    "caption": "Non accontentarti di esistere: scegli di vivere davvero.",
-    "hashtags": [
-      "#consapevolezza",
-      "#socrate",
-      "#vita",
-      "#filosofia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160921+00:00"
-  },
-  {
-    "quote": "La felicità è il senso e lo scopo della vita.",
-    "author": "Aristotele",
-    "category": "felicità",
-    "caption": "Non un premio finale, ma la direzione del cammino.",
-    "hashtags": [
-      "#felicita",
-      "#aristotele",
-      "#filosofia",
-      "#vita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160955+00:00"
-  },
-  {
-    "quote": "La vera libertà è poter scegliere di essere se stessi.",
-    "author": "Albert Camus",
-    "category": "libertà",
-    "caption": "Essere liberi è un atto di coraggio quotidiano.",
-    "hashtags": [
-      "#liberta",
-      "#camus",
-      "#identita",
-      "#filosofia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160961+00:00"
-  },
-  {
-    "quote": "Chi non ha mai commesso un errore non ha mai scoperto nulla.",
-    "author": "Samuel Smiles",
-    "category": "fallimento",
-    "caption": "Sbagliare è la tassa che paghi per imparare.",
-    "hashtags": [
-      "#fallimento",
-      "#errori",
-      "#crescita",
-      "#apprendimento",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160964+00:00"
-  },
-  {
-    "quote": "La gratitudine è la più grande delle virtù, ma anche la più dimenticata.",
-    "author": "Cicerone",
-    "category": "gratitudine",
-    "caption": "Dire grazie è un gesto piccolo che cambia tutto.",
-    "hashtags": [
-      "#gratitudine",
-      "#cicerone",
-      "#virtu",
-      "#cuore",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160967+00:00"
-  },
-  {
-    "quote": "La pazienza è il più grande dei rimedi.",
-    "author": "Ippocrate",
-    "category": "pazienza",
-    "caption": "Il tempo, a volte, è la medicina migliore.",
-    "hashtags": [
-      "#pazienza",
-      "#ippocrate",
-      "#tempo",
-      "#saggezza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160969+00:00"
-  },
-  {
-    "quote": "La speranza è il sogno dell'uomo sveglio.",
-    "author": "Aristotele",
-    "category": "speranza",
-    "caption": "Sognare a occhi aperti è già un primo passo.",
-    "hashtags": [
-      "#speranza",
-      "#aristotele",
-      "#sogni",
-      "#futuro",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160972+00:00"
-  },
-  {
-    "quote": "La solitudine è la patria degli spiriti forti.",
-    "author": "Friedrich Nietzsche",
-    "category": "solitudine",
-    "caption": "Stare soli non è vuoto: è spazio per ritrovarsi.",
-    "hashtags": [
-      "#solitudine",
-      "#nietzsche",
-      "#forza",
-      "#introspezione",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160974+00:00"
-  },
-  {
-    "quote": "L'amicizia è una sola anima che abita in due corpi.",
-    "author": "Aristotele",
-    "category": "amicizia",
-    "caption": "Un amico vero è una casa che porti dentro.",
-    "hashtags": [
-      "#amicizia",
-      "#aristotele",
-      "#legami",
-      "#anima",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160977+00:00"
-  },
-  {
-    "quote": "La maturità è quando si comincia a capire quanto poco si sa.",
-    "author": "Socrate",
-    "category": "maturità",
-    "caption": "Crescere è fare spazio al dubbio e all'ascolto.",
-    "hashtags": [
-      "#maturita",
-      "#socrate",
-      "#umilta",
-      "#saggezza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160980+00:00"
-  },
-  {
-    "quote": "Il coraggio è la prima delle qualità umane, perché garantisce tutte le altre.",
-    "author": "Winston Churchill",
-    "category": "coraggio",
-    "caption": "Senza coraggio, ogni altra virtù resta in attesa.",
-    "hashtags": [
-      "#coraggio",
-      "#churchill",
-      "#virtu",
-      "#forza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-24T02:15:03.160983+00:00"
-  },
-  {
     "quote": "La resilienza è accettare la realtà e trovare il modo di andare avanti.",
     "author": "Viktor Frankl",
     "category": "resilienza",
@@ -7308,5 +7124,200 @@
       "#frasi"
     ],
     "generated_at": "2026-10-21T16:18:56.169601+00:00"
+  },
+  {
+    "quote": "Non c'è strada per la felicità: la felicità è la strada.",
+    "author": "Buddha",
+    "category": "felicità",
+    "caption": "Smettiamo di cercare la meta: è già sotto i nostri piedi.",
+    "hashtags": [
+      "#citazioni",
+      "#felicità",
+      "#Buddha",
+      "#vivere",
+      "#mindfulness",
+      "#filosofia"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640436+00:00"
+  },
+  {
+    "quote": "Sogna in grande e inizia in piccolo.",
+    "author": "Simon Sinek",
+    "category": "sogni",
+    "caption": "Le visioni enormi si costruiscono con passi minuscoli, ogni santo giorno.",
+    "hashtags": [
+      "#citazioni",
+      "#sogni",
+      "#obiettivi",
+      "#SimonSinek",
+      "#motivazione",
+      "#crescita"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640460+00:00"
+  },
+  {
+    "quote": "Non aspettare che le cose accadano. Falle accadere.",
+    "author": "John F. Kennedy",
+    "category": "motivazione",
+    "caption": "Il mondo non si muove da solo: qualcuno deve dare il primo spintone.",
+    "hashtags": [
+      "#citazioni",
+      "#motivazione",
+      "#azione",
+      "#JFK",
+      "#ispirazione",
+      "#coraggio"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640468+00:00"
+  },
+  {
+    "quote": "Un uomo che non ha mai commesso errori non ha mai provato qualcosa di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Sbagliare è la ricevuta di un tentativo: conservala, non nasconderla.",
+    "hashtags": [
+      "#citazioni",
+      "#fallimento",
+      "#Einstein",
+      "#errori",
+      "#crescita",
+      "#coraggio"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640473+00:00"
+  },
+  {
+    "quote": "Cadere non è un fallimento. Restare a terra lo è.",
+    "author": "Socrate",
+    "category": "resilienza",
+    "caption": "La differenza tra chi ce la fa e chi no sta tutta nella seconda alzata.",
+    "hashtags": [
+      "#citazioni",
+      "#resilienza",
+      "#rialzarsi",
+      "#forza",
+      "#Socrate",
+      "#motivazione"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640477+00:00"
+  },
+  {
+    "quote": "Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione.",
+    "author": "Platone",
+    "category": "amicizia",
+    "caption": "È nel gioco, non nei discorsi, che si vede chi siamo davvero.",
+    "hashtags": [
+      "#citazioni",
+      "#amicizia",
+      "#Platone",
+      "#gioco",
+      "#relazioni",
+      "#filosofia"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640481+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte di un'idea il cui tempo è arrivato.",
+    "author": "Victor Hugo",
+    "category": "cambiamento",
+    "caption": "Le idee non aspettano: quando maturano, travolgono tutto.",
+    "hashtags": [
+      "#citazioni",
+      "#cambiamento",
+      "#VictorHugo",
+      "#idee",
+      "#storia",
+      "#ispirazione"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640486+00:00"
+  },
+  {
+    "quote": "La libertà è la possibilità di dubitare.",
+    "author": "Ugo Foscolo",
+    "category": "libertà",
+    "caption": "Potersi chiedere 'e se non fosse così?' è già un atto rivoluzionario.",
+    "hashtags": [
+      "#citazioni",
+      "#libertà",
+      "#Foscolo",
+      "#dubbio",
+      "#pensiero",
+      "#cultura"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640489+00:00"
+  },
+  {
+    "quote": "Chi non ha mai perso tempo non può capire il valore del tempo.",
+    "author": "Haruki Murakami",
+    "category": "tempo",
+    "caption": "A volte perdere un pomeriggio è il modo migliore per ritrovare te stesso.",
+    "hashtags": [
+      "#citazioni",
+      "#tempo",
+      "#Murakami",
+      "#lentezza",
+      "#vita",
+      "#riflessione"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640494+00:00"
+  },
+  {
+    "quote": "La pazienza è la forma più alta di coraggio.",
+    "author": "Tertulliano",
+    "category": "pazienza",
+    "caption": "Resistere senza fare rumore: la forza più silenziosa che esista.",
+    "hashtags": [
+      "#citazioni",
+      "#pazienza",
+      "#coraggio",
+      "#Tertulliano",
+      "#forza",
+      "#saggezza"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640497+00:00"
+  },
+  {
+    "quote": "Non si può fare nulla di grande se non si è disposti a correre rischi.",
+    "author": "Eschilo",
+    "category": "ambizione",
+    "caption": "La zona sicura è comoda, ma non è mai stata la culla delle grandi imprese.",
+    "hashtags": [
+      "#citazioni",
+      "#ambizione",
+      "#rischio",
+      "#Eschilo",
+      "#coraggio",
+      "#successo"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640501+00:00"
+  },
+  {
+    "quote": "La cosa più importante è non smettere mai di interrogarsi.",
+    "author": "Albert Einstein",
+    "category": "filosofia",
+    "caption": "La curiosità è l'ossigeno del pensiero: senza, si spegne.",
+    "hashtags": [
+      "#citazioni",
+      "#filosofia",
+      "#Einstein",
+      "#curiosità",
+      "#domande",
+      "#pensiero"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640510+00:00"
+  },
+  {
+    "quote": "Chi non sa sorridere ai propri errori non è ancora cresciuto.",
+    "author": "William Shakespeare",
+    "category": "maturità",
+    "caption": "L'ironia su se stessi è il primo segno che si è diventati grandi.",
+    "hashtags": [
+      "#citazioni",
+      "#maturità",
+      "#Shakespeare",
+      "#errori",
+      "#ironia",
+      "#crescita"
+    ],
+    "generated_at": "2026-10-22T02:29:24.640514+00:00"
   }
 ]

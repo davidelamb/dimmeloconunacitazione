@@ -1,268 +1,5 @@
 [
   {
-    "quote": "Fai attenzione ai tuoi pensieri: diventeranno parole.",
-    "author": "Lao Tzu",
-    "category": "consapevolezza",
-    "caption": "Tutto comincia da una piccola cosa che pensi. Scegli bene.",
-    "hashtags": [
-      "#consapevolezza",
-      "#laotzu",
-      "#pensieri",
-      "#mente",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-25T16:09:09.653952+00:00"
-  },
-  {
-    "quote": "La cosa più bella che possiamo sperimentare è il mistero.",
-    "author": "Albert Einstein",
-    "category": "filosofia",
-    "caption": "Non sapere tutto non è un difetto: è l'inizio della meraviglia.",
-    "hashtags": [
-      "#filosofia",
-      "#einstein",
-      "#mistero",
-      "#stupore",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-25T16:09:09.653960+00:00"
-  },
-  {
-    "quote": "La musica è la forma più alta di comunicazione.",
-    "author": "Ludwig van Beethoven",
-    "category": "pace",
-    "caption": "Quando le parole non bastano, c'è sempre una melodia che parla per te.",
-    "hashtags": [
-      "#musica",
-      "#beethoven",
-      "#pace",
-      "#emozioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-25T16:09:09.653965+00:00"
-  },
-  {
-    "quote": "Il miglior modo per predire il futuro è inventarlo.",
-    "author": "Alan Kay",
-    "category": "ambizione",
-    "caption": "Non aspettare che le cose cambino: scrivile tu, la tua storia.",
-    "hashtags": [
-      "#ambizione",
-      "#alankay",
-      "#futuro",
-      "#innovazione",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-25T16:09:09.653971+00:00"
-  },
-  {
-    "quote": "Il tempo è ciò che impedisce che tutto accada contemporaneamente.",
-    "author": "John Archibald Wheeler",
-    "category": "tempo",
-    "caption": "Ogni cosa ha il suo momento. Forse anche la tua.",
-    "hashtags": [
-      "#tempo",
-      "#wheeler",
-      "#momenti",
-      "#attesa",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-25T16:09:09.653977+00:00"
-  },
-  {
-    "quote": "Non sono le cose che ci accadono a turbarci, ma il nostro giudizio su di esse.",
-    "author": "Epitteto",
-    "category": "filosofia",
-    "caption": "Il fatto è neutro. È il modo in cui lo racconti a decidere come stai.",
-    "hashtags": [
-      "#filosofia",
-      "#epitteto",
-      "#stoicismo",
-      "#mente",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-25T16:09:09.653985+00:00"
-  },
-  {
-    "quote": "Non possiamo risolvere i problemi con lo stesso modo di pensare che li ha creati.",
-    "author": "Albert Einstein",
-    "category": "cambiamento",
-    "caption": "A volte la soluzione non è fare di più: è pensare diversamente.",
-    "hashtags": [
-      "#cambiamento",
-      "#einstein",
-      "#pensiero",
-      "#soluzioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-25T16:09:09.653991+00:00"
-  },
-  {
-    "quote": "La morte non è nulla, ma vivere senza aver lasciato un segno è peggio.",
-    "author": "Ernesto Che Guevara",
-    "category": "vita",
-    "caption": "Non conta quanto vivi, ma quanto lasci di te negli altri.",
-    "hashtags": [
-      "#vita",
-      "#lasciareilsegno",
-      "#coraggio",
-      "#cheguevara",
-      "#passione",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543586+00:00"
-  },
-  {
-    "quote": "Non piangere perché è finita, sorridi perché è accaduto.",
-    "author": "Gabriel García Márquez",
-    "category": "nostalgia",
-    "caption": "La nostalgia non è rimpianto: è gratitudine per ciò che abbiamo vissuto.",
-    "hashtags": [
-      "#nostalgia",
-      "#gratitudine",
-      "#ricordi",
-      "#marquez",
-      "#sorridi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543618+00:00"
-  },
-  {
-    "quote": "Il successo è andare da un fallimento all'altro senza perdere l'entusiasmo.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "Il segreto non è non sbagliare, è non smettere di crederci.",
-    "hashtags": [
-      "#successo",
-      "#fallimento",
-      "#entusiasmo",
-      "#churchill",
-      "#resilienza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543628+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più forte di un cuore che ha imparato a battere da solo.",
-    "author": "Frida Kahlo",
-    "category": "solitudine",
-    "caption": "Imparare a stare bene da soli è la più grande forma di libertà.",
-    "hashtags": [
-      "#solitudine",
-      "#forza",
-      "#fridakahlo",
-      "#indipendenza",
-      "#cuore",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543632+00:00"
-  },
-  {
-    "quote": "Chi non legge non ha vantaggi su chi non sa leggere.",
-    "author": "Mark Twain",
-    "category": "consapevolezza",
-    "caption": "Leggere è la palestra silenziosa della mente.",
-    "hashtags": [
-      "#lettura",
-      "#consapevolezza",
-      "#marktwain",
-      "#libri",
-      "#crescita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543637+00:00"
-  },
-  {
-    "quote": "La libertà è sempre la libertà di chi pensa diversamente.",
-    "author": "Rosa Luxemburg",
-    "category": "libertà",
-    "caption": "La vera libertà si misura da quanto spazio dai a chi non la pensa come te.",
-    "hashtags": [
-      "#libertà",
-      "#pensiero",
-      "#rosaluxemburg",
-      "#diritti",
-      "#rispetto",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543647+00:00"
-  },
-  {
-    "quote": "Non c'è amicizia senza fiducia, e non c'è fiducia senza verità.",
-    "author": "Cicerone",
-    "category": "amicizia",
-    "caption": "Un amico vero è quello a cui puoi dire la verità senza paura.",
-    "hashtags": [
-      "#amicizia",
-      "#fiducia",
-      "#verità",
-      "#cicero",
-      "#relazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543651+00:00"
-  },
-  {
-    "quote": "Il tempo è il più saggio dei consiglieri.",
-    "author": "Plutarco",
-    "category": "tempo",
-    "caption": "Quando non sai cosa fare, aspetta: il tempo ha sempre una risposta.",
-    "hashtags": [
-      "#tempo",
-      "#saggezza",
-      "#plutarco",
-      "#attesa",
-      "#consiglio",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543657+00:00"
-  },
-  {
-    "quote": "Un leader è un venditore di speranza.",
-    "author": "Napoleone Bonaparte",
-    "category": "leadership",
-    "caption": "Guidare significa dare agli altri una direzione e una speranza.",
-    "hashtags": [
-      "#leadership",
-      "#speranza",
-      "#napoleone",
-      "#guida",
-      "#visione",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543663+00:00"
-  },
-  {
-    "quote": "La speranza è il sogno di chi è sveglio.",
-    "author": "Aristotele",
-    "category": "sogni",
-    "caption": "Sognare a occhi aperti è il primo passo per cambiare la realtà.",
-    "hashtags": [
-      "#sogni",
-      "#speranza",
-      "#aristotele",
-      "#visione",
-      "#futuro",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543668+00:00"
-  },
-  {
-    "quote": "La vera scoperta non consiste nel trovare nuovi territori, ma nel vedere con occhi nuovi.",
-    "author": "Marcel Proust",
-    "category": "consapevolezza",
-    "caption": "Non serve andare lontano: basta imparare a guardare diversamente.",
-    "hashtags": [
-      "#consapevolezza",
-      "#sguardo",
-      "#proust",
-      "#scoperta",
-      "#crescita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-26T02:34:29.543672+00:00"
-  },
-  {
     "quote": "Il perdono è la fragranza che la viola sprigiona sul tallone che l'ha calpestata.",
     "author": "Mark Twain",
     "category": "perdono",
@@ -7328,5 +7065,275 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-24T15:04:04.640486+00:00"
+  },
+  {
+    "quote": "Coraggio è resistere alla paura, dominare la paura, non l'assenza di paura.",
+    "author": "Mark Twain",
+    "category": "coraggio",
+    "caption": "Il coraggio non è non tremare: è tremare e andare lo stesso.",
+    "hashtags": [
+      "#citazioni",
+      "#coraggio",
+      "#paura",
+      "#marktwain",
+      "#forza",
+      "#resilienza"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280305+00:00"
+  },
+  {
+    "quote": "Non è la specie più forte a sopravvivere, né la più intelligente, ma quella più reattiva al cambiamento.",
+    "author": "Charles Darwin",
+    "category": "cambiamento",
+    "caption": "Adattarsi non è arrendersi: è la forma più intelligente di coraggio.",
+    "hashtags": [
+      "#citazioni",
+      "#cambiamento",
+      "#darwin",
+      "#adattarsi",
+      "#evoluzione",
+      "#crescita"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280329+00:00"
+  },
+  {
+    "quote": "La resilienza è la capacità di affrontare le avversità, di superarle e di uscirne più forti.",
+    "author": "Boris Cyrulnik",
+    "category": "resilienza",
+    "caption": "Non si tratta di non cadere, ma di come ci si rialza.",
+    "hashtags": [
+      "#citazioni",
+      "#resilienza",
+      "#avversità",
+      "#rinascita",
+      "#forza",
+      "#cyrulnik"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280335+00:00"
+  },
+  {
+    "quote": "Un amico è qualcuno che sa tutto di te e ti ama lo stesso.",
+    "author": "Elbert Hubbard",
+    "category": "amicizia",
+    "caption": "L'amicizia vera non chiede di essere perfetti.",
+    "hashtags": [
+      "#citazioni",
+      "#amicizia",
+      "#amici",
+      "#fiducia",
+      "#legami",
+      "#hubbard"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280342+00:00"
+  },
+  {
+    "quote": "La famiglia è dove la vita comincia e l'amore non finisce mai.",
+    "author": "Anonimo",
+    "category": "famiglia",
+    "caption": "Un posto che non si sceglie, ma che ci sceglie ogni giorno.",
+    "hashtags": [
+      "#citazioni",
+      "#famiglia",
+      "#amore",
+      "#casa",
+      "#radici",
+      "#legami"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280345+00:00"
+  },
+  {
+    "quote": "La solitudine è la condizione di chi non ha nessuno con cui parlare, ma anche di chi ha molto da dire a se stesso.",
+    "author": "Anonimo",
+    "category": "solitudine",
+    "caption": "A volte la stanza vuota è la più affollata di domande.",
+    "hashtags": [
+      "#citazioni",
+      "#solitudine",
+      "#silenzio",
+      "#introspezione",
+      "#starebene",
+      "#sestessi"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280348+00:00"
+  },
+  {
+    "quote": "Il tempo è il bene più prezioso che possiamo spendere.",
+    "author": "Teofrasto",
+    "category": "tempo",
+    "caption": "Non si conserva: si sceglie come spenderlo.",
+    "hashtags": [
+      "#citazioni",
+      "#tempo",
+      "#teofrasto",
+      "#presente",
+      "#scelte",
+      "#vita"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280351+00:00"
+  },
+  {
+    "quote": "I sogni sono illustrazioni di un libro che dobbiamo ancora scrivere.",
+    "author": "Anonimo",
+    "category": "sogni",
+    "caption": "Li portiamo dentro come bozze di una storia che aspetta noi.",
+    "hashtags": [
+      "#citazioni",
+      "#sogni",
+      "#futuro",
+      "#immaginazione",
+      "#desideri",
+      "#scrivere"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280355+00:00"
+  },
+  {
+    "quote": "L'ambizione è la passione che muove le grandi imprese.",
+    "author": "Anonimo",
+    "category": "ambizione",
+    "caption": "Non è vanità: è il motore che accende le giornate.",
+    "hashtags": [
+      "#citazioni",
+      "#ambizione",
+      "#obiettivi",
+      "#motivazione",
+      "#imprese",
+      "#futuro"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280358+00:00"
+  },
+  {
+    "quote": "Scegli un lavoro che ami e non dovrai lavorare neanche un giorno della tua vita.",
+    "author": "Confucio",
+    "category": "lavoro",
+    "caption": "Quando il lavoro somiglia a una vocazione, le ore cambiano sapore.",
+    "hashtags": [
+      "#citazioni",
+      "#lavoro",
+      "#confucio",
+      "#passione",
+      "#vocazione",
+      "#carriera"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280361+00:00"
+  },
+  {
+    "quote": "Il leader è colui che sa servire prima di comandare.",
+    "author": "Anonimo",
+    "category": "leadership",
+    "caption": "Guidare significa farsi carico, non mettersi in cima.",
+    "hashtags": [
+      "#citazioni",
+      "#leadership",
+      "#servire",
+      "#squadra",
+      "#esempio",
+      "#guidare"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280364+00:00"
+  },
+  {
+    "quote": "Il viaggio è la cosa che compri e che ti arricchisce.",
+    "author": "Anonimo",
+    "category": "viaggio",
+    "caption": "Si torna sempre diversi da come si è partiti.",
+    "hashtags": [
+      "#citazioni",
+      "#viaggio",
+      "#partire",
+      "#orizzonti",
+      "#scoperta",
+      "#cammino"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280369+00:00"
+  },
+  {
+    "quote": "La nostalgia è il dolore del ritorno impossibile.",
+    "author": "Anonimo",
+    "category": "nostalgia",
+    "caption": "Non è il passato che manca: è il modo in cui lo ricordiamo.",
+    "hashtags": [
+      "#citazioni",
+      "#nostalgia",
+      "#ricordi",
+      "#passato",
+      "#memoria",
+      "#emozioni"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280372+00:00"
+  },
+  {
+    "quote": "La speranza è l'ultima dea: resta anche quando tutto il resto è fuggito.",
+    "author": "Anonimo",
+    "category": "speranza",
+    "caption": "Anche nel vaso chiuso, resta sempre qualcosa.",
+    "hashtags": [
+      "#citazioni",
+      "#speranza",
+      "#fiducia",
+      "#futuro",
+      "#resistere",
+      "#luce"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280374+00:00"
+  },
+  {
+    "quote": "La delusione è la figlia delle aspettative troppo alte.",
+    "author": "Anonimo",
+    "category": "delusione",
+    "caption": "A volte è il nostro sguardo a cadere, non le persone.",
+    "hashtags": [
+      "#citazioni",
+      "#delusione",
+      "#aspettative",
+      "#realtà",
+      "#crescere",
+      "#verità"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280378+00:00"
+  },
+  {
+    "quote": "L'ironia è la forma più elegante di distanza.",
+    "author": "Anonimo",
+    "category": "ironia",
+    "caption": "Ridere di sé è un modo raffinato di prendersi sul serio.",
+    "hashtags": [
+      "#citazioni",
+      "#ironia",
+      "#umorismo",
+      "#eleganza",
+      "#autoironia",
+      "#saggezza"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280381+00:00"
+  },
+  {
+    "quote": "Filosofia è meravigliarsi che le cose siano come sono.",
+    "author": "Ludwig Wittgenstein",
+    "category": "filosofia",
+    "caption": "Fare domande è già un modo di stare al mondo.",
+    "hashtags": [
+      "#citazioni",
+      "#filosofia",
+      "#wittgenstein",
+      "#domande",
+      "#meraviglia",
+      "#pensiero"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280384+00:00"
+  },
+  {
+    "quote": "Il minimalismo è l'intenzionalità di ciò che conta.",
+    "author": "Anonimo",
+    "category": "minimalismo",
+    "caption": "Togliere il superfluo per far spazio a ciò che pesa davvero.",
+    "hashtags": [
+      "#citazioni",
+      "#minimalismo",
+      "#essenziale",
+      "#semplicità",
+      "#spazio",
+      "#scelte"
+    ],
+    "generated_at": "2026-10-25T02:19:45.280387+00:00"
   }
 ]

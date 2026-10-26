@@ -1,275 +1,5 @@
 [
   {
-    "quote": "La speranza è una buona colazione ma una cattiva cena.",
-    "author": "Francis Bacon",
-    "category": "speranza",
-    "caption": "Sperare va bene, ma poi bisogna anche agire.",
-    "hashtags": [
-      "#speranza",
-      "#francisbacon",
-      "#azione",
-      "#equilibrio",
-      "#vita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705613+00:00"
-  },
-  {
-    "quote": "La musica è l'arte più potente perché parla direttamente all'anima.",
-    "author": "Ludwig van Beethoven",
-    "category": "pace",
-    "caption": "Ci sono emozioni che solo la musica sa dire.",
-    "hashtags": [
-      "#musica",
-      "#beethoven",
-      "#pace",
-      "#emozioni",
-      "#anima",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705617+00:00"
-  },
-  {
-    "quote": "Il genio è pazienza.",
-    "author": "Isaac Newton",
-    "category": "pazienza",
-    "caption": "Anche i grandi risultati nascono da attese lunghe e silenziose.",
-    "hashtags": [
-      "#pazienza",
-      "#newton",
-      "#genio",
-      "#costanza",
-      "#scienza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705620+00:00"
-  },
-  {
-    "quote": "La lettura è un atto di resistenza.",
-    "author": "Primo Levi",
-    "category": "consapevolezza",
-    "caption": "Leggere è un modo per non lasciarsi raccontare il mondo da altri.",
-    "hashtags": [
-      "#lettura",
-      "#primolevi",
-      "#resilienza",
-      "#pensiero",
-      "#libri",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705624+00:00"
-  },
-  {
-    "quote": "Non si può fare la rivoluzione con i guanti di velluto.",
-    "author": "Che Guevara",
-    "category": "cambiamento",
-    "caption": "I grandi cambiamenti richiedono coraggio, non comodità.",
-    "hashtags": [
-      "#cambiamento",
-      "#coraggio",
-      "#rivoluzione",
-      "#azione",
-      "#storia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705626+00:00"
-  },
-  {
-    "quote": "La vera eleganza è la semplicità.",
-    "author": "Coco Chanel",
-    "category": "minimalismo",
-    "caption": "Meno cose, più significato: la bellezza sta nell'essenziale.",
-    "hashtags": [
-      "#minimalismo",
-      "#cocochanel",
-      "#semplicità",
-      "#eleganza",
-      "#stile",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705629+00:00"
-  },
-  {
-    "quote": "Un popolo che ignora il proprio passato non saprà mai nulla del proprio presente.",
-    "author": "Primo Levi",
-    "category": "nostalgia",
-    "caption": "Ricordare non è rimpiangere: è capire da dove veniamo.",
-    "hashtags": [
-      "#nostalgia",
-      "#primolevi",
-      "#memoria",
-      "#passato",
-      "#identità",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705633+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più pratico di una buona teoria.",
-    "author": "Kurt Lewin",
-    "category": "lavoro",
-    "caption": "Le idee buone, se ben pensate, si trasformano in azioni concrete.",
-    "hashtags": [
-      "#lavoro",
-      "#teoria",
-      "#pratica",
-      "#psicologia",
-      "#efficacia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705638+00:00"
-  },
-  {
-    "quote": "Chi non sa ascoltare non sa nemmeno comandare.",
-    "author": "Publilio Siro",
-    "category": "leadership",
-    "caption": "Guidare significa prima di tutto ascoltare.",
-    "hashtags": [
-      "#leadership",
-      "#ascolto",
-      "#guidare",
-      "#saggezza",
-      "#lavoro",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705641+00:00"
-  },
-  {
-    "quote": "L'amicizia è un lusso che pochi possono permettersi.",
-    "author": "Marlene Dietrich",
-    "category": "amicizia",
-    "caption": "Gli amici veri sono rari: coltivali come tesori.",
-    "hashtags": [
-      "#amicizia",
-      "#marlenedietrich",
-      "#amici",
-      "#relazioni",
-      "#fiducia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705644+00:00"
-  },
-  {
-    "quote": "Il fallimento è la condizione stessa del successo.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Cadere non è la fine: è il modo in cui impari a rialzarti meglio.",
-    "hashtags": [
-      "#fallimento",
-      "#henryford",
-      "#successo",
-      "#ripartire",
-      "#resilienza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705650+00:00"
-  },
-  {
-    "quote": "La maturità è la capacità di vivere con l'incertezza.",
-    "author": "John Keats",
-    "category": "maturità",
-    "caption": "Diventare grandi significa imparare a stare nelle domande, non solo nelle risposte.",
-    "hashtags": [
-      "#maturità",
-      "#keats",
-      "#incertezza",
-      "#crescita",
-      "#consapevolezza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-09-28T02:36:10.705654+00:00"
-  },
-  {
-    "quote": "La consapevolezza è l'inizio di ogni cambiamento.",
-    "author": "Sconosciuto",
-    "category": "consapevolezza",
-    "caption": "Non puoi trasformare ciò che non hai ancora visto.",
-    "hashtags": [
-      "#consapevolezza",
-      "#cambiamento",
-      "#crescita",
-      "#ascoltarsi",
-      "#verità",
-      "#cammino"
-    ],
-    "generated_at": "2026-09-28T18:57:30.142004+00:00"
-  },
-  {
-    "quote": "La semplicità è la massima sofisticazione.",
-    "author": "Leonardo da Vinci",
-    "category": "minimalismo",
-    "caption": "La vera eleganza non ha bisogno di eccessi.",
-    "hashtags": [
-      "#minimalismo",
-      "#semplicità",
-      "#eleganza",
-      "#leonardodavinci",
-      "#stile",
-      "#essenziale"
-    ],
-    "generated_at": "2026-09-29T03:18:46.753977+00:00"
-  },
-  {
-    "quote": "La cosa più importante è non smettere mai di fare domande.",
-    "author": "Albert Einstein",
-    "category": "consapevolezza",
-    "caption": "La curiosità è il motore della conoscenza.",
-    "hashtags": [
-      "#consapevolezza",
-      "#curiosità",
-      "#einstein",
-      "#domande",
-      "#conoscenza",
-      "#crescita"
-    ],
-    "generated_at": "2026-09-29T03:18:46.753999+00:00"
-  },
-  {
-    "quote": "La libertà non è fare ciò che vogliamo, ma volere ciò che facciamo.",
-    "author": "Jean-Paul Sartre",
-    "category": "libertà",
-    "caption": "Essere liberi significa scegliere con consapevolezza.",
-    "hashtags": [
-      "#libertà",
-      "#sartre",
-      "#scelta",
-      "#consapevolezza",
-      "#filosofia",
-      "#responsabilità"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754010+00:00"
-  },
-  {
-    "quote": "La pazienza è l'arte di sperare.",
-    "author": "Luc de Clapiers de Vauvenargues",
-    "category": "pazienza",
-    "caption": "Saper aspettare è già un passo verso la meta.",
-    "hashtags": [
-      "#pazienza",
-      "#speranza",
-      "#vauvenargues",
-      "#attesa",
-      "#fiducia",
-      "#tempo"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754020+00:00"
-  },
-  {
-    "quote": "La famiglia è il rifugio nella tempesta e il sole quando splende.",
-    "author": "Anonimo",
-    "category": "famiglia",
-    "caption": "La famiglia è la casa dell'anima.",
-    "hashtags": [
-      "#famiglia",
-      "#rifugio",
-      "#amore",
-      "#casa",
-      "#unione",
-      "#sostegno"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754026+00:00"
-  },
-  {
     "quote": "La solitudine è la culla del pensiero.",
     "author": "Anonimo",
     "category": "solitudine",
@@ -7335,5 +7065,275 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-26T02:20:06.087333+00:00"
+  },
+  {
+    "quote": "La vita è quello che succede mentre sei occupato a fare altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "A volte i piani migliori sono quelli che non avevi fatto.",
+    "hashtags": [
+      "#vita",
+      "#citazioni",
+      "#johnlennon",
+      "#imprevisti",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640572+00:00"
+  },
+  {
+    "quote": "Il successo è la somma di piccoli sforzi ripetuti giorno dopo giorno.",
+    "author": "Robert Collier",
+    "category": "successo",
+    "caption": "Nessun colpo di fortuna: solo costanza.",
+    "hashtags": [
+      "#successo",
+      "#citazioni",
+      "#costanza",
+      "#piccolipassi",
+      "#obiettivi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640597+00:00"
+  },
+  {
+    "quote": "Non si può fermare il vento, ma si possono orientare le vele.",
+    "author": "Proverbio",
+    "category": "resilienza",
+    "caption": "Non controlli tutto, ma puoi scegliere come reagire.",
+    "hashtags": [
+      "#resilienza",
+      "#citazioni",
+      "#proverbi",
+      "#vela",
+      "#atteggiamento",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640604+00:00"
+  },
+  {
+    "quote": "Chi non ha mai sbagliato non ha mai provato niente di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "L'errore è il pedaggio del tentativo.",
+    "hashtags": [
+      "#fallimento",
+      "#citazioni",
+      "#einstein",
+      "#errori",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640610+00:00"
+  },
+  {
+    "quote": "Conosci te stesso.",
+    "author": "Socrate",
+    "category": "consapevolezza",
+    "caption": "Tutto parte da lì.",
+    "hashtags": [
+      "#consapevolezza",
+      "#citazioni",
+      "#socrate",
+      "#conoscersi",
+      "#filosofia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640617+00:00"
+  },
+  {
+    "quote": "La gioia è il segno più sicuro della presenza di Dio in un uomo.",
+    "author": "Pierre Teilhard de Chardin",
+    "category": "felicità",
+    "caption": "La felicità si vede, prima ancora che si racconti.",
+    "hashtags": [
+      "#felicità",
+      "#citazioni",
+      "#gioia",
+      "#teiharddechardin",
+      "#anima",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640624+00:00"
+  },
+  {
+    "quote": "La gratitudine è la memoria del cuore.",
+    "author": "Jean-Baptiste Massieu",
+    "category": "gratitudine",
+    "caption": "Ricordarsi del bene ricevuto: basta questo.",
+    "hashtags": [
+      "#gratitudine",
+      "#citazioni",
+      "#memoria",
+      "#cuore",
+      "#ringraziare",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640629+00:00"
+  },
+  {
+    "quote": "Cammina con due sacchi: uno per dare, uno per ricevere.",
+    "author": "Proverbio ebraico",
+    "category": "amicizia",
+    "caption": "Nessuna relazione regge in una sola direzione.",
+    "hashtags": [
+      "#amicizia",
+      "#citazioni",
+      "#proverbi",
+      "#dare",
+      "#ricevere",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640634+00:00"
+  },
+  {
+    "quote": "La disciplina è la scelta tra ciò che vuoi adesso e ciò che vuoi di più.",
+    "author": "Augusta F. Kantra",
+    "category": "disciplina",
+    "caption": "Ogni rinuncia è un investimento.",
+    "hashtags": [
+      "#disciplina",
+      "#citazioni",
+      "#scelte",
+      "#obiettivi",
+      "#costanza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640639+00:00"
+  },
+  {
+    "quote": "Non si può scoprire nuovi oceani se non si ha il coraggio di perdere di vista la riva.",
+    "author": "André Gide",
+    "category": "coraggio",
+    "caption": "Ogni partenza è una piccola fede.",
+    "hashtags": [
+      "#coraggio",
+      "#citazioni",
+      "#andregide",
+      "#oceani",
+      "#partenze",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640644+00:00"
+  },
+  {
+    "quote": "La libertà è sempre la libertà di chi la pensa diversamente.",
+    "author": "Rosa Luxemburg",
+    "category": "libertà",
+    "caption": "La vera prova è tollerare chi non ci somiglia.",
+    "hashtags": [
+      "#libertà",
+      "#citazioni",
+      "#rosaluxemburg",
+      "#diversità",
+      "#diritti",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640649+00:00"
+  },
+  {
+    "quote": "Non ho mai incontrato un uomo che sapesse sopportare la prosperità.",
+    "author": "Seneca",
+    "category": "maturità",
+    "caption": "Reggere il successo è più difficile che reggere la sconfitta.",
+    "hashtags": [
+      "#maturità",
+      "#citazioni",
+      "#seneca",
+      "#prosperità",
+      "#equilibrio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640656+00:00"
+  },
+  {
+    "quote": "L'uomo che non ha mai perso tempo non può capire il valore del tempo.",
+    "author": "Proverbio cinese",
+    "category": "tempo",
+    "caption": "A volte bisogna sprecarlo per capirlo.",
+    "hashtags": [
+      "#tempo",
+      "#citazioni",
+      "#proverbi",
+      "#valore",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640661+00:00"
+  },
+  {
+    "quote": "Chi non sa piangere con tutto il cuore non sa nemmeno ridere.",
+    "author": "Golda Meir",
+    "category": "ironia",
+    "caption": "Le lacrime e le risate hanno la stessa fonte.",
+    "hashtags": [
+      "#ironia",
+      "#citazioni",
+      "#goldameir",
+      "#ridere",
+      "#emozioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640666+00:00"
+  },
+  {
+    "quote": "La solitudine è la casa del forte e la prigione del debole.",
+    "author": "Proverbio",
+    "category": "solitudine",
+    "caption": "Dipende da cosa ci fai dentro.",
+    "hashtags": [
+      "#solitudine",
+      "#citazioni",
+      "#proverbi",
+      "#forza",
+      "#silenzio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640671+00:00"
+  },
+  {
+    "quote": "La speranza è il sogno di chi è sveglio.",
+    "author": "Aristotele",
+    "category": "speranza",
+    "caption": "Sognare a occhi aperti è una forma di lucidità.",
+    "hashtags": [
+      "#speranza",
+      "#citazioni",
+      "#aristotele",
+      "#sogni",
+      "#futuro",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640678+00:00"
+  },
+  {
+    "quote": "Un uomo che non ha mai commesso errori non ha mai provato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "crescita personale",
+    "caption": "Sbagliare è il prezzo di imparare.",
+    "hashtags": [
+      "#crescitapersonale",
+      "#citazioni",
+      "#einstein",
+      "#errori",
+      "#imparare",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640683+00:00"
+  },
+  {
+    "quote": "La bellezza non è nel viso, è nella luce che porti.",
+    "author": "Proverbio",
+    "category": "autostima",
+    "caption": "Non è questione di specchio.",
+    "hashtags": [
+      "#autostima",
+      "#citazioni",
+      "#bellezza",
+      "#luce",
+      "#proverbi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-26T17:55:01.640688+00:00"
   }
 ]

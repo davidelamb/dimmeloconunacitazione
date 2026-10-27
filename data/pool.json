@@ -1,280 +1,5 @@
 [
   {
-    "quote": "La solitudine è la culla del pensiero.",
-    "author": "Anonimo",
-    "category": "solitudine",
-    "caption": "A volte stare soli è il modo migliore per ritrovarsi.",
-    "hashtags": [
-      "#solitudine",
-      "#pensiero",
-      "#introspezione",
-      "#silenzio",
-      "#crescita",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754033+00:00"
-  },
-  {
-    "quote": "Il tempo è l'immagine mobile dell'eternità.",
-    "author": "Platone",
-    "category": "tempo",
-    "caption": "Il tempo ci sfugge, ma l'eternità ci attende.",
-    "hashtags": [
-      "#tempo",
-      "#eternità",
-      "#platone",
-      "#filosofia",
-      "#attimo",
-      "#vita"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754038+00:00"
-  },
-  {
-    "quote": "L'amicizia è il profumo dell'anima.",
-    "author": "Anonimo",
-    "category": "amicizia",
-    "caption": "Un amico è un dono che si sente nell'aria.",
-    "hashtags": [
-      "#amicizia",
-      "#anima",
-      "#dono",
-      "#condivisione",
-      "#fiducia",
-      "#legame"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754046+00:00"
-  },
-  {
-    "quote": "La felicità è quando ciò che pensi, dici e fai sono in armonia.",
-    "author": "Mahatma Gandhi",
-    "category": "felicità",
-    "caption": "La coerenza è la strada maestra per la gioia.",
-    "hashtags": [
-      "#felicità",
-      "#gandhi",
-      "#coerenza",
-      "#armonia",
-      "#pace",
-      "#gioia"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754051+00:00"
-  },
-  {
-    "quote": "Il fallimento è l'opportunità di ricominciare con più intelligenza.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Cadere non è la fine, è l'inizio di una nuova strategia.",
-    "hashtags": [
-      "#fallimento",
-      "#henryford",
-      "#ripartire",
-      "#lezione",
-      "#successo",
-      "#resilienza"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754056+00:00"
-  },
-  {
-    "quote": "Il cambiamento è la legge della vita.",
-    "author": "John F. Kennedy",
-    "category": "cambiamento",
-    "caption": "Chi si adatta al cambiamento, cresce.",
-    "hashtags": [
-      "#cambiamento",
-      "#kennedy",
-      "#vita",
-      "#adattarsi",
-      "#crescita",
-      "#futuro"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754062+00:00"
-  },
-  {
-    "quote": "La crescita personale è un viaggio, non una destinazione.",
-    "author": "Anonimo",
-    "category": "crescita personale",
-    "caption": "Ogni giorno è un'occasione per diventare migliori.",
-    "hashtags": [
-      "#crescita",
-      "#viaggio",
-      "#miglioramento",
-      "#consapevolezza",
-      "#evoluzione",
-      "#vita"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754067+00:00"
-  },
-  {
-    "quote": "L'autostima è la reputazione che hai con te stesso.",
-    "author": "Nathaniel Branden",
-    "category": "autostima",
-    "caption": "Coltiva il rispetto per te stesso, giorno dopo giorno.",
-    "hashtags": [
-      "#autostima",
-      "#branden",
-      "#rispetto",
-      "#sé",
-      "#fiducia",
-      "#valore"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754072+00:00"
-  },
-  {
-    "quote": "L'ambizione è il motore del successo, ma la perseveranza è il carburante.",
-    "author": "Anonimo",
-    "category": "ambizione",
-    "caption": "Sogna in grande, ma non mollare mai.",
-    "hashtags": [
-      "#ambizione",
-      "#successo",
-      "#perseveranza",
-      "#motivazione",
-      "#obiettivi",
-      "#determinazione"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754077+00:00"
-  },
-  {
-    "quote": "La pace è la virtù della civiltà.",
-    "author": "Anonimo",
-    "category": "pace",
-    "caption": "Senza pace interiore, nessuna pace esteriore è possibile.",
-    "hashtags": [
-      "#pace",
-      "#interiore",
-      "#armonia",
-      "#serenità",
-      "#equilibrio",
-      "#vita"
-    ],
-    "generated_at": "2026-09-29T03:18:46.754091+00:00"
-  },
-  {
-    "quote": "Non c'è vento favorevole per chi non sa dove andare.",
-    "author": "Lucio Anneo Seneca",
-    "category": "scelte",
-    "caption": "Prima di remare, decidi la rotta.",
-    "hashtags": [
-      "#seneca",
-      "#scelte",
-      "#direzione",
-      "#stoicismo",
-      "#rotta",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-09-29T17:16:32.482303+00:00"
-  },
-  {
-    "quote": "Siamo quello che facciamo con ciò che abbiamo.",
-    "author": "Jean-Paul Sartre",
-    "category": "consapevolezza",
-    "caption": "Non conta cosa hai, ma cosa ne fai.",
-    "hashtags": [
-      "#sartre",
-      "#consapevolezza",
-      "#esistenzialismo",
-      "#azioni",
-      "#responsabilita"
-    ],
-    "generated_at": "2026-09-29T17:16:32.482329+00:00"
-  },
-  {
-    "quote": "La vecchiaia non è altro che l'ultima scena del dramma.",
-    "author": "Cicerone",
-    "category": "maturità",
-    "caption": "Anche l'ultimo atto merita dignità.",
-    "hashtags": [
-      "#cicerone",
-      "#maturita",
-      "#vecchiaia",
-      "#saggezza",
-      "#vita"
-    ],
-    "generated_at": "2026-09-29T17:16:32.482339+00:00"
-  },
-  {
-    "quote": "Non esiste amicizia senza fiducia.",
-    "author": "Marco Tullio Cicerone",
-    "category": "amicizia",
-    "caption": "La fiducia è il collante di ogni legame.",
-    "hashtags": [
-      "#amicizia",
-      "#fiducia",
-      "#cicerone",
-      "#legami",
-      "#relazioni"
-    ],
-    "generated_at": "2026-09-29T17:16:32.482344+00:00"
-  },
-  {
-    "quote": "Il sonno della ragione genera mostri.",
-    "author": "Francisco Goya",
-    "category": "consapevolezza",
-    "caption": "Quando smetti di pensare, iniziano gli incubi.",
-    "hashtags": [
-      "#goya",
-      "#ragione",
-      "#consapevolezza",
-      "#arte",
-      "#pensiero"
-    ],
-    "generated_at": "2026-09-29T17:16:32.482351+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più forte di un cuore gentile.",
-    "author": "Anonimo",
-    "category": "forza",
-    "caption": "La gentilezza è una forma di potenza.",
-    "hashtags": [
-      "#gentilezza",
-      "#forza",
-      "#cuore",
-      "#umanita"
-    ],
-    "generated_at": "2026-09-29T17:16:32.482356+00:00"
-  },
-  {
-    "quote": "Il coraggio non è l'assenza di paura, ma il trionfo sulla paura.",
-    "author": "Nelson Mandela",
-    "category": "coraggio",
-    "caption": "La paura c'è, ma tu vai avanti.",
-    "hashtags": [
-      "#coraggio",
-      "#mandela",
-      "#paura",
-      "#forza",
-      "#determinazione"
-    ],
-    "generated_at": "2026-09-29T17:16:32.482365+00:00"
-  },
-  {
-    "quote": "La disciplina è la madre del successo.",
-    "author": "Anonimo",
-    "category": "disciplina",
-    "caption": "Senza regole non si arriva lontano.",
-    "hashtags": [
-      "#disciplina",
-      "#successo",
-      "#costanza",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-09-29T17:16:32.482372+00:00"
-  },
-  {
-    "quote": "Chi non ha mai fallito non ha mai osato.",
-    "author": "Anonimo",
-    "category": "fallimento",
-    "caption": "Sbagliare è il prezzo di provarci.",
-    "hashtags": [
-      "#fallimento",
-      "#coraggio",
-      "#osare",
-      "#errori",
-      "#crescita"
-    ],
-    "generated_at": "2026-09-29T17:16:32.482376+00:00"
-  },
-  {
     "quote": "L'ambizione senza azione è solo un sogno.",
     "author": "Anonimo",
     "category": "ambizione",
@@ -7335,5 +7060,290 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-26T17:55:01.640688+00:00"
+  },
+  {
+    "quote": "Non c'è nulla da temere nella vita, c'è solo da capire.",
+    "author": "Marie Curie",
+    "category": "coraggio",
+    "caption": "La paura spesso è solo ignoranza travestita. Capire è già un passo avanti.",
+    "hashtags": [
+      "#coraggio",
+      "#conoscenza",
+      "#paura",
+      "#crescita",
+      "#citazioni",
+      "#mariecurie"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841389+00:00"
+  },
+  {
+    "quote": "Ho imparato che il coraggio non è l'assenza della paura, ma il trionfo su di essa.",
+    "author": "Nelson Mandela",
+    "category": "forza",
+    "caption": "Aver paura è umano. Andare avanti lo stesso è una scelta.",
+    "hashtags": [
+      "#forza",
+      "#coraggio",
+      "#mandela",
+      "#paure",
+      "#citazioni",
+      "#resilienza"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841423+00:00"
+  },
+  {
+    "quote": "Dobbiamo essere il cambiamento che desideriamo vedere nel mondo.",
+    "author": "Mahatma Gandhi",
+    "category": "cambiamento",
+    "caption": "Nessuna attesa: il mondo cambia quando iniziamo noi, da qui, da adesso.",
+    "hashtags": [
+      "#cambiamento",
+      "#gandhi",
+      "#azione",
+      "#citazioni",
+      "#ispirazione",
+      "#mondo"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841432+00:00"
+  },
+  {
+    "quote": "La misura dell'intelligenza è la capacità di cambiare.",
+    "author": "Albert Einstein",
+    "category": "consapevolezza",
+    "caption": "Rigidità non è coerenza. A volte adattarsi è la mossa più intelligente.",
+    "hashtags": [
+      "#consapevolezza",
+      "#einstein",
+      "#cambiamento",
+      "#intelligenza",
+      "#citazioni",
+      "#flessibilità"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841438+00:00"
+  },
+  {
+    "quote": "Non è la specie più forte che sopravvive, né la più intelligente, ma quella più adattabile al cambiamento.",
+    "author": "Charles Darwin",
+    "category": "resilienza",
+    "caption": "Flessibilità batte forza. Sempre. Anche nella vita di tutti i giorni.",
+    "hashtags": [
+      "#resilienza",
+      "#darwin",
+      "#adattamento",
+      "#citazioni",
+      "#cambiamento",
+      "#natura"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841445+00:00"
+  },
+  {
+    "quote": "La semplicità è la massima sofisticazione.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "Togliere è più difficile che aggiungere. E spesso è la scelta giusta.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#leonardo",
+      "#citazioni",
+      "#essenziale",
+      "#design"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841450+00:00"
+  },
+  {
+    "quote": "Chi ben comincia è a metà dell'opera.",
+    "author": "Orazio",
+    "category": "motivazione",
+    "caption": "L'inizio è la parte più coraggiosa. Il resto è conseguenza.",
+    "hashtags": [
+      "#motivazione",
+      "#iniziare",
+      "#orazio",
+      "#citazioni",
+      "#azione",
+      "#coraggio"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841455+00:00"
+  },
+  {
+    "quote": "Nulla è più forte di un'idea il cui tempo è arrivato.",
+    "author": "Victor Hugo",
+    "category": "successo",
+    "caption": "A volte non è il talento a fare la differenza, ma il momento giusto.",
+    "hashtags": [
+      "#successo",
+      "#idee",
+      "#victorhugo",
+      "#citazioni",
+      "#tempo",
+      "#ispirazione"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841461+00:00"
+  },
+  {
+    "quote": "Amare è dare a qualcuno il potere di distruggerti, e fidarti che non lo farà.",
+    "author": "Neil Gaiman",
+    "category": "relazioni",
+    "caption": "L'amore vero è una scommessa fatta a cuore aperto.",
+    "hashtags": [
+      "#relazioni",
+      "#amore",
+      "#fiducia",
+      "#citazioni",
+      "#gaiman",
+      "#vulnerabilità"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841467+00:00"
+  },
+  {
+    "quote": "La solitudine è la condizione necessaria per fare qualcosa di buono.",
+    "author": "Pablo Picasso",
+    "category": "solitudine",
+    "caption": "Stare soli non è un vuoto: è lo spazio in cui nascono le cose.",
+    "hashtags": [
+      "#solitudine",
+      "#picasso",
+      "#creatività",
+      "#citazioni",
+      "#silenzio",
+      "#arte"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841473+00:00"
+  },
+  {
+    "quote": "Non c'è amico più fedele di un libro.",
+    "author": "Ernest Hemingway",
+    "category": "amicizia",
+    "caption": "Alcuni amici non parlano, ma ti capiscono lo stesso.",
+    "hashtags": [
+      "#amicizia",
+      "#libri",
+      "#hemingway",
+      "#citazioni",
+      "#lettura",
+      "#fedeltà"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841477+00:00"
+  },
+  {
+    "quote": "Non si può insegnare nulla a un uomo: si può solo aiutarlo a trovare ciò che è già dentro di lui.",
+    "author": "Galileo Galilei",
+    "category": "crescita personale",
+    "caption": "Le risposte sono già lì. Serve qualcuno che ti aiuti a vederle.",
+    "hashtags": [
+      "#crescita",
+      "#galileo",
+      "#consapevolezza",
+      "#citazioni",
+      "#insegnamento",
+      "#dentro"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841488+00:00"
+  },
+  {
+    "quote": "L'immaginazione è più importante della conoscenza.",
+    "author": "Albert Einstein",
+    "category": "sogni",
+    "caption": "La conoscenza descrive il mondo com'è. L'immaginazione lo reinventa.",
+    "hashtags": [
+      "#sogni",
+      "#immaginazione",
+      "#einstein",
+      "#citazioni",
+      "#creatività",
+      "#futuro"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841494+00:00"
+  },
+  {
+    "quote": "La vera scoperta non consiste nel trovare nuove terre, ma nel vedere con occhi nuovi.",
+    "author": "Marcel Proust",
+    "category": "viaggio",
+    "caption": "Cambiare sguardo è già un viaggio. Anche restando fermi.",
+    "hashtags": [
+      "#viaggio",
+      "#proust",
+      "#sguardo",
+      "#citazioni",
+      "#scoperta",
+      "#cambiamento"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841499+00:00"
+  },
+  {
+    "quote": "Chi controlla gli altri è potente. Chi controlla se stesso è davvero forte.",
+    "author": "Lao Tzu",
+    "category": "disciplina",
+    "caption": "La disciplina più difficile è quella che nessuno vede.",
+    "hashtags": [
+      "#disciplina",
+      "#laotzu",
+      "#forza",
+      "#citazioni",
+      "#autocontrollo",
+      "#crescita"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841503+00:00"
+  },
+  {
+    "quote": "La cosa più importante è non smettere mai di domandare.",
+    "author": "Albert Einstein",
+    "category": "consapevolezza",
+    "caption": "Le domande giuste valgono più delle risposte facili.",
+    "hashtags": [
+      "#consapevolezza",
+      "#domande",
+      "#einstein",
+      "#citazioni",
+      "#curiosità",
+      "#crescita"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841508+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di permanente, tranne il cambiamento.",
+    "author": "Eraclito",
+    "category": "cambiamento",
+    "caption": "Resistere al cambiamento è l'unica battaglia che si perde sempre.",
+    "hashtags": [
+      "#cambiamento",
+      "#eraclito",
+      "#citazioni",
+      "#filosofia",
+      "#impermanenza",
+      "#vita"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841512+00:00"
+  },
+  {
+    "quote": "Ogni cosa grande è nata da piccoli inizi.",
+    "author": "Esopo",
+    "category": "pazienza",
+    "caption": "I grandi risultati non fanno rumore all'inizio. Crescono, e basta.",
+    "hashtags": [
+      "#pazienza",
+      "#inizi",
+      "#esopo",
+      "#citazioni",
+      "#crescita",
+      "#costanza"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841516+00:00"
+  },
+  {
+    "quote": "Il genio è l'un per cento di ispirazione e il novantanove per cento di traspirazione.",
+    "author": "Thomas Edison",
+    "category": "lavoro",
+    "caption": "Il talento è solo l'inizio. Il resto lo fa il sudore.",
+    "hashtags": [
+      "#lavoro",
+      "#edison",
+      "#impegno",
+      "#citazioni",
+      "#successo",
+      "#genio"
+    ],
+    "generated_at": "2026-10-27T02:55:40.841524+00:00"
   }
 ]

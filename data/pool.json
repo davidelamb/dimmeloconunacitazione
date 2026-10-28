@@ -1,35 +1,5 @@
 [
   {
-    "quote": "Ogni uomo prende i limiti del proprio campo visivo per i limiti del mondo.",
-    "author": "Arthur Schopenhauer",
-    "category": "consapevolezza",
-    "caption": "Il mondo finisce dove finisce il nostro sguardo. Allargalo.",
-    "hashtags": [
-      "#consapevolezza",
-      "#filosofia",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#pensieri",
-      "#riflessioni"
-    ],
-    "generated_at": "2026-10-03T02:55:35.664696+00:00"
-  },
-  {
-    "quote": "La gioventù non è un periodo della vita, è una condizione dello spirito.",
-    "author": "Johann Wolfgang von Goethe",
-    "category": "giovinezza",
-    "caption": "Si può invecchiare senza diventare vecchi.",
-    "hashtags": [
-      "#giovinezza",
-      "#spirito",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#energia",
-      "#vita"
-    ],
-    "generated_at": "2026-10-03T02:55:35.664701+00:00"
-  },
-  {
     "quote": "La vecchiaia è la cosa più inaspettata che possa capitare a un uomo.",
     "author": "Leo Tolstoj",
     "category": "maturità",
@@ -7362,5 +7332,33 @@
       "#consapevolezza"
     ],
     "generated_at": "2026-10-27T17:02:07.516686+00:00"
+  },
+  {
+    "quote": "La vita è quello che succede quando sei occupato a fare altri piani.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Mentre pianifichi tutto, la vita scorre accanto a te. Forse vale la pena alzare lo sguardo.",
+    "hashtags": [
+      "#vita",
+      "#johnlennon",
+      "#citazioni",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-28T03:04:28.076854+00:00"
+  },
+  {
+    "quote": "Il successo è la somma di piccoli sforzi, ripetuti giorno dopo giorno.",
+    "author": "Robert Collier",
+    "category": "motivazione",
+    "caption": "Nessun risultato nasce da un colpo di fortuna: nasce dalla somma di giorni in cui hai scelto di non fermarti.",
+    "hashtags": [
+      "#motivazione",
+      "#successo",
+      "#costanza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-28T03:04:28.076881+00:00"
   }
 ]

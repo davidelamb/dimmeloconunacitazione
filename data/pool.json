@@ -1,61 +1,5 @@
 [
   {
-    "quote": "Ogni scelta è una rinuncia.",
-    "author": "Anonimo",
-    "category": "scelte",
-    "caption": "Scegliere significa lasciare andare qualcosa per qualcos'altro.",
-    "hashtags": [
-      "#scelte",
-      "#rinuncia",
-      "#decisioni",
-      "#vita",
-      "#coraggio"
-    ],
-    "generated_at": "2026-10-06T17:36:35.367658+00:00"
-  },
-  {
-    "quote": "Il destino è ciò che costruiamo con le nostre mani.",
-    "author": "Anonimo",
-    "category": "destino",
-    "caption": "Non esiste un fato già scritto: il futuro lo scriviamo noi.",
-    "hashtags": [
-      "#destino",
-      "#costruire",
-      "#futuro",
-      "#responsabilità",
-      "#vita"
-    ],
-    "generated_at": "2026-10-06T17:36:35.367661+00:00"
-  },
-  {
-    "quote": "La consapevolezza è la luce che illumina il cammino.",
-    "author": "Anonimo",
-    "category": "consapevolezza",
-    "caption": "Solo quando ci vediamo chiaramente possiamo scegliere dove andare.",
-    "hashtags": [
-      "#consapevolezza",
-      "#luce",
-      "#cammino",
-      "#crescita",
-      "#interiore"
-    ],
-    "generated_at": "2026-10-06T17:36:35.367665+00:00"
-  },
-  {
-    "quote": "Perdonare è liberare il cuore dal peso del rancore.",
-    "author": "Anonimo",
-    "category": "perdono",
-    "caption": "Il perdono non è per l'altro, è per te stesso.",
-    "hashtags": [
-      "#perdono",
-      "#libertà",
-      "#cuore",
-      "#rancore",
-      "#pace"
-    ],
-    "generated_at": "2026-10-06T17:36:35.367672+00:00"
-  },
-  {
     "quote": "Le relazioni sono lo specchio della nostra anima.",
     "author": "Anonimo",
     "category": "relazioni",
@@ -7378,5 +7322,65 @@
       "#crescita"
     ],
     "generated_at": "2026-10-29T03:31:03.100668+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte di un cuore che sa amare senza possedere.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "Amare non significa trattenere: è imparare a lasciare libero ciò che rende più belli.",
+    "hashtags": [
+      "#amore",
+      "#citazioni",
+      "#SaintExupéry",
+      "#frasi",
+      "#libertà",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-29T17:46:58.785932+00:00"
+  },
+  {
+    "quote": "La vita non è quella che si è vissuta, ma quella che si ricorda e come la si ricorda.",
+    "author": "Gabriel García Márquez",
+    "category": "vita",
+    "caption": "Forse siamo soprattutto la memoria che scegliamo di custodire.",
+    "hashtags": [
+      "#vita",
+      "#citazioni",
+      "#GarcíaMárquez",
+      "#memoria",
+      "#frasi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-29T17:46:58.785960+00:00"
+  },
+  {
+    "quote": "Il successo è camminare con dignità anche quando nessuno ti guarda.",
+    "author": "Seneca",
+    "category": "successo",
+    "caption": "La vera misura non è l'applauso: è come ti comporti quando il sipario è chiuso.",
+    "hashtags": [
+      "#successo",
+      "#Seneca",
+      "#citazioni",
+      "#dignità",
+      "#frasi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-29T17:46:58.785968+00:00"
+  },
+  {
+    "quote": "Il fallimento è la scuola in cui si impara ciò che i libri non insegnano.",
+    "author": "Henry Ford",
+    "category": "fallimento",
+    "caption": "Sbagliare è un maestro severo, ma spesso è l'unico che ricorderai davvero.",
+    "hashtags": [
+      "#fallimento",
+      "#HenryFord",
+      "#citazioni",
+      "#crescita",
+      "#frasi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-29T17:46:58.785973+00:00"
   }
 ]

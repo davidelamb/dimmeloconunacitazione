@@ -1,120 +1,5 @@
 [
   {
-    "quote": "Le relazioni sono lo specchio della nostra anima.",
-    "author": "Anonimo",
-    "category": "relazioni",
-    "caption": "Come trattiamo gli altri dice molto di come trattiamo noi stessi.",
-    "hashtags": [
-      "#relazioni",
-      "#specchio",
-      "#anima",
-      "#empatia",
-      "#legami"
-    ],
-    "generated_at": "2026-10-06T17:36:35.367676+00:00"
-  },
-  {
-    "quote": "La resilienza è la capacità di fiorire nel deserto.",
-    "author": "Anonimo",
-    "category": "resilienza",
-    "caption": "Anche nelle condizioni più aride, la forza interiore può far nascere qualcosa di bello.",
-    "hashtags": [
-      "#resilienza",
-      "#fiorire",
-      "#deserto",
-      "#forza",
-      "#rinascita"
-    ],
-    "generated_at": "2026-10-06T17:36:35.367680+00:00"
-  },
-  {
-    "quote": "Il fallimento è il maestro che ti insegna a riprovare.",
-    "author": "Anonimo",
-    "category": "fallimento",
-    "caption": "Sbagliare non è la fine, è l'inizio di una nuova consapevolezza.",
-    "hashtags": [
-      "#fallimento",
-      "#riprovare",
-      "#lezione",
-      "#crescita",
-      "#successo"
-    ],
-    "generated_at": "2026-10-06T17:36:35.367683+00:00"
-  },
-  {
-    "quote": "La disciplina è la strada per la libertà.",
-    "author": "Anonimo",
-    "category": "disciplina",
-    "caption": "Solo chi sa darsi delle regole può davvero essere libero.",
-    "hashtags": [
-      "#disciplina",
-      "#libertà",
-      "#regole",
-      "#obiettivi",
-      "#costanza"
-    ],
-    "generated_at": "2026-10-06T17:36:35.367690+00:00"
-  },
-  {
-    "quote": "L'autostima è il coraggio di piacersi.",
-    "author": "Anonimo",
-    "category": "autostima",
-    "caption": "Volersi bene è il primo passo per farsi volere bene dagli altri.",
-    "hashtags": [
-      "#autostima",
-      "#coraggio",
-      "#piacersi",
-      "#amorproprio",
-      "#benessere"
-    ],
-    "generated_at": "2026-10-06T17:36:35.367694+00:00"
-  },
-  {
-    "quote": "L'amore è l'unica cosa che cresce quando la dividiamo.",
-    "author": "Antoine de Saint-Exupéry",
-    "category": "amore",
-    "caption": "Dividere l'amore non lo consuma: lo moltiplica.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#frasiamore",
-      "#dimmeloconunacitazione",
-      "#cuore",
-      "#sentimenti"
-    ],
-    "generated_at": "2026-10-07T03:20:23.041898+00:00"
-  },
-  {
-    "quote": "La vita è davvero semplice, ma noi insistiamo a renderla complicata.",
-    "author": "Confucio",
-    "category": "vita",
-    "caption": "Forse la semplicità è la risposta che continuiamo a ignorare.",
-    "hashtags": [
-      "#vita",
-      "#citazioni",
-      "#semplicità",
-      "#dimmeloconunacitazione",
-      "#filosofia",
-      "#riflessioni"
-    ],
-    "generated_at": "2026-10-07T03:20:23.041928+00:00"
-  },
-  {
-    "quote": "La motivazione ti fa partire, ma è la disciplina che ti porta lontano.",
-    "author": "Jim Rohn",
-    "category": "motivazione",
-    "caption": "Partire è facile. Restare in cammino è l'arte vera.",
-    "hashtags": [
-      "#motivazione",
-      "#citazioni",
-      "#disciplina",
-      "#dimmeloconunacitazione",
-      "#crescita",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-10-07T03:20:23.041936+00:00"
-  },
-  {
     "quote": "Il fallimento è semplicemente l'opportunità di ricominciare con più intelligenza.",
     "author": "Henry Ford",
     "category": "fallimento",
@@ -7382,5 +7267,125 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-29T17:46:58.785973+00:00"
+  },
+  {
+    "quote": "Vivere senza leggere è pericoloso.",
+    "author": "Umberto Eco",
+    "category": "crescita personale",
+    "caption": "Leggere non è un lusso: è una forma di difesa.",
+    "hashtags": [
+      "#lettura",
+      "#crescita",
+      "#citazioni",
+      "#umbertoeco",
+      "#libri",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-31T03:17:47.044245+00:00"
+  },
+  {
+    "quote": "La disciplina è la scelta tra ciò che vuoi ora e ciò che vuoi di più.",
+    "author": "Abraham Lincoln",
+    "category": "disciplina",
+    "caption": "Ogni rinuncia di oggi è un regalo al te stesso di domani.",
+    "hashtags": [
+      "#disciplina",
+      "#motivazione",
+      "#citazioni",
+      "#lincoln",
+      "#obiettivi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-31T03:17:47.044274+00:00"
+  },
+  {
+    "quote": "Non sappiamo quale sia il nostro destino, ma sappiamo che non sarà felice se non lo inseguiamo.",
+    "author": "Simone de Beauvoir",
+    "category": "destino",
+    "caption": "Il destino non arriva: si insegue.",
+    "hashtags": [
+      "#destino",
+      "#scelte",
+      "#citazioni",
+      "#beauvoir",
+      "#libertà",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-31T03:17:47.044281+00:00"
+  },
+  {
+    "quote": "Un uomo che non ha il coraggio di correre rischi non combinerà nulla nella vita.",
+    "author": "Muhammad Ali",
+    "category": "coraggio",
+    "caption": "Rischiare fa paura. Restare fermi, di più.",
+    "hashtags": [
+      "#coraggio",
+      "#rischio",
+      "#citazioni",
+      "#muhammadali",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-31T03:17:47.044285+00:00"
+  },
+  {
+    "quote": "Non è la più forte delle specie che sopravvive, né la più intelligente, ma quella più adattabile al cambiamento.",
+    "author": "Charles Darwin",
+    "category": "cambiamento",
+    "caption": "Adattarsi non è arrendersi: è evolvere.",
+    "hashtags": [
+      "#cambiamento",
+      "#darwin",
+      "#citazioni",
+      "#evoluzione",
+      "#resilienza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-31T03:17:47.044289+00:00"
+  },
+  {
+    "quote": "La più grande gloria non sta nel non cadere mai, ma nel rialzarsi ogni volta che cadiamo.",
+    "author": "Confucio",
+    "category": "resilienza",
+    "caption": "Cadere è concesso. Restare giù, no.",
+    "hashtags": [
+      "#resilienza",
+      "#confucio",
+      "#citazioni",
+      "#rialzarsi",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-31T03:17:47.044298+00:00"
+  },
+  {
+    "quote": "La speranza è la cosa buona che resiste in questo mondo.",
+    "author": "Stephen King",
+    "category": "speranza",
+    "caption": "Anche nei giorni bui, la speranza resta la cosa più resistente.",
+    "hashtags": [
+      "#speranza",
+      "#stephenking",
+      "#citazioni",
+      "#resilienza",
+      "#luce",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-31T03:17:47.044309+00:00"
+  },
+  {
+    "quote": "L'ambizione è il sentiero che porta al successo, ma va percorsa con onestà.",
+    "author": "Seneca",
+    "category": "ambizione",
+    "caption": "L'ambizione non è un difetto: è un motore, se sai dove portarlo.",
+    "hashtags": [
+      "#ambizione",
+      "#seneca",
+      "#citazioni",
+      "#successo",
+      "#onestà",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-10-31T03:17:47.044312+00:00"
   }
 ]

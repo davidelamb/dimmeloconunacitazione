@@ -1,35 +1,5 @@
 [
   {
-    "quote": "Il fallimento è semplicemente l'opportunità di ricominciare con più intelligenza.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Cadere non è la fine: è il primo giorno della versione più saggia di te.",
-    "hashtags": [
-      "#fallimento",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#riprovare",
-      "#resilienza",
-      "#motivazione"
-    ],
-    "generated_at": "2026-10-07T03:20:23.041947+00:00"
-  },
-  {
-    "quote": "Non è la forza che conta, ma la resistenza.",
-    "author": "Fëdor Dostoevskij",
-    "category": "resilienza",
-    "caption": "Vince chi non molla, non chi spinge più forte.",
-    "hashtags": [
-      "#resilienza",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#forza",
-      "#dostoevskij",
-      "#resistere"
-    ],
-    "generated_at": "2026-10-07T03:20:23.041952+00:00"
-  },
-  {
     "quote": "Il cambiamento è la legge della vita, e chi guarda solo al passato o al presente si perderà il futuro.",
     "author": "John F. Kennedy",
     "category": "cambiamento",
@@ -7387,5 +7357,35 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-10-31T03:17:47.044312+00:00"
+  },
+  {
+    "quote": "La vita è un'opera teatrale: non conta quanto è lunga, ma quanto è ben recitata.",
+    "author": "Lucio Anneo Seneca",
+    "category": "vita",
+    "caption": "Non contare le scene: cura come le reciti.",
+    "hashtags": [
+      "#vita",
+      "#seneca",
+      "#citazioni",
+      "#filosofia",
+      "#dimmeloconunacitazione",
+      "#vivere"
+    ],
+    "generated_at": "2026-10-31T16:31:41.104663+00:00"
+  },
+  {
+    "quote": "Che tu creda di potercela fare o che creda di non potercela fare, avrai comunque ragione.",
+    "author": "Henry Ford",
+    "category": "motivazione",
+    "caption": "La prima cosa che costruisci è la fiducia che ti serve per costruire il resto.",
+    "hashtags": [
+      "#motivazione",
+      "#henryford",
+      "#fiducia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#mindset"
+    ],
+    "generated_at": "2026-10-31T16:31:41.104687+00:00"
   }
 ]

@@ -1,65 +1,5 @@
 [
   {
-    "quote": "Il tempo è il fuoco in cui bruciamo.",
-    "author": "Delmore Schwartz",
-    "category": "tempo",
-    "caption": "Il tempo non passa: ci trasforma.",
-    "hashtags": [
-      "#tempo",
-      "#vita",
-      "#schwartz",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#filosofia"
-    ],
-    "generated_at": "2026-10-08T18:10:29.168949+00:00"
-  },
-  {
-    "quote": "Sii il cambiamento che vuoi vedere nel mondo.",
-    "author": "Mahatma Gandhi",
-    "category": "cambiamento",
-    "caption": "Non aspettare che siano gli altri a iniziare. Il primo passo è sempre il tuo.",
-    "hashtags": [
-      "#cambiamento",
-      "#Gandhi",
-      "#citazioni",
-      "#ispirazione",
-      "#frasimotivazionali",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-09T03:40:48.877482+00:00"
-  },
-  {
-    "quote": "L'uomo che sposta una montagna comincia portando via piccole pietre.",
-    "author": "Confucio",
-    "category": "pazienza",
-    "caption": "Nessuna vetta si conquista in un salto. Si conquista un passo alla volta.",
-    "hashtags": [
-      "#pazienza",
-      "#piccolipassi",
-      "#costanza",
-      "#crescita",
-      "#confucio",
-      "#fiducia"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430625+00:00"
-  },
-  {
-    "quote": "Non è vero che abbiamo poco tempo: la verità è che ne perdiamo molto.",
-    "author": "Seneca",
-    "category": "tempo",
-    "caption": "Il tempo non manca mai. Siamo noi a sprecarlo con distrazione.",
-    "hashtags": [
-      "#tempo",
-      "#seneca",
-      "#consapevolezza",
-      "#presente",
-      "#filosofia",
-      "#vita"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430651+00:00"
-  },
-  {
     "quote": "Non c'è vento favorevole per il marinaio che non sa dove andare.",
     "author": "Lucio Anneo Seneca",
     "category": "scelte",
@@ -7389,5 +7329,65 @@
       "#presente"
     ],
     "generated_at": "2026-11-01T03:16:36.871611+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte di un cuore che sa amare senza chiedere nulla in cambio.",
+    "author": "Fëdor Dostoevskij",
+    "category": "amore",
+    "caption": "Amare senza contare: forse è questa l'unica vera misura.",
+    "hashtags": [
+      "#amore",
+      "#dostoevskij",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#senzapretese",
+      "#cuore"
+    ],
+    "generated_at": "2026-11-01T17:24:40.380180+00:00"
+  },
+  {
+    "quote": "La vita è un mistero da vivere, non un problema da risolvere.",
+    "author": "Søren Kierkegaard",
+    "category": "vita",
+    "caption": "Smetti di volerlo spiegare tutto: a volte basta viverlo.",
+    "hashtags": [
+      "#vita",
+      "#kierkegaard",
+      "#filosofia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#mistero"
+    ],
+    "generated_at": "2026-11-01T17:24:40.380212+00:00"
+  },
+  {
+    "quote": "Un uomo che osa sprecare un'ora del suo tempo non ha capito il valore della vita.",
+    "author": "Charles Darwin",
+    "category": "tempo",
+    "caption": "L'ora che rimandi oggi è un pezzo di vita che non torna.",
+    "hashtags": [
+      "#tempo",
+      "#darwin",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#presente",
+      "#nonrimandare"
+    ],
+    "generated_at": "2026-11-01T17:24:40.380217+00:00"
+  },
+  {
+    "quote": "Chi non ha mai sbagliato non ha mai osato.",
+    "author": "Papa Giovanni XXIII",
+    "category": "coraggio",
+    "caption": "L'errore è la prova che almeno ci hai provato.",
+    "hashtags": [
+      "#coraggio",
+      "#giovanniXXIII",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#osare",
+      "#errori"
+    ],
+    "generated_at": "2026-11-01T17:24:40.380223+00:00"
   }
 ]

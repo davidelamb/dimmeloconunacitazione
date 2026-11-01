@@ -1,273 +1,5 @@
 [
   {
-    "quote": "Il cambiamento è la legge della vita, e chi guarda solo al passato o al presente si perderà il futuro.",
-    "author": "John F. Kennedy",
-    "category": "cambiamento",
-    "caption": "Il cambiamento non chiede permesso: chiede presenza.",
-    "hashtags": [
-      "#cambiamento",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#futuro",
-      "#crescita",
-      "#trasformazione"
-    ],
-    "generated_at": "2026-10-07T03:20:23.041958+00:00"
-  },
-  {
-    "quote": "La crescita personale è un processo, non una destinazione.",
-    "author": "John C. Maxwell",
-    "category": "crescita personale",
-    "caption": "Non devi arrivare: devi solo continuare a migliorare.",
-    "hashtags": [
-      "#crescita",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#miglioramento",
-      "#sviluppopersonale",
-      "#mindset"
-    ],
-    "generated_at": "2026-10-07T03:20:23.041963+00:00"
-  },
-  {
-    "quote": "La felicità non è qualcosa di già fatto. Viene dalle tue azioni.",
-    "author": "Dalai Lama",
-    "category": "felicità",
-    "caption": "La felicità non si aspetta: si costruisce con le mani.",
-    "hashtags": [
-      "#felicità",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#gioia",
-      "#azioni",
-      "#benessere"
-    ],
-    "generated_at": "2026-10-07T03:20:23.041971+00:00"
-  },
-  {
-    "quote": "La vita è quello che succede mentre sei impegnato a fare altri programmi.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "Mentre pianifichi tutto, la vita ti passa accanto.",
-    "hashtags": [
-      "#citazioni",
-      "#vita",
-      "#johnlennon",
-      "#presente",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-07T18:08:02.543442+00:00"
-  },
-  {
-    "quote": "Non aspettare. Non sarà mai il momento giusto.",
-    "author": "Napoleon Hill",
-    "category": "motivazione",
-    "caption": "Il momento giusto non esiste: esisti tu che decidi di partire.",
-    "hashtags": [
-      "#citazioni",
-      "#motivazione",
-      "#agire",
-      "#napoleonhill",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-07T18:08:02.543472+00:00"
-  },
-  {
-    "quote": "Non ho mai sognato il successo. Ci ho lavorato.",
-    "author": "Estée Lauder",
-    "category": "successo",
-    "caption": "I sogni sono belli, ma il lavoro li rende reali.",
-    "hashtags": [
-      "#citazioni",
-      "#successo",
-      "#lavoro",
-      "#esteelauder",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-07T18:08:02.543480+00:00"
-  },
-  {
-    "quote": "Il modo migliore per predire il futuro è inventarlo.",
-    "author": "Alan Kay",
-    "category": "cambiamento",
-    "caption": "Nessuno ti consegnerà il domani: costruiscilo tu, un pezzo alla volta.",
-    "hashtags": [
-      "#cambiamento",
-      "#futuro",
-      "#visione",
-      "#ispirazione",
-      "#dimmeloconunacitazione",
-      "#crescita",
-      "#azione"
-    ],
-    "generated_at": "2026-10-08T03:35:41.093053+00:00"
-  },
-  {
-    "quote": "Il successo non è la chiave della felicità. La felicità è la chiave del successo.",
-    "author": "Albert Schweitzer",
-    "category": "felicità",
-    "caption": "Inverti l'ordine delle cose e tutto comincia a girare meglio.",
-    "hashtags": [
-      "#felicità",
-      "#successo",
-      "#benessere",
-      "#dimmeloconunacitazione",
-      "#equilibrio",
-      "#vita"
-    ],
-    "generated_at": "2026-10-08T03:35:41.093088+00:00"
-  },
-  {
-    "quote": "La gratitudine è il vino delle anime nobili.",
-    "author": "Friedrich Nietzsche",
-    "category": "gratitudine",
-    "caption": "Ringraziare non è ingenuità: è la forma più elegante di forza.",
-    "hashtags": [
-      "#gratitudine",
-      "#anima",
-      "#nobiltà",
-      "#dimmeloconunacitazione",
-      "#ringraziare",
-      "#vita"
-    ],
-    "generated_at": "2026-10-08T03:35:41.093096+00:00"
-  },
-  {
-    "quote": "Un amico è una persona con cui puoi essere sincero.",
-    "author": "Ralph Waldo Emerson",
-    "category": "amicizia",
-    "caption": "La vera amicizia non teme le verità scomode.",
-    "hashtags": [
-      "#amicizia",
-      "#sincerità",
-      "#fiducia",
-      "#dimmeloconunacitazione",
-      "#relazioni",
-      "#verità"
-    ],
-    "generated_at": "2026-10-08T03:35:41.093102+00:00"
-  },
-  {
-    "quote": "La famiglia è la patria del cuore.",
-    "author": "Giuseppe Mazzini",
-    "category": "famiglia",
-    "caption": "Ovunque tu vada, c'è un posto che ti aspetta senza chiederti spiegazioni.",
-    "hashtags": [
-      "#famiglia",
-      "#cuore",
-      "#casa",
-      "#dimmeloconunacitazione",
-      "#radici",
-      "#amore"
-    ],
-    "generated_at": "2026-10-08T03:35:41.093107+00:00"
-  },
-  {
-    "quote": "Il tempo è il tessuto di cui è fatta la vita.",
-    "author": "Benjamin Franklin",
-    "category": "tempo",
-    "caption": "Non perdere tempo: è il filo con cui stai cucendo la tua storia.",
-    "hashtags": [
-      "#tempo",
-      "#vita",
-      "#presente",
-      "#dimmeloconunacitazione",
-      "#consapevolezza",
-      "#priorità"
-    ],
-    "generated_at": "2026-10-08T03:35:41.093112+00:00"
-  },
-  {
-    "quote": "I sogni non svaniscono finché non smetti di inseguirli.",
-    "author": "Paulo Coelho",
-    "category": "sogni",
-    "caption": "Finché continui a camminare, il sogno resta vivo davanti a te.",
-    "hashtags": [
-      "#sogni",
-      "#inseguire",
-      "#passione",
-      "#dimmeloconunacitazione",
-      "#motivazione",
-      "#coraggio"
-    ],
-    "generated_at": "2026-10-08T03:35:41.093122+00:00"
-  },
-  {
-    "quote": "La cosa più grande è saper essere piccoli.",
-    "author": "Johann Wolfgang von Goethe",
-    "category": "minimalismo",
-    "caption": "La grandezza a volte è fatta di piccole cose.",
-    "hashtags": [
-      "#minimalismo",
-      "#semplicità",
-      "#goethe",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#filosofia"
-    ],
-    "generated_at": "2026-10-08T18:10:29.168903+00:00"
-  },
-  {
-    "quote": "Non è la più forte delle specie che sopravvive, né la più intelligente, ma quella più reattiva ai cambiamenti.",
-    "author": "Charles Darwin",
-    "category": "cambiamento",
-    "caption": "Adattarsi non è debolezza: è intelligenza.",
-    "hashtags": [
-      "#cambiamento",
-      "#adattamento",
-      "#darwin",
-      "#evoluzione",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-08T18:10:29.168928+00:00"
-  },
-  {
-    "quote": "La speranza non è la convinzione che qualcosa andrà bene, ma la certezza che qualcosa ha senso, indipendentemente da come vada a finire.",
-    "author": "Václav Havel",
-    "category": "speranza",
-    "caption": "La speranza non promette risultati, dà senso al cammino.",
-    "hashtags": [
-      "#speranza",
-      "#senso",
-      "#havel",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#resilienza"
-    ],
-    "generated_at": "2026-10-08T18:10:29.168934+00:00"
-  },
-  {
-    "quote": "La solitudine è il luogo in cui si impara a stare con se stessi.",
-    "author": "Hannah Arendt",
-    "category": "solitudine",
-    "caption": "Stare soli non è vuoto: è spazio.",
-    "hashtags": [
-      "#solitudine",
-      "#consapevolezza",
-      "#arendt",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#interiorità"
-    ],
-    "generated_at": "2026-10-08T18:10:29.168938+00:00"
-  },
-  {
-    "quote": "La libertà non è fare ciò che si vuole, ma volere ciò che si fa.",
-    "author": "Jean-Paul Sartre",
-    "category": "libertà",
-    "caption": "Liberi davvero quando scegliamo con coscienza.",
-    "hashtags": [
-      "#libertà",
-      "#scelte",
-      "#sartre",
-      "#filosofia",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-08T18:10:29.168944+00:00"
-  },
-  {
     "quote": "Il tempo è il fuoco in cui bruciamo.",
     "author": "Delmore Schwartz",
     "category": "tempo",
@@ -7387,5 +7119,275 @@
       "#mindset"
     ],
     "generated_at": "2026-10-31T16:31:41.104687+00:00"
+  },
+  {
+    "quote": "Non possiamo risolvere i problemi pensando allo stesso modo di quando li abbiamo creati.",
+    "author": "Albert Einstein",
+    "category": "cambiamento",
+    "caption": "A volte la soluzione non è insistere: è cambiare prospettiva.",
+    "hashtags": [
+      "#cambiamento",
+      "#prospettiva",
+      "#einstein",
+      "#crescita",
+      "#citazioni",
+      "#riflessioni"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871531+00:00"
+  },
+  {
+    "quote": "La gioia più grande della vita è fare ciò che gli altri dicono che non puoi fare.",
+    "author": "Walter Bagehot",
+    "category": "motivazione",
+    "caption": "Le etichette degli altri non sono il tuo destino.",
+    "hashtags": [
+      "#motivazione",
+      "#determinazione",
+      "#citazioni",
+      "#farcela",
+      "#ispirazione",
+      "#forza"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871561+00:00"
+  },
+  {
+    "quote": "Non camminare dietro di me: potrei non guidarti. Non camminare davanti a me: potrei non seguirti. Cammina accanto a me ed essere mio amico.",
+    "author": "Albert Camus",
+    "category": "amicizia",
+    "caption": "L'amicizia vera è camminare fianco a fianco, non uno davanti all'altro.",
+    "hashtags": [
+      "#amicizia",
+      "#camus",
+      "#citazioni",
+      "#essereamici",
+      "#fiancoafianco",
+      "#relazioni"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871567+00:00"
+  },
+  {
+    "quote": "Ogni volta che ti trovi dalla parte della maggioranza, è tempo di cambiare.",
+    "author": "Mark Twain",
+    "category": "scelte",
+    "caption": "Il pensiero critico comincia quando osi andare controcorrente.",
+    "hashtags": [
+      "#scelte",
+      "#pensierocritico",
+      "#marktwain",
+      "#controcorrente",
+      "#citazioni",
+      "#libertà"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871570+00:00"
+  },
+  {
+    "quote": "Il successo di solito arriva a chi è troppo occupato per cercarlo.",
+    "author": "Henry David Thoreau",
+    "category": "successo",
+    "caption": "Fai bene le cose ogni giorno e il resto viene da sé.",
+    "hashtags": [
+      "#successo",
+      "#thoreau",
+      "#lavoro",
+      "#costanza",
+      "#citazioni",
+      "#obiettivi"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871574+00:00"
+  },
+  {
+    "quote": "Puoi scoprire di più su una persona in un'ora di gioco che in un anno di conversazione.",
+    "author": "Platone",
+    "category": "amicizia",
+    "caption": "A volte il carattere si vede meglio in una partita che in mille discorsi.",
+    "hashtags": [
+      "#amicizia",
+      "#platone",
+      "#gioco",
+      "#carattere",
+      "#citazioni",
+      "#persone"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871577+00:00"
+  },
+  {
+    "quote": "Il segreto del cambiamento è concentrare tutta la tua energia non sul combattere il vecchio, ma sul costruire il nuovo.",
+    "author": "Socrate",
+    "category": "cambiamento",
+    "caption": "Smetti di lottare contro ciò che non vuoi e inizia a costruire ciò che vuoi.",
+    "hashtags": [
+      "#cambiamento",
+      "#socrate",
+      "#costruire",
+      "#citazioni",
+      "#futuro",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871580+00:00"
+  },
+  {
+    "quote": "La vita comincia ogni volta che decidiamo di ricominciare.",
+    "author": "Fëdor Dostoevskij",
+    "category": "resilienza",
+    "caption": "Non è mai troppo tardi per un nuovo inizio.",
+    "hashtags": [
+      "#resilienza",
+      "#dostoevskij",
+      "#ricominciare",
+      "#citazioni",
+      "#forza",
+      "#nuovoinizio"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871582+00:00"
+  },
+  {
+    "quote": "Sogna in grande e osa fallire.",
+    "author": "Norman Vaughan",
+    "category": "sogni",
+    "caption": "Meglio un sogno grande che si scontra con la realtà che un sogno piccolo che non lascia traccia.",
+    "hashtags": [
+      "#sogni",
+      "#osare",
+      "#fallire",
+      "#citazioni",
+      "#grandezza",
+      "#ispirazione"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871585+00:00"
+  },
+  {
+    "quote": "Non è la forza che dà il coraggio, ma il coraggio che dà la forza.",
+    "author": "Victor Hugo",
+    "category": "coraggio",
+    "caption": "A volte basta un passo coraggioso per scoprire di essere più forti di quanto pensavi.",
+    "hashtags": [
+      "#coraggio",
+      "#victorhugo",
+      "#forza",
+      "#citazioni",
+      "#paura",
+      "#determinazione"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871588+00:00"
+  },
+  {
+    "quote": "La leadership non è una posizione, è un'azione.",
+    "author": "John C. Maxwell",
+    "category": "leadership",
+    "caption": "Non serve un titolo per guidare: serve l'esempio.",
+    "hashtags": [
+      "#leadership",
+      "#esempio",
+      "#maxwell",
+      "#citazioni",
+      "#guidare",
+      "#responsabilità"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871591+00:00"
+  },
+  {
+    "quote": "L'immaginazione è l'inizio della creazione.",
+    "author": "George Bernard Shaw",
+    "category": "sogni",
+    "caption": "Prima di costruire qualcosa, devi poterlo immaginare.",
+    "hashtags": [
+      "#sogni",
+      "#immaginazione",
+      "#shaw",
+      "#creatività",
+      "#citazioni",
+      "#futuro"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871593+00:00"
+  },
+  {
+    "quote": "Il tempo che hai perso non è mai così prezioso come il tempo che hai davanti.",
+    "author": "Charles Dickens",
+    "category": "tempo",
+    "caption": "Non piangere il tempo passato: investi quello che hai.",
+    "hashtags": [
+      "#tempo",
+      "#dickens",
+      "#presente",
+      "#citazioni",
+      "#futuro",
+      "#priorità"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871595+00:00"
+  },
+  {
+    "quote": "La vera amicizia è quando il silenzio tra due persone è piacevole.",
+    "author": "Marcel Proust",
+    "category": "amicizia",
+    "caption": "Con un vero amico non serve riempire ogni silenzio.",
+    "hashtags": [
+      "#amicizia",
+      "#proust",
+      "#silenzio",
+      "#citazioni",
+      "#legami",
+      "#fiducia"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871597+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più nobile che essere capaci di sopportare le avversità con dignità.",
+    "author": "Seneca",
+    "category": "forza",
+    "caption": "La dignità è la forza più silenziosa che esista.",
+    "hashtags": [
+      "#forza",
+      "#seneca",
+      "#dignità",
+      "#citazioni",
+      "#avversità",
+      "#stoicismo"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871599+00:00"
+  },
+  {
+    "quote": "Il minimalismo non è avere meno, è desiderare meno.",
+    "author": "Joshua Becker",
+    "category": "minimalismo",
+    "caption": "Meno cose, più spazio per ciò che conta davvero.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#becker",
+      "#citazioni",
+      "#essenziale",
+      "#menoeccetera"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871602+00:00"
+  },
+  {
+    "quote": "La gratitudine è la più grande delle virtù, ma anche la più dimenticata.",
+    "author": "Cicerone",
+    "category": "gratitudine",
+    "caption": "Il modo più semplice per essere felici è ricordarsi di dire grazie.",
+    "hashtags": [
+      "#gratitudine",
+      "#cicero",
+      "#virtù",
+      "#citazioni",
+      "#ringrazia",
+      "#felicità"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871605+00:00"
+  },
+  {
+    "quote": "La felicità è come una farfalla: se la insegui ti sfugge, ma se te ne stai fermo può posarsi su di te.",
+    "author": "Nathaniel Hawthorne",
+    "category": "felicità",
+    "caption": "Smetti di rincorrerla, inizia a viverla.",
+    "hashtags": [
+      "#felicità",
+      "#hawthorne",
+      "#farfalla",
+      "#citazioni",
+      "#gioia",
+      "#presente"
+    ],
+    "generated_at": "2026-11-01T03:16:36.871611+00:00"
   }
 ]

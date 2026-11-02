@@ -1,20 +1,5 @@
 [
   {
-    "quote": "Il modo migliore per trovare te stesso è perderti al servizio degli altri.",
-    "author": "Mahatma Gandhi",
-    "category": "crescita personale",
-    "caption": "A volte ci si ritrova solo quando si smette di guardarsi allo specchio.",
-    "hashtags": [
-      "#crescita",
-      "#gandhi",
-      "#servizio",
-      "#altri",
-      "#cuore",
-      "#vita"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430689+00:00"
-  },
-  {
     "quote": "La forza non deriva dalla capacità fisica, ma da una volontà indomabile.",
     "author": "Mahatma Gandhi",
     "category": "forza",
@@ -7389,5 +7374,20 @@
       "#saggezza"
     ],
     "generated_at": "2026-11-02T03:26:29.706035+00:00"
+  },
+  {
+    "quote": "La semplicità è la massima forma di sofisticazione.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "Meno cose, più senso: la vera eleganza è togliere, non aggiungere.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#essenziale",
+      "#filosofia",
+      "#stile",
+      "#menomapiù"
+    ],
+    "generated_at": "2026-11-02T21:04:20.774949+00:00"
   }
 ]

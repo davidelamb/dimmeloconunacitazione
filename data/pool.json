@@ -1,80 +1,5 @@
 [
   {
-    "quote": "Non c'è vento favorevole per il marinaio che non sa dove andare.",
-    "author": "Lucio Anneo Seneca",
-    "category": "scelte",
-    "caption": "Prima la direzione. Poi le vele. Altrimenti ogni vento è inutile.",
-    "hashtags": [
-      "#scelte",
-      "#direzione",
-      "#seneca",
-      "#obiettivi",
-      "#vita",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430657+00:00"
-  },
-  {
-    "quote": "La cosa più difficile al mondo non è scegliere, ma accettare le conseguenze.",
-    "author": "Paulo Coelho",
-    "category": "scelte",
-    "caption": "Scegliere è facile. Vivere le conseguenze è dove si vede chi sei.",
-    "hashtags": [
-      "#scelte",
-      "#conseguenze",
-      "#paolocoelho",
-      "#responsabilita",
-      "#crescita",
-      "#vita"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430661+00:00"
-  },
-  {
-    "quote": "Immagina che tutti siano felici e avrai creato un mondo felice.",
-    "author": "John Lennon",
-    "category": "speranza",
-    "caption": "A volte basta immaginare un mondo diverso per iniziare a costruirlo.",
-    "hashtags": [
-      "#speranza",
-      "#johnlennon",
-      "#immaginazione",
-      "#pace",
-      "#mondo",
-      "#futuro"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430676+00:00"
-  },
-  {
-    "quote": "Il modo migliore per predire il futuro è crearlo.",
-    "author": "Peter Drucker",
-    "category": "ambizione",
-    "caption": "Smetti di aspettare che accada. Inizia a farlo accadere.",
-    "hashtags": [
-      "#ambizione",
-      "#drucker",
-      "#futuro",
-      "#azione",
-      "#leadership",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430683+00:00"
-  },
-  {
-    "quote": "La cultura mangia la strategia a colazione.",
-    "author": "Peter Drucker",
-    "category": "leadership",
-    "caption": "Nessun piano regge se le persone non ci credono davvero.",
-    "hashtags": [
-      "#leadership",
-      "#drucker",
-      "#cultura",
-      "#squadra",
-      "#management",
-      "#lavoro"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430686+00:00"
-  },
-  {
     "quote": "Il modo migliore per trovare te stesso è perderti al servizio degli altri.",
     "author": "Mahatma Gandhi",
     "category": "crescita personale",
@@ -7389,5 +7314,80 @@
       "#errori"
     ],
     "generated_at": "2026-11-01T17:24:40.380223+00:00"
+  },
+  {
+    "quote": "Sii il cambiamento che vuoi vedere nel mondo.",
+    "author": "Mahatma Gandhi",
+    "category": "cambiamento",
+    "caption": "Non aspettare che siano gli altri a cominciare.",
+    "hashtags": [
+      "#cambiamento",
+      "#gandhi",
+      "#citazioni",
+      "#ispirazione",
+      "#frasi",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-02T03:26:29.705982+00:00"
+  },
+  {
+    "quote": "Ho deciso di essere felice perché è bene per la salute.",
+    "author": "Voltaire",
+    "category": "felicità",
+    "caption": "La felicità, prima di tutto, è una questione di salute.",
+    "hashtags": [
+      "#felicità",
+      "#voltaire",
+      "#citazioni",
+      "#frasi",
+      "#gioia",
+      "#benessere"
+    ],
+    "generated_at": "2026-11-02T03:26:29.706016+00:00"
+  },
+  {
+    "quote": "Niente è tanto forte quanto la gentilezza.",
+    "author": "Joseph Joubert",
+    "category": "forza",
+    "caption": "La gentilezza non è debolezza: è la forza più rara.",
+    "hashtags": [
+      "#gentilezza",
+      "#forza",
+      "#citazioni",
+      "#frasi",
+      "#umanità",
+      "#cuore"
+    ],
+    "generated_at": "2026-11-02T03:26:29.706023+00:00"
+  },
+  {
+    "quote": "Chi non ha mai fatto un errore non ha mai provato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Sbagliare è il prezzo giusto per imparare qualcosa.",
+    "hashtags": [
+      "#fallimento",
+      "#errori",
+      "#einstein",
+      "#citazioni",
+      "#frasi",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-02T03:26:29.706028+00:00"
+  },
+  {
+    "quote": "La pazienza è l'arte di sperare.",
+    "author": "Luc de Clapiers de Vauvenargues",
+    "category": "pazienza",
+    "caption": "Aspettare bene è già un modo di agire.",
+    "hashtags": [
+      "#pazienza",
+      "#speranza",
+      "#citazioni",
+      "#frasi",
+      "#attesa",
+      "#saggezza"
+    ],
+    "generated_at": "2026-11-02T03:26:29.706035+00:00"
   }
 ]

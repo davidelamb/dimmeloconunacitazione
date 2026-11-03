@@ -1,95 +1,5 @@
 [
   {
-    "quote": "La forza non deriva dalla capacità fisica, ma da una volontà indomabile.",
-    "author": "Mahatma Gandhi",
-    "category": "forza",
-    "caption": "Il corpo ha limiti. La volontà, spesso, ne ha molti meno.",
-    "hashtags": [
-      "#forza",
-      "#gandhi",
-      "#volonta",
-      "#resilienza",
-      "#spirito",
-      "#coraggio"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430693+00:00"
-  },
-  {
-    "quote": "Non ho mai sognato il successo. Ho lavorato per esso.",
-    "author": "Estée Lauder",
-    "category": "lavoro",
-    "caption": "I sogni sono belli. Ma è il lavoro che li rende reali.",
-    "hashtags": [
-      "#lavoro",
-      "#estelauder",
-      "#successo",
-      "#impegno",
-      "#obiettivi",
-      "#motivazione"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430696+00:00"
-  },
-  {
-    "quote": "Il tuo tempo è limitato, non sprecarlo vivendo la vita di qualcun altro.",
-    "author": "Steve Jobs",
-    "category": "libertà",
-    "caption": "Non esiste prigione peggiore di una vita che non è la tua.",
-    "hashtags": [
-      "#liberta",
-      "#stevejobs",
-      "#autenticita",
-      "#tempo",
-      "#scelte",
-      "#vita"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430702+00:00"
-  },
-  {
-    "quote": "La semplicità è la massima raffinatezza.",
-    "author": "Leonardo da Vinci",
-    "category": "minimalismo",
-    "caption": "Togliere è più difficile che aggiungere. Ma è lì che nasce la bellezza.",
-    "hashtags": [
-      "#minimalismo",
-      "#leonardo",
-      "#semplicita",
-      "#essenziale",
-      "#arte",
-      "#vita"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430705+00:00"
-  },
-  {
-    "quote": "Ogni ostacolo è una possibilità per crescere.",
-    "author": "Ryan Holiday",
-    "category": "resilienza",
-    "caption": "L'ostacolo non è la fine del percorso. Spesso è l'inizio.",
-    "hashtags": [
-      "#resilienza",
-      "#ryanholiday",
-      "#ostacoli",
-      "#crescita",
-      "#stoicismo",
-      "#forza"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430708+00:00"
-  },
-  {
-    "quote": "La pace interiore è la più grande delle conquiste.",
-    "author": "Buddha",
-    "category": "pace",
-    "caption": "Nessuna vittoria esterna vale quanto un cuore finalmente tranquillo.",
-    "hashtags": [
-      "#pace",
-      "#buddha",
-      "#interiore",
-      "#serenita",
-      "#equilibrio",
-      "#dentro"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430711+00:00"
-  },
-  {
     "quote": "Il tempo è un fiume che non torna mai indietro.",
     "author": "Marco Aurelio",
     "category": "tempo",
@@ -7389,5 +7299,95 @@
       "#menomapiù"
     ],
     "generated_at": "2026-11-02T21:04:20.774949+00:00"
+  },
+  {
+    "quote": "La vita non è trovare te stesso. La vita è creare te stesso.",
+    "author": "George Bernard Shaw",
+    "category": "crescita personale",
+    "caption": "Nessuno nasce già finito. Ci si costruisce, un pezzo alla volta.",
+    "hashtags": [
+      "#crescitapersonale",
+      "#citazioni",
+      "#GeorgeBernardShaw",
+      "#diventare",
+      "#ispirazione",
+      "#frasimotivazionali"
+    ],
+    "generated_at": "2026-11-03T04:36:56.240414+00:00"
+  },
+  {
+    "quote": "La gente dimenticherà quello che hai detto, dimenticherà quello che hai fatto, ma non dimenticherà mai come l'hai fatta sentire.",
+    "author": "Maya Angelou",
+    "category": "relazioni",
+    "caption": "Le parole svaniscono, le emozioni restano. Scegli bene come fai sentire gli altri.",
+    "hashtags": [
+      "#relazioni",
+      "#citazioni",
+      "#MayaAngelou",
+      "#empatia",
+      "#emozioni",
+      "#frasibelle"
+    ],
+    "generated_at": "2026-11-03T04:36:56.240441+00:00"
+  },
+  {
+    "quote": "Non ho fallito. Ho solo trovato diecimila modi che non funzionano.",
+    "author": "Thomas Edison",
+    "category": "fallimento",
+    "caption": "Ogni errore è un gradino, non un muro. Basta guardarlo dalla parte giusta.",
+    "hashtags": [
+      "#fallimento",
+      "#citazioni",
+      "#ThomasEdison",
+      "#riprovare",
+      "#tenacia",
+      "#frasimotivazionali"
+    ],
+    "generated_at": "2026-11-03T04:36:56.240447+00:00"
+  },
+  {
+    "quote": "Siate il cambiamento che volete vedere nel mondo.",
+    "author": "Mahatma Gandhi",
+    "category": "consapevolezza",
+    "caption": "Prima di chiedere al mondo di cambiare, guarda dentro di te.",
+    "hashtags": [
+      "#consapevolezza",
+      "#citazioni",
+      "#Gandhi",
+      "#cambiamento",
+      "#esempio",
+      "#frasidivita"
+    ],
+    "generated_at": "2026-11-03T04:36:56.240453+00:00"
+  },
+  {
+    "quote": "La vera amicizia non è mai serena.",
+    "author": "Aristotele",
+    "category": "amicizia",
+    "caption": "Gli amici veri ti dicono anche ciò che non vuoi sentire. Per questo contano.",
+    "hashtags": [
+      "#amicizia",
+      "#citazioni",
+      "#Aristotele",
+      "#verità",
+      "#legami",
+      "#frasidivita"
+    ],
+    "generated_at": "2026-11-03T04:36:56.240461+00:00"
+  },
+  {
+    "quote": "La libertà non è fare ciò che vogliamo, ma volere ciò che facciamo.",
+    "author": "Jean-Paul Sartre",
+    "category": "libertà",
+    "caption": "Liberi non è fare tutto, è scegliere con consapevolezza ciò che fai.",
+    "hashtags": [
+      "#libertà",
+      "#citazioni",
+      "#Sartre",
+      "#scelte",
+      "#filosofia",
+      "#frasidivita"
+    ],
+    "generated_at": "2026-11-03T04:36:56.240467+00:00"
   }
 ]

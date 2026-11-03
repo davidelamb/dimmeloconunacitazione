@@ -1,338 +1,5 @@
 [
   {
-    "quote": "Il tempo è un fiume che non torna mai indietro.",
-    "author": "Marco Aurelio",
-    "category": "tempo",
-    "caption": "Non puoi recuperare un istante. Puoi solo viverlo bene adesso.",
-    "hashtags": [
-      "#tempo",
-      "#marcoaurelio",
-      "#presente",
-      "#stoicismo",
-      "#vita",
-      "#attimo"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430715+00:00"
-  },
-  {
-    "quote": "Ciò che non mi uccide mi rende più forte.",
-    "author": "Friedrich Nietzsche",
-    "category": "forza",
-    "caption": "A volte è proprio la ferita a diventare il tuo punto più solido.",
-    "hashtags": [
-      "#forza",
-      "#nietzsche",
-      "#resilienza",
-      "#dolore",
-      "#crescita",
-      "#vita"
-    ],
-    "generated_at": "2026-10-10T03:22:53.430718+00:00"
-  },
-  {
-    "quote": "Non tutte le persone che vagano sono perdute.",
-    "author": "J.R.R. Tolkien",
-    "category": "viaggio",
-    "caption": "A volte perdersi è il modo più onesto di ritrovarsi.",
-    "hashtags": [
-      "#dimmeloconunacitazione",
-      "#viaggio",
-      "#perdersi",
-      "#tolkien",
-      "#citazioni",
-      "#anima",
-      "#cammino"
-    ],
-    "generated_at": "2026-10-10T16:36:16.278102+00:00"
-  },
-  {
-    "quote": "La famiglia non è un'importante cosa: è tutto.",
-    "author": "Michael J. Fox",
-    "category": "famiglia",
-    "caption": "Ci sono legami che non scegli, ma che ti salvano.",
-    "hashtags": [
-      "#dimmeloconunacitazione",
-      "#famiglia",
-      "#legami",
-      "#citazioni",
-      "#casa",
-      "#amore",
-      "#radici"
-    ],
-    "generated_at": "2026-10-10T16:36:16.278128+00:00"
-  },
-  {
-    "quote": "Siamo noi a decidere cosa fare del tempo che ci è dato.",
-    "author": "J.R.R. Tolkien",
-    "category": "tempo",
-    "caption": "Il tempo non si trova: si sceglie come spenderlo.",
-    "hashtags": [
-      "#dimmeloconunacitazione",
-      "#tempo",
-      "#scelte",
-      "#tolkien",
-      "#citazioni",
-      "#presente",
-      "#vita"
-    ],
-    "generated_at": "2026-10-10T16:36:16.278134+00:00"
-  },
-  {
-    "quote": "Non è la montagna che conquistiamo, ma noi stessi.",
-    "author": "Edmund Hillary",
-    "category": "coraggio",
-    "caption": "Ogni sfida vera è prima di tutto interiore.",
-    "hashtags": [
-      "#dimmeloconunacitazione",
-      "#coraggio",
-      "#montagna",
-      "#sfide",
-      "#citazioni",
-      "#superarsi",
-      "#determinazione"
-    ],
-    "generated_at": "2026-10-10T16:36:16.278138+00:00"
-  },
-  {
-    "quote": "Chi vuole essere amato deve prima amare.",
-    "author": "Seneca",
-    "category": "amore",
-    "caption": "L'amore non si pretende: si semina.",
-    "hashtags": [
-      "#dimmeloconunacitazione",
-      "#amore",
-      "#seneca",
-      "#citazioni",
-      "#relazioni",
-      "#cuore",
-      "#filosofia"
-    ],
-    "generated_at": "2026-10-10T16:36:16.278145+00:00"
-  },
-  {
-    "quote": "La speranza è l'arte di aspettare con fiducia.",
-    "author": "Charles Péguy",
-    "category": "speranza",
-    "caption": "Sperare non è chiudere gli occhi: è tenerli aperti sul domani.",
-    "hashtags": [
-      "#speranza",
-      "#peguy",
-      "#fiducia",
-      "#domani",
-      "#attesa"
-    ],
-    "generated_at": "2026-10-11T02:56:03.878783+00:00"
-  },
-  {
-    "quote": "L'amicizia è una sola anima in due corpi.",
-    "author": "Aristotele",
-    "category": "amicizia",
-    "caption": "Ci sono amici che sono, semplicemente, un'altra parte di noi.",
-    "hashtags": [
-      "#amicizia",
-      "#aristotele",
-      "#anima",
-      "#legame",
-      "#fiducia"
-    ],
-    "generated_at": "2026-10-11T02:56:03.878810+00:00"
-  },
-  {
-    "quote": "Siamo ciò che facciamo ripetutamente. L'eccellenza, quindi, non è un atto, ma un'abitudine.",
-    "author": "Aristotele",
-    "category": "disciplina",
-    "caption": "La disciplina non è un gesto eclatante, è la somma di piccoli gesti quotidiani. Costruisci la tua eccellenza un giorno alla volta.",
-    "hashtags": [
-      "#disciplina",
-      "#abitudini",
-      "#eccellenza",
-      "#crescita",
-      "#filosofia",
-      "#aristotele"
-    ],
-    "generated_at": "2026-10-12T03:19:19.220308+00:00"
-  },
-  {
-    "quote": "Il successo è la capacità di andare da un fallimento all'altro senza perdere l'entusiasmo.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "Non contano le cadute, ma la capacità di rialzarsi con lo stesso fuoco di sempre. Il successo è un cammino, non un traguardo.",
-    "hashtags": [
-      "#successo",
-      "#fallimento",
-      "#resilienza",
-      "#motivazione",
-      "#churchill",
-      "#entusiasmo"
-    ],
-    "generated_at": "2026-10-12T03:19:19.220334+00:00"
-  },
-  {
-    "quote": "La felicità non è qualcosa di già pronto. Viene dalle tue azioni.",
-    "author": "Dalai Lama",
-    "category": "felicità",
-    "caption": "Non aspettare che la felicità bussi alla porta: costruiscila con le tue scelte quotidiane. Ogni azione è un mattone.",
-    "hashtags": [
-      "#felicità",
-      "#azioni",
-      "#dalailama",
-      "#mindfulness",
-      "#crescita",
-      "#benessere"
-    ],
-    "generated_at": "2026-10-12T03:19:19.220385+00:00"
-  },
-  {
-    "quote": "L'amore non consiste nel guardarsi l'un l'altro, ma nel guardare insieme nella stessa direzione.",
-    "author": "Antoine de Saint-Exupéry",
-    "category": "amore",
-    "caption": "Amare è condividere una direzione, non solo uno sguardo.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#frasi",
-      "#coppia",
-      "#saintExupery",
-      "#condivisione"
-    ],
-    "generated_at": "2026-10-12T20:36:01.306152+00:00"
-  },
-  {
-    "quote": "La vita è ciò che accade quando sei impegnato a fare altri programmi.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "A volte i piani migliori sono quelli che non avevi previsto.",
-    "hashtags": [
-      "#vita",
-      "#citazioni",
-      "#frasi",
-      "#johnlennon",
-      "#imprevisti",
-      "#presente"
-    ],
-    "generated_at": "2026-10-12T20:36:01.306176+00:00"
-  },
-  {
-    "quote": "La disciplina è il ponte tra gli obiettivi e i risultati.",
-    "author": "Jim Rohn",
-    "category": "disciplina",
-    "caption": "Senza il ponte, le mete restano solo desideri.",
-    "hashtags": [
-      "#disciplina",
-      "#citazioni",
-      "#frasi",
-      "#jimrohn",
-      "#obiettivi",
-      "#costanza"
-    ],
-    "generated_at": "2026-10-12T20:36:01.306184+00:00"
-  },
-  {
-    "quote": "Il coraggio è la grazia sotto pressione.",
-    "author": "Ernest Hemingway",
-    "category": "coraggio",
-    "caption": "La vera eleganza si vede quando tutto spinge nella direzione opposta.",
-    "hashtags": [
-      "#coraggio",
-      "#citazioni",
-      "#frasi",
-      "#hemingway",
-      "#pressione",
-      "#grazia"
-    ],
-    "generated_at": "2026-10-12T20:36:01.306189+00:00"
-  },
-  {
-    "quote": "Il successo non è la fine, il fallimento non è fatale: è il coraggio di continuare che conta.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "Continuare, anche quando nessuno applaude.",
-    "hashtags": [
-      "#successo",
-      "#citazioni",
-      "#frasi",
-      "#churchill",
-      "#determinazione",
-      "#continua"
-    ],
-    "generated_at": "2026-10-12T20:36:01.306193+00:00"
-  },
-  {
-    "quote": "Il cambiamento è la legge della vita. Chi guarda solo al passato o al presente si perderà il futuro.",
-    "author": "John F. Kennedy",
-    "category": "cambiamento",
-    "caption": "Il futuro appartiene a chi sa voltare pagina.",
-    "hashtags": [
-      "#cambiamento",
-      "#citazioni",
-      "#frasi",
-      "#kennedy",
-      "#futuro",
-      "#trasformazione"
-    ],
-    "generated_at": "2026-10-12T20:36:01.306199+00:00"
-  },
-  {
-    "quote": "Nessun uomo è libero se non è padrone di se stesso.",
-    "author": "Epitteto",
-    "category": "libertà",
-    "caption": "La libertà più difficile da conquistare è quella dentro di sé.",
-    "hashtags": [
-      "#libertà",
-      "#epitteto",
-      "#stoicismo",
-      "#padronedisestessi",
-      "#filosofia",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627511+00:00"
-  },
-  {
-    "quote": "La vita è breve, ma abbastanza per fare del bene.",
-    "author": "Lucio Anneo Seneca",
-    "category": "vita",
-    "caption": "Non serve tanto tempo per lasciare un segno. Serve solo volerlo.",
-    "hashtags": [
-      "#vita",
-      "#seneca",
-      "#bene",
-      "#tempo",
-      "#citazioni",
-      "#filosofia"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627536+00:00"
-  },
-  {
-    "quote": "Chi non punta al cielo non arriva nemmeno alla cima.",
-    "author": "Proverbio",
-    "category": "ambizione",
-    "caption": "Alza lo sguardo. Le mete grandiose iniziano da un sogno coraggioso.",
-    "hashtags": [
-      "#ambizione",
-      "#sogni",
-      "#proverbio",
-      "#motivazione",
-      "#mete",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627543+00:00"
-  },
-  {
-    "quote": "Non importa quanto vai piano, basta che non ti fermi.",
-    "author": "Confucio",
-    "category": "resilienza",
-    "caption": "La costanza batte la velocità. L'importante è restare in cammino.",
-    "hashtags": [
-      "#resilienza",
-      "#confucio",
-      "#costanza",
-      "#nonfermarti",
-      "#citazioni",
-      "#motivazione"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627548+00:00"
-  },
-  {
     "quote": "La mente è come un paracadute: funziona solo se è aperta.",
     "author": "Albert Einstein",
     "category": "crescita personale",
@@ -7389,5 +7056,335 @@
       "#frasidivita"
     ],
     "generated_at": "2026-11-03T04:36:56.240467+00:00"
+  },
+  {
+    "quote": "La vita è un sogno, e i sogni sono sogni.",
+    "author": "Pedro Calderón de la Barca",
+    "category": "filosofia",
+    "caption": "Se è tutto un sogno, tanto vale sognarlo bene.",
+    "hashtags": [
+      "#citazioni",
+      "#filosofia",
+      "#vita",
+      "#sogni",
+      "#riflessioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396552+00:00"
+  },
+  {
+    "quote": "Non c'è vento favorevole per chi non sa dove andare.",
+    "author": "Lucio Anneo Seneca",
+    "category": "motivazione",
+    "caption": "Prima la direzione, poi le vele.",
+    "hashtags": [
+      "#citazioni",
+      "#motivazione",
+      "#seneca",
+      "#direzione",
+      "#obiettivi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396582+00:00"
+  },
+  {
+    "quote": "La costanza è la virtù dei forti.",
+    "author": "Vittorio Alfieri",
+    "category": "disciplina",
+    "caption": "Non serve essere veloci, serve non fermarsi.",
+    "hashtags": [
+      "#citazioni",
+      "#disciplina",
+      "#costanza",
+      "#impegno",
+      "#quotidiano",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396586+00:00"
+  },
+  {
+    "quote": "Chi non risica non rosica.",
+    "author": "Proverbio italiano",
+    "category": "coraggio",
+    "caption": "Restare fermi sembra sicuro, ma è il rischio più grande.",
+    "hashtags": [
+      "#citazioni",
+      "#coraggio",
+      "#proverbi",
+      "#rischio",
+      "#osare",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396589+00:00"
+  },
+  {
+    "quote": "Il successo è fatto di piccoli sforzi ripetuti giorno dopo giorno.",
+    "author": "Robert Collier",
+    "category": "successo",
+    "caption": "La grandezza è una somma di piccole cose fatte bene.",
+    "hashtags": [
+      "#citazioni",
+      "#successo",
+      "#costanza",
+      "#piccolipassi",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396592+00:00"
+  },
+  {
+    "quote": "Sbagliando s'impara.",
+    "author": "Proverbio italiano",
+    "category": "fallimento",
+    "caption": "Ogni errore è una lezione travestita.",
+    "hashtags": [
+      "#citazioni",
+      "#fallimento",
+      "#errori",
+      "#lezione",
+      "#proverbi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396595+00:00"
+  },
+  {
+    "quote": "Cadi sette volte, rialzati otto.",
+    "author": "Proverbio giapponese",
+    "category": "resilienza",
+    "caption": "Il numero delle cadute conta meno di quello dei rialzi.",
+    "hashtags": [
+      "#citazioni",
+      "#resilienza",
+      "#rialzarsi",
+      "#proverbi",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396599+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più costante del cambiamento.",
+    "author": "Eraclito",
+    "category": "cambiamento",
+    "caption": "Resistere al cambiamento è come remare contro la corrente.",
+    "hashtags": [
+      "#citazioni",
+      "#cambiamento",
+      "#eraclito",
+      "#filosofia",
+      "#impermanenza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396601+00:00"
+  },
+  {
+    "quote": "Diventa ciò che sei.",
+    "author": "Friedrich Nietzsche",
+    "category": "crescita personale",
+    "caption": "La crescita non è aggiungere, è togliere ciò che ti nasconde.",
+    "hashtags": [
+      "#citazioni",
+      "#crescita",
+      "#nietzsche",
+      "#diventare",
+      "#autenticità",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396606+00:00"
+  },
+  {
+    "quote": "La gratitudine è la più bella delle virtù.",
+    "author": "Marco Tullio Cicerone",
+    "category": "gratitudine",
+    "caption": "Ringraziare cambia il colore della giornata.",
+    "hashtags": [
+      "#citazioni",
+      "#gratitudine",
+      "#cicero",
+      "#ringraziare",
+      "#quotidiano",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396613+00:00"
+  },
+  {
+    "quote": "Un amico fedele è un tesoro.",
+    "author": "Proverbio italiano",
+    "category": "amicizia",
+    "caption": "Pochi, veri, per sempre.",
+    "hashtags": [
+      "#citazioni",
+      "#amicizia",
+      "#proverbi",
+      "#lealtà",
+      "#tesoro",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396615+00:00"
+  },
+  {
+    "quote": "I figli sono la nostra vita rinnovata.",
+    "author": "Proverbio africano",
+    "category": "famiglia",
+    "caption": "Ci sono radici che continuano a crescere anche dopo di noi.",
+    "hashtags": [
+      "#citazioni",
+      "#famiglia",
+      "#figli",
+      "#radici",
+      "#proverbi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396618+00:00"
+  },
+  {
+    "quote": "La solitudine è il prezzo della libertà.",
+    "author": "Arthur Schopenhauer",
+    "category": "solitudine",
+    "caption": "A volte stare soli non è una mancanza, è uno spazio.",
+    "hashtags": [
+      "#citazioni",
+      "#solitudine",
+      "#schopenhauer",
+      "#libertà",
+      "#silenzio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396620+00:00"
+  },
+  {
+    "quote": "Il tempo guarisce tutte le ferite.",
+    "author": "Proverbio italiano",
+    "category": "tempo",
+    "caption": "Non cancella, ma insegna a portare meglio il peso.",
+    "hashtags": [
+      "#citazioni",
+      "#tempo",
+      "#guarigione",
+      "#proverbi",
+      "#ferite",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396623+00:00"
+  },
+  {
+    "quote": "L'ambizione è il rifugio di chi non ha talento.",
+    "author": "Oscar Wilde",
+    "category": "ambizione",
+    "caption": "Un pizzico di ironia per chi corre sempre.",
+    "hashtags": [
+      "#citazioni",
+      "#ambizione",
+      "#wilde",
+      "#ironia",
+      "#talento",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396627+00:00"
+  },
+  {
+    "quote": "Un leader è chi conosce la strada, la percorre e la mostra.",
+    "author": "John C. Maxwell",
+    "category": "leadership",
+    "caption": "Guidare è camminare davanti, non spingere da dietro.",
+    "hashtags": [
+      "#citazioni",
+      "#leadership",
+      "#maxwell",
+      "#esempio",
+      "#guida",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396630+00:00"
+  },
+  {
+    "quote": "La libertà è la possibilità di scegliere.",
+    "author": "Jean-Paul Sartre",
+    "category": "libertà",
+    "caption": "Siamo condannati a scegliere, tanto vale farlo bene.",
+    "hashtags": [
+      "#citazioni",
+      "#libertà",
+      "#sartre",
+      "#scelta",
+      "#esistenzialismo",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396633+00:00"
+  },
+  {
+    "quote": "Il viaggio è la meta.",
+    "author": "Proverbio zen",
+    "category": "viaggio",
+    "caption": "Arrivare è solo una parte della storia.",
+    "hashtags": [
+      "#citazioni",
+      "#viaggio",
+      "#zen",
+      "#cammino",
+      "#meta",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396635+00:00"
+  },
+  {
+    "quote": "La speranza è l'ultima dea.",
+    "author": "Esiodo",
+    "category": "speranza",
+    "caption": "Resta nel vaso, ma non smette di parlare.",
+    "hashtags": [
+      "#citazioni",
+      "#speranza",
+      "#esiodo",
+      "#mito",
+      "#fiducia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396638+00:00"
+  },
+  {
+    "quote": "Le aspettative sono il ladro della gioia.",
+    "author": "Proverbio",
+    "category": "delusione",
+    "caption": "A volte la delusione è solo la differenza tra sogno e realtà.",
+    "hashtags": [
+      "#citazioni",
+      "#delusione",
+      "#aspettative",
+      "#gioia",
+      "#realtà",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396641+00:00"
+  },
+  {
+    "quote": "La semplicità è la chiave della felicità.",
+    "author": "Proverbio cinese",
+    "category": "minimalismo",
+    "caption": "Meno cose, più spazio per ciò che conta.",
+    "hashtags": [
+      "#citazioni",
+      "#minimalismo",
+      "#semplicità",
+      "#proverbi",
+      "#essenziale",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396644+00:00"
+  },
+  {
+    "quote": "La pace interiore è la vera ricchezza.",
+    "author": "Proverbio buddhista",
+    "category": "pace",
+    "caption": "Nessun conto in banca batte un animo tranquillo.",
+    "hashtags": [
+      "#citazioni",
+      "#pace",
+      "#buddhismo",
+      "#interiore",
+      "#serenità",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-03T18:49:05.396646+00:00"
   }
 ]

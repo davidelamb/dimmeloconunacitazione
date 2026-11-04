@@ -1,20 +1,5 @@
 [
   {
-    "quote": "La mente è come un paracadute: funziona solo se è aperta.",
-    "author": "Albert Einstein",
-    "category": "crescita personale",
-    "caption": "Apri la mente e il mondo diventa più grande.",
-    "hashtags": [
-      "#crescita",
-      "#einstein",
-      "#menteaperta",
-      "#curiosità",
-      "#citazioni",
-      "#crescitaPersonale"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627552+00:00"
-  },
-  {
     "quote": "Chi controlla gli altri può essere potente, ma chi controlla se stesso è davvero forte.",
     "author": "Lao Tzu",
     "category": "forza",
@@ -7386,5 +7371,20 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-03T18:49:05.396646+00:00"
+  },
+  {
+    "quote": "Un viaggio di mille miglia comincia con un solo passo.",
+    "author": "Lao Tzu",
+    "category": "viaggio",
+    "caption": "Anche la strada più lunga inizia con un piede che si muove.",
+    "hashtags": [
+      "#viaggio",
+      "#citazioni",
+      "#laotzu",
+      "#primopasso",
+      "#cammino",
+      "#iniziare"
+    ],
+    "generated_at": "2026-11-04T19:04:50.982091+00:00"
   }
 ]

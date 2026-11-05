@@ -1,35 +1,5 @@
 [
   {
-    "quote": "La speranza è la corda a cui ci aggrappiamo quando tutto sembra perduto.",
-    "author": "Anonimo",
-    "category": "speranza",
-    "caption": "Finché c'è speranza, c'è ancora un passo da fare.",
-    "hashtags": [
-      "#speranza",
-      "#fiducia",
-      "#domani",
-      "#citazioni",
-      "#resilienza",
-      "#forza"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627628+00:00"
-  },
-  {
-    "quote": "La delusione è il prezzo di chi ha creduto in qualcosa di grande.",
-    "author": "Anonimo",
-    "category": "delusione",
-    "caption": "Essere delusi significa aver avuto il coraggio di sperare.",
-    "hashtags": [
-      "#delusione",
-      "#speranza",
-      "#coraggio",
-      "#citazioni",
-      "#emozioni",
-      "#vita"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627632+00:00"
-  },
-  {
     "quote": "La nostalgia è la memoria del cuore.",
     "author": "Anonimo",
     "category": "nostalgia",
@@ -7375,5 +7345,35 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-05T04:16:26.681108+00:00"
+  },
+  {
+    "quote": "La libertà è la possibilità di scegliere tra due cose che ami.",
+    "author": "Zygmunt Bauman",
+    "category": "libertà",
+    "caption": "Scegliere è già un privilegio: anche quando fa male.",
+    "hashtags": [
+      "#libertà",
+      "#scelte",
+      "#filosofia",
+      "#citazioni",
+      "#riflessioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T19:14:31.292924+00:00"
+  },
+  {
+    "quote": "La famiglia è il luogo dove si impara ad amare senza condizioni.",
+    "author": "Anonimo",
+    "category": "famiglia",
+    "caption": "È lì che impariamo il primo alfabeto dell'amore.",
+    "hashtags": [
+      "#famiglia",
+      "#amore",
+      "#radici",
+      "#citazioni",
+      "#casa",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T19:14:31.292968+00:00"
   }
 ]

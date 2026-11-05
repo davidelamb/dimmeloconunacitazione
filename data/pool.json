@@ -1,245 +1,5 @@
 [
   {
-    "quote": "Chi controlla gli altri può essere potente, ma chi controlla se stesso è davvero forte.",
-    "author": "Lao Tzu",
-    "category": "forza",
-    "caption": "La forza più grande è la padronanza di sé.",
-    "hashtags": [
-      "#forza",
-      "#laotzu",
-      "#padronanzadisé",
-      "#filosofia",
-      "#citazioni",
-      "#saggezza"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627557+00:00"
-  },
-  {
-    "quote": "Un uomo che osa sprecare un'ora del suo tempo non ha scoperto il valore della vita.",
-    "author": "Charles Darwin",
-    "category": "tempo",
-    "caption": "Il tempo non si compra. Si sceglie come spenderlo.",
-    "hashtags": [
-      "#tempo",
-      "#darwin",
-      "#valoredellavita",
-      "#citazioni",
-      "#consapevolezza",
-      "#vita"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627561+00:00"
-  },
-  {
-    "quote": "L'amicizia raddoppia le gioie e divide i dolori.",
-    "author": "Francesco Bacone",
-    "category": "amicizia",
-    "caption": "Un amico è la metà del peso e il doppio della gioia.",
-    "hashtags": [
-      "#amicizia",
-      "#bacone",
-      "#amici",
-      "#condivisione",
-      "#citazioni",
-      "#gioia"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627566+00:00"
-  },
-  {
-    "quote": "La famiglia è la prima e più importante scuola di amore.",
-    "author": "Madre Teresa di Calcutta",
-    "category": "famiglia",
-    "caption": "Tutto comincia da casa. L'amore si impara lì.",
-    "hashtags": [
-      "#famiglia",
-      "#madreteresa",
-      "#amore",
-      "#casa",
-      "#citazioni",
-      "#valori"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627570+00:00"
-  },
-  {
-    "quote": "La solitudine è il silenzio in cui si sente la propria voce.",
-    "author": "Anonimo",
-    "category": "solitudine",
-    "caption": "A volte stare soli è il modo migliore per ritrovarsi.",
-    "hashtags": [
-      "#solitudine",
-      "#silenzio",
-      "#ascoltarsi",
-      "#citazioni",
-      "#introspezione",
-      "#pace"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627574+00:00"
-  },
-  {
-    "quote": "Un sogno diventa realtà quando gli dai gambe.",
-    "author": "Anonimo",
-    "category": "sogni",
-    "caption": "I sogni restano sogni finché non li fai camminare.",
-    "hashtags": [
-      "#sogni",
-      "#realtà",
-      "#impegno",
-      "#citazioni",
-      "#motivazione",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627578+00:00"
-  },
-  {
-    "quote": "Il lavoro allontana da noi tre grandi mali: la noia, il vizio e il bisogno.",
-    "author": "Voltaire",
-    "category": "lavoro",
-    "caption": "Il lavoro non è solo dovere: è anche cura di sé.",
-    "hashtags": [
-      "#lavoro",
-      "#voltaire",
-      "#dignità",
-      "#citazioni",
-      "#impegno",
-      "#vita"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627585+00:00"
-  },
-  {
-    "quote": "Un leader è colui che conosce la strada, percorre la strada e mostra la strada.",
-    "author": "John C. Maxwell",
-    "category": "leadership",
-    "caption": "Guidare significa camminare per primi, non solo indicare.",
-    "hashtags": [
-      "#leadership",
-      "#maxwell",
-      "#guidare",
-      "#esempio",
-      "#citazioni",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627589+00:00"
-  },
-  {
-    "quote": "Il perdono è la chiave che apre la porta del risentimento.",
-    "author": "Anonimo",
-    "category": "perdono",
-    "caption": "Perdonare non è dimenticare: è smettere di portare peso.",
-    "hashtags": [
-      "#perdono",
-      "#lasciareandare",
-      "#libertà",
-      "#citazioni",
-      "#pace",
-      "#cuore"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627593+00:00"
-  },
-  {
-    "quote": "La maturità è quando smetti di incolpare gli altri per ciò che ti accade.",
-    "author": "Anonimo",
-    "category": "maturità",
-    "caption": "Crescere è prendersi la responsabilità della propria storia.",
-    "hashtags": [
-      "#maturità",
-      "#responsabilità",
-      "#crescita",
-      "#citazioni",
-      "#consapevolezza",
-      "#vita"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627600+00:00"
-  },
-  {
-    "quote": "L'ironia è l'arma dei forti e il rifugio dei saggi.",
-    "author": "Anonimo",
-    "category": "ironia",
-    "caption": "Ridere di sé è il primo passo per non prendersi troppo sul serio.",
-    "hashtags": [
-      "#ironia",
-      "#saggezza",
-      "#umorismo",
-      "#citazioni",
-      "#leggerezza",
-      "#vita"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627603+00:00"
-  },
-  {
-    "quote": "La filosofia è la ricerca della verità attraverso il dubbio.",
-    "author": "Anonimo",
-    "category": "filosofia",
-    "caption": "Domandare è già un modo di avvicinarsi alla verità.",
-    "hashtags": [
-      "#filosofia",
-      "#dubbio",
-      "#verità",
-      "#citazioni",
-      "#pensiero",
-      "#saggezza"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627607+00:00"
-  },
-  {
-    "quote": "La semplicità è il risultato finale della massima complessità.",
-    "author": "Leonardo da Vinci",
-    "category": "minimalismo",
-    "caption": "Togliere il superfluo è l'arte più difficile e più bella.",
-    "hashtags": [
-      "#minimalismo",
-      "#leonardo",
-      "#semplicità",
-      "#essenziale",
-      "#citazioni",
-      "#arte"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627611+00:00"
-  },
-  {
-    "quote": "La pace interiore è la più grande delle vittorie.",
-    "author": "Anonimo",
-    "category": "pace",
-    "caption": "Vincere fuori serve a poco se dentro c'è ancora guerra.",
-    "hashtags": [
-      "#pace",
-      "#paceinteriore",
-      "#serenità",
-      "#citazioni",
-      "#benessere",
-      "#equilibrio"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627615+00:00"
-  },
-  {
-    "quote": "Lo sport è la scuola della vita: insegna a vincere e a perdere con dignità.",
-    "author": "Anonimo",
-    "category": "sport",
-    "caption": "Sul campo si impara ciò che serve fuori: impegno, rispetto, umiltà.",
-    "hashtags": [
-      "#sport",
-      "#scuoladivita",
-      "#rispetto",
-      "#citazioni",
-      "#impegno",
-      "#squadra"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627618+00:00"
-  },
-  {
-    "quote": "La giovinezza è il tempo in cui si osa, la maturità il tempo in cui si sceglie.",
-    "author": "Anonimo",
-    "category": "giovinezza",
-    "caption": "Ogni età ha il suo coraggio. Nessuna è migliore dell'altra.",
-    "hashtags": [
-      "#giovinezza",
-      "#maturità",
-      "#età",
-      "#citazioni",
-      "#crescita",
-      "#vita"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627622+00:00"
-  },
-  {
     "quote": "La speranza è la corda a cui ci aggrappiamo quando tutto sembra perduto.",
     "author": "Anonimo",
     "category": "speranza",
@@ -7386,5 +7146,234 @@
       "#iniziare"
     ],
     "generated_at": "2026-11-04T19:04:50.982091+00:00"
+  },
+  {
+    "quote": "Non possiamo risolvere i nostri problemi con lo stesso modo di pensare che li ha creati.",
+    "author": "Albert Einstein",
+    "category": "cambiamento",
+    "caption": "Se il problema non si muove, forse devi muoverti tu.",
+    "hashtags": [
+      "#cambiamento",
+      "#crescita",
+      "#citazioni",
+      "#einstein",
+      "#prospettiva",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.680952+00:00"
+  },
+  {
+    "quote": "La vita è ciò che facciamo di essa.",
+    "author": "Kōrō Honda",
+    "category": "vita",
+    "caption": "Non al destino: al tuo modo di rispondere.",
+    "hashtags": [
+      "#vita",
+      "#scelte",
+      "#citazioni",
+      "#filosofia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.680978+00:00"
+  },
+  {
+    "quote": "Non c'è niente di più forte di un cuore che sa amare senza chiedere nulla in cambio.",
+    "author": "Fëdor Dostoevskij",
+    "category": "amore",
+    "caption": "Amare senza contare è il coraggio più silenzioso.",
+    "hashtags": [
+      "#amore",
+      "#dostoevskij",
+      "#citazioni",
+      "#cuore",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681026+00:00"
+  },
+  {
+    "quote": "La disciplina è il ponte tra gli obiettivi e i risultati.",
+    "author": "Jim Rohn",
+    "category": "disciplina",
+    "caption": "Il ponte lo costruisci un mattino alla volta.",
+    "hashtags": [
+      "#disciplina",
+      "#obiettivi",
+      "#citazioni",
+      "#jimrohn",
+      "#costanza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681032+00:00"
+  },
+  {
+    "quote": "Il coraggio è fatto di paura, ma è più forte di essa.",
+    "author": "Nelson Mandela",
+    "category": "coraggio",
+    "caption": "La paura c'è. Il punto è cosa ci fai sopra.",
+    "hashtags": [
+      "#coraggio",
+      "#mandela",
+      "#paura",
+      "#citazioni",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681038+00:00"
+  },
+  {
+    "quote": "Non ho mai incontrato una persona che sapesse così poco di sé da non poter insegnarmi qualcosa.",
+    "author": "Michel de Montaigne",
+    "category": "crescita personale",
+    "caption": "Ogni incontro è una lezione, anche quando non sembra.",
+    "hashtags": [
+      "#crescita",
+      "#montaigne",
+      "#citazioni",
+      "#imparare",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681043+00:00"
+  },
+  {
+    "quote": "Il modo migliore per predire il futuro è inventarlo.",
+    "author": "Alan Kay",
+    "category": "sogni",
+    "caption": "Nessuno ti consegnerà il domani già scritto.",
+    "hashtags": [
+      "#sogni",
+      "#futuro",
+      "#citazioni",
+      "#alankay",
+      "#visione",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681048+00:00"
+  },
+  {
+    "quote": "Il tempo che hai è limitato, non sprecarlo vivendo la vita di qualcun altro.",
+    "author": "Steve Jobs",
+    "category": "tempo",
+    "caption": "Il calendario è tuo. Anche le priorità.",
+    "hashtags": [
+      "#tempo",
+      "#stevejobs",
+      "#citazioni",
+      "#priorità",
+      "#vita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681054+00:00"
+  },
+  {
+    "quote": "Un amico è una persona con cui puoi essere sincero.",
+    "author": "Ralph Waldo Emerson",
+    "category": "amicizia",
+    "caption": "Sincerità senza paura: rarità da coltivare.",
+    "hashtags": [
+      "#amicizia",
+      "#emerson",
+      "#citazioni",
+      "#sincerità",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681060+00:00"
+  },
+  {
+    "quote": "La famiglia è il luogo in cui impariamo a diventare persone.",
+    "author": "Papa Giovanni Paolo II",
+    "category": "famiglia",
+    "caption": "Si impara a essere umani prima che a essere grandi.",
+    "hashtags": [
+      "#famiglia",
+      "#citazioni",
+      "#radici",
+      "#giovannipaoloII",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681066+00:00"
+  },
+  {
+    "quote": "La solitudine è la condizione in cui si impara a stare con se stessi.",
+    "author": "Henry David Thoreau",
+    "category": "solitudine",
+    "caption": "Stare soli non è vuoto: è allenamento.",
+    "hashtags": [
+      "#solitudine",
+      "#thoreau",
+      "#citazioni",
+      "#silenzio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681071+00:00"
+  },
+  {
+    "quote": "Il lavoro è il rifugio di chi non ha altre risorse.",
+    "author": "Oscar Wilde",
+    "category": "lavoro",
+    "caption": "Ironia amara, ma qualche volta vera.",
+    "hashtags": [
+      "#lavoro",
+      "#oscarwilde",
+      "#citazioni",
+      "#ironia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681081+00:00"
+  },
+  {
+    "quote": "Un leader è colui che sa servire prima di guidare.",
+    "author": "Robert K. Greenleaf",
+    "category": "leadership",
+    "caption": "Guidare, prima di tutto, significa farsi carico.",
+    "hashtags": [
+      "#leadership",
+      "#greenleaf",
+      "#citazioni",
+      "#servizio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681086+00:00"
+  },
+  {
+    "quote": "Il viaggio è la cosa più bella che ci sia, se sai guardare.",
+    "author": "Robert Louis Stevenson",
+    "category": "viaggio",
+    "caption": "Non conta dove arrivi, conta come guardi.",
+    "hashtags": [
+      "#viaggio",
+      "#stevenson",
+      "#citazioni",
+      "#sguardo",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681094+00:00"
+  },
+  {
+    "quote": "La nostalgia è il dolore di non poter tornare.",
+    "author": "Milan Kundera",
+    "category": "nostalgia",
+    "caption": "Il passato non si riapre: si porta con sé.",
+    "hashtags": [
+      "#nostalgia",
+      "#kundera",
+      "#citazioni",
+      "#memoria",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681100+00:00"
+  },
+  {
+    "quote": "La meraviglia è l'inizio della filosofia.",
+    "author": "Platone",
+    "category": "filosofia",
+    "caption": "Fermati a guardare, prima di spiegare.",
+    "hashtags": [
+      "#filosofia",
+      "#platone",
+      "#citazioni",
+      "#meraviglia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-05T04:16:26.681108+00:00"
   }
 ]

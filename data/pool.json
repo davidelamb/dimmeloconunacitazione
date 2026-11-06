@@ -1,201 +1,5 @@
 [
   {
-    "quote": "La nostalgia è la memoria del cuore.",
-    "author": "Anonimo",
-    "category": "nostalgia",
-    "caption": "A volte il passato bussa piano, e ci ricorda chi siamo stati.",
-    "hashtags": [
-      "#nostalgia",
-      "#memoria",
-      "#passato",
-      "#citazioni",
-      "#cuore",
-      "#ricordi"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627636+00:00"
-  },
-  {
-    "quote": "Il destino non è una questione di caso, ma di scelta.",
-    "author": "William Jennings Bryan",
-    "category": "destino",
-    "caption": "Il destino si costruisce con le decisioni di ogni giorno.",
-    "hashtags": [
-      "#destino",
-      "#scelte",
-      "#responsabilità",
-      "#citazioni",
-      "#vita",
-      "#futuro"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627640+00:00"
-  },
-  {
-    "quote": "La consapevolezza è il primo passo verso il cambiamento.",
-    "author": "Anonimo",
-    "category": "consapevolezza",
-    "caption": "Non puoi cambiare ciò che non vedi. Guarda dentro.",
-    "hashtags": [
-      "#consapevolezza",
-      "#cambiamento",
-      "#crescita",
-      "#citazioni",
-      "#introspezione",
-      "#vita"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627644+00:00"
-  },
-  {
-    "quote": "L'autostima è il coraggio di piacersi senza il permesso degli altri.",
-    "author": "Anonimo",
-    "category": "autostima",
-    "caption": "Il primo amore da coltivare è quello verso te stesso.",
-    "hashtags": [
-      "#autostima",
-      "#amoredisé",
-      "#coraggio",
-      "#citazioni",
-      "#benessere",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-13T04:34:14.627647+00:00"
-  },
-  {
-    "quote": "L'uomo che non ha mai fallito è l'uomo che non ha mai tentato nulla di nuovo.",
-    "author": "Albert Einstein",
-    "category": "fallimento",
-    "caption": "Il fallimento non è la fine: è la prova che hai avuto il coraggio di provare.",
-    "hashtags": [
-      "#fallimento",
-      "#coraggio",
-      "#crescita",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#riprova",
-      "#lezione"
-    ],
-    "generated_at": "2026-10-14T02:43:48.253624+00:00"
-  },
-  {
-    "quote": "La libertà non è fare ciò che ci piace, ma volere ciò che possiamo.",
-    "author": "Jean-Jacques Rousseau",
-    "category": "libertà",
-    "caption": "Liberi davvero non quando facciamo tutto, ma quando scegliamo ciò che ci rende migliori.",
-    "hashtags": [
-      "#libertà",
-      "#scelte",
-      "#filosofia",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-10-14T02:43:48.253654+00:00"
-  },
-  {
-    "quote": "La pazienza è la più eroica delle virtù, proprio perché non ha alcuna apparenza di eroismo.",
-    "author": "Giacomo Leopardi",
-    "category": "pazienza",
-    "caption": "Nessuno applaude chi aspetta, eppure è lì che si costruiscono le cose grandi.",
-    "hashtags": [
-      "#pazienza",
-      "#virtù",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#tempo",
-      "#costanza"
-    ],
-    "generated_at": "2026-10-14T02:43:48.253662+00:00"
-  },
-  {
-    "quote": "Non esiste vento favorevole per il marinaio che non sa dove andare.",
-    "author": "Lucio Anneo Seneca",
-    "category": "scelte",
-    "caption": "Prima di remare, decidi la rotta. Altrimenti ogni vento è sbagliato.",
-    "hashtags": [
-      "#scelte",
-      "#direzione",
-      "#seneca",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-10-14T02:43:48.253670+00:00"
-  },
-  {
-    "quote": "L'amicizia è una pianta che cresce lentamente.",
-    "author": "George Washington",
-    "category": "amicizia",
-    "caption": "Le amicizie vere non nascono in fretta: si coltivano.",
-    "hashtags": [
-      "#amicizia",
-      "#fiducia",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#tempo",
-      "#legami"
-    ],
-    "generated_at": "2026-10-14T02:43:48.253684+00:00"
-  },
-  {
-    "quote": "La vita è per il novanta per cento come la fai e per il dieci per cento come ti capita.",
-    "author": "Irving Berlin",
-    "category": "vita",
-    "caption": "Quanta parte della tua giornata dipende davvero da te?",
-    "hashtags": [
-      "#vita",
-      "#citazioni",
-      "#sceltequotidiane",
-      "#dimmeloconunacitazione",
-      "#atteggiamento",
-      "#riflessioni"
-    ],
-    "generated_at": "2026-10-14T16:10:56.944210+00:00"
-  },
-  {
-    "quote": "Non aspettare il momento perfetto. Prendi il momento e rendilo perfetto.",
-    "author": "Anonimo",
-    "category": "motivazione",
-    "caption": "Il momento giusto non arriva: si costruisce.",
-    "hashtags": [
-      "#motivazione",
-      "#citazioni",
-      "#maiaspettare",
-      "#dimmeloconunacitazione",
-      "#agisci",
-      "#adesso"
-    ],
-    "generated_at": "2026-10-14T16:10:56.944234+00:00"
-  },
-  {
-    "quote": "Il coraggio è ciò che serve per alzarsi e parlare; il coraggio è anche ciò che serve per sedersi e ascoltare.",
-    "author": "Winston Churchill",
-    "category": "coraggio",
-    "caption": "Coraggio non è solo fare rumore.",
-    "hashtags": [
-      "#coraggio",
-      "#citazioni",
-      "#churchill",
-      "#dimmeloconunacitazione",
-      "#ascoltare",
-      "#forza"
-    ],
-    "generated_at": "2026-10-14T16:10:56.944240+00:00"
-  },
-  {
-    "quote": "Il fallimento è l'opportunità di iniziare di nuovo, questa volta in modo più intelligente.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Cadere bene è già metà del rialzarsi.",
-    "hashtags": [
-      "#fallimento",
-      "#citazioni",
-      "#henryford",
-      "#dimmeloconunacitazione",
-      "#riprovare",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-14T16:10:56.944244+00:00"
-  },
-  {
     "quote": "La resilienza è la capacità di affrontare le avversità e di uscirne più forti.",
     "author": "Sheryl Sandberg",
     "category": "resilienza",
@@ -7375,5 +7179,200 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-05T19:14:31.292968+00:00"
+  },
+  {
+    "quote": "Chi non ha mai commesso un errore non ha mai provato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "L'errore non è il contrario del coraggio: spesso è la sua prova.",
+    "hashtags": [
+      "#citazioni",
+      "#fallimento",
+      "#errori",
+      "#einstein",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564169+00:00"
+  },
+  {
+    "quote": "La libertà non è fare ciò che si vuole, ma volere ciò che si fa.",
+    "author": "Jean-Paul Sartre",
+    "category": "libertà",
+    "caption": "Forse la libertà più difficile è quella di scegliere con consapevolezza.",
+    "hashtags": [
+      "#libertà",
+      "#sartre",
+      "#filosofia",
+      "#scelte",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564194+00:00"
+  },
+  {
+    "quote": "Non c'è vento favorevole per il marinaio che non sa dove andare.",
+    "author": "Lucio Anneo Seneca",
+    "category": "scelte",
+    "caption": "Prima della rotta, serve una direzione.",
+    "hashtags": [
+      "#scelte",
+      "#seneca",
+      "#direzione",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#vita"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564206+00:00"
+  },
+  {
+    "quote": "La solitudine è la scuola in cui si impara a stare con se stessi.",
+    "author": "Anonimo",
+    "category": "solitudine",
+    "caption": "A volte il silenzio è l'unico maestro disponibile.",
+    "hashtags": [
+      "#solitudine",
+      "#silenzio",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#consapevolezza",
+      "#starebene"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564213+00:00"
+  },
+  {
+    "quote": "La famiglia non è solo una cosa importante: è tutto.",
+    "author": "Papa Giovanni Paolo II",
+    "category": "famiglia",
+    "caption": "Ci sono legami che non si scelgono ma che ci definiscono.",
+    "hashtags": [
+      "#famiglia",
+      "#legami",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#amore",
+      "#radici"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564218+00:00"
+  },
+  {
+    "quote": "Non si può cambiare il vento, ma si possono orientare le vele.",
+    "author": "Proverbio",
+    "category": "cambiamento",
+    "caption": "Il controllo è raramente sul mondo; spesso è su come lo affrontiamo.",
+    "hashtags": [
+      "#cambiamento",
+      "#adattarsi",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#vela",
+      "#vita"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564224+00:00"
+  },
+  {
+    "quote": "Il tempo è l'immagine mobile dell'eternità.",
+    "author": "Platone",
+    "category": "tempo",
+    "caption": "Forse il tempo non ci sfugge: ci insegna a guardare meglio.",
+    "hashtags": [
+      "#tempo",
+      "#platone",
+      "#filosofia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#eternità"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564229+00:00"
+  },
+  {
+    "quote": "La felicità non è un ideale della ragione, ma dell'immaginazione.",
+    "author": "Immanuel Kant",
+    "category": "felicità",
+    "caption": "Forse la felicità va prima immaginata, poi riconosciuta.",
+    "hashtags": [
+      "#felicità",
+      "#kant",
+      "#immaginazione",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#ragione"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564237+00:00"
+  },
+  {
+    "quote": "La semplicità è la massima raffinatezza.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "Togliere è spesso più difficile che aggiungere.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#leonardo",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#essenziale"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564245+00:00"
+  },
+  {
+    "quote": "La pace interiore è la cosa più preziosa che possiamo coltivare.",
+    "author": "Anonimo",
+    "category": "pace",
+    "caption": "Prima di cercare quiete fuori, vale la pena provare dentro.",
+    "hashtags": [
+      "#pace",
+      "#interiore",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#quiete",
+      "#benessere"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564250+00:00"
+  },
+  {
+    "quote": "Lo sport non costruisce il carattere: lo rivela.",
+    "author": "Heywood Broun",
+    "category": "sport",
+    "caption": "In campo si vede chi sei, non chi vorresti sembrare.",
+    "hashtags": [
+      "#sport",
+      "#carattere",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#allenamento",
+      "#verità"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564255+00:00"
+  },
+  {
+    "quote": "La giovinezza non è un periodo della vita, è uno stato mentale.",
+    "author": "Anonimo",
+    "category": "giovinezza",
+    "caption": "Si può invecchiare senza diventare vecchi.",
+    "hashtags": [
+      "#giovinezza",
+      "#mente",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#energia",
+      "#vita"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564260+00:00"
+  },
+  {
+    "quote": "Il perdono è il profumo che la viola lascia sul tallone che l'ha calpestata.",
+    "author": "Mark Twain",
+    "category": "perdono",
+    "caption": "Perdonare non cancella il dolore: gli toglie il potere di governarci.",
+    "hashtags": [
+      "#perdono",
+      "#twain",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#libertà",
+      "#cuore"
+    ],
+    "generated_at": "2026-11-06T04:13:37.564268+00:00"
   }
 ]

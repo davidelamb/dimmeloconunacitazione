@@ -1,95 +1,5 @@
 [
   {
-    "quote": "I sogni sono l'unica cosa che non puoi comprare con il denaro.",
-    "author": "Walt Disney",
-    "category": "sogni",
-    "caption": "I sogni si costruiscono con il coraggio, non con il portafoglio.",
-    "hashtags": [
-      "#sogni",
-      "#waltdisney",
-      "#citazioni",
-      "#coraggio",
-      "#immaginazione",
-      "#vita"
-    ],
-    "generated_at": "2026-10-16T02:16:28.037120+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più forte di un cuore che ha imparato a perdonare.",
-    "author": "Buddha",
-    "category": "perdono",
-    "caption": "Perdonare non è dimenticare: è smettere di portare peso.",
-    "hashtags": [
-      "#perdono",
-      "#buddha",
-      "#citazioni",
-      "#cuore",
-      "#lasciareandare",
-      "#pace"
-    ],
-    "generated_at": "2026-10-16T02:16:28.037125+00:00"
-  },
-  {
-    "quote": "Chi guarda fuori sogna, chi guarda dentro si sveglia.",
-    "author": "Carl Gustav Jung",
-    "category": "consapevolezza",
-    "caption": "Il risveglio non è fuori: è dentro di te.",
-    "hashtags": [
-      "#consapevolezza",
-      "#jung",
-      "#citazioni",
-      "#interiorità",
-      "#sogni",
-      "#psicologia"
-    ],
-    "generated_at": "2026-10-16T02:16:28.037132+00:00"
-  },
-  {
-    "quote": "La bellezza comincia nel momento in cui decidi di essere te stesso.",
-    "author": "Coco Chanel",
-    "category": "autostima",
-    "caption": "La bellezza più autentica non si compra: nasce dalla scelta di essere fedeli a se stessi.",
-    "hashtags": [
-      "#autostima",
-      "#bellezza",
-      "#essereSeStessi",
-      "#coraggio",
-      "#crescitaPersonale",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779433+00:00"
-  },
-  {
-    "quote": "Non è mai troppo tardi per essere ciò che avresti potuto essere.",
-    "author": "George Eliot",
-    "category": "cambiamento",
-    "caption": "Il momento giusto per cambiare è sempre adesso, anche quando sembra tardi.",
-    "hashtags": [
-      "#cambiamento",
-      "#rinascita",
-      "#maiTroppoTardi",
-      "#citazioni",
-      "#motivazione",
-      "#nuovoInizio"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779464+00:00"
-  },
-  {
-    "quote": "La curiosità è la madre della scienza.",
-    "author": "Anonimo",
-    "category": "consapevolezza",
-    "caption": "Ogni scoperta nasce da una domanda fatta con il cuore aperto.",
-    "hashtags": [
-      "#curiosità",
-      "#scienza",
-      "#domande",
-      "#consapevolezza",
-      "#citazioni",
-      "#conoscenza"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779473+00:00"
-  },
-  {
     "quote": "Chi non ha mai fallito, non ha mai vissuto.",
     "author": "Anonimo",
     "category": "fallimento",
@@ -7376,5 +7286,95 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-06T18:40:53.987429+00:00"
+  },
+  {
+    "quote": "La motivazione ti fa iniziare, l'abitudine ti fa continuare.",
+    "author": "Jim Ryun",
+    "category": "motivazione",
+    "caption": "L'entusiasmo accende, la costanza tiene accesa la luce.",
+    "hashtags": [
+      "#citazioni",
+      "#motivazione",
+      "#abitudini",
+      "#costanza",
+      "#frasimotivazionali",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-07T03:45:31.100094+00:00"
+  },
+  {
+    "quote": "La resilienza è la capacità di trasformare il dolore in forza.",
+    "author": "Boris Cyrulnik",
+    "category": "resilienza",
+    "caption": "Non è dimenticare: è dare una forma nuova a ciò che resta.",
+    "hashtags": [
+      "#citazioni",
+      "#resilienza",
+      "#forza",
+      "#rinascita",
+      "#frasisullaforza",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-07T03:45:31.100122+00:00"
+  },
+  {
+    "quote": "Il cambiamento è la legge della vita. E chi guarda solo al passato o al presente è sicuro di perdere il futuro.",
+    "author": "John F. Kennedy",
+    "category": "cambiamento",
+    "caption": "Il futuro non aspetta chi resta fermo a guardare indietro.",
+    "hashtags": [
+      "#citazioni",
+      "#cambiamento",
+      "#futuro",
+      "#jfk",
+      "#frasisulcambiamento",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-07T03:45:31.100131+00:00"
+  },
+  {
+    "quote": "L'amicizia è un'anima sola in due corpi.",
+    "author": "Aristotele",
+    "category": "amicizia",
+    "caption": "Non serve spiegarsi: basta esserci.",
+    "hashtags": [
+      "#citazioni",
+      "#amicizia",
+      "#aristotele",
+      "#frasisullamicizia",
+      "#legame",
+      "#filosofia"
+    ],
+    "generated_at": "2026-11-07T03:45:31.100142+00:00"
+  },
+  {
+    "quote": "Il tempo è il tessuto di cui è fatta la vita.",
+    "author": "Benjamin Franklin",
+    "category": "tempo",
+    "caption": "Non lo possiedi: lo indossi, attimo per attimo.",
+    "hashtags": [
+      "#citazioni",
+      "#tempo",
+      "#vita",
+      "#franklin",
+      "#frasisultempo",
+      "#presente"
+    ],
+    "generated_at": "2026-11-07T03:45:31.100149+00:00"
+  },
+  {
+    "quote": "Un leader è colui che conosce la strada, la percorre e la mostra.",
+    "author": "John C. Maxwell",
+    "category": "leadership",
+    "caption": "Guidare non è indicare: è camminare per primi.",
+    "hashtags": [
+      "#citazioni",
+      "#leadership",
+      "#esempio",
+      "#frasisullaleadership",
+      "#guida",
+      "#squadra"
+    ],
+    "generated_at": "2026-11-07T03:45:31.100158+00:00"
   }
 ]

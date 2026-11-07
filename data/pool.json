@@ -1,155 +1,5 @@
 [
   {
-    "quote": "Chi non ha mai fallito, non ha mai vissuto.",
-    "author": "Anonimo",
-    "category": "fallimento",
-    "caption": "Il fallimento non è l'opposto della vita: ne è una parte necessaria.",
-    "hashtags": [
-      "#fallimento",
-      "#errori",
-      "#resilienza",
-      "#citazioni",
-      "#crescita",
-      "#vita"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779481+00:00"
-  },
-  {
-    "quote": "La vera amicizia non è quella che dura da sempre, ma quella che resiste ai silenzi.",
-    "author": "Anonimo",
-    "category": "amicizia",
-    "caption": "Un amico vero non ha bisogno di parole per farti sentire a casa.",
-    "hashtags": [
-      "#amicizia",
-      "#silenzi",
-      "#amiciVeri",
-      "#citazioni",
-      "#relazioni",
-      "#fiducia"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779488+00:00"
-  },
-  {
-    "quote": "La speranza è il sogno di un uomo sveglio.",
-    "author": "Aristotele",
-    "category": "speranza",
-    "caption": "Sperare non è dormire: è sognare con gli occhi ben aperti.",
-    "hashtags": [
-      "#speranza",
-      "#sogni",
-      "#Aristotele",
-      "#citazioni",
-      "#fiducia",
-      "#futuro"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779493+00:00"
-  },
-  {
-    "quote": "Non si può insegnare nulla a un uomo: si può solo aiutarlo a scoprire ciò che ha dentro.",
-    "author": "Galileo Galilei",
-    "category": "crescita personale",
-    "caption": "Il vero maestro non riempie: accende la luce che è già in te.",
-    "hashtags": [
-      "#crescitaPersonale",
-      "#Galileo",
-      "#maestri",
-      "#citazioni",
-      "#consapevolezza",
-      "#imparare"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779561+00:00"
-  },
-  {
-    "quote": "La libertà è il diritto di dire no.",
-    "author": "Anonimo",
-    "category": "libertà",
-    "caption": "Essere liberi non è fare tutto, ma poter rifiutare ciò che non ci appartiene.",
-    "hashtags": [
-      "#libertà",
-      "#direNo",
-      "#confini",
-      "#citazioni",
-      "#autostima",
-      "#coraggio"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779569+00:00"
-  },
-  {
-    "quote": "La solitudine è il luogo dove si impara a stare con se stessi.",
-    "author": "Anonimo",
-    "category": "solitudine",
-    "caption": "Stare soli non è una condanna: è un'occasione per ascoltarsi davvero.",
-    "hashtags": [
-      "#solitudine",
-      "#ascolto",
-      "#seStessi",
-      "#citazioni",
-      "#paceInteriore",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779574+00:00"
-  },
-  {
-    "quote": "La pazienza è l'arte di sperare senza fretta.",
-    "author": "Anonimo",
-    "category": "pazienza",
-    "caption": "Saper aspettare è una forma di fiducia nel tempo che verrà.",
-    "hashtags": [
-      "#pazienza",
-      "#fiducia",
-      "#tempo",
-      "#citazioni",
-      "#speranza",
-      "#serenità"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779579+00:00"
-  },
-  {
-    "quote": "Il coraggio non è l'assenza della paura, ma la decisione che qualcosa è più importante della paura.",
-    "author": "Ambrose Redmoon",
-    "category": "coraggio",
-    "caption": "Il coraggio non è non avere paura: è scegliere cosa mettere davanti ad essa.",
-    "hashtags": [
-      "#coraggio",
-      "#paura",
-      "#decisioni",
-      "#citazioni",
-      "#forza",
-      "#motivazione"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779584+00:00"
-  },
-  {
-    "quote": "Il miglior modo per iniziare è smettere di parlare e cominciare a fare.",
-    "author": "Walt Disney",
-    "category": "motivazione",
-    "caption": "Le parole preparano, le azioni trasformano. Il primo passo è sempre il più importante.",
-    "hashtags": [
-      "#motivazione",
-      "#azione",
-      "#WaltDisney",
-      "#citazioni",
-      "#fare",
-      "#successo"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779591+00:00"
-  },
-  {
-    "quote": "Il successo non è definitivo, il fallimento non è fatale: è il coraggio di continuare che conta.",
-    "author": "Winston Churchill",
-    "category": "resilienza",
-    "caption": "Né il trionfo né la sconfitta durano per sempre: conta la scelta di andare avanti.",
-    "hashtags": [
-      "#resilienza",
-      "#Churchill",
-      "#successo",
-      "#fallimento",
-      "#coraggio",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779597+00:00"
-  },
-  {
     "quote": "La felicità non è qualcosa che si possiede, ma qualcosa che si sceglie.",
     "author": "Anonimo",
     "category": "felicità",
@@ -7376,5 +7226,149 @@
       "#squadra"
     ],
     "generated_at": "2026-11-07T03:45:31.100158+00:00"
+  },
+  {
+    "quote": "L'uomo che non rischia nulla può sperare in nulla.",
+    "author": "Friedrich Schiller",
+    "category": "coraggio",
+    "caption": "A volte il rischio più grande è non rischiare affatto.",
+    "hashtags": [
+      "#coraggio",
+      "#rischio",
+      "#citazioni",
+      "#schiller",
+      "#vita",
+      "#coraggiodivivere"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361156+00:00"
+  },
+  {
+    "quote": "Chi ha coraggio ha spesso anche la fortuna dalla sua parte.",
+    "author": "Publilio Siro",
+    "category": "coraggio",
+    "caption": "La fortuna non bussa alla porta di chi non apre mai.",
+    "hashtags": [
+      "#coraggio",
+      "#fortuna",
+      "#citazioni",
+      "#audacia",
+      "#motivazione"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361181+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte del tempo: esso rivela tutto.",
+    "author": "Sofocle",
+    "category": "tempo",
+    "caption": "Il tempo è l'unico giudice che non si può corrompere.",
+    "hashtags": [
+      "#tempo",
+      "#sofocle",
+      "#filosofia",
+      "#verità",
+      "#citazioni",
+      "#riflessioni"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361187+00:00"
+  },
+  {
+    "quote": "Ama e fai ciò che vuoi.",
+    "author": "Agostino d'Ippona",
+    "category": "amore",
+    "caption": "Se la radice è l'amore, i frutti non possono che essere buoni.",
+    "hashtags": [
+      "#amore",
+      "#agostino",
+      "#citazioni",
+      "#filosofia",
+      "#vita",
+      "#amorevero"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361195+00:00"
+  },
+  {
+    "quote": "Il vero viaggio di scoperta non consiste nel cercare nuove terre, ma nell'avere nuovi occhi.",
+    "author": "Marcel Proust",
+    "category": "viaggio",
+    "caption": "Puoi cambiare orizzonte senza spostarti di un metro.",
+    "hashtags": [
+      "#viaggio",
+      "#proust",
+      "#scoperta",
+      "#citazioni",
+      "#crescita",
+      "#sguardonuovo"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361200+00:00"
+  },
+  {
+    "quote": "La solitudine è pericolosa quando ci si entra, preziosa quando ci si vive.",
+    "author": "Gustave Flaubert",
+    "category": "solitudine",
+    "caption": "Stare soli non è un vuoto: è uno spazio da abitare.",
+    "hashtags": [
+      "#solitudine",
+      "#flaubert",
+      "#citazioni",
+      "#introspezione",
+      "#silenzio"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361204+00:00"
+  },
+  {
+    "quote": "La felicità dipende da noi stessi.",
+    "author": "Aristotele",
+    "category": "felicità",
+    "caption": "Nessuno può regalarti la felicità: al massimo può indicarti la strada.",
+    "hashtags": [
+      "#felicità",
+      "#aristotele",
+      "#citazioni",
+      "#scelta",
+      "#benessere"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361212+00:00"
+  },
+  {
+    "quote": "Un amico è una sola anima che abita in due corpi.",
+    "author": "Aristotele",
+    "category": "amicizia",
+    "caption": "Ci sono amicizie che sembrano scritte prima che ci incontrassimo.",
+    "hashtags": [
+      "#amicizia",
+      "#aristotele",
+      "#citazioni",
+      "#amici",
+      "#legami"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361219+00:00"
+  },
+  {
+    "quote": "Nulla di grande è mai nato senza entusiasmo.",
+    "author": "Ralph Waldo Emerson",
+    "category": "motivazione",
+    "caption": "L'entusiasmo è il carburante delle cose che contano.",
+    "hashtags": [
+      "#motivazione",
+      "#emerson",
+      "#entusiasmo",
+      "#citazioni",
+      "#energia"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361224+00:00"
+  },
+  {
+    "quote": "Il successo è andare di fallimento in fallimento senza perdere l'entusiasmo.",
+    "author": "Winston Churchill",
+    "category": "successo",
+    "caption": "Cadere fa parte del gioco: la differenza la fa chi si rialza.",
+    "hashtags": [
+      "#successo",
+      "#churchill",
+      "#fallimento",
+      "#citazioni",
+      "#resilienza"
+    ],
+    "generated_at": "2026-11-07T17:11:07.361228+00:00"
   }
 ]

@@ -1,305 +1,5 @@
 [
   {
-    "quote": "La felicità non è qualcosa che si possiede, ma qualcosa che si sceglie.",
-    "author": "Anonimo",
-    "category": "felicità",
-    "caption": "La felicità non si trova per caso: si costruisce con le scelte di ogni giorno.",
-    "hashtags": [
-      "#felicità",
-      "#scelte",
-      "#gioia",
-      "#citazioni",
-      "#vita",
-      "#serenità"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779602+00:00"
-  },
-  {
-    "quote": "Chi guarda al passato con nostalgia, dimentica che il presente è il futuro di ieri.",
-    "author": "Anonimo",
-    "category": "nostalgia",
-    "caption": "La nostalgia è dolce, ma non deve rubare spazio a ciò che stiamo vivendo ora.",
-    "hashtags": [
-      "#nostalgia",
-      "#presente",
-      "#passato",
-      "#citazioni",
-      "#tempo",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779607+00:00"
-  },
-  {
-    "quote": "La leadership è l'arte di rendere gli altri migliori di quanto pensino di poter essere.",
-    "author": "Anonimo",
-    "category": "leadership",
-    "caption": "Un vero leader non si mette in mostra: fa brillare chi ha accanto.",
-    "hashtags": [
-      "#leadership",
-      "#crescita",
-      "#squadra",
-      "#citazioni",
-      "#fiducia",
-      "#ispirazione"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779612+00:00"
-  },
-  {
-    "quote": "Il viaggio non finisce mai: solo chi non parte crede che esista una meta.",
-    "author": "Anonimo",
-    "category": "viaggio",
-    "caption": "Viaggiare è imparare che la strada vale più della destinazione.",
-    "hashtags": [
-      "#viaggio",
-      "#strada",
-      "#scoperta",
-      "#citazioni",
-      "#libertà",
-      "#avventura"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779617+00:00"
-  },
-  {
-    "quote": "La giovinezza è coraggio, la maturità è saggezza.",
-    "author": "Anonimo",
-    "category": "maturità",
-    "caption": "Ogni età ha il suo dono: la forza di osare e la capacità di capire.",
-    "hashtags": [
-      "#maturità",
-      "#giovinezza",
-      "#saggezza",
-      "#citazioni",
-      "#crescita",
-      "#vita"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779623+00:00"
-  },
-  {
-    "quote": "Le scelte sono il ponte tra ciò che sogniamo e ciò che diventiamo.",
-    "author": "Anonimo",
-    "category": "scelte",
-    "caption": "Ogni decisione è un mattone nella costruzione di chi saremo domani.",
-    "hashtags": [
-      "#scelte",
-      "#decisioni",
-      "#destino",
-      "#citazioni",
-      "#crescita",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779628+00:00"
-  },
-  {
-    "quote": "L'ironia è la cortesia della disperazione.",
-    "author": "Anonimo",
-    "category": "ironia",
-    "caption": "A volte ridere è il modo più intelligente di non soccombere.",
-    "hashtags": [
-      "#ironia",
-      "#umorismo",
-      "#saggezza",
-      "#citazioni",
-      "#vita",
-      "#leggerezza"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779635+00:00"
-  },
-  {
-    "quote": "La filosofia non è una teoria, ma un modo di vivere.",
-    "author": "Anonimo",
-    "category": "filosofia",
-    "caption": "Filosofare significa scegliere ogni giorno come stare al mondo.",
-    "hashtags": [
-      "#filosofia",
-      "#pensiero",
-      "#vita",
-      "#citazioni",
-      "#consapevolezza",
-      "#saggezza"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779640+00:00"
-  },
-  {
-    "quote": "Il minimalismo non è rinuncia: è scegliere ciò che conta davvero.",
-    "author": "Anonimo",
-    "category": "minimalismo",
-    "caption": "Togliere il superfluo è il modo più diretto per ritrovare l'essenziale.",
-    "hashtags": [
-      "#minimalismo",
-      "#essenziale",
-      "#semplicità",
-      "#citazioni",
-      "#libertà",
-      "#pace"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779645+00:00"
-  },
-  {
-    "quote": "Lo sport insegna che il sudore di oggi è la forza di domani.",
-    "author": "Anonimo",
-    "category": "sport",
-    "caption": "Ogni allenamento è una promessa mantenuta verso se stessi.",
-    "hashtags": [
-      "#sport",
-      "#allenamento",
-      "#forza",
-      "#citazioni",
-      "#disciplina",
-      "#motivazione"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779652+00:00"
-  },
-  {
-    "quote": "La consapevolezza è il momento in cui smetti di reagire e inizi a scegliere.",
-    "author": "Anonimo",
-    "category": "consapevolezza",
-    "caption": "Essere consapevoli significa prendere in mano la propria vita, un pensiero alla volta.",
-    "hashtags": [
-      "#consapevolezza",
-      "#scelte",
-      "#crescitaPersonale",
-      "#citazioni",
-      "#mindfulness",
-      "#vita"
-    ],
-    "generated_at": "2026-10-16T15:46:50.779658+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più nobile del saper sopportare le avversità con dignità.",
-    "author": "Seneca",
-    "category": "resilienza",
-    "caption": "La dignità non si vede nei giorni facili.",
-    "hashtags": [
-      "#resilienza",
-      "#seneca",
-      "#filosofia",
-      "#forza",
-      "#citazioni",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400544+00:00"
-  },
-  {
-    "quote": "La musica è il più grande bene che i mortali possiedano.",
-    "author": "Martin Lutero",
-    "category": "filosofia",
-    "caption": "Ci sono giorni in cui basta una canzone.",
-    "hashtags": [
-      "#musica",
-      "#luther",
-      "#citazioni",
-      "#anima",
-      "#filosofia",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400571+00:00"
-  },
-  {
-    "quote": "La curiosità è una delle forme più alte dell'intelligenza.",
-    "author": "Eleanor Roosevelt",
-    "category": "crescita personale",
-    "caption": "Continua a chiedere. Sempre.",
-    "hashtags": [
-      "#curiosità",
-      "#crescita",
-      "#eleonorroosevelt",
-      "#citazioni",
-      "#imparare",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400580+00:00"
-  },
-  {
-    "quote": "La bellezza è l'eternità che si guarda in uno specchio.",
-    "author": "Khalil Gibran",
-    "category": "consapevolezza",
-    "caption": "A volte basta alzare lo sguardo.",
-    "hashtags": [
-      "#bellezza",
-      "#gibran",
-      "#consapevolezza",
-      "#poesia",
-      "#citazioni",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400585+00:00"
-  },
-  {
-    "quote": "Nessun inverno dura per sempre, nessuna primavera salta il suo turno.",
-    "author": "Hal Borland",
-    "category": "speranza",
-    "caption": "Anche oggi il tempo sta facendo il suo lavoro.",
-    "hashtags": [
-      "#speranza",
-      "#stagioni",
-      "#citazioni",
-      "#rinascita",
-      "#fiducia",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400594+00:00"
-  },
-  {
-    "quote": "La mente è tutto. Diventi ciò che pensi.",
-    "author": "Buddha",
-    "category": "consapevolezza",
-    "caption": "I pensieri sono semi, non rumore.",
-    "hashtags": [
-      "#buddha",
-      "#mente",
-      "#consapevolezza",
-      "#pensieri",
-      "#citazioni",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400599+00:00"
-  },
-  {
-    "quote": "Il dubbio è il principio della saggezza.",
-    "author": "Aristotele",
-    "category": "filosofia",
-    "caption": "Chi dubita, sta già cercando.",
-    "hashtags": [
-      "#dubbio",
-      "#aristotele",
-      "#saggezza",
-      "#filosofia",
-      "#citazioni",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400603+00:00"
-  },
-  {
-    "quote": "Chi non sa sorridere ai propri errori, non è ancora cresciuto.",
-    "author": "Confucio",
-    "category": "maturità",
-    "caption": "Ridere di sé è un atto di maturità.",
-    "hashtags": [
-      "#maturità",
-      "#confucio",
-      "#umorismo",
-      "#crescita",
-      "#citazioni",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400611+00:00"
-  },
-  {
-    "quote": "La lettura è un atto di libertà.",
-    "author": "Italo Calvino",
-    "category": "libertà",
-    "caption": "Nessuno può toglierti le pagine che hai letto.",
-    "hashtags": [
-      "#lettura",
-      "#calvino",
-      "#libertà",
-      "#libri",
-      "#citazioni",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400616+00:00"
-  },
-  {
     "quote": "Ogni cosa ha la sua stagione, e ogni stagione ha la sua bellezza.",
     "author": "Publilio Siro",
     "category": "pazienza",
@@ -7370,5 +7070,305 @@
       "#resilienza"
     ],
     "generated_at": "2026-11-07T17:11:07.361228+00:00"
+  },
+  {
+    "quote": "Non ho tempo per avere fretta.",
+    "author": "Carlo Maria Martini",
+    "category": "tempo",
+    "caption": "Correre non è vivere. A volte il tempo giusto è quello che ci prendiamo.",
+    "hashtags": [
+      "#tempo",
+      "#lentezza",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#vita",
+      "#equilibrio"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731155+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più pratico di una buona teoria.",
+    "author": "Kurt Lewin",
+    "category": "filosofia",
+    "caption": "Le idee non sono aria fritta: sono la mappa prima del passo.",
+    "hashtags": [
+      "#filosofia",
+      "#idee",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#pensiero",
+      "#conoscenza"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731183+00:00"
+  },
+  {
+    "quote": "La cosa più bella che possiamo provare è il mistero.",
+    "author": "Albert Einstein",
+    "category": "consapevolezza",
+    "caption": "Chi smette di meravigliarsi smette anche di cercare.",
+    "hashtags": [
+      "#consapevolezza",
+      "#mistero",
+      "#einstein",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#meraviglia"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731189+00:00"
+  },
+  {
+    "quote": "Chi non sa ridere di se stesso è destinato a essere ridicolo.",
+    "author": "Roberto Gervaso",
+    "category": "ironia",
+    "caption": "Prendersi troppo sul serio è il modo più sicuro per farsi male.",
+    "hashtags": [
+      "#ironia",
+      "#autoironia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#sorriso",
+      "#leggerezza"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731194+00:00"
+  },
+  {
+    "quote": "Il coraggio è fatto per metà di paura e per metà di speranza.",
+    "author": "Oriana Fallaci",
+    "category": "coraggio",
+    "caption": "Essere coraggiosi non significa non tremare: significa tremare e andare lo stesso.",
+    "hashtags": [
+      "#coraggio",
+      "#paura",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#speranza",
+      "#forza"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731201+00:00"
+  },
+  {
+    "quote": "La felicità è come una farfalla: più la rincorri, più ti sfugge.",
+    "author": "Nathaniel Hawthorne",
+    "category": "felicità",
+    "caption": "Smetti di inseguirla e forse si poserà sulla tua spalla.",
+    "hashtags": [
+      "#felicità",
+      "#farfalla",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#vita",
+      "#leggerezza"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731207+00:00"
+  },
+  {
+    "quote": "La libertà è partecipazione.",
+    "author": "Giorgio Gaber",
+    "category": "libertà",
+    "caption": "Non è stare fuori da tutto: è entrarci, con la propria voce.",
+    "hashtags": [
+      "#libertà",
+      "#partecipazione",
+      "#gaber",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#impegno"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731212+00:00"
+  },
+  {
+    "quote": "Il lavoro è amore reso visibile.",
+    "author": "Kahlil Gibran",
+    "category": "lavoro",
+    "caption": "Quello che fai con cura parla di te più di qualsiasi discorso.",
+    "hashtags": [
+      "#lavoro",
+      "#gibran",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#passione",
+      "#cura"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731216+00:00"
+  },
+  {
+    "quote": "La crescita comincia quando accetti di non essere arrivato.",
+    "author": "James Clear",
+    "category": "crescita personale",
+    "caption": "Il punto di arrivo è solo un altro punto di partenza.",
+    "hashtags": [
+      "#crescita",
+      "#crescitapersonale",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#migliorarsi",
+      "#abitudini"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731221+00:00"
+  },
+  {
+    "quote": "Non importa quanto vai piano, purché tu non ti fermi.",
+    "author": "Confucio",
+    "category": "resilienza",
+    "caption": "La costanza batte la velocità. Sempre.",
+    "hashtags": [
+      "#resilienza",
+      "#costanza",
+      "#confucio",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#nonmollare"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731225+00:00"
+  },
+  {
+    "quote": "Non è la mente che va educata, ma il cuore.",
+    "author": "Lev Tolstoj",
+    "category": "famiglia",
+    "caption": "Le lezioni più importanti non si imparano sui libri.",
+    "hashtags": [
+      "#famiglia",
+      "#cuore",
+      "#tolstoj",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#educazione"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731230+00:00"
+  },
+  {
+    "quote": "La speranza è quella cosa con le piume che si posa nell'anima.",
+    "author": "Emily Dickinson",
+    "category": "speranza",
+    "caption": "Non fa rumore, non chiede permesso: resta, e canta.",
+    "hashtags": [
+      "#speranza",
+      "#dickinson",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#poesia",
+      "#resilienza"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731235+00:00"
+  },
+  {
+    "quote": "Il successo è la capacità di sopportare il successo.",
+    "author": "Pietro Citati",
+    "category": "successo",
+    "caption": "Vincere è facile. Restare se stessi dopo, molto meno.",
+    "hashtags": [
+      "#successo",
+      "#citazioni",
+      "#dimmelo conunacitazione",
+      "#umiltà",
+      "#equilibrio",
+      "#vita"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731239+00:00"
+  },
+  {
+    "quote": "Chi vuole fare qualcosa trova un modo, chi non vuole trova una scusa.",
+    "author": "Proverbio arabo",
+    "category": "motivazione",
+    "caption": "Le scuse sono comode, ma non portano da nessuna parte.",
+    "hashtags": [
+      "#motivazione",
+      "#proverbio",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#faredasé",
+      "#determinazione"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731243+00:00"
+  },
+  {
+    "quote": "La pace comincia con un sorriso.",
+    "author": "Madre Teresa di Calcutta",
+    "category": "pace",
+    "caption": "A volte la rivoluzione più grande è una gentilezza inattesa.",
+    "hashtags": [
+      "#pace",
+      "#madreteresa",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#gentilezza",
+      "#sorriso"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731253+00:00"
+  },
+  {
+    "quote": "Chi non legge, a settant'anni avrà vissuto una sola vita: la propria.",
+    "author": "Umberto Eco",
+    "category": "viaggio",
+    "caption": "I libri sono passaporti che non chiedono il visto.",
+    "hashtags": [
+      "#viaggio",
+      "#lettura",
+      "#eco",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#libri"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731257+00:00"
+  },
+  {
+    "quote": "Il fallimento è il maestro dei saggi.",
+    "author": "Proverbio cinese",
+    "category": "fallimento",
+    "caption": "Sbagliare è un modo costoso ma efficace di imparare.",
+    "hashtags": [
+      "#fallimento",
+      "#proverbio",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#errori",
+      "#lezione"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731263+00:00"
+  },
+  {
+    "quote": "Ogni scelta è una rinuncia, ma anche una promessa.",
+    "author": "Søren Kierkegaard",
+    "category": "scelte",
+    "caption": "Scegliere significa dire addio a qualcosa per dire sì a qualcos'altro.",
+    "hashtags": [
+      "#scelte",
+      "#kierkegaard",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#decisioni",
+      "#vita"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731268+00:00"
+  },
+  {
+    "quote": "Il tempo è il fuoco in cui bruciamo.",
+    "author": "Publilio Siro",
+    "category": "tempo",
+    "caption": "Ogni giorno è legna che va in cenere: scegli bene cosa bruciare.",
+    "hashtags": [
+      "#tempo",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#presente",
+      "#consapevolezza",
+      "#vita"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731272+00:00"
+  },
+  {
+    "quote": "La vecchiaia è la giovinezza che ha imparato qualcosa.",
+    "author": "Henri Matisse",
+    "category": "maturità",
+    "caption": "Invecchiare bene è una forma di intelligenza.",
+    "hashtags": [
+      "#maturità",
+      "#vecchiaia",
+      "#matisse",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#saggezza"
+    ],
+    "generated_at": "2026-11-08T03:24:23.731276+00:00"
   }
 ]

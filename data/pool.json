@@ -1,110 +1,5 @@
 [
   {
-    "quote": "La delusione è la prova che abbiamo desiderato.",
-    "author": "Anonimo",
-    "category": "delusione",
-    "caption": "Anche la delusione parla di te.",
-    "hashtags": [
-      "#delusione",
-      "#desiderio",
-      "#emozioni",
-      "#citazioni",
-      "#fragilità",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400668+00:00"
-  },
-  {
-    "quote": "Il minimalismo è la ricerca di ciò che è essenziale.",
-    "author": "Anonimo",
-    "category": "minimalismo",
-    "caption": "Togliere per vedere meglio.",
-    "hashtags": [
-      "#minimalismo",
-      "#essenziale",
-      "#semplicità",
-      "#citazioni",
-      "#ordine",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400676+00:00"
-  },
-  {
-    "quote": "La pace è il frutto della giustizia.",
-    "author": "Paolo VI",
-    "category": "pace",
-    "caption": "Non c'è quiete senza equità.",
-    "hashtags": [
-      "#pace",
-      "#giustizia",
-      "#PaoloVI",
-      "#equilibrio",
-      "#citazioni",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400683+00:00"
-  },
-  {
-    "quote": "Lo sport è la gioia del corpo che si scopre capace.",
-    "author": "Anonimo",
-    "category": "sport",
-    "caption": "Il corpo che si supera è una festa.",
-    "hashtags": [
-      "#sport",
-      "#corpo",
-      "#gioia",
-      "#allenamento",
-      "#citazioni",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400690+00:00"
-  },
-  {
-    "quote": "La giovinezza è una stagione, non un'età.",
-    "author": "Anonimo",
-    "category": "giovinezza",
-    "caption": "Si può essere giovani anche a sessant'anni.",
-    "hashtags": [
-      "#giovinezza",
-      "#età",
-      "#spirito",
-      "#citazioni",
-      "#vitalità",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400694+00:00"
-  },
-  {
-    "quote": "Le scelte sono il nostro modo di parlare al futuro.",
-    "author": "Anonimo",
-    "category": "scelte",
-    "caption": "Ogni decisione è una lettera al domani.",
-    "hashtags": [
-      "#scelte",
-      "#futuro",
-      "#decisioni",
-      "#citazioni",
-      "#responsabilità",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400699+00:00"
-  },
-  {
-    "quote": "Il destino non è ciò che ci accade, ma ciò che scegliamo di fare con ciò che ci accade.",
-    "author": "Anonimo",
-    "category": "destino",
-    "caption": "Il destino è un verbo, non un sostantivo.",
-    "hashtags": [
-      "#destino",
-      "#scelte",
-      "#libertà",
-      "#citazioni",
-      "#vita",
-      "#dimmelloconunacitazione"
-    ],
-    "generated_at": "2026-10-17T14:39:36.400703+00:00"
-  },
-  {
     "quote": "La nostalgia è la memoria che si commuove.",
     "author": "Anonimo",
     "category": "nostalgia",
@@ -7370,5 +7265,110 @@
       "#insieme"
     ],
     "generated_at": "2026-11-08T17:23:52.092631+00:00"
+  },
+  {
+    "quote": "La disciplina è la libertà.",
+    "author": "Jocko Willink",
+    "category": "disciplina",
+    "caption": "Sembra un paradosso, ma è così: le regole che ti dai ti rendono libero.",
+    "hashtags": [
+      "#disciplina",
+      "#libertà",
+      "#abitudini",
+      "#costanza",
+      "#quotidiano",
+      "#mente"
+    ],
+    "generated_at": "2026-11-09T21:45:00.095952+00:00"
+  },
+  {
+    "quote": "Non è la montagna che conquistiamo, ma noi stessi.",
+    "author": "Edmund Hillary",
+    "category": "coraggio",
+    "caption": "Ogni salita è in realtà una discesa dentro.",
+    "hashtags": [
+      "#coraggio",
+      "#montagna",
+      "#sfida",
+      "#crescita",
+      "#impresa",
+      "#oltreilimiti"
+    ],
+    "generated_at": "2026-11-09T21:45:00.095982+00:00"
+  },
+  {
+    "quote": "La felicità non è qualcosa di già fatto: viene dalle tue azioni.",
+    "author": "Dalai Lama",
+    "category": "felicità",
+    "caption": "Non si aspetta: si costruisce, gesto dopo gesto.",
+    "hashtags": [
+      "#felicità",
+      "#dalailama",
+      "#azioni",
+      "#quotidiano",
+      "#gioia",
+      "#scelte"
+    ],
+    "generated_at": "2026-11-09T21:45:00.095991+00:00"
+  },
+  {
+    "quote": "La fantasia è più importante della conoscenza.",
+    "author": "Albert Einstein",
+    "category": "sogni",
+    "caption": "La conoscenza ha dei confini, l'immaginazione no.",
+    "hashtags": [
+      "#sogni",
+      "#fantasia",
+      "#einstein",
+      "#immaginazione",
+      "#creatività",
+      "#futuro"
+    ],
+    "generated_at": "2026-11-09T21:45:00.095995+00:00"
+  },
+  {
+    "quote": "Il talento vince le partite, ma il lavoro di squadra vince i campionati.",
+    "author": "Michael Jordan",
+    "category": "sport",
+    "caption": "Da soli si corre, insieme si arriva.",
+    "hashtags": [
+      "#sport",
+      "#squadra",
+      "#michaeljordan",
+      "#lavorodisquadra",
+      "#vittoria",
+      "#insieme"
+    ],
+    "generated_at": "2026-11-09T21:45:00.095999+00:00"
+  },
+  {
+    "quote": "Non c'è amicizia senza fiducia.",
+    "author": "Epicuro",
+    "category": "amicizia",
+    "caption": "Puoi chiamarlo amico solo quando non hai più bisogno di spiegarti.",
+    "hashtags": [
+      "#amicizia",
+      "#fiducia",
+      "#epicuro",
+      "#legami",
+      "#verità",
+      "#insieme"
+    ],
+    "generated_at": "2026-11-09T21:45:00.096004+00:00"
+  },
+  {
+    "quote": "Il coraggio è la prima delle qualità umane, perché rende possibili tutte le altre.",
+    "author": "Winston Churchill",
+    "category": "coraggio",
+    "caption": "Senza quel primo passo, il resto resta solo un'idea.",
+    "hashtags": [
+      "#coraggio",
+      "#churchill",
+      "#qualità",
+      "#paura",
+      "#azione",
+      "#forza"
+    ],
+    "generated_at": "2026-11-09T21:45:00.096009+00:00"
   }
 ]

@@ -1,47 +1,5 @@
 [
   {
-    "quote": "Non possiamo fare grandi cose, solo piccole cose con grande amore.",
-    "author": "Madre Teresa di Calcutta",
-    "category": "amore",
-    "caption": "Piccolo non vuol dire poco.",
-    "hashtags": [
-      "#madreteresa",
-      "#amore",
-      "#piccolecose",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565503+00:00"
-  },
-  {
-    "quote": "La vita è quella cosa che accade mentre sei impegnato a fare altri progetti.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "Mentre programmi, succede.",
-    "hashtags": [
-      "#johnlennon",
-      "#vita",
-      "#citazioni",
-      "#presente",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565535+00:00"
-  },
-  {
-    "quote": "Vivi come se dovessi morire domani. Impara come se dovessi vivere per sempre.",
-    "author": "Mahatma Gandhi",
-    "category": "crescita personale",
-    "caption": "Urgenza nel vivere, pazienza nell'imparare.",
-    "hashtags": [
-      "#gandhi",
-      "#crescita",
-      "#apprendimento",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565542+00:00"
-  },
-  {
     "quote": "Nessun uomo è un'isola, completo in se stesso.",
     "author": "John Donne",
     "category": "relazioni",
@@ -7391,5 +7349,47 @@
       "#pace"
     ],
     "generated_at": "2026-11-10T05:14:44.153307+00:00"
+  },
+  {
+    "quote": "La vita è ciò che accade mentre sei impegnato a fare altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Forse il piano migliore è lasciare un po' di spazio agli imprevisti.",
+    "hashtags": [
+      "#citazioni",
+      "#vita",
+      "#imprevisti",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-10T19:03:29.738211+00:00"
+  },
+  {
+    "quote": "Non è che abbiamo poco tempo, è che ne perdiamo molto.",
+    "author": "Seneca",
+    "category": "tempo",
+    "caption": "Il problema non è l'orologio: è come lo guardiamo.",
+    "hashtags": [
+      "#citazioni",
+      "#tempo",
+      "#seneca",
+      "#filosofia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-10T19:03:29.738264+00:00"
+  },
+  {
+    "quote": "Tra stimolo e risposta c'è uno spazio, e in quello spazio sta la nostra libertà.",
+    "author": "Viktor Frankl",
+    "category": "libertà",
+    "caption": "Un respiro di distanza può cambiare tutto.",
+    "hashtags": [
+      "#citazioni",
+      "#libertà",
+      "#scelte",
+      "#consapevolezza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-10T19:03:29.738271+00:00"
   }
 ]

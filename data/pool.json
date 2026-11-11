@@ -1,61 +1,5 @@
 [
   {
-    "quote": "Nessun uomo è un'isola, completo in se stesso.",
-    "author": "John Donne",
-    "category": "relazioni",
-    "caption": "Siamo fili dello stesso tessuto.",
-    "hashtags": [
-      "#johndonne",
-      "#relazioni",
-      "#comunità",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565550+00:00"
-  },
-  {
-    "quote": "La fortuna è cieca, ma non così cieca da non vedere chi la cerca.",
-    "author": "Lucio Anneo Seneca",
-    "category": "successo",
-    "caption": "La dea aiuta chi rema.",
-    "hashtags": [
-      "#seneca",
-      "#successo",
-      "#fortuna",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565555+00:00"
-  },
-  {
-    "quote": "Nella vita non si tratta di avere carte buone, ma di giocare bene quelle che si hanno.",
-    "author": "Josh Billings",
-    "category": "resilienza",
-    "caption": "Le carte contano meno di come le giochi.",
-    "hashtags": [
-      "#resilienza",
-      "#gioco",
-      "#citazioni",
-      "#vita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565558+00:00"
-  },
-  {
-    "quote": "La speranza è l'uccello che si posa nell'anima e canta senza parole.",
-    "author": "Emily Dickinson",
-    "category": "speranza",
-    "caption": "Canta anche quando non sai perché.",
-    "hashtags": [
-      "#emilydickinson",
-      "#speranza",
-      "#poesia",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565562+00:00"
-  },
-  {
     "quote": "Il successo è la capacità di andare di fallimento in fallimento senza perdere l'entusiasmo.",
     "author": "Winston Churchill",
     "category": "fallimento",
@@ -7391,5 +7335,65 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-10T19:03:29.738271+00:00"
+  },
+  {
+    "quote": "Non si può fare nulla di grande senza entusiasmo.",
+    "author": "Ralph Waldo Emerson",
+    "category": "motivazione",
+    "caption": "L'entusiasmo non è rumore: è la benzina silenziosa delle cose fatte bene.",
+    "hashtags": [
+      "#entusiasmo",
+      "#motivazione",
+      "#passione",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-11T03:46:38.614207+00:00"
+  },
+  {
+    "quote": "La gioia è nell'atto stesso di creare.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "crescita personale",
+    "caption": "Non aspettare di essere pronto: crea, e la gioia arriva mentre lavori.",
+    "hashtags": [
+      "#creatività",
+      "#crescita",
+      "#gioia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#ispirazione"
+    ],
+    "generated_at": "2026-11-11T03:46:38.614234+00:00"
+  },
+  {
+    "quote": "La speranza non è ottimismo, è la certezza che qualcosa abbia senso.",
+    "author": "Václav Havel",
+    "category": "speranza",
+    "caption": "Non è credere che andrà bene: è credere che valga la pena.",
+    "hashtags": [
+      "#speranza",
+      "#senso",
+      "#coraggio",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#fiducia"
+    ],
+    "generated_at": "2026-11-11T03:46:38.614242+00:00"
+  },
+  {
+    "quote": "Ogni cosa che puoi immaginare, la natura l'ha già creata.",
+    "author": "Albert Einstein",
+    "category": "filosofia",
+    "caption": "A volte la fantasia non inventa: ricorda.",
+    "hashtags": [
+      "#filosofia",
+      "#natura",
+      "#immaginazione",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#meraviglia"
+    ],
+    "generated_at": "2026-11-11T03:46:38.614246+00:00"
   }
 ]

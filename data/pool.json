@@ -1,159 +1,5 @@
 [
   {
-    "quote": "Il successo è la capacità di andare di fallimento in fallimento senza perdere l'entusiasmo.",
-    "author": "Winston Churchill",
-    "category": "fallimento",
-    "caption": "Cadere è previsto, continuare è una scelta.",
-    "hashtags": [
-      "#churchill",
-      "#fallimento",
-      "#entusiasmo",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565565+00:00"
-  },
-  {
-    "quote": "Un pessimista vede la difficoltà in ogni opportunità; un ottimista vede l'opportunità in ogni difficoltà.",
-    "author": "Winston Churchill",
-    "category": "motivazione",
-    "caption": "Cambia lente, cambia scena.",
-    "hashtags": [
-      "#churchill",
-      "#motivazione",
-      "#ottimismo",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565569+00:00"
-  },
-  {
-    "quote": "La libertà non vale nulla se non include la libertà di sbagliare.",
-    "author": "Mahatma Gandhi",
-    "category": "libertà",
-    "caption": "Libertà vera, anche di sbagliare.",
-    "hashtags": [
-      "#gandhi",
-      "#libertà",
-      "#errori",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565572+00:00"
-  },
-  {
-    "quote": "Il perdono è la fragranza che il fiore lascia sulla mano che lo schiaccia.",
-    "author": "Mahatma Gandhi",
-    "category": "perdono",
-    "caption": "Profumo che resta a chi perdona.",
-    "hashtags": [
-      "#gandhi",
-      "#perdono",
-      "#citazioni",
-      "#anima",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565576+00:00"
-  },
-  {
-    "quote": "La leadership è l'arte di far fare a qualcuno ciò che vuoi perché lui lo vuole fare.",
-    "author": "Dwight D. Eisenhower",
-    "category": "leadership",
-    "caption": "Guidare è far desiderare.",
-    "hashtags": [
-      "#eisenhower",
-      "#leadership",
-      "#squadra",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565579+00:00"
-  },
-  {
-    "quote": "La pazienza è la compagna della saggezza.",
-    "author": "Sant'Agostino",
-    "category": "pazienza",
-    "caption": "Il tempo giusto non si affretta.",
-    "hashtags": [
-      "#agostino",
-      "#pazienza",
-      "#saggezza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565583+00:00"
-  },
-  {
-    "quote": "La solitudine è per lo spirito ciò che la dieta è per il corpo.",
-    "author": "Lucio Anneo Seneca",
-    "category": "solitudine",
-    "caption": "A volte meno rumore è più nutrimento.",
-    "hashtags": [
-      "#seneca",
-      "#solitudine",
-      "#silenzio",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565587+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di permanente tranne l'impermanenza.",
-    "author": "Eraclito",
-    "category": "filosofia",
-    "caption": "Tutto scorre, anche ciò che temi.",
-    "hashtags": [
-      "#eraclito",
-      "#filosofia",
-      "#cambiamento",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565590+00:00"
-  },
-  {
-    "quote": "La conoscenza di sé è l'inizio di ogni saggezza.",
-    "author": "Aristotele",
-    "category": "consapevolezza",
-    "caption": "Prima domanda: chi sono io?",
-    "hashtags": [
-      "#aristotele",
-      "#consapevolezza",
-      "#saggezza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565595+00:00"
-  },
-  {
-    "quote": "La nostalgia è il desiderio di ritornare a casa, ma la casa non esiste più.",
-    "author": "Milan Kundera",
-    "category": "nostalgia",
-    "caption": "A volte manca un luogo che non c'è.",
-    "hashtags": [
-      "#kundera",
-      "#nostalgia",
-      "#ricordi",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565599+00:00"
-  },
-  {
-    "quote": "La giovinezza è una cosa meravigliosa; peccato che sia sprecata dai giovani.",
-    "author": "George Bernard Shaw",
-    "category": "giovinezza",
-    "caption": "Ironia per chi l'ha vissuta.",
-    "hashtags": [
-      "#bernardshaw",
-      "#giovinezza",
-      "#ironia",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565602+00:00"
-  },
-  {
     "quote": "La maturità è quando si smette di incolpare gli altri e si comincia a guardarsi dentro.",
     "author": "Carl Gustav Jung",
     "category": "maturità",
@@ -7395,5 +7241,170 @@
       "#meraviglia"
     ],
     "generated_at": "2026-11-11T03:46:38.614246+00:00"
+  },
+  {
+    "quote": "Non possiamo fare grandi cose, solo piccole cose con grande amore.",
+    "author": "Madre Teresa di Calcutta",
+    "category": "amore",
+    "caption": "La grandezza non abita nei gesti enormi, ma nell'intenzione con cui scegliamo di compiere anche i più piccoli.",
+    "hashtags": [
+      "#citazioni",
+      "#madreteresa",
+      "#amore",
+      "#piccologesto",
+      "#quotidiano",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362454+00:00"
+  },
+  {
+    "quote": "Vivi come se dovessi morire domani. Impara come se dovessi vivere per sempre.",
+    "author": "Mahatma Gandhi",
+    "category": "vita",
+    "caption": "Un equilibrio perfetto tra l'urgenza di vivere e la pazienza di crescere.",
+    "hashtags": [
+      "#citazioni",
+      "#gandhi",
+      "#vita",
+      "#crescita",
+      "#equilibrio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362477+00:00"
+  },
+  {
+    "quote": "La motivazione ti fa iniziare, l'abitudine ti fa andare avanti.",
+    "author": "Jim Ryun",
+    "category": "motivazione",
+    "caption": "L'entusiasmo accende la miccia, ma è la routine che tiene acceso il fuoco.",
+    "hashtags": [
+      "#citazioni",
+      "#motivazione",
+      "#abitudini",
+      "#disciplina",
+      "#costanza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362483+00:00"
+  },
+  {
+    "quote": "Siamo quello che facciamo ripetutamente. L'eccellenza non è un atto, ma un'abitudine.",
+    "author": "Aristotele",
+    "category": "disciplina",
+    "caption": "Non conta il gesto isolato: conta la ripetizione che ti trasforma.",
+    "hashtags": [
+      "#citazioni",
+      "#aristotele",
+      "#disciplina",
+      "#eccellenza",
+      "#abitudini",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362487+00:00"
+  },
+  {
+    "quote": "La paura è il nemico più grande della creatività.",
+    "author": "John Lennon",
+    "category": "coraggio",
+    "caption": "Ogni volta che osi, togli un po' di terreno alla paura.",
+    "hashtags": [
+      "#citazioni",
+      "#coraggio",
+      "#paura",
+      "#creatività",
+      "#osare",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362491+00:00"
+  },
+  {
+    "quote": "Non conosciamo il valore dell'acqua finché il pozzo non si prosciuga.",
+    "author": "Thomas Fuller",
+    "category": "gratitudine",
+    "caption": "A volte serve perdere qualcosa per accorgersi di quanto fosse preziosa.",
+    "hashtags": [
+      "#citazioni",
+      "#gratitudine",
+      "#consapevolezza",
+      "#valore",
+      "#quotidiano",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362496+00:00"
+  },
+  {
+    "quote": "La famiglia è il luogo in cui impariamo a stare al mondo.",
+    "author": "Papa Giovanni Paolo II",
+    "category": "famiglia",
+    "caption": "È lì che impariamo le prime parole, i primi silenzi, le prime regole dell'amore.",
+    "hashtags": [
+      "#citazioni",
+      "#famiglia",
+      "#radici",
+      "#amore",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362500+00:00"
+  },
+  {
+    "quote": "Il tempo è ciò che non abbiamo, ma di cui crediamo di avere sempre abbastanza.",
+    "author": "Seneca",
+    "category": "tempo",
+    "caption": "Forse è l'unica ricchezza che non riusciamo a risparmiare.",
+    "hashtags": [
+      "#citazioni",
+      "#seneca",
+      "#tempo",
+      "#filosofia",
+      "#consapevolezza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362505+00:00"
+  },
+  {
+    "quote": "Il futuro appartiene a coloro che credono nella bellezza dei propri sogni.",
+    "author": "Eleanor Roosevelt",
+    "category": "sogni",
+    "caption": "I sogni non sono fughe: sono mappe.",
+    "hashtags": [
+      "#citazioni",
+      "#sogni",
+      "#eleonoraroosevelt",
+      "#futuro",
+      "#coraggio",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362508+00:00"
+  },
+  {
+    "quote": "La giovinezza è una bella cosa, ma la maturità è una cosa più bella ancora.",
+    "author": "George Bernard Shaw",
+    "category": "maturità",
+    "caption": "Crescere non è perdere freschezza: è imparare a usarla meglio.",
+    "hashtags": [
+      "#citazioni",
+      "#maturità",
+      "#georgebernardshaw",
+      "#crescita",
+      "#giovinezza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362522+00:00"
+  },
+  {
+    "quote": "La consapevolezza di sé è l'inizio di ogni saggezza.",
+    "author": "Socrate",
+    "category": "consapevolezza",
+    "caption": "Prima di cambiare il mondo, prova a guardarti dentro con onestà.",
+    "hashtags": [
+      "#citazioni",
+      "#consapevolezza",
+      "#socrate",
+      "#saggezza",
+      "#conoscenza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-11T19:00:13.362527+00:00"
   }
 ]

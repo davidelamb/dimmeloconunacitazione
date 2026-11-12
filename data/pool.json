@@ -1,304 +1,5 @@
 [
   {
-    "quote": "Non è la forza che conta, ma la costanza.",
-    "author": "Samuel Johnson",
-    "category": "disciplina",
-    "caption": "Ogni giorno un passo.",
-    "hashtags": [
-      "#samueljohnson",
-      "#disciplina",
-      "#costanza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565617+00:00"
-  },
-  {
-    "quote": "Non c'è vento favorevole per il navigatore che non sa dove andare.",
-    "author": "Lucio Anneo Seneca",
-    "category": "scelte",
-    "caption": "Prima di remare, decidi la rotta.",
-    "hashtags": [
-      "#seneca",
-      "#scelte",
-      "#direzione",
-      "#saggezza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001305+00:00"
-  },
-  {
-    "quote": "L'uomo che non ha mai commesso un errore non ha mai tentato nulla.",
-    "author": "Albert Einstein",
-    "category": "fallimento",
-    "caption": "Sbagliare è il pedaggio di chi prova davvero.",
-    "hashtags": [
-      "#einstein",
-      "#fallimento",
-      "#errori",
-      "#citazioni",
-      "#crescita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001332+00:00"
-  },
-  {
-    "quote": "La semplicità è il massimo grado della sofisticazione.",
-    "author": "Leonardo da Vinci",
-    "category": "minimalismo",
-    "caption": "Togliere, non aggiungere.",
-    "hashtags": [
-      "#leonardo",
-      "#minimalismo",
-      "#semplicità",
-      "#citazioni",
-      "#essenziale",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001342+00:00"
-  },
-  {
-    "quote": "Chi non sa sorridere non sa nemmeno vivere.",
-    "author": "Khalil Gibran",
-    "category": "felicità",
-    "caption": "Il sorriso è il primo atto di coraggio quotidiano.",
-    "hashtags": [
-      "#gibran",
-      "#felicità",
-      "#sorriso",
-      "#citazioni",
-      "#gioia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001349+00:00"
-  },
-  {
-    "quote": "La libertà è la scelta di ciò che siamo disposti a perdere.",
-    "author": "Albert Camus",
-    "category": "libertà",
-    "caption": "Essere liberi costa sempre qualcosa.",
-    "hashtags": [
-      "#camus",
-      "#libertà",
-      "#scelte",
-      "#citazioni",
-      "#filosofia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001401+00:00"
-  },
-  {
-    "quote": "Il coraggio è la paura che ha detto le sue preghiere.",
-    "author": "Khalil Gibran",
-    "category": "coraggio",
-    "caption": "Anche la paura, se ascoltata, può diventare forza.",
-    "hashtags": [
-      "#gibran",
-      "#coraggio",
-      "#paura",
-      "#citazioni",
-      "#forza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001416+00:00"
-  },
-  {
-    "quote": "La cosa più importante non è ciò che sai, ma ciò che fai con ciò che sai.",
-    "author": "Johann Wolfgang von Goethe",
-    "category": "consapevolezza",
-    "caption": "La conoscenza diventa vera solo quando si muove.",
-    "hashtags": [
-      "#goethe",
-      "#consapevolezza",
-      "#azione",
-      "#citazioni",
-      "#saggezza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001427+00:00"
-  },
-  {
-    "quote": "La pazienza è l'arte di nascondere la fretta.",
-    "author": "Jean-Jacques Rousseau",
-    "category": "pazienza",
-    "caption": "Chi sa aspettare ha già vinto metà della gara.",
-    "hashtags": [
-      "#rousseau",
-      "#pazienza",
-      "#tempo",
-      "#citazioni",
-      "#calma",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001437+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più pericoloso di un'idea quando è l'unica che hai.",
-    "author": "Émile-Auguste Chartier",
-    "category": "filosofia",
-    "caption": "Coltiva più di un pensiero: la mente è un giardino.",
-    "hashtags": [
-      "#alain",
-      "#filosofia",
-      "#idee",
-      "#citazioni",
-      "#pensiero",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001447+00:00"
-  },
-  {
-    "quote": "Il perdono è la forza dei forti, non la debolezza dei vinti.",
-    "author": "Mahatma Gandhi",
-    "category": "perdono",
-    "caption": "Perdonare è un atto di potere, non di resa.",
-    "hashtags": [
-      "#gandhi",
-      "#perdono",
-      "#forza",
-      "#citazioni",
-      "#pace",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001452+00:00"
-  },
-  {
-    "quote": "Non tutti quelli che vagano sono perduti.",
-    "author": "J. R. R. Tolkien",
-    "category": "viaggio",
-    "caption": "A volte perdersi è il modo migliore per trovarsi.",
-    "hashtags": [
-      "#tolkien",
-      "#viaggio",
-      "#perdersi",
-      "#citazioni",
-      "#cammino",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001457+00:00"
-  },
-  {
-    "quote": "La disciplina è il ponte tra i sogni e la realtà.",
-    "author": "Jim Rohn",
-    "category": "disciplina",
-    "caption": "Sognare è facile: alzarsi presto un po' meno.",
-    "hashtags": [
-      "#rohn",
-      "#disciplina",
-      "#sogni",
-      "#citazioni",
-      "#obiettivi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001462+00:00"
-  },
-  {
-    "quote": "Un amico è qualcuno che sa tutto di te e ti vuole bene lo stesso.",
-    "author": "Elbert Hubbard",
-    "category": "amicizia",
-    "caption": "L'amicizia vera non ha paura della verità.",
-    "hashtags": [
-      "#hubbard",
-      "#amicizia",
-      "#verità",
-      "#citazioni",
-      "#affetto",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001470+00:00"
-  },
-  {
-    "quote": "La solitudine è la stanza in cui si impara a parlare con se stessi.",
-    "author": "Henry David Thoreau",
-    "category": "solitudine",
-    "caption": "Stare soli non è vuoto: è spazio.",
-    "hashtags": [
-      "#thoreau",
-      "#solitudine",
-      "#silenzio",
-      "#citazioni",
-      "#introspezione",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001474+00:00"
-  },
-  {
-    "quote": "La mente che si apre a una nuova idea non torna mai alle sue dimensioni originali.",
-    "author": "Oliver Wendell Holmes",
-    "category": "crescita personale",
-    "caption": "Ogni idea nuova allarga lo spazio che abiti.",
-    "hashtags": [
-      "#holmes",
-      "#crescita",
-      "#idee",
-      "#citazioni",
-      "#mente",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001480+00:00"
-  },
-  {
-    "quote": "Il cambiamento è la legge della vita: chi guarda solo al passato si perderà il futuro.",
-    "author": "John F. Kennedy",
-    "category": "cambiamento",
-    "caption": "Il futuro non aspetta chi resta fermo.",
-    "hashtags": [
-      "#kennedy",
-      "#cambiamento",
-      "#futuro",
-      "#citazioni",
-      "#adattarsi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001485+00:00"
-  },
-  {
-    "quote": "La nostalgia è il desiderio di tornare a casa, ma la casa non esiste più.",
-    "author": "Milan Kundera",
-    "category": "nostalgia",
-    "caption": "Cerchiamo un posto che nel frattempo è cambiato.",
-    "hashtags": [
-      "#kundera",
-      "#nostalgia",
-      "#memoria",
-      "#citazioni",
-      "#passato",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001492+00:00"
-  },
-  {
-    "quote": "La vera scoperta non consiste nel cercare nuovi paesaggi, ma nell'avere occhi nuovi.",
-    "author": "Marcel Proust",
-    "category": "consapevolezza",
-    "caption": "Cambiare sguardo vale più di cambiare posto.",
-    "hashtags": [
-      "#proust",
-      "#consapevolezza",
-      "#sguardo",
-      "#citazioni",
-      "#viaggio",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001499+00:00"
-  },
-  {
-    "quote": "L'amore è l'unica cosa che cresce quando la doniamo.",
-    "author": "Antoine de Saint-Exupéry",
-    "category": "amore",
-    "caption": "Dare amore non è mai un investimento a fondo perduto.",
-    "hashtags": [
-      "#saintexupery",
-      "#amore",
-      "#dono",
-      "#citazioni",
-      "#cuore",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001504+00:00"
-  },
-  {
     "quote": "L'ambizione è la passione che spinge gli uomini a fare grandi cose.",
     "author": "John Dryden",
     "category": "ambizione",
@@ -7409,5 +7110,305 @@
       "#resilienza"
     ],
     "generated_at": "2026-11-12T04:55:36.312756+00:00"
+  },
+  {
+    "quote": "Non ho nulla da offrire se non sangue, fatica, lacrime e sudore.",
+    "author": "Winston Churchill",
+    "category": "motivazione",
+    "caption": "Nessuna scorciatoia: il resto è marketing.",
+    "hashtags": [
+      "#motivazione",
+      "#citazioni",
+      "#churchill",
+      "#sudore",
+      "#impegno",
+      "#parolechecontano"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618294+00:00"
+  },
+  {
+    "quote": "L'uomo è condannato a essere libero.",
+    "author": "Jean-Paul Sartre",
+    "category": "libertà",
+    "caption": "La libertà non è un regalo: è una condanna da assumersi.",
+    "hashtags": [
+      "#libertà",
+      "#citazioni",
+      "#sartre",
+      "#filosofia",
+      "#scelte",
+      "#esistenza"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618322+00:00"
+  },
+  {
+    "quote": "C'è sempre un po' di follia nell'amore. Ma c'è sempre un po' di ragione nella follia.",
+    "author": "Friedrich Nietzsche",
+    "category": "amore",
+    "caption": "Nessuno ama con il solo cuore: serve anche la testa.",
+    "hashtags": [
+      "#amore",
+      "#citazioni",
+      "#nietzsche",
+      "#follia",
+      "#filosofia",
+      "#cuoreetesta"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618328+00:00"
+  },
+  {
+    "quote": "La vita non esaminata non vale la pena di essere vissuta.",
+    "author": "Socrate",
+    "category": "filosofia",
+    "caption": "Farsi domande non è tempo perso: è l'unico tempo speso bene.",
+    "hashtags": [
+      "#filosofia",
+      "#citazioni",
+      "#socrate",
+      "#domande",
+      "#pensiero",
+      "#vita"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618334+00:00"
+  },
+  {
+    "quote": "Chi ha un perché per vivere può sopportare quasi ogni come.",
+    "author": "Friedrich Nietzsche",
+    "category": "resilienza",
+    "caption": "Il senso è la spina dorsale che ti tiene in piedi.",
+    "hashtags": [
+      "#resilienza",
+      "#citazioni",
+      "#nietzsche",
+      "#senso",
+      "#forza",
+      "#filosofia"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618341+00:00"
+  },
+  {
+    "quote": "Non è la morte che gli uomini dovrebbero temere, ma di non cominciare mai a vivere.",
+    "author": "Marco Aurelio",
+    "category": "coraggio",
+    "caption": "La paura più cara è quella di restare fermi.",
+    "hashtags": [
+      "#coraggio",
+      "#citazioni",
+      "#marcoaurelio",
+      "#stoicismo",
+      "#vivere",
+      "#paura"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618345+00:00"
+  },
+  {
+    "quote": "La più grande scoperta della mia generazione è che un essere umano può cambiare la propria vita cambiando il proprio atteggiamento mentale.",
+    "author": "William James",
+    "category": "crescita personale",
+    "caption": "Cambia la lente e cambia il paesaggio.",
+    "hashtags": [
+      "#crescitapersonale",
+      "#citazioni",
+      "#williamjames",
+      "#mentalità",
+      "#cambiamento",
+      "#psicologia"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618349+00:00"
+  },
+  {
+    "quote": "Non ho mai lasciato che la scuola interferisse con la mia educazione.",
+    "author": "Mark Twain",
+    "category": "ironia",
+    "caption": "I titoli non sono l'unico modo di imparare qualcosa.",
+    "hashtags": [
+      "#ironia",
+      "#citazioni",
+      "#marktwain",
+      "#umorismo",
+      "#scuola",
+      "#sapere"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618362+00:00"
+  },
+  {
+    "quote": "La solitudine è il rifugio di chi ha bisogno di ascoltarsi.",
+    "author": "Henry David Thoreau",
+    "category": "solitudine",
+    "caption": "A volte il silenzio è l'unica compagnia decente.",
+    "hashtags": [
+      "#solitudine",
+      "#citazioni",
+      "#thoreau",
+      "#silenzio",
+      "#introspezione",
+      "#natura"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618369+00:00"
+  },
+  {
+    "quote": "Il successo non è finale, il fallimento non è fatale: è il coraggio di continuare che conta.",
+    "author": "Winston Churchill",
+    "category": "fallimento",
+    "caption": "Cadere è un dettaglio, rialzarsi è la storia.",
+    "hashtags": [
+      "#fallimento",
+      "#citazioni",
+      "#churchill",
+      "#coraggio",
+      "#resilienza",
+      "#ripartire"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618374+00:00"
+  },
+  {
+    "quote": "Il modo migliore per trovare te stesso è perderti al servizio degli altri.",
+    "author": "Mahatma Gandhi",
+    "category": "gratitudine",
+    "caption": "Aprire le mani è il modo più semplice per riempirle.",
+    "hashtags": [
+      "#gratitudine",
+      "#citazioni",
+      "#gandhi",
+      "#servizio",
+      "#altruismo",
+      "#cuore"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618378+00:00"
+  },
+  {
+    "quote": "Non c'è amico come un libro.",
+    "author": "Ernest Hemingway",
+    "category": "amicizia",
+    "caption": "Alcuni amici non parlano, ma ti capiscono lo stesso.",
+    "hashtags": [
+      "#amicizia",
+      "#citazioni",
+      "#hemingway",
+      "#libri",
+      "#lettura",
+      "#compagnia"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618382+00:00"
+  },
+  {
+    "quote": "Ogni uomo è colpevole di tutto il bene che non ha fatto.",
+    "author": "Voltaire",
+    "category": "consapevolezza",
+    "caption": "L'indifferenza è una colpa silenziosa.",
+    "hashtags": [
+      "#consapevolezza",
+      "#citazioni",
+      "#voltaire",
+      "#responsabilità",
+      "#etica",
+      "#scelte"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618386+00:00"
+  },
+  {
+    "quote": "Niente al mondo è più potente di un'idea arrivata al momento giusto.",
+    "author": "Victor Hugo",
+    "category": "ambizione",
+    "caption": "Le idee non aspettano il permesso per accadere.",
+    "hashtags": [
+      "#ambizione",
+      "#citazioni",
+      "#victorhugo",
+      "#idee",
+      "#cambiamento",
+      "#forza"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618391+00:00"
+  },
+  {
+    "quote": "La libertà non è l'assenza di impegno, ma la capacità di sceglierlo.",
+    "author": "Paulo Freire",
+    "category": "libertà",
+    "caption": "Essere liberi non significa non avere legami, ma sceglierli.",
+    "hashtags": [
+      "#libertà",
+      "#citazioni",
+      "#paolofreire",
+      "#impegno",
+      "#scelte",
+      "#educazione"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618395+00:00"
+  },
+  {
+    "quote": "Chi non sa guardare indietro non sa dove sta andando.",
+    "author": "José Saramago",
+    "category": "memoria",
+    "caption": "La memoria non è nostalgia: è bussola.",
+    "hashtags": [
+      "#memoria",
+      "#citazioni",
+      "#saramago",
+      "#passato",
+      "#identità",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618399+00:00"
+  },
+  {
+    "quote": "La speranza è un rischio da correre.",
+    "author": "Papa Francesco",
+    "category": "speranza",
+    "caption": "Sperare è un atto di coraggio, non di ingenuità.",
+    "hashtags": [
+      "#speranza",
+      "#citazioni",
+      "#papafrancesco",
+      "#coraggio",
+      "#futuro",
+      "#fiducia"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618403+00:00"
+  },
+  {
+    "quote": "La leadership è l'arte di far fare a qualcun altro ciò che vuoi perché lui lo vuole fare.",
+    "author": "Dwight D. Eisenhower",
+    "category": "leadership",
+    "caption": "Guidare non è spingere: è accendere.",
+    "hashtags": [
+      "#leadership",
+      "#citazioni",
+      "#eisenhower",
+      "#squadra",
+      "#fiducia",
+      "#guidare"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618407+00:00"
+  },
+  {
+    "quote": "Il lavoro è il rifugio di chi non sa stare con se stesso.",
+    "author": "Seneca",
+    "category": "lavoro",
+    "caption": "A volte corriamo per non doverci fermare.",
+    "hashtags": [
+      "#lavoro",
+      "#citazioni",
+      "#seneca",
+      "#stoicismo",
+      "#equilibrio",
+      "#tempo"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618410+00:00"
+  },
+  {
+    "quote": "Non è la specie più forte che sopravvive, ma quella più adatta al cambiamento.",
+    "author": "Charles Darwin",
+    "category": "cambiamento",
+    "caption": "L'adattamento non è debolezza: è intelligenza.",
+    "hashtags": [
+      "#cambiamento",
+      "#citazioni",
+      "#darwin",
+      "#evoluzione",
+      "#adattarsi",
+      "#scienza"
+    ],
+    "generated_at": "2026-11-12T19:19:08.618414+00:00"
   }
 ]

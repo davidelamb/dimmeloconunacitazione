@@ -1,47 +1,5 @@
 [
   {
-    "quote": "La maturità è quando si smette di incolpare gli altri e si comincia a guardarsi dentro.",
-    "author": "Carl Gustav Jung",
-    "category": "maturità",
-    "caption": "Lo specchio è più scomodo del tribunale.",
-    "hashtags": [
-      "#jung",
-      "#maturità",
-      "#introspezione",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565606+00:00"
-  },
-  {
-    "quote": "Conosci tutte le teorie, ma non conosci il sapore della torta.",
-    "author": "Bruce Lee",
-    "category": "consapevolezza",
-    "caption": "Teoria senza pratica è solo rumore.",
-    "hashtags": [
-      "#brucelee",
-      "#consapevolezza",
-      "#pratica",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565609+00:00"
-  },
-  {
-    "quote": "Non pregare per una vita facile, prega per la forza di sopportarne una difficile.",
-    "author": "Bruce Lee",
-    "category": "forza",
-    "caption": "Non meno peso, più muscoli.",
-    "hashtags": [
-      "#brucelee",
-      "#forza",
-      "#resilienza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T02:25:14.565613+00:00"
-  },
-  {
     "quote": "Non è la forza che conta, ma la costanza.",
     "author": "Samuel Johnson",
     "category": "disciplina",
@@ -7406,5 +7364,50 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-11T19:00:13.362527+00:00"
+  },
+  {
+    "quote": "La vita è quella cosa che accade mentre noi siamo impegnati a fare altro.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Alza lo sguardo: la vita sta succedendo proprio ora.",
+    "hashtags": [
+      "#citazioni",
+      "#vita",
+      "#presente",
+      "#dimmeloconunacitazione",
+      "#filosofia",
+      "#attimo"
+    ],
+    "generated_at": "2026-11-12T04:55:36.312725+00:00"
+  },
+  {
+    "quote": "Il successo è la capacità di andare di fallimento in fallimento senza perdere entusiasmo.",
+    "author": "Winston Churchill",
+    "category": "successo",
+    "caption": "L'entusiasmo è la bussola quando i risultati tardano.",
+    "hashtags": [
+      "#citazioni",
+      "#successo",
+      "#entusiasmo",
+      "#churchill",
+      "#dimmeloconunacitazione",
+      "#motivazione"
+    ],
+    "generated_at": "2026-11-12T04:55:36.312750+00:00"
+  },
+  {
+    "quote": "Il fallimento è semplicemente l'opportunità di ricominciare, questa volta in modo più intelligente.",
+    "author": "Henry Ford",
+    "category": "fallimento",
+    "caption": "Ricominciare non è tornare indietro: è partire più preparati.",
+    "hashtags": [
+      "#citazioni",
+      "#fallimento",
+      "#ripartire",
+      "#henryford",
+      "#dimmeloconunacitazione",
+      "#resilienza"
+    ],
+    "generated_at": "2026-11-12T04:55:36.312756+00:00"
   }
 ]

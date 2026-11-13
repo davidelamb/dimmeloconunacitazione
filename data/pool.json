@@ -1,120 +1,5 @@
 [
   {
-    "quote": "L'ambizione è la passione che spinge gli uomini a fare grandi cose.",
-    "author": "John Dryden",
-    "category": "ambizione",
-    "caption": "Senza ambizione i sogni restano bozze.",
-    "hashtags": [
-      "#dryden",
-      "#ambizione",
-      "#sogni",
-      "#citazioni",
-      "#obiettivi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001508+00:00"
-  },
-  {
-    "quote": "L'esperienza è il nome che diamo ai nostri errori.",
-    "author": "Oscar Wilde",
-    "category": "fallimento",
-    "caption": "Ogni cicatrice è una lezione pagata a caro prezzo.",
-    "hashtags": [
-      "#wilde",
-      "#fallimento",
-      "#esperienza",
-      "#citazioni",
-      "#ironia",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-19T17:57:50.001517+00:00"
-  },
-  {
-    "quote": "Sii il padrone dei tuoi desideri, non lo schiavo delle tue abitudini.",
-    "author": "Publilio Siro",
-    "category": "disciplina",
-    "caption": "Le abitudini sono comode, ma non sempre ci somigliano.",
-    "hashtags": [
-      "#disciplina",
-      "#abitudini",
-      "#sceltequotidiane",
-      "#crescita",
-      "#consapevolezza",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175830+00:00"
-  },
-  {
-    "quote": "Chi non sa ridere di se stesso è destinato a essere preso sul serio dagli altri.",
-    "author": "Carlo Dossi",
-    "category": "ironia",
-    "caption": "Un po' di autoironia fa risparmiare parecchie discussioni.",
-    "hashtags": [
-      "#ironia",
-      "#autoironia",
-      "#leggerezza",
-      "#citazioni",
-      "#umorismo"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175864+00:00"
-  },
-  {
-    "quote": "Chi vuole seppellire il proprio passato, non ha capito che è il seme del presente.",
-    "author": "Friedrich Nietzsche",
-    "category": "consapevolezza",
-    "caption": "Il passato non si cancella: si attraversa.",
-    "hashtags": [
-      "#consapevolezza",
-      "#passato",
-      "#nietzsche",
-      "#crescita",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175870+00:00"
-  },
-  {
-    "quote": "La solitudine è la compagna di chi ha molto da dire a se stesso.",
-    "author": "Ugo Foscolo",
-    "category": "solitudine",
-    "caption": "Stare soli non è sempre vuoto: a volte è una conversazione.",
-    "hashtags": [
-      "#solitudine",
-      "#silenzio",
-      "#introspezione",
-      "#citazioni",
-      "#foscolo"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175873+00:00"
-  },
-  {
-    "quote": "Non c'è cosa più difficile che sapere ciò che si vuole, e più facile che desiderarlo.",
-    "author": "Niccolò Machiavelli",
-    "category": "scelte",
-    "caption": "Volere è facile, scegliere un po' meno.",
-    "hashtags": [
-      "#scelte",
-      "#volontà",
-      "#decisionalità",
-      "#citazioni",
-      "#machiavelli"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175880+00:00"
-  },
-  {
-    "quote": "La pazienza è la più eroica delle virtù, perché è la più difficile.",
-    "author": "Giacomo Leopardi",
-    "category": "pazienza",
-    "caption": "Aspettare bene è una forma di coraggio silenzioso.",
-    "hashtags": [
-      "#pazienza",
-      "#attesa",
-      "#virtù",
-      "#leopardi",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175883+00:00"
-  },
-  {
     "quote": "La felicità non è una meta da raggiungere, ma un modo di camminare.",
     "author": "Roberto Gervaso",
     "category": "felicità",
@@ -7410,5 +7295,122 @@
       "#scienza"
     ],
     "generated_at": "2026-11-12T19:19:08.618414+00:00"
+  },
+  {
+    "quote": "L'unico modo per fare un ottimo lavoro è amare quello che fai.",
+    "author": "Steve Jobs",
+    "category": "lavoro",
+    "caption": "Se la mattina ti alzi controvoglia, forse il problema non è la sveglia.",
+    "hashtags": [
+      "#lavoro",
+      "#passione",
+      "#stevejobs",
+      "#citazioni",
+      "#carriera",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-13T04:07:37.737736+00:00"
+  },
+  {
+    "quote": "La vita è quello che succede mentre sei impegnato a fare altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Mentre organizzi tutto, la vita passa a salutarti da dietro.",
+    "hashtags": [
+      "#vita",
+      "#johnlennon",
+      "#citazioni",
+      "#presente",
+      "#imprevisti",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-13T04:07:37.737761+00:00"
+  },
+  {
+    "quote": "Non puoi attraversare il mare semplicemente stando in piedi a fissare l'acqua.",
+    "author": "Rabindranath Tagore",
+    "category": "coraggio",
+    "caption": "A un certo punto la riva finisce: o salti o resti a guardare.",
+    "hashtags": [
+      "#coraggio",
+      "#tagore",
+      "#citazioni",
+      "#mare",
+      "#osare",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-13T04:07:37.737767+00:00"
+  },
+  {
+    "quote": "La più grande gloria della vita non sta nel non cadere mai, ma nel rialzarsi ogni volta che cadiamo.",
+    "author": "Nelson Mandela",
+    "category": "resilienza",
+    "caption": "Cadere è un atto involontario. Rialzarsi è una scelta.",
+    "hashtags": [
+      "#resilienza",
+      "#mandela",
+      "#citazioni",
+      "#rialzarsi",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-13T04:07:37.737772+00:00"
+  },
+  {
+    "quote": "Sii grato per ciò che hai; finirai per avere di più.",
+    "author": "Oprah Winfrey",
+    "category": "gratitudine",
+    "caption": "La gratitudine non è un buon proposito: è un modo di guardare.",
+    "hashtags": [
+      "#gratitudine",
+      "#oprah",
+      "#citazioni",
+      "#riconoscenza",
+      "#quotidiano",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-13T04:07:37.737778+00:00"
+  },
+  {
+    "quote": "L'amore non consiste nel guardarsi l'un l'altro, ma nel guardare insieme nella stessa direzione.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "Non serve essere identici: serve puntare allo stesso orizzonte.",
+    "hashtags": [
+      "#amore",
+      "#saintexupery",
+      "#citazioni",
+      "#coppia",
+      "#orizzonte",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-13T04:07:37.737783+00:00"
+  },
+  {
+    "quote": "Il nostro più grande timore non è di essere inadeguati. È di essere potenti oltre misura.",
+    "author": "Marianne Williamson",
+    "category": "autostima",
+    "caption": "A volte la paura più grande non è fallire, ma riuscire.",
+    "hashtags": [
+      "#autostima",
+      "#citazioni",
+      "#paura",
+      "#potenziale",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-13T04:07:37.737787+00:00"
+  },
+  {
+    "quote": "Non tutte le giornate sono belle, ma c'è qualcosa di bello in ogni giornata.",
+    "author": "Anonimo",
+    "category": "felicità",
+    "caption": "Frase di autore incerto? No, la lasciamo fuori: qui solo citazioni verificabili.",
+    "hashtags": [
+      "#felicità",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-13T04:07:37.737792+00:00"
   }
 ]

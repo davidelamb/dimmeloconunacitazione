@@ -1,33 +1,5 @@
 [
   {
-    "quote": "La felicità non è una meta da raggiungere, ma un modo di camminare.",
-    "author": "Roberto Gervaso",
-    "category": "felicità",
-    "caption": "Forse non arriva: forse accompagna.",
-    "hashtags": [
-      "#felicità",
-      "#cammino",
-      "#presente",
-      "#citazioni",
-      "#benessere"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175888+00:00"
-  },
-  {
-    "quote": "Chi non ha mai perso qualcosa non sa quanto pesa il vuoto.",
-    "author": "Kahlil Gibran",
-    "category": "perdono",
-    "caption": "Il vuoto insegna a tenere più stretto ciò che resta.",
-    "hashtags": [
-      "#perdono",
-      "#perdita",
-      "#gibran",
-      "#cuore",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175891+00:00"
-  },
-  {
     "quote": "Il vero coraggio è saper rinunciare a qualcosa per qualcos'altro.",
     "author": "Seneca",
     "category": "coraggio",
@@ -7412,5 +7384,35 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-13T04:07:37.737792+00:00"
+  },
+  {
+    "quote": "Non c'è vento favorevole per il navigatore che non sa dove andare.",
+    "author": "Lucio Anneo Seneca",
+    "category": "scelte",
+    "caption": "Prima di remare, decidi la rotta.",
+    "hashtags": [
+      "#scelte",
+      "#seneca",
+      "#rotta",
+      "#filosofia",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-14T17:28:18.520259+00:00"
+  },
+  {
+    "quote": "La semplicità è la cosa più difficile del mondo.",
+    "author": "Winston Churchill",
+    "category": "minimalismo",
+    "caption": "Togliere, non aggiungere: lì sta il talento.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#churchill",
+      "#citazioni",
+      "#essenziale",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-14T17:28:18.520283+00:00"
   }
 ]

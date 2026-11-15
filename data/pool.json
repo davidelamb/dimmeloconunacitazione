@@ -1,47 +1,5 @@
 [
   {
-    "quote": "Il vero coraggio è saper rinunciare a qualcosa per qualcos'altro.",
-    "author": "Seneca",
-    "category": "coraggio",
-    "caption": "Rinunciare bene è una forma di forza.",
-    "hashtags": [
-      "#coraggio",
-      "#rinuncia",
-      "#seneca",
-      "#scelte",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175894+00:00"
-  },
-  {
-    "quote": "La libertà è il diritto di essere diversi senza doversi giustificare.",
-    "author": "Norberto Bobbio",
-    "category": "libertà",
-    "caption": "Essere diversi non è un reato: è un diritto.",
-    "hashtags": [
-      "#libertà",
-      "#diversità",
-      "#diritti",
-      "#bobbio",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175897+00:00"
-  },
-  {
-    "quote": "La famiglia è il luogo dove si impara a volersi bene senza doversi piacere.",
-    "author": "Anna Maria Ortese",
-    "category": "famiglia",
-    "caption": "A casa si è amati anche nei giorni storti.",
-    "hashtags": [
-      "#famiglia",
-      "#casa",
-      "#affetti",
-      "#citazioni",
-      "#radici"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175900+00:00"
-  },
-  {
     "quote": "L'amicizia è una forma di pazienza che non si stanca.",
     "author": "Giovanni Papini",
     "category": "amicizia",
@@ -7414,5 +7372,50 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-14T17:28:18.520283+00:00"
+  },
+  {
+    "quote": "Non tutti coloro che vagano sono perduti.",
+    "author": "J. R. R. Tolkien",
+    "category": "viaggio",
+    "caption": "Per chi si sente fuori rotta e non ha ancora smesso di cercare.",
+    "hashtags": [
+      "#viaggio",
+      "#perdersi",
+      "#tolkien",
+      "#citazioni",
+      "#vagare",
+      "#filosofia"
+    ],
+    "generated_at": "2026-11-15T03:50:28.118719+00:00"
+  },
+  {
+    "quote": "Il coraggio è la paura che ha detto le sue preghiere.",
+    "author": "Karl Barth",
+    "category": "coraggio",
+    "caption": "Non sparire davanti alla paura: falla parlare, poi vai.",
+    "hashtags": [
+      "#coraggio",
+      "#paura",
+      "#karlbarth",
+      "#citazioni",
+      "#affrontare",
+      "#forza"
+    ],
+    "generated_at": "2026-11-15T03:50:28.118755+00:00"
+  },
+  {
+    "quote": "La resilienza è la capacità di affrontare le avversità e di uscirne più forti.",
+    "author": "Boris Cyrulnik",
+    "category": "resilienza",
+    "caption": "Non si tratta di resistere e basta: si tratta di uscirne trasformati.",
+    "hashtags": [
+      "#resilienza",
+      "#boriscyrulnik",
+      "#citazioni",
+      "#avversità",
+      "#forza",
+      "#rinascita"
+    ],
+    "generated_at": "2026-11-15T03:50:28.118763+00:00"
   }
 ]

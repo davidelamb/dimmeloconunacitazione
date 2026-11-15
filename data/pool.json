@@ -1,412 +1,5 @@
 [
   {
-    "quote": "L'amicizia è una forma di pazienza che non si stanca.",
-    "author": "Giovanni Papini",
-    "category": "amicizia",
-    "caption": "A volte un amico è solo qualcuno che aspetta.",
-    "hashtags": [
-      "#amicizia",
-      "#pazienza",
-      "#legami",
-      "#citazioni",
-      "#fiducia"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175903+00:00"
-  },
-  {
-    "quote": "La speranza non è mai una certezza: per questo è coraggiosa.",
-    "author": "Piero Angela",
-    "category": "speranza",
-    "caption": "Sperare senza garanzie è il gesto più audace che conosco.",
-    "hashtags": [
-      "#speranza",
-      "#coraggio",
-      "#futuro",
-      "#pieroangela",
-      "#citazioni"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175908+00:00"
-  },
-  {
-    "quote": "Il tempo è il medico di tutte le cose, ma non di tutte le ferite.",
-    "author": "Plutarco",
-    "category": "tempo",
-    "caption": "Il tempo cura, ma non sempre è un chirurgo preciso.",
-    "hashtags": [
-      "#tempo",
-      "#ferite",
-      "#plutarco",
-      "#citazioni",
-      "#guarigione"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175911+00:00"
-  },
-  {
-    "quote": "La giovinezza è il tempo in cui si crede che tutto sia possibile, e si ha ragione.",
-    "author": "Pablo Neruda",
-    "category": "giovinezza",
-    "caption": "Forse è proprio vero: è il resto della vita a toglierci le ali.",
-    "hashtags": [
-      "#giovinezza",
-      "#possibilità",
-      "#neruda",
-      "#citazioni",
-      "#sogni"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175914+00:00"
-  },
-  {
-    "quote": "La maturità è la capacità di convivere con le domande senza risposta.",
-    "author": "Italo Calvino",
-    "category": "maturità",
-    "caption": "Crescere è anche smettere di pretendere tutte le risposte.",
-    "hashtags": [
-      "#maturità",
-      "#domande",
-      "#calvino",
-      "#citazioni",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175917+00:00"
-  },
-  {
-    "quote": "Il successo è una scala che non si sale con le mani in tasca.",
-    "author": "Zig Ziglar",
-    "category": "successo",
-    "caption": "Le mani in tasca non hanno mai scalato niente.",
-    "hashtags": [
-      "#successo",
-      "#impegno",
-      "#lavoro",
-      "#citazioni",
-      "#motivazione"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175919+00:00"
-  },
-  {
-    "quote": "La leadership è l'arte di far emergere il meglio degli altri.",
-    "author": "John Maxwell",
-    "category": "leadership",
-    "caption": "Un capo vero non si mette in mostra: mette in mostra gli altri.",
-    "hashtags": [
-      "#leadership",
-      "#squadra",
-      "#crescita",
-      "#citazioni",
-      "#guida"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175922+00:00"
-  },
-  {
-    "quote": "Il fallimento insegna più di quanto il successo possa mai promettere.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Le cadute hanno un programma di studio molto denso.",
-    "hashtags": [
-      "#fallimento",
-      "#lezioni",
-      "#ford",
-      "#citazioni",
-      "#ripartire"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175925+00:00"
-  },
-  {
-    "quote": "La resilienza è la forza di tornare al proprio posto dopo essere stati piegati.",
-    "author": "Boris Cyrulnik",
-    "category": "resilienza",
-    "caption": "Non è restare rigidi: è tornare su, magari diversi.",
-    "hashtags": [
-      "#resilienza",
-      "#forza",
-      "#cyrulnik",
-      "#citazioni",
-      "#riprendersi"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175927+00:00"
-  },
-  {
-    "quote": "L'ambizione è un fuoco: scalda, ma va tenuto sotto controllo.",
-    "author": "Francesco Alberoni",
-    "category": "ambizione",
-    "caption": "Anche il fuoco buono, se non lo governi, brucia la casa.",
-    "hashtags": [
-      "#ambizione",
-      "#equilibrio",
-      "#alberoni",
-      "#citazioni",
-      "#desideri"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175930+00:00"
-  },
-  {
-    "quote": "La nostalgia è la memoria che si ferma a guardare.",
-    "author": "Milan Kundera",
-    "category": "nostalgia",
-    "caption": "A volte il cuore si sofferma e non vuole saperne di ripartire.",
-    "hashtags": [
-      "#nostalgia",
-      "#memoria",
-      "#kundera",
-      "#citazioni",
-      "#passato"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175933+00:00"
-  },
-  {
-    "quote": "La forza è la capacità di restare gentili in un mondo che non lo è.",
-    "author": "Alda Merini",
-    "category": "forza",
-    "caption": "Essere gentili quando tutto spinge al contrario: questa è forza.",
-    "hashtags": [
-      "#forza",
-      "#gentilezza",
-      "#merini",
-      "#citazioni",
-      "#anima"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175937+00:00"
-  },
-  {
-    "quote": "Il perdono è la chiave che apre la porta che hai chiuso dall'interno.",
-    "author": "Corrie ten Boom",
-    "category": "perdono",
-    "caption": "A volte perdonare libera prima di tutto chi perdona.",
-    "hashtags": [
-      "#perdono",
-      "#libertà",
-      "#cuore",
-      "#citazioni",
-      "#lasciareandare"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175939+00:00"
-  },
-  {
-    "quote": "Il destino è la somma delle nostre scelte più piccole.",
-    "author": "Viktor Frankl",
-    "category": "destino",
-    "caption": "Nessun fato improvviso: solo tante scelte messe insieme.",
-    "hashtags": [
-      "#destino",
-      "#scelte",
-      "#frankl",
-      "#citazioni",
-      "#responsabilità"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175942+00:00"
-  },
-  {
-    "quote": "La pace non è l'assenza di conflitto, ma la presenza della giustizia.",
-    "author": "Martin Luther King",
-    "category": "pace",
-    "caption": "Il silenzio senza giustizia non è pace: è attesa.",
-    "hashtags": [
-      "#pace",
-      "#giustizia",
-      "#king",
-      "#citazioni",
-      "#diritti"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175946+00:00"
-  },
-  {
-    "quote": "La consapevolezza è sapere di non sapere abbastanza.",
-    "author": "Socrate",
-    "category": "consapevolezza",
-    "caption": "Il primo passo è accorgersi di quanto manca.",
-    "hashtags": [
-      "#consapevolezza",
-      "#socrate",
-      "#saggezza",
-      "#citazioni",
-      "#conoscenza"
-    ],
-    "generated_at": "2026-10-20T02:38:28.175949+00:00"
-  },
-  {
-    "quote": "Siamo ciò che facciamo ripetutamente. L'eccellenza, quindi, non è un atto ma un'abitudine.",
-    "author": "Will Durant",
-    "category": "disciplina",
-    "caption": "Le piccole ripetizioni quotidiane costruiscono chi diventi.",
-    "hashtags": [
-      "#disciplina",
-      "#abitudini",
-      "#eccellenza",
-      "#crescitaquotidiana",
-      "#costanza",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.171935+00:00"
-  },
-  {
-    "quote": "La vita è un'avventura audace o non è nulla.",
-    "author": "Helen Keller",
-    "category": "coraggio",
-    "caption": "Meglio rischiare di vivere che accontentarsi di sopravvivere.",
-    "hashtags": [
-      "#coraggio",
-      "#vita",
-      "#avventura",
-      "#osare",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.171965+00:00"
-  },
-  {
-    "quote": "Non tutti quelli che contano i giorni sanno contare i momenti.",
-    "author": "Anonimo",
-    "category": "tempo",
-    "caption": "Il tempo si misura in attimi vissuti, non in caselle di calendario.",
-    "hashtags": [
-      "#tempo",
-      "#momenti",
-      "#presente",
-      "#consapevolezza",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.171972+00:00"
-  },
-  {
-    "quote": "Un ostacolo è ciò che vedi quando distogli lo sguardo dalla meta.",
-    "author": "Henry Ford",
-    "category": "motivazione",
-    "caption": "Guarda dove vuoi arrivare, non dove ti sei fermato.",
-    "hashtags": [
-      "#motivazione",
-      "#obiettivi",
-      "#meta",
-      "#determinazione",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.171981+00:00"
-  },
-  {
-    "quote": "La vera scoperta non consiste nel trovare nuove terre, ma nell'avere occhi nuovi.",
-    "author": "Marcel Proust",
-    "category": "consapevolezza",
-    "caption": "Cambiare sguardo cambia tutto il resto.",
-    "hashtags": [
-      "#consapevolezza",
-      "#sguardo",
-      "#scoperta",
-      "#crescita",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.171986+00:00"
-  },
-  {
-    "quote": "L'amore è composto da un'anima sola che abita in due corpi.",
-    "author": "Aristotele",
-    "category": "amore",
-    "caption": "Due persone, un solo modo di guardare il mondo.",
-    "hashtags": [
-      "#amore",
-      "#anime",
-      "#coppia",
-      "#sentimenti",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.171990+00:00"
-  },
-  {
-    "quote": "Chi non ha mai fatto un errore non ha mai tentato niente di nuovo.",
-    "author": "Albert Einstein",
-    "category": "fallimento",
-    "caption": "Sbagliare è il prezzo onesto di chi prova davvero.",
-    "hashtags": [
-      "#fallimento",
-      "#errori",
-      "#riprovare",
-      "#coraggio",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.171994+00:00"
-  },
-  {
-    "quote": "La speranza è come un uccello che si posa sull'anima e canta senza parole.",
-    "author": "Emily Dickinson",
-    "category": "speranza",
-    "caption": "Anche quando non sai spiegarlo, dentro qualcosa continua a cantare.",
-    "hashtags": [
-      "#speranza",
-      "#anima",
-      "#resilienza",
-      "#fiducia",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.171998+00:00"
-  },
-  {
-    "quote": "La semplicità è la massima forma di eleganza.",
-    "author": "Leonardo da Vinci",
-    "category": "minimalismo",
-    "caption": "Togliere il superfluo è un'arte difficile.",
-    "hashtags": [
-      "#minimalismo",
-      "#semplicità",
-      "#eleganza",
-      "#essenziale",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.172006+00:00"
-  },
-  {
-    "quote": "La felicità dipende da noi.",
-    "author": "Aristotele",
-    "category": "felicità",
-    "caption": "Non è qualcosa che arriva: è qualcosa che costruisci.",
-    "hashtags": [
-      "#felicità",
-      "#scelta",
-      "#vita",
-      "#benessere",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.172014+00:00"
-  },
-  {
-    "quote": "Dove c'è amore per l'umanità, lì c'è anche amore per l'arte.",
-    "author": "Lev Tolstoj",
-    "category": "amicizia",
-    "caption": "Chi sa voler bene alle persone sa anche creare cose belle.",
-    "hashtags": [
-      "#amicizia",
-      "#umanità",
-      "#arte",
-      "#relazioni",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.172020+00:00"
-  },
-  {
-    "quote": "Il lavoro è il rifugio di chi non ha altro rifugio.",
-    "author": "Oscar Wilde",
-    "category": "lavoro",
-    "caption": "A volte il lavoro è salvezza, non solo dovere.",
-    "hashtags": [
-      "#lavoro",
-      "#rifugio",
-      "#quotidiano",
-      "#ironia",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.172025+00:00"
-  },
-  {
-    "quote": "La maturità è la capacità di vivere con le domande senza risposta.",
-    "author": "Anonimo",
-    "category": "maturità",
-    "caption": "Crescere è anche imparare a convivere con l'incertezza.",
-    "hashtags": [
-      "#maturità",
-      "#domande",
-      "#crescita",
-      "#incertezza",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-20T16:02:11.172033+00:00"
-  },
-  {
     "quote": "La gratitudine è la più bella delle virtù, ma anche la più dimenticata.",
     "author": "Anonimo",
     "category": "gratitudine",
@@ -7417,5 +7010,412 @@
       "#rinascita"
     ],
     "generated_at": "2026-11-15T03:50:28.118763+00:00"
+  },
+  {
+    "quote": "Non tutti quelli che vagano sono perduti.",
+    "author": "J.R.R. Tolkien",
+    "category": "viaggio",
+    "caption": "A volte perdersi è l'unico modo per ritrovarsi davvero.",
+    "hashtags": [
+      "#viaggio",
+      "#perdersi",
+      "#citazioni",
+      "#Tolkien",
+      "#vagabondaggio",
+      "#filosofia"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066594+00:00"
+  },
+  {
+    "quote": "La curiosità è la madre dell'invenzione.",
+    "author": "Proverbio",
+    "category": "crescita personale",
+    "caption": "Le domande giuste aprono porte che non sapevi esistessero.",
+    "hashtags": [
+      "#curiosita",
+      "#crescita",
+      "#citazioni",
+      "#ispirazione",
+      "#menteaperta"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066624+00:00"
+  },
+  {
+    "quote": "Nessun uomo è un'isola.",
+    "author": "John Donne",
+    "category": "relazioni",
+    "caption": "Siamo fatti di legami, anche quando pensiamo di bastarci.",
+    "hashtags": [
+      "#relazioni",
+      "#legami",
+      "#citazioni",
+      "#Donne",
+      "#umanita"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066629+00:00"
+  },
+  {
+    "quote": "La semplicità è l'ultima raffinatezza.",
+    "author": "Leonardo da Vinci",
+    "category": "minimalismo",
+    "caption": "Togliere è più difficile che aggiungere, ma è lì che si vede il talento.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicita",
+      "#citazioni",
+      "#Leonardo",
+      "#essenziale"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066633+00:00"
+  },
+  {
+    "quote": "Chi controlla se stesso è più potente di chi conquista una città.",
+    "author": "Proverbi",
+    "category": "disciplina",
+    "caption": "La vittoria più difficile è quella contro le proprie abitudini.",
+    "hashtags": [
+      "#disciplina",
+      "#autocontrollo",
+      "#citazioni",
+      "#forza",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066637+00:00"
+  },
+  {
+    "quote": "La gioia è il segreto della giovinezza.",
+    "author": "Proverbio",
+    "category": "felicità",
+    "caption": "Non è l'età a tenerci giovani, è la capacità di meravigliarci.",
+    "hashtags": [
+      "#felicita",
+      "#gioia",
+      "#citazioni",
+      "#giovinezza",
+      "#leggerezza"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066643+00:00"
+  },
+  {
+    "quote": "La vera amicizia è una pianta che cresce lentamente.",
+    "author": "George Washington",
+    "category": "amicizia",
+    "caption": "Le amicizie solide non si affrettano: mettono radici.",
+    "hashtags": [
+      "#amicizia",
+      "#radici",
+      "#citazioni",
+      "#Washington",
+      "#fiducia"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066648+00:00"
+  },
+  {
+    "quote": "Il coraggio è la luce che si accende quando tutto sembra buio.",
+    "author": "Proverbio",
+    "category": "coraggio",
+    "caption": "Non serve assenza di paura: basta un piccolo fuoco per fare luce.",
+    "hashtags": [
+      "#coraggio",
+      "#luce",
+      "#citazioni",
+      "#paura",
+      "#forza"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066651+00:00"
+  },
+  {
+    "quote": "La pazienza è la compagna della saggezza.",
+    "author": "Sant'Agostino",
+    "category": "pazienza",
+    "caption": "Chi sa aspettare il momento giusto, spesso lo riconosce prima degli altri.",
+    "hashtags": [
+      "#pazienza",
+      "#saggezza",
+      "#citazioni",
+      "#Agostino",
+      "#attesa"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066656+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte di un cuore in pace.",
+    "author": "Proverbio",
+    "category": "pace",
+    "caption": "La calma non è debolezza: è la forma più silenziosa della forza.",
+    "hashtags": [
+      "#pace",
+      "#calma",
+      "#citazioni",
+      "#serenita",
+      "#forza"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066660+00:00"
+  },
+  {
+    "quote": "La libertà è il diritto di dire no.",
+    "author": "Proverbio",
+    "category": "libertà",
+    "caption": "Essere liberi significa poter scegliere, anche quando costa.",
+    "hashtags": [
+      "#libertà",
+      "#scelta",
+      "#citazioni",
+      "#diritti",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066664+00:00"
+  },
+  {
+    "quote": "Chi semina con pazienza raccoglie con gioia.",
+    "author": "Proverbio",
+    "category": "gratitudine",
+    "caption": "Ogni piccolo gesto di oggi è un raccolto che verrà.",
+    "hashtags": [
+      "#gratitudine",
+      "#raccolto",
+      "#citazioni",
+      "#pazienza",
+      "#gioia"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066667+00:00"
+  },
+  {
+    "quote": "Il fallimento è il primo passo verso il successo.",
+    "author": "Proverbio",
+    "category": "fallimento",
+    "caption": "Cadere insegna l'equilibrio che il successo non riesce a spiegare.",
+    "hashtags": [
+      "#fallimento",
+      "#successo",
+      "#citazioni",
+      "#cadere",
+      "#ripartire"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066670+00:00"
+  },
+  {
+    "quote": "La solitudine è la madre della riflessione.",
+    "author": "Proverbio",
+    "category": "solitudine",
+    "caption": "Stare con se stessi non è vuoto: è spazio per pensare.",
+    "hashtags": [
+      "#solitudine",
+      "#riflessione",
+      "#citazioni",
+      "#silenzio",
+      "#interiorita"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066673+00:00"
+  },
+  {
+    "quote": "Chi guarda al passato con rabbia non ha occhi per il futuro.",
+    "author": "Proverbio",
+    "category": "perdono",
+    "caption": "Perdonare non cancella il passato: libera il presente.",
+    "hashtags": [
+      "#perdono",
+      "#passato",
+      "#citazioni",
+      "#liberarsi",
+      "#rinascita"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066677+00:00"
+  },
+  {
+    "quote": "Il tempo è un fiume che non torna mai indietro.",
+    "author": "Proverbio",
+    "category": "tempo",
+    "caption": "Non possiamo fermarlo, ma possiamo scegliere come attraversarlo.",
+    "hashtags": [
+      "#tempo",
+      "#fiume",
+      "#citazioni",
+      "#presente",
+      "#scorrere"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066680+00:00"
+  },
+  {
+    "quote": "La speranza è la luce in fondo al tunnel.",
+    "author": "Proverbio",
+    "category": "speranza",
+    "caption": "Anche quando non la vedi, la luce esiste: continua a camminare.",
+    "hashtags": [
+      "#speranza",
+      "#luce",
+      "#citazioni",
+      "#fiducia",
+      "#futuro"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066684+00:00"
+  },
+  {
+    "quote": "L'ambizione senza cuore è una barca senza timone.",
+    "author": "Proverbio",
+    "category": "ambizione",
+    "caption": "Puntare in alto va bene, a patto di sapere per cosa.",
+    "hashtags": [
+      "#ambizione",
+      "#timone",
+      "#citazioni",
+      "#valori",
+      "#direzione"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066687+00:00"
+  },
+  {
+    "quote": "La famiglia è la radice da cui cresce l'albero della vita.",
+    "author": "Proverbio",
+    "category": "famiglia",
+    "caption": "Le radici non le vedi, ma sono ciò che ti tiene in piedi.",
+    "hashtags": [
+      "#famiglia",
+      "#radici",
+      "#citazioni",
+      "#casa",
+      "#appartenenza"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066690+00:00"
+  },
+  {
+    "quote": "Nessun vento è favorevole per chi non conosce il proprio porto.",
+    "author": "Seneca",
+    "category": "scelte",
+    "caption": "Prima di remare, sappi dove vuoi arrivare.",
+    "hashtags": [
+      "#scelte",
+      "#Seneca",
+      "#citazioni",
+      "#direzione",
+      "#porto"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066693+00:00"
+  },
+  {
+    "quote": "La maturità è saper gioire delle piccole cose.",
+    "author": "Proverbio",
+    "category": "maturità",
+    "caption": "Crescere non è perdere entusiasmo: è trovarlo nelle cose giuste.",
+    "hashtags": [
+      "#maturita",
+      "#piccolecose",
+      "#citazioni",
+      "#crescita",
+      "#gioia"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066697+00:00"
+  },
+  {
+    "quote": "La vera forza è la gentilezza che non si arrende.",
+    "author": "Proverbio",
+    "category": "forza",
+    "caption": "Essere gentili in un mondo duro è una forma rara di coraggio.",
+    "hashtags": [
+      "#forza",
+      "#gentilezza",
+      "#citazioni",
+      "#coraggio",
+      "#umanita"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066700+00:00"
+  },
+  {
+    "quote": "L'ironia è l'ombrello della mente sotto la pioggia del mondo.",
+    "author": "Proverbio",
+    "category": "ironia",
+    "caption": "Ridere delle cose, a volte, è l'unico modo per non esserne travolti.",
+    "hashtags": [
+      "#ironia",
+      "#sorriso",
+      "#citazioni",
+      "#leggerezza",
+      "#umorismo"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066705+00:00"
+  },
+  {
+    "quote": "La resilienza è la capacità di fiorire nel deserto.",
+    "author": "Proverbio",
+    "category": "resilienza",
+    "caption": "Non serve un terreno perfetto per dare il meglio di sé.",
+    "hashtags": [
+      "#resilienza",
+      "#fiorire",
+      "#citazioni",
+      "#deserto",
+      "#rinascita"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066708+00:00"
+  },
+  {
+    "quote": "Il lavoro è la medicina dell'anima inquieta.",
+    "author": "Proverbio",
+    "category": "lavoro",
+    "caption": "Fare bene ciò che fai è già una forma di pace.",
+    "hashtags": [
+      "#lavoro",
+      "#anima",
+      "#citazioni",
+      "#impegno",
+      "#serenita"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066711+00:00"
+  },
+  {
+    "quote": "La nostalgia è il profumo di una casa che non c'è più.",
+    "author": "Proverbio",
+    "category": "nostalgia",
+    "caption": "A volte il cuore torna dove il tempo non può.",
+    "hashtags": [
+      "#nostalgia",
+      "#casa",
+      "#citazioni",
+      "#memoria",
+      "#passato"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066714+00:00"
+  },
+  {
+    "quote": "La delusione è un maestro severo ma onesto.",
+    "author": "Proverbio",
+    "category": "delusione",
+    "caption": "Ci insegna a guardare le persone per ciò che sono, non per ciò che speriamo.",
+    "hashtags": [
+      "#delusione",
+      "#maestro",
+      "#citazioni",
+      "#realta",
+      "#aspettative"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066719+00:00"
+  },
+  {
+    "quote": "La consapevolezza è la lampada che illumina l'anima.",
+    "author": "Proverbio",
+    "category": "consapevolezza",
+    "caption": "Conoscersi è il primo passo per non perdersi.",
+    "hashtags": [
+      "#consapevolezza",
+      "#anima",
+      "#citazioni",
+      "#conoscersi",
+      "#luce"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066722+00:00"
+  },
+  {
+    "quote": "Lo sport è la palestra della vita.",
+    "author": "Proverbio",
+    "category": "sport",
+    "caption": "Sudore, sconfitte e ripartenze: la lezione più onesta che esista.",
+    "hashtags": [
+      "#sport",
+      "#palestra",
+      "#citazioni",
+      "#disciplina",
+      "#ripartire"
+    ],
+    "generated_at": "2026-11-15T18:13:33.066725+00:00"
   }
 ]

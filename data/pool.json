@@ -1,62 +1,5 @@
 [
   {
-    "quote": "La pazienza è amara, ma i suoi frutti sono dolci.",
-    "author": "Jean-Jacques Rousseau",
-    "category": "pazienza",
-    "caption": "Aspettare bene è un'arte: non passiva, ma piena di fiducia.",
-    "hashtags": [
-      "#pazienza",
-      "#rousseau",
-      "#attesa",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-21T02:32:28.163433+00:00"
-  },
-  {
-    "quote": "L'uomo che non ha mai commesso un errore non ha mai tentato nulla di nuovo.",
-    "author": "Albert Einstein",
-    "category": "crescita personale",
-    "caption": "Se non sbagli mai, probabilmente stai solo ripetendo ciò che già sai fare.",
-    "hashtags": [
-      "#crescita",
-      "#einstein",
-      "#errori",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-21T02:32:28.163442+00:00"
-  },
-  {
-    "quote": "Il viaggio è la ricompensa.",
-    "author": "Robert Louis Stevenson",
-    "category": "viaggio",
-    "caption": "Non conta solo dove arrivi: conta come ti trasforma la strada.",
-    "hashtags": [
-      "#viaggio",
-      "#stevenson",
-      "#strada",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-21T02:32:28.163449+00:00"
-  },
-  {
-    "quote": "Non c'è amore più sincero di quello che sa aspettare.",
-    "author": "Paulo Coelho",
-    "category": "amore",
-    "caption": "A volte l'amore è soprattutto saper aspettare.",
-    "hashtags": [
-      "#amore",
-      "#paolocoelho",
-      "#citazioni",
-      "#attesa",
-      "#frasi",
-      "#cuore"
-    ],
-    "generated_at": "2026-10-21T16:18:56.169538+00:00"
-  },
-  {
     "quote": "La vita è un'opera d'arte che si crea giorno per giorno.",
     "author": "Anonimo",
     "category": "vita",
@@ -7428,5 +7371,63 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-16T03:50:49.032788+00:00"
+  },
+  {
+    "quote": "Non si vede bene che col cuore. L'essenziale è invisibile agli occhi.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "A volte basta smettere di guardare per iniziare a vedere davvero.",
+    "hashtags": [
+      "#citazioni",
+      "#amore",
+      "#piccoloprincipe",
+      "#essenziale",
+      "#cuore",
+      "#frasidamore"
+    ],
+    "generated_at": "2026-11-16T21:25:54.071724+00:00"
+  },
+  {
+    "quote": "La vita è ciò che accade quando sei impegnato a fare altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Il copione migliore è quello che non avevi scritto.",
+    "hashtags": [
+      "#citazioni",
+      "#vita",
+      "#johnlennon",
+      "#imprevisti",
+      "#frasivere"
+    ],
+    "generated_at": "2026-11-16T21:25:54.071745+00:00"
+  },
+  {
+    "quote": "Non è la specie più forte che sopravvive, né la più intelligente, ma quella più adatta al cambiamento.",
+    "author": "Charles Darwin",
+    "category": "cambiamento",
+    "caption": "Adattarsi non è arrendersi: è restare vivi.",
+    "hashtags": [
+      "#citazioni",
+      "#cambiamento",
+      "#darwin",
+      "#evoluzione",
+      "#adattarsi",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-16T21:25:54.071749+00:00"
+  },
+  {
+    "quote": "La libertà è la libertà di dire no.",
+    "author": "Albert Camus",
+    "category": "libertà",
+    "caption": "Dire no, a volte, è il gesto più libero che esista.",
+    "hashtags": [
+      "#citazioni",
+      "#libertà",
+      "#camus",
+      "#direno",
+      "#frasi"
+    ],
+    "generated_at": "2026-11-16T21:25:54.071757+00:00"
   }
 ]

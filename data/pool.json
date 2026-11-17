@@ -1,62 +1,5 @@
 [
   {
-    "quote": "La motivazione è ciò che ti fa iniziare, l'abitudine è ciò che ti fa continuare.",
-    "author": "Jim Rohn",
-    "category": "motivazione",
-    "caption": "Parti con la spinta, resta con le abitudini.",
-    "hashtags": [
-      "#motivazione",
-      "#jimrohn",
-      "#citazioni",
-      "#abitudini",
-      "#crescita",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-21T16:18:56.169569+00:00"
-  },
-  {
-    "quote": "Il fallimento è l'opportunità di ricominciare, questa volta con più esperienza.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Cadere non è la fine: è un nuovo punto di partenza.",
-    "hashtags": [
-      "#fallimento",
-      "#henryford",
-      "#citazioni",
-      "#ripartire",
-      "#lezione"
-    ],
-    "generated_at": "2026-10-21T16:18:56.169577+00:00"
-  },
-  {
-    "quote": "La felicità non è qualcosa di già pronto: viene dalle tue azioni.",
-    "author": "Dalai Lama",
-    "category": "felicità",
-    "caption": "La felicità è un verbo, non un oggetto.",
-    "hashtags": [
-      "#felicità",
-      "#dalailama",
-      "#citazioni",
-      "#azioni",
-      "#gioia"
-    ],
-    "generated_at": "2026-10-21T16:18:56.169590+00:00"
-  },
-  {
-    "quote": "Trova un lavoro che ami e non dovrai lavorare neanche un giorno.",
-    "author": "Confucio",
-    "category": "lavoro",
-    "caption": "Quando la passione diventa mestiere, il peso cambia.",
-    "hashtags": [
-      "#lavoro",
-      "#confucio",
-      "#citazioni",
-      "#passione",
-      "#frasi"
-    ],
-    "generated_at": "2026-10-21T16:18:56.169601+00:00"
-  },
-  {
     "quote": "Non c'è strada per la felicità: la felicità è la strada.",
     "author": "Buddha",
     "category": "felicità",
@@ -7430,5 +7373,61 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-17T05:44:37.270205+00:00"
+  },
+  {
+    "quote": "Che tu creda di potercela fare o che creda di non potercela fare, avrai ragione.",
+    "author": "Henry Ford",
+    "category": "motivazione",
+    "caption": "La prima cosa che conta è quello che ti racconti prima di iniziare.",
+    "hashtags": [
+      "#motivazione",
+      "#henryford",
+      "#fiducia",
+      "#citazioni",
+      "#mindset"
+    ],
+    "generated_at": "2026-11-17T20:13:40.915359+00:00"
+  },
+  {
+    "quote": "La pace viene dall'interno. Non cercarla fuori.",
+    "author": "Buddha",
+    "category": "pace",
+    "caption": "Prima di sistemare il mondo, prova a fare ordine dentro.",
+    "hashtags": [
+      "#pace",
+      "#buddha",
+      "#interiorità",
+      "#citazioni",
+      "#serenità"
+    ],
+    "generated_at": "2026-11-17T20:13:40.915383+00:00"
+  },
+  {
+    "quote": "Il successo è la capacità di andare di fallimento in fallimento senza perdere l'entusiasmo.",
+    "author": "Winston Churchill",
+    "category": "successo",
+    "caption": "Forse il vero talento è non smettere di crederci al terzo tentativo.",
+    "hashtags": [
+      "#successo",
+      "#churchill",
+      "#entusiasmo",
+      "#citazioni",
+      "#perseveranza"
+    ],
+    "generated_at": "2026-11-17T20:13:40.915391+00:00"
+  },
+  {
+    "quote": "Un amico è una persona con cui puoi essere sincero senza paura.",
+    "author": "Aristotele",
+    "category": "amicizia",
+    "caption": "La sincerità senza timore è forse la forma più alta di fiducia.",
+    "hashtags": [
+      "#amicizia",
+      "#aristotele",
+      "#sincerità",
+      "#citazioni",
+      "#fiducia"
+    ],
+    "generated_at": "2026-11-17T20:13:40.915398+00:00"
   }
 ]

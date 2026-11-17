@@ -1,19 +1,5 @@
 [
   {
-    "quote": "La vita è un'opera d'arte che si crea giorno per giorno.",
-    "author": "Anonimo",
-    "category": "vita",
-    "caption": "Nessun copione: la vita la scriviamo noi.",
-    "hashtags": [
-      "#vita",
-      "#citazioni",
-      "#frasi",
-      "#ispirazione",
-      "#quotidiano"
-    ],
-    "generated_at": "2026-10-21T16:18:56.169562+00:00"
-  },
-  {
     "quote": "La motivazione è ciò che ti fa iniziare, l'abitudine è ciò che ti fa continuare.",
     "author": "Jim Rohn",
     "category": "motivazione",
@@ -7429,5 +7415,20 @@
       "#frasi"
     ],
     "generated_at": "2026-11-16T21:25:54.071757+00:00"
+  },
+  {
+    "quote": "Non importa quanto vai piano, purché tu non ti ferma.",
+    "author": "Confucio",
+    "category": "resilienza",
+    "caption": "Il passo lento batte la sosta.",
+    "hashtags": [
+      "#confucio",
+      "#resilienza",
+      "#costanza",
+      "#citazioni",
+      "#nonfermarti",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-17T05:44:37.270205+00:00"
   }
 ]

@@ -1,305 +1,5 @@
 [
   {
-    "quote": "Non c'è nulla di permanente tranne il cambiamento.",
-    "author": "Eraclito",
-    "category": "cambiamento",
-    "caption": "Il cambiamento non è un imprevisto: è la sostanza delle cose.",
-    "hashtags": [
-      "#cambiamento",
-      "#eraclito",
-      "#filosofia",
-      "#crescita",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640358+00:00"
-  },
-  {
-    "quote": "Chi non sa tacere non sa nemmeno parlare.",
-    "author": "Pitagora",
-    "category": "consapevolezza",
-    "caption": "A volte il silenzio dice più di mille parole.",
-    "hashtags": [
-      "#silenzio",
-      "#consapevolezza",
-      "#pitagora",
-      "#saggezza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640386+00:00"
-  },
-  {
-    "quote": "La scienza è il capitano, ma la pratica sono i soldati.",
-    "author": "Leonardo da Vinci",
-    "category": "lavoro",
-    "caption": "Le idee contano solo quando diventano azioni.",
-    "hashtags": [
-      "#lavoro",
-      "#leonardodavinci",
-      "#pratica",
-      "#azioni",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640393+00:00"
-  },
-  {
-    "quote": "Non esiste dovere così urgente come quello di restituire un favore.",
-    "author": "Cicerone",
-    "category": "gratitudine",
-    "caption": "La gratitudine è un debito che scade subito.",
-    "hashtags": [
-      "#gratitudine",
-      "#cicerone",
-      "#riconoscenza",
-      "#valori",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640399+00:00"
-  },
-  {
-    "quote": "La vita è un sogno per chi sogna, un gioco per chi gioca.",
-    "author": "Publilio Siro",
-    "category": "vita",
-    "caption": "Il senso della vita dipende da come decidi di guardarla.",
-    "hashtags": [
-      "#vita",
-      "#publiliosiro",
-      "#sogni",
-      "#prospettiva",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640403+00:00"
-  },
-  {
-    "quote": "La vera eloquenza consiste nel dire tutto ciò che serve, e niente di più.",
-    "author": "La Rochefoucauld",
-    "category": "minimalismo",
-    "caption": "Meno parole, più sostanza. Funziona anche fuori dalla retorica.",
-    "hashtags": [
-      "#minimalismo",
-      "#larochefoucauld",
-      "#essenziale",
-      "#parole",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640408+00:00"
-  },
-  {
-    "quote": "L'uomo è un animale sociale per natura.",
-    "author": "Aristotele",
-    "category": "relazioni",
-    "caption": "Siamo fatti per stare insieme, anche quando ci costa fatica.",
-    "hashtags": [
-      "#relazioni",
-      "#aristotele",
-      "#socialità",
-      "#comunità",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640418+00:00"
-  },
-  {
-    "quote": "La virtù non sta nel fare grandi cose, ma nel farle bene.",
-    "author": "Seneca",
-    "category": "disciplina",
-    "caption": "La cura nei dettagli è già una forma di eccellenza.",
-    "hashtags": [
-      "#disciplina",
-      "#seneca",
-      "#virtù",
-      "#eccellenza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640423+00:00"
-  },
-  {
-    "quote": "È meglio un nemico saggio che un amico sciocco.",
-    "author": "Plauto",
-    "category": "amicizia",
-    "caption": "Le persone giuste valgono più delle comodità.",
-    "hashtags": [
-      "#amicizia",
-      "#plauto",
-      "#scelte",
-      "#saggezza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640428+00:00"
-  },
-  {
-    "quote": "Chi non sa dubitare non sa nemmeno credere.",
-    "author": "Papa Giovanni XXIII",
-    "category": "filosofia",
-    "caption": "Il dubbio non è il contrario della fede: è la sua palestra.",
-    "hashtags": [
-      "#filosofia",
-      "#dubbio",
-      "#fede",
-      "#pensiero",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640433+00:00"
-  },
-  {
-    "quote": "La semplicità è la sorella del genio.",
-    "author": "Anton Čechov",
-    "category": "minimalismo",
-    "caption": "Le cose grandi raramente hanno bisogno di essere complicate.",
-    "hashtags": [
-      "#minimalismo",
-      "#cechov",
-      "#semplicità",
-      "#genio",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640438+00:00"
-  },
-  {
-    "quote": "Il coraggio è la prima delle qualità umane, perché è quella che garantisce tutte le altre.",
-    "author": "Winston Churchill",
-    "category": "coraggio",
-    "caption": "Senza coraggio, anche il talento resta fermo al palo.",
-    "hashtags": [
-      "#coraggio",
-      "#churchill",
-      "#qualità",
-      "#forza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640443+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più terribile del vedere un uomo che non crede in nulla.",
-    "author": "Fëdor Dostoevskij",
-    "category": "consapevolezza",
-    "caption": "Anche la fede più piccola tiene in piedi una giornata.",
-    "hashtags": [
-      "#consapevolezza",
-      "#dostoevskij",
-      "#fede",
-      "#anima",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640450+00:00"
-  },
-  {
-    "quote": "La vecchiaia è l'inverno della vita.",
-    "author": "Victor Hugo",
-    "category": "maturità",
-    "caption": "Ogni stagione ha la sua luce, anche l'ultima.",
-    "hashtags": [
-      "#maturità",
-      "#victorhugo",
-      "#vecchiaia",
-      "#stagioni",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640458+00:00"
-  },
-  {
-    "quote": "Un viaggio di mille miglia comincia con un passo.",
-    "author": "Lao Tzu",
-    "category": "viaggio",
-    "caption": "Non serve vedere tutta la strada: basta il primo passo.",
-    "hashtags": [
-      "#viaggio",
-      "#laotzu",
-      "#inizio",
-      "#cammino",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640465+00:00"
-  },
-  {
-    "quote": "La solitudine è la patria dei forti.",
-    "author": "Friedrich Nietzsche",
-    "category": "solitudine",
-    "caption": "Stare soli non è una condanna: a volte è un ritorno a casa.",
-    "hashtags": [
-      "#solitudine",
-      "#nietzsche",
-      "#forza",
-      "#introspezione",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640475+00:00"
-  },
-  {
-    "quote": "La nostalgia è il dolore per una casa che non c'è più.",
-    "author": "Anonimo",
-    "category": "nostalgia",
-    "caption": "A volte ci manca non un luogo, ma una versione di noi.",
-    "hashtags": [
-      "#nostalgia",
-      "#ricordi",
-      "#passato",
-      "#casa",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640481+00:00"
-  },
-  {
-    "quote": "La felicità è la ricompensa di chi non la cerca per sé.",
-    "author": "Anonimo",
-    "category": "felicità",
-    "caption": "La felicità arriva quando smetti di rincorrerla.",
-    "hashtags": [
-      "#felicità",
-      "#gioia",
-      "#vita",
-      "#serenità",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-24T15:04:04.640486+00:00"
-  },
-  {
-    "quote": "Coraggio è resistere alla paura, dominare la paura, non l'assenza di paura.",
-    "author": "Mark Twain",
-    "category": "coraggio",
-    "caption": "Il coraggio non è non tremare: è tremare e andare lo stesso.",
-    "hashtags": [
-      "#citazioni",
-      "#coraggio",
-      "#paura",
-      "#marktwain",
-      "#forza",
-      "#resilienza"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280305+00:00"
-  },
-  {
-    "quote": "Non è la specie più forte a sopravvivere, né la più intelligente, ma quella più reattiva al cambiamento.",
-    "author": "Charles Darwin",
-    "category": "cambiamento",
-    "caption": "Adattarsi non è arrendersi: è la forma più intelligente di coraggio.",
-    "hashtags": [
-      "#citazioni",
-      "#cambiamento",
-      "#darwin",
-      "#adattarsi",
-      "#evoluzione",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280329+00:00"
-  },
-  {
     "quote": "La resilienza è la capacità di affrontare le avversità, di superarle e di uscirne più forti.",
     "author": "Boris Cyrulnik",
     "category": "resilienza",
@@ -7439,5 +7139,285 @@
       "#resilienza"
     ],
     "generated_at": "2026-11-18T05:09:45.573113+00:00"
+  },
+  {
+    "quote": "Siamo fatti della stessa sostanza dei sogni.",
+    "author": "William Shakespeare",
+    "category": "sogni",
+    "caption": "Piccolo promemoria per le notti in cui ti sembra di non combinare nulla.",
+    "hashtags": [
+      "#sogni",
+      "#shakespeare",
+      "#citazioni",
+      "#ispirazione",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883351+00:00"
+  },
+  {
+    "quote": "Non c'è niente di buono o di cattivo, ma il pensiero lo rende tale.",
+    "author": "William Shakespeare",
+    "category": "filosofia",
+    "caption": "Quante volte la giornata è cambiata solo perché è cambiato il modo di guardarla.",
+    "hashtags": [
+      "#filosofia",
+      "#pensiero",
+      "#citazioni",
+      "#prospettiva",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883378+00:00"
+  },
+  {
+    "quote": "L'inferno sono gli altri.",
+    "author": "Jean-Paul Sartre",
+    "category": "relazioni",
+    "caption": "Da leggere con calma, senza prendere la frase troppo alla lettera.",
+    "hashtags": [
+      "#relazioni",
+      "#sartre",
+      "#citazioni",
+      "#riflessioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883387+00:00"
+  },
+  {
+    "quote": "La vita è ciò che accade mentre facciamo altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "E allora alziamo lo sguardo ogni tanto, che il bello passa di lì.",
+    "hashtags": [
+      "#vita",
+      "#lennon",
+      "#citazioni",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883393+00:00"
+  },
+  {
+    "quote": "Tutti sanno contare le mele, ma nessuno sa contare le stelle.",
+    "author": "Jim Morrison",
+    "category": "sogni",
+    "caption": "Per fortuna c'è ancora chi alza gli occhi invece di fare i conti.",
+    "hashtags": [
+      "#sogni",
+      "#morrison",
+      "#citazioni",
+      "#meraviglia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883398+00:00"
+  },
+  {
+    "quote": "Il futuro è già qui, solo che non è ancora distribuito.",
+    "author": "William Gibson",
+    "category": "cambiamento",
+    "caption": "A volte il domani arriva prima che ce ne accorgiamo.",
+    "hashtags": [
+      "#cambiamento",
+      "#gibson",
+      "#citazioni",
+      "#futuro",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883403+00:00"
+  },
+  {
+    "quote": "Non ho paura delle tempeste, perché sto imparando a governare la mia nave.",
+    "author": "Louisa May Alcott",
+    "category": "resilienza",
+    "caption": "Si impara navigando, non aspettando che il mare si calmi.",
+    "hashtags": [
+      "#resilienza",
+      "#alcott",
+      "#citazioni",
+      "#forza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883408+00:00"
+  },
+  {
+    "quote": "Non c'è nulla come restare a casa per scoprire quanto è bello tornare.",
+    "author": "Louisa May Alcott",
+    "category": "famiglia",
+    "caption": "Per chi parte sempre e per chi aspetta sempre.",
+    "hashtags": [
+      "#famiglia",
+      "#casa",
+      "#citazioni",
+      "#ritorni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883413+00:00"
+  },
+  {
+    "quote": "Sono così intelligente che a volte non capisco una parola di quello che dico.",
+    "author": "Oscar Wilde",
+    "category": "ironia",
+    "caption": "L'autoironia è un superpotere sottovalutato.",
+    "hashtags": [
+      "#ironia",
+      "#wilde",
+      "#citazioni",
+      "#autoironia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883417+00:00"
+  },
+  {
+    "quote": "Esperienza è il nome che tutti diamo ai propri errori.",
+    "author": "Oscar Wilde",
+    "category": "fallimento",
+    "caption": "Consolazione elegante per ogni volta che sbagliamo.",
+    "hashtags": [
+      "#fallimento",
+      "#wilde",
+      "#citazioni",
+      "#errori",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883422+00:00"
+  },
+  {
+    "quote": "Non c'è amicizia senza fiducia e non c'è fiducia senza lealtà.",
+    "author": "John Locke",
+    "category": "amicizia",
+    "caption": "Il resto sono solo conoscenze che si salutano.",
+    "hashtags": [
+      "#amicizia",
+      "#fiducia",
+      "#citazioni",
+      "#lealta",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883426+00:00"
+  },
+  {
+    "quote": "La mente è tutto: diventi ciò che pensi.",
+    "author": "Buddha",
+    "category": "crescita personale",
+    "caption": "Mezzo secondo di pensiero può cambiare la giornata intera.",
+    "hashtags": [
+      "#crescita",
+      "#buddha",
+      "#citazioni",
+      "#pensieri",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883434+00:00"
+  },
+  {
+    "quote": "La pace viene da dentro di te. Non cercarla fuori.",
+    "author": "Buddha",
+    "category": "pace",
+    "caption": "Nessuna vacanza ti salverà se non ti parli con gentilezza.",
+    "hashtags": [
+      "#pace",
+      "#buddha",
+      "#citazioni",
+      "#interiorita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883438+00:00"
+  },
+  {
+    "quote": "La solitudine è pericolosa quando ci si perde dentro, ma è preziosa quando ci si ritrova.",
+    "author": "Madre Teresa di Calcutta",
+    "category": "solitudine",
+    "caption": "Stare soli non è un difetto, è una palestra.",
+    "hashtags": [
+      "#solitudine",
+      "#citazioni",
+      "#silenzio",
+      "#ritrovarsi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883445+00:00"
+  },
+  {
+    "quote": "Quasi tutti possono sopportare le avversità, ma se vuoi mettere alla prova il carattere di un uomo, dagli il potere.",
+    "author": "Abraham Lincoln",
+    "category": "leadership",
+    "caption": "Il potere non cambia le persone: le rivela.",
+    "hashtags": [
+      "#leadership",
+      "#lincoln",
+      "#citazioni",
+      "#carattere",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883450+00:00"
+  },
+  {
+    "quote": "Non puoi risolvere un problema con lo stesso livello di pensiero che l'ha creato.",
+    "author": "Albert Einstein",
+    "category": "consapevolezza",
+    "caption": "A volte serve solo cambiare punto di vista, non farsi più forza.",
+    "hashtags": [
+      "#consapevolezza",
+      "#einstein",
+      "#citazioni",
+      "#pensiero",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883459+00:00"
+  },
+  {
+    "quote": "La libertà è la capacità di dire no.",
+    "author": "Viktor Frankl",
+    "category": "libertà",
+    "caption": "Sembra banale, ma è il confine tra te e il resto del mondo.",
+    "hashtags": [
+      "#libertà",
+      "#frankl",
+      "#citazioni",
+      "#confini",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883465+00:00"
+  },
+  {
+    "quote": "Quando non possiamo cambiare una situazione, siamo sfidati a cambiare noi stessi.",
+    "author": "Viktor Frankl",
+    "category": "cambiamento",
+    "caption": "Non è resa: è la mossa più intelligente.",
+    "hashtags": [
+      "#cambiamento",
+      "#frankl",
+      "#citazioni",
+      "#adattarsi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883470+00:00"
+  },
+  {
+    "quote": "Per quanto riguarda il futuro, non si tratta di prevederlo, ma di permetterlo.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "speranza",
+    "caption": "Costruire il futuro è più utile che indovinarlo.",
+    "hashtags": [
+      "#speranza",
+      "#futuro",
+      "#citazioni",
+      "#possibilita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883478+00:00"
+  },
+  {
+    "quote": "Il tempo non guarisce le ferite: insegna a portarle con più grazia.",
+    "author": "Sant'Agostino",
+    "category": "tempo",
+    "caption": "Non tutto passa, ma tutto si impara a portarlo meglio.",
+    "hashtags": [
+      "#tempo",
+      "#agostino",
+      "#citazioni",
+      "#ferite",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T05:03:23.883485+00:00"
   }
 ]

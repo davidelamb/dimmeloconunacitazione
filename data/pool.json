@@ -1,35 +1,5 @@
 [
   {
-    "quote": "La resilienza è la capacità di affrontare le avversità, di superarle e di uscirne più forti.",
-    "author": "Boris Cyrulnik",
-    "category": "resilienza",
-    "caption": "Non si tratta di non cadere, ma di come ci si rialza.",
-    "hashtags": [
-      "#citazioni",
-      "#resilienza",
-      "#avversità",
-      "#rinascita",
-      "#forza",
-      "#cyrulnik"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280335+00:00"
-  },
-  {
-    "quote": "Un amico è qualcuno che sa tutto di te e ti ama lo stesso.",
-    "author": "Elbert Hubbard",
-    "category": "amicizia",
-    "caption": "L'amicizia vera non chiede di essere perfetti.",
-    "hashtags": [
-      "#citazioni",
-      "#amicizia",
-      "#amici",
-      "#fiducia",
-      "#legami",
-      "#hubbard"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280342+00:00"
-  },
-  {
     "quote": "La famiglia è dove la vita comincia e l'amore non finisce mai.",
     "author": "Anonimo",
     "category": "famiglia",
@@ -7419,5 +7389,33 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-19T05:03:23.883485+00:00"
+  },
+  {
+    "quote": "Chi non ha mai perso tempo non può capire il valore del tempo.",
+    "author": "Henry David Thoreau",
+    "category": "tempo",
+    "caption": "Il tempo si capisce solo quando lo hai sprecato almeno una volta.",
+    "hashtags": [
+      "#citazioni",
+      "#tempo",
+      "#thoreau",
+      "#consapevolezza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T19:45:07.604838+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di buono o di cattivo, ma il pensiero lo rende tale.",
+    "author": "William Shakespeare",
+    "category": "filosofia",
+    "caption": "Le cose non sono come sono: sono come le racconti a te stesso.",
+    "hashtags": [
+      "#citazioni",
+      "#filosofia",
+      "#shakespeare",
+      "#pensiero",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-19T19:45:07.604873+00:00"
   }
 ]

@@ -1,95 +1,5 @@
 [
   {
-    "quote": "Il viaggio è la cosa che compri e che ti arricchisce.",
-    "author": "Anonimo",
-    "category": "viaggio",
-    "caption": "Si torna sempre diversi da come si è partiti.",
-    "hashtags": [
-      "#citazioni",
-      "#viaggio",
-      "#partire",
-      "#orizzonti",
-      "#scoperta",
-      "#cammino"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280369+00:00"
-  },
-  {
-    "quote": "La nostalgia è il dolore del ritorno impossibile.",
-    "author": "Anonimo",
-    "category": "nostalgia",
-    "caption": "Non è il passato che manca: è il modo in cui lo ricordiamo.",
-    "hashtags": [
-      "#citazioni",
-      "#nostalgia",
-      "#ricordi",
-      "#passato",
-      "#memoria",
-      "#emozioni"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280372+00:00"
-  },
-  {
-    "quote": "La speranza è l'ultima dea: resta anche quando tutto il resto è fuggito.",
-    "author": "Anonimo",
-    "category": "speranza",
-    "caption": "Anche nel vaso chiuso, resta sempre qualcosa.",
-    "hashtags": [
-      "#citazioni",
-      "#speranza",
-      "#fiducia",
-      "#futuro",
-      "#resistere",
-      "#luce"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280374+00:00"
-  },
-  {
-    "quote": "La delusione è la figlia delle aspettative troppo alte.",
-    "author": "Anonimo",
-    "category": "delusione",
-    "caption": "A volte è il nostro sguardo a cadere, non le persone.",
-    "hashtags": [
-      "#citazioni",
-      "#delusione",
-      "#aspettative",
-      "#realtà",
-      "#crescere",
-      "#verità"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280378+00:00"
-  },
-  {
-    "quote": "L'ironia è la forma più elegante di distanza.",
-    "author": "Anonimo",
-    "category": "ironia",
-    "caption": "Ridere di sé è un modo raffinato di prendersi sul serio.",
-    "hashtags": [
-      "#citazioni",
-      "#ironia",
-      "#umorismo",
-      "#eleganza",
-      "#autoironia",
-      "#saggezza"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280381+00:00"
-  },
-  {
-    "quote": "Filosofia è meravigliarsi che le cose siano come sono.",
-    "author": "Ludwig Wittgenstein",
-    "category": "filosofia",
-    "caption": "Fare domande è già un modo di stare al mondo.",
-    "hashtags": [
-      "#citazioni",
-      "#filosofia",
-      "#wittgenstein",
-      "#domande",
-      "#meraviglia",
-      "#pensiero"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280384+00:00"
-  },
-  {
     "quote": "Il minimalismo è l'intenzionalità di ciò che conta.",
     "author": "Anonimo",
     "category": "minimalismo",
@@ -7417,5 +7327,89 @@
       "#legami"
     ],
     "generated_at": "2026-11-20T04:53:51.602967+00:00"
+  },
+  {
+    "quote": "La vita è quella cosa che ci accade mentre siamo occupati a fare altri progetti.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "A volte i piani migliori sono quelli che non avevamo fatto.",
+    "hashtags": [
+      "#vita",
+      "#citazioni",
+      "#frasicitazionifamose",
+      "#dimmeloconunacitazione",
+      "#presente"
+    ],
+    "generated_at": "2026-11-20T19:26:09.355474+00:00"
+  },
+  {
+    "quote": "Che tu creda di farcela o che creda di non farcela, avrai comunque ragione.",
+    "author": "Henry Ford",
+    "category": "motivazione",
+    "caption": "La prima cosa che costruiamo è il pensiero che ci abita.",
+    "hashtags": [
+      "#motivazione",
+      "#citazioni",
+      "#mindset",
+      "#dimmeloconunacitazione",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-20T19:26:09.355499+00:00"
+  },
+  {
+    "quote": "La costanza è la compagna silenziosa del talento.",
+    "author": "Seneca",
+    "category": "disciplina",
+    "caption": "Il talento fa rumore, la costanza fa strada.",
+    "hashtags": [
+      "#disciplina",
+      "#citazioni",
+      "#costanza",
+      "#dimmeloconunacitazione",
+      "#lavoro"
+    ],
+    "generated_at": "2026-11-20T19:26:09.355506+00:00"
+  },
+  {
+    "quote": "Il cambiamento è la legge della vita, e chi guarda solo al passato è destinato a perderlo.",
+    "author": "John F. Kennedy",
+    "category": "cambiamento",
+    "caption": "Guardare avanti non è dimenticare: è scegliere di non restare fermi.",
+    "hashtags": [
+      "#cambiamento",
+      "#citazioni",
+      "#futuro",
+      "#dimmeloconunacitazione",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-20T19:26:09.355517+00:00"
+  },
+  {
+    "quote": "Non si finisce mai di crescere: si smette solo di volerlo.",
+    "author": "Eleanor Roosevelt",
+    "category": "crescita personale",
+    "caption": "Crescere non è un traguardo: è una scelta quotidiana.",
+    "hashtags": [
+      "#crescitapersonale",
+      "#citazioni",
+      "#evoluzione",
+      "#dimmeloconunacitazione",
+      "#mindset"
+    ],
+    "generated_at": "2026-11-20T19:26:09.355522+00:00"
+  },
+  {
+    "quote": "Scegli un lavoro che ami e non dovrai lavorare neanche un giorno della tua vita.",
+    "author": "Confucio",
+    "category": "lavoro",
+    "caption": "Non è una promessa di leggerezza: è un invito a scegliere bene.",
+    "hashtags": [
+      "#lavoro",
+      "#citazioni",
+      "#passione",
+      "#dimmeloconunacitazione",
+      "#carriera"
+    ],
+    "generated_at": "2026-11-20T19:26:09.355540+00:00"
   }
 ]

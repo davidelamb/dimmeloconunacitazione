@@ -1,110 +1,5 @@
 [
   {
-    "quote": "La famiglia è dove la vita comincia e l'amore non finisce mai.",
-    "author": "Anonimo",
-    "category": "famiglia",
-    "caption": "Un posto che non si sceglie, ma che ci sceglie ogni giorno.",
-    "hashtags": [
-      "#citazioni",
-      "#famiglia",
-      "#amore",
-      "#casa",
-      "#radici",
-      "#legami"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280345+00:00"
-  },
-  {
-    "quote": "La solitudine è la condizione di chi non ha nessuno con cui parlare, ma anche di chi ha molto da dire a se stesso.",
-    "author": "Anonimo",
-    "category": "solitudine",
-    "caption": "A volte la stanza vuota è la più affollata di domande.",
-    "hashtags": [
-      "#citazioni",
-      "#solitudine",
-      "#silenzio",
-      "#introspezione",
-      "#starebene",
-      "#sestessi"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280348+00:00"
-  },
-  {
-    "quote": "Il tempo è il bene più prezioso che possiamo spendere.",
-    "author": "Teofrasto",
-    "category": "tempo",
-    "caption": "Non si conserva: si sceglie come spenderlo.",
-    "hashtags": [
-      "#citazioni",
-      "#tempo",
-      "#teofrasto",
-      "#presente",
-      "#scelte",
-      "#vita"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280351+00:00"
-  },
-  {
-    "quote": "I sogni sono illustrazioni di un libro che dobbiamo ancora scrivere.",
-    "author": "Anonimo",
-    "category": "sogni",
-    "caption": "Li portiamo dentro come bozze di una storia che aspetta noi.",
-    "hashtags": [
-      "#citazioni",
-      "#sogni",
-      "#futuro",
-      "#immaginazione",
-      "#desideri",
-      "#scrivere"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280355+00:00"
-  },
-  {
-    "quote": "L'ambizione è la passione che muove le grandi imprese.",
-    "author": "Anonimo",
-    "category": "ambizione",
-    "caption": "Non è vanità: è il motore che accende le giornate.",
-    "hashtags": [
-      "#citazioni",
-      "#ambizione",
-      "#obiettivi",
-      "#motivazione",
-      "#imprese",
-      "#futuro"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280358+00:00"
-  },
-  {
-    "quote": "Scegli un lavoro che ami e non dovrai lavorare neanche un giorno della tua vita.",
-    "author": "Confucio",
-    "category": "lavoro",
-    "caption": "Quando il lavoro somiglia a una vocazione, le ore cambiano sapore.",
-    "hashtags": [
-      "#citazioni",
-      "#lavoro",
-      "#confucio",
-      "#passione",
-      "#vocazione",
-      "#carriera"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280361+00:00"
-  },
-  {
-    "quote": "Il leader è colui che sa servire prima di comandare.",
-    "author": "Anonimo",
-    "category": "leadership",
-    "caption": "Guidare significa farsi carico, non mettersi in cima.",
-    "hashtags": [
-      "#citazioni",
-      "#leadership",
-      "#servire",
-      "#squadra",
-      "#esempio",
-      "#guidare"
-    ],
-    "generated_at": "2026-10-25T02:19:45.280364+00:00"
-  },
-  {
     "quote": "Il viaggio è la cosa che compri e che ti arricchisce.",
     "author": "Anonimo",
     "category": "viaggio",
@@ -7417,5 +7312,110 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-19T19:45:07.604873+00:00"
+  },
+  {
+    "quote": "La disciplina è fare ciò che non vuoi fare quando non vuoi farlo.",
+    "author": "Anonimo",
+    "category": "disciplina",
+    "caption": "Niente magia: solo la scelta ripetuta ogni giorno.",
+    "hashtags": [
+      "#citazioni",
+      "#disciplina",
+      "#abitudini",
+      "#costanza",
+      "#quotidiano",
+      "#obiettivi"
+    ],
+    "generated_at": "2026-11-20T04:53:51.602910+00:00"
+  },
+  {
+    "quote": "Le cose difficili richiedono tempo, le cose impossibili solo un po' di più.",
+    "author": "Anonimo",
+    "category": "resilienza",
+    "caption": "Quando sembra impossibile, forse serve solo un altro po' di pazienza.",
+    "hashtags": [
+      "#citazioni",
+      "#resilienza",
+      "#pazienza",
+      "#forza",
+      "#ostacoli",
+      "#determinazione"
+    ],
+    "generated_at": "2026-11-20T04:53:51.602936+00:00"
+  },
+  {
+    "quote": "Non puoi cambiare il vento, ma puoi orientare le tue vele.",
+    "author": "Anonimo",
+    "category": "cambiamento",
+    "caption": "Il mondo fa il suo, tu scegli la direzione.",
+    "hashtags": [
+      "#citazioni",
+      "#cambiamento",
+      "#vela",
+      "#adattarsi",
+      "#libertà",
+      "#vento"
+    ],
+    "generated_at": "2026-11-20T04:53:51.602946+00:00"
+  },
+  {
+    "quote": "Il valore di un uomo è ciò che dà, non ciò che riceve.",
+    "author": "Albert Einstein",
+    "category": "autostima",
+    "caption": "Vali per quello che offri, non per quello che incassi.",
+    "hashtags": [
+      "#citazioni",
+      "#autostima",
+      "#einstein",
+      "#valori",
+      "#dare",
+      "#identità"
+    ],
+    "generated_at": "2026-11-20T04:53:51.602952+00:00"
+  },
+  {
+    "quote": "La felicità non è qualcosa di già fatto. Viene dalle tue azioni.",
+    "author": "Dalai Lama",
+    "category": "felicità",
+    "caption": "Non è un oggetto da trovare: è una cosa da fare.",
+    "hashtags": [
+      "#citazioni",
+      "#felicità",
+      "#dalailama",
+      "#azioni",
+      "#gioia",
+      "#quotidiano"
+    ],
+    "generated_at": "2026-11-20T04:53:51.602958+00:00"
+  },
+  {
+    "quote": "Un vero amico è colui che entra quando il resto del mondo esce.",
+    "author": "Anonimo",
+    "category": "amicizia",
+    "caption": "Quelli che restano quando gli altri se ne vanno sono la risposta.",
+    "hashtags": [
+      "#citazioni",
+      "#amicizia",
+      "#veri amici",
+      "#presenza",
+      "#fedeltà",
+      "#restare"
+    ],
+    "generated_at": "2026-11-20T04:53:51.602963+00:00"
+  },
+  {
+    "quote": "La famiglia è il luogo dove la vita comincia e l'amore non finisce mai.",
+    "author": "Anonimo",
+    "category": "famiglia",
+    "caption": "La prima casa, l'ultimo rifugio.",
+    "hashtags": [
+      "#citazioni",
+      "#famiglia",
+      "#amore",
+      "#radici",
+      "#casa",
+      "#legami"
+    ],
+    "generated_at": "2026-11-20T04:53:51.602967+00:00"
   }
 ]

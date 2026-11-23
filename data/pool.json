@@ -1,350 +1,5 @@
 [
   {
-    "quote": "La solitudine è la condizione necessaria per fare qualcosa di buono.",
-    "author": "Pablo Picasso",
-    "category": "solitudine",
-    "caption": "Stare soli non è un vuoto: è lo spazio in cui nascono le cose.",
-    "hashtags": [
-      "#solitudine",
-      "#picasso",
-      "#creatività",
-      "#citazioni",
-      "#silenzio",
-      "#arte"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841473+00:00"
-  },
-  {
-    "quote": "Non c'è amico più fedele di un libro.",
-    "author": "Ernest Hemingway",
-    "category": "amicizia",
-    "caption": "Alcuni amici non parlano, ma ti capiscono lo stesso.",
-    "hashtags": [
-      "#amicizia",
-      "#libri",
-      "#hemingway",
-      "#citazioni",
-      "#lettura",
-      "#fedeltà"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841477+00:00"
-  },
-  {
-    "quote": "Non si può insegnare nulla a un uomo: si può solo aiutarlo a trovare ciò che è già dentro di lui.",
-    "author": "Galileo Galilei",
-    "category": "crescita personale",
-    "caption": "Le risposte sono già lì. Serve qualcuno che ti aiuti a vederle.",
-    "hashtags": [
-      "#crescita",
-      "#galileo",
-      "#consapevolezza",
-      "#citazioni",
-      "#insegnamento",
-      "#dentro"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841488+00:00"
-  },
-  {
-    "quote": "L'immaginazione è più importante della conoscenza.",
-    "author": "Albert Einstein",
-    "category": "sogni",
-    "caption": "La conoscenza descrive il mondo com'è. L'immaginazione lo reinventa.",
-    "hashtags": [
-      "#sogni",
-      "#immaginazione",
-      "#einstein",
-      "#citazioni",
-      "#creatività",
-      "#futuro"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841494+00:00"
-  },
-  {
-    "quote": "La vera scoperta non consiste nel trovare nuove terre, ma nel vedere con occhi nuovi.",
-    "author": "Marcel Proust",
-    "category": "viaggio",
-    "caption": "Cambiare sguardo è già un viaggio. Anche restando fermi.",
-    "hashtags": [
-      "#viaggio",
-      "#proust",
-      "#sguardo",
-      "#citazioni",
-      "#scoperta",
-      "#cambiamento"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841499+00:00"
-  },
-  {
-    "quote": "Chi controlla gli altri è potente. Chi controlla se stesso è davvero forte.",
-    "author": "Lao Tzu",
-    "category": "disciplina",
-    "caption": "La disciplina più difficile è quella che nessuno vede.",
-    "hashtags": [
-      "#disciplina",
-      "#laotzu",
-      "#forza",
-      "#citazioni",
-      "#autocontrollo",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841503+00:00"
-  },
-  {
-    "quote": "La cosa più importante è non smettere mai di domandare.",
-    "author": "Albert Einstein",
-    "category": "consapevolezza",
-    "caption": "Le domande giuste valgono più delle risposte facili.",
-    "hashtags": [
-      "#consapevolezza",
-      "#domande",
-      "#einstein",
-      "#citazioni",
-      "#curiosità",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841508+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di permanente, tranne il cambiamento.",
-    "author": "Eraclito",
-    "category": "cambiamento",
-    "caption": "Resistere al cambiamento è l'unica battaglia che si perde sempre.",
-    "hashtags": [
-      "#cambiamento",
-      "#eraclito",
-      "#citazioni",
-      "#filosofia",
-      "#impermanenza",
-      "#vita"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841512+00:00"
-  },
-  {
-    "quote": "Ogni cosa grande è nata da piccoli inizi.",
-    "author": "Esopo",
-    "category": "pazienza",
-    "caption": "I grandi risultati non fanno rumore all'inizio. Crescono, e basta.",
-    "hashtags": [
-      "#pazienza",
-      "#inizi",
-      "#esopo",
-      "#citazioni",
-      "#crescita",
-      "#costanza"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841516+00:00"
-  },
-  {
-    "quote": "Il genio è l'un per cento di ispirazione e il novantanove per cento di traspirazione.",
-    "author": "Thomas Edison",
-    "category": "lavoro",
-    "caption": "Il talento è solo l'inizio. Il resto lo fa il sudore.",
-    "hashtags": [
-      "#lavoro",
-      "#edison",
-      "#impegno",
-      "#citazioni",
-      "#successo",
-      "#genio"
-    ],
-    "generated_at": "2026-10-27T02:55:40.841524+00:00"
-  },
-  {
-    "quote": "Non ho mai conosciuto un uomo che potesse riconoscere la propria ignoranza.",
-    "author": "Socrate",
-    "category": "consapevolezza",
-    "caption": "Sapere di non sapere: il punto di partenza più onesto che esista.",
-    "hashtags": [
-      "#consapevolezza",
-      "#socrate",
-      "#filosofia",
-      "#saggezza",
-      "#umiltà",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516547+00:00"
-  },
-  {
-    "quote": "Chi non sa tacere non sa nemmeno ascoltare.",
-    "author": "Plutarco",
-    "category": "relazioni",
-    "caption": "Le orecchie funzionano meglio quando la bocca riposa.",
-    "hashtags": [
-      "#ascolto",
-      "#relazioni",
-      "#silenzio",
-      "#plutarco",
-      "#comunicazione",
-      "#rispetto"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516579+00:00"
-  },
-  {
-    "quote": "La morte non è il contrario della vita, ma una parte di essa.",
-    "author": "Haruki Murakami",
-    "category": "vita",
-    "caption": "Vivere sapendo che tutto finisce: forse è proprio questo a renderlo prezioso.",
-    "hashtags": [
-      "#vita",
-      "#murakami",
-      "#letteratura",
-      "#finitudine",
-      "#riflessioni",
-      "#vivere"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516585+00:00"
-  },
-  {
-    "quote": "Sono fatto di tutte le cose che ho perso.",
-    "author": "Fernando Pessoa",
-    "category": "nostalgia",
-    "caption": "Le assenze ci compongono più delle presenze.",
-    "hashtags": [
-      "#nostalgia",
-      "#pessoa",
-      "#assenza",
-      "#poesia",
-      "#anima",
-      "#letteratura"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516591+00:00"
-  },
-  {
-    "quote": "La libertà è la scelta di ciò che ci lega.",
-    "author": "Simone Weil",
-    "category": "libertà",
-    "caption": "Essere liberi non è non avere legami, è sceglierli con cura.",
-    "hashtags": [
-      "#libertà",
-      "#simoneweil",
-      "#scelte",
-      "#filosofia",
-      "#legami",
-      "#pensiero"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516597+00:00"
-  },
-  {
-    "quote": "Il successo è andare da un fallimento all'altro senza perdere l'entusiasmo.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "Non il non cadere, ma il rialzarsi con la stessa fame di prima.",
-    "hashtags": [
-      "#successo",
-      "#churchill",
-      "#fallimento",
-      "#entusiasmo",
-      "#resilienza",
-      "#motivazione"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516601+00:00"
-  },
-  {
-    "quote": "Nessuno può farti sentire inferiore senza il tuo consenso.",
-    "author": "Eleanor Roosevelt",
-    "category": "autostima",
-    "caption": "Il permesso lo diamo noi, ogni volta che ci crediamo meno di quello che siamo.",
-    "hashtags": [
-      "#autostima",
-      "#eleanorroosevelt",
-      "#rispetto",
-      "#forza",
-      "#donne",
-      "#coraggio"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516605+00:00"
-  },
-  {
-    "quote": "La felicità non è un traguardo da raggiungere, ma un modo di viaggiare.",
-    "author": "Margaret Lee Runbeck",
-    "category": "felicità",
-    "caption": "Smettila di aspettare di arrivare: sei già in cammino.",
-    "hashtags": [
-      "#felicità",
-      "#viaggio",
-      "#presente",
-      "#mindfulness",
-      "#vita",
-      "#gioia"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516609+00:00"
-  },
-  {
-    "quote": "Il dubbio è l'inizio della saggezza.",
-    "author": "Aristotele",
-    "category": "filosofia",
-    "caption": "Chi non si è mai chiesto se sbaglia, probabilmente sbaglia.",
-    "hashtags": [
-      "#filosofia",
-      "#aristotele",
-      "#dubbio",
-      "#saggezza",
-      "#pensiero",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516613+00:00"
-  },
-  {
-    "quote": "La forza di un esercito sta nella disciplina dei suoi soldati.",
-    "author": "Sun Tzu",
-    "category": "disciplina",
-    "caption": "Il talento impressiona, la costanza vince.",
-    "hashtags": [
-      "#disciplina",
-      "#suntzu",
-      "#costanza",
-      "#strategia",
-      "#lavoro",
-      "#abitudini"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516618+00:00"
-  },
-  {
-    "quote": "Chi non ha coraggio di rischiare non otterrà nulla dalla vita.",
-    "author": "Friedrich Nietzsche",
-    "category": "coraggio",
-    "caption": "Il coraggio non è sicurezza: è buttarsi anche quando non lo sei.",
-    "hashtags": [
-      "#coraggio",
-      "#nietzsche",
-      "#rischio",
-      "#vita",
-      "#filosofia",
-      "#osare"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516622+00:00"
-  },
-  {
-    "quote": "La vera generosità verso il futuro consiste nel dare tutto al presente.",
-    "author": "Albert Camus",
-    "category": "tempo",
-    "caption": "Il futuro si costruisce con la cura che mettiamo nell'oggi.",
-    "hashtags": [
-      "#tempo",
-      "#camus",
-      "#presente",
-      "#generosità",
-      "#filosofia",
-      "#vita"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516626+00:00"
-  },
-  {
-    "quote": "Non c'è amicizia senza fiducia, e non c'è fiducia senza verità.",
-    "author": "Cicerone",
-    "category": "amicizia",
-    "caption": "Un amico vero è quello a cui puoi dire la verità senza spiegarti troppo.",
-    "hashtags": [
-      "#amicizia",
-      "#cicerone",
-      "#fiducia",
-      "#verità",
-      "#legami",
-      "#lealtà"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516630+00:00"
-  },
-  {
     "quote": "Il perdono è l'odore che il fiore lascia sulla mano che lo schiaccia.",
     "author": "Mahatma Gandhi",
     "category": "perdono",
@@ -7411,5 +7066,327 @@
       "#filosofia"
     ],
     "generated_at": "2026-11-23T04:46:04.109651+00:00"
+  },
+  {
+    "quote": "Fatti una vita, non una reputazione.",
+    "author": "Chuck Palahniuk",
+    "category": "autostima",
+    "caption": "Costruire sé stessi vale più che costruire un'immagine.",
+    "hashtags": [
+      "#autostima",
+      "#identità",
+      "#vitavera",
+      "#citazioni",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026023+00:00"
+  },
+  {
+    "quote": "La moderazione è una virtù che si impara con il tempo.",
+    "author": "Baltasar Gracián",
+    "category": "pazienza",
+    "caption": "Il tempo insegna ciò che la fretta non concede mai.",
+    "hashtags": [
+      "#pazienza",
+      "#tempo",
+      "#moderazione",
+      "#citazioni",
+      "#saggezza"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026048+00:00"
+  },
+  {
+    "quote": "Chi non sa soffrire non sa nemmeno gioire.",
+    "author": "Fëdor Dostoevskij",
+    "category": "resilienza",
+    "caption": "La gioia ha radici profonde, spesso nel dolore attraversato.",
+    "hashtags": [
+      "#resilienza",
+      "#dolore",
+      "#gioia",
+      "#citazioni",
+      "#letteratura"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026055+00:00"
+  },
+  {
+    "quote": "Non si può essere felici se non si è liberi.",
+    "author": "Seneca",
+    "category": "libertà",
+    "caption": "La felicità è un respiro, e il respiro chiede spazio.",
+    "hashtags": [
+      "#libertà",
+      "#felicità",
+      "#seneca",
+      "#citazioni",
+      "#filosofia"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026062+00:00"
+  },
+  {
+    "quote": "La vera amicizia è come la salute: non ne senti il valore finché non la perdi.",
+    "author": "Charles Caleb Colton",
+    "category": "amicizia",
+    "caption": "A volte ci accorgiamo di un amico solo quando ci manca.",
+    "hashtags": [
+      "#amicizia",
+      "#salute",
+      "#presenza",
+      "#citazioni",
+      "#relazioni"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026070+00:00"
+  },
+  {
+    "quote": "L'amore è un atto di coraggio.",
+    "author": "Paulo Coelho",
+    "category": "amore",
+    "caption": "Amare è sempre un salto, mai una garanzia.",
+    "hashtags": [
+      "#amore",
+      "#coraggio",
+      "#coelho",
+      "#citazioni",
+      "#sentimenti"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026075+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più saggio che sapere di non sapere.",
+    "author": "Socrate",
+    "category": "consapevolezza",
+    "caption": "L'umiltà di non sapere apre ogni porta.",
+    "hashtags": [
+      "#consapevolezza",
+      "#socrate",
+      "#umiltà",
+      "#citazioni",
+      "#filosofia"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026080+00:00"
+  },
+  {
+    "quote": "La disciplina è l'anima di un esercito.",
+    "author": "George Washington",
+    "category": "disciplina",
+    "caption": "Anche la libertà più grande ha bisogno di regole.",
+    "hashtags": [
+      "#disciplina",
+      "#regole",
+      "#leadership",
+      "#citazioni",
+      "#forza"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026085+00:00"
+  },
+  {
+    "quote": "Sono le piccole cose che fanno la felicità.",
+    "author": "Robert Louis Stevenson",
+    "category": "felicità",
+    "caption": "La felicità non fa rumore: spesso ha la voce delle piccole cose.",
+    "hashtags": [
+      "#felicità",
+      "#piccolecose",
+      "#quotidiano",
+      "#citazioni",
+      "#gioia"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026089+00:00"
+  },
+  {
+    "quote": "La vera misura di un uomo è ciò che fa con il potere.",
+    "author": "Platone",
+    "category": "leadership",
+    "caption": "Il potere rivela, non trasforma: mostra chi sei davvero.",
+    "hashtags": [
+      "#leadership",
+      "#potere",
+      "#platone",
+      "#citazioni",
+      "#etica"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026098+00:00"
+  },
+  {
+    "quote": "Il tempo è denaro.",
+    "author": "Benjamin Franklin",
+    "category": "tempo",
+    "caption": "Non è solo denaro: è la materia di cui è fatta la nostra vita.",
+    "hashtags": [
+      "#tempo",
+      "#franklin",
+      "#citazioni",
+      "#consapevolezza",
+      "#vita"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026106+00:00"
+  },
+  {
+    "quote": "La speranza è il sogno dell'uomo sveglio.",
+    "author": "Aristotele",
+    "category": "speranza",
+    "caption": "Sperare non è dormire: è tenere gli occhi aperti sul possibile.",
+    "hashtags": [
+      "#speranza",
+      "#aristotele",
+      "#sogni",
+      "#citazioni",
+      "#futuro"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026113+00:00"
+  },
+  {
+    "quote": "Il perdono è la chiave che apre la porta del rancore.",
+    "author": "Anonimo",
+    "category": "perdono",
+    "caption": "Perdonare non cancella il passato, ma libera il presente.",
+    "hashtags": [
+      "#perdono",
+      "#rancore",
+      "#libertà",
+      "#citazioni",
+      "#pace"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026118+00:00"
+  },
+  {
+    "quote": "La semplicità è il sigillo della verità.",
+    "author": "Lev Tolstoj",
+    "category": "minimalismo",
+    "caption": "Le cose vere non hanno bisogno di essere complicate.",
+    "hashtags": [
+      "#minimalismo",
+      "#semplicità",
+      "#tolstoj",
+      "#citazioni",
+      "#verità"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026123+00:00"
+  },
+  {
+    "quote": "La giovinezza è una malattia da cui si guarisce con il tempo.",
+    "author": "George Bernard Shaw",
+    "category": "giovinezza",
+    "caption": "Cresciamo, e forse impariamo a sorridere delle nostre certezze.",
+    "hashtags": [
+      "#giovinezza",
+      "#shawa",
+      "#maturità",
+      "#citazioni",
+      "#ironia"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026128+00:00"
+  },
+  {
+    "quote": "L'ambizione è la passione di dominare.",
+    "author": "David Hume",
+    "category": "ambizione",
+    "caption": "L'ambizione è potente: la domanda è chi o cosa vuole dominare.",
+    "hashtags": [
+      "#ambizione",
+      "#hume",
+      "#potere",
+      "#citazioni",
+      "#filosofia"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026132+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di permanente tranne l'impermanenza.",
+    "author": "Eraclito",
+    "category": "cambiamento",
+    "caption": "Il cambiamento non è un incidente: è la regola del mondo.",
+    "hashtags": [
+      "#cambiamento",
+      "#eraclito",
+      "#impermanenza",
+      "#citazioni",
+      "#filosofia"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026137+00:00"
+  },
+  {
+    "quote": "La solitudine è la patria dei forti.",
+    "author": "Friedrich Nietzsche",
+    "category": "solitudine",
+    "caption": "Stare soli non è un castigo: a volte è un ritorno a casa.",
+    "hashtags": [
+      "#solitudine",
+      "#nietzsche",
+      "#forza",
+      "#citazioni",
+      "#introspezione"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026141+00:00"
+  },
+  {
+    "quote": "La nostalgia è il dolore di un ritorno impossibile.",
+    "author": "Milan Kundera",
+    "category": "nostalgia",
+    "caption": "La nostalgia non è memoria: è il desiderio di un tempo che non torna.",
+    "hashtags": [
+      "#nostalgia",
+      "#kundera",
+      "#memoria",
+      "#citazioni",
+      "#passato"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026146+00:00"
+  },
+  {
+    "quote": "La maturità è la capacità di stare da soli con se stessi.",
+    "author": "Hermann Hesse",
+    "category": "maturità",
+    "caption": "Crescere significa anche saper abitare il proprio silenzio.",
+    "hashtags": [
+      "#maturità",
+      "#hesse",
+      "#solitudine",
+      "#citazioni",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026152+00:00"
+  },
+  {
+    "quote": "La delusione è il prezzo della fiducia.",
+    "author": "Anonimo",
+    "category": "delusione",
+    "caption": "Fidarsi è sempre un atto di coraggio, e a volte costa.",
+    "hashtags": [
+      "#delusione",
+      "#fiducia",
+      "#coraggio",
+      "#citazioni",
+      "#relazioni"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026156+00:00"
+  },
+  {
+    "quote": "La pace non è un trattato, è uno stato dell'anima.",
+    "author": "Anonimo",
+    "category": "pace",
+    "caption": "Prima di firmare la pace con gli altri, bisogna firmarla con sé stessi.",
+    "hashtags": [
+      "#pace",
+      "#anima",
+      "#interiore",
+      "#citazioni",
+      "#serenità"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026162+00:00"
+  },
+  {
+    "quote": "Lo sport è la poesia del corpo.",
+    "author": "Anonimo",
+    "category": "sport",
+    "caption": "Correre, saltare, respirare: il corpo scrive la sua poesia.",
+    "hashtags": [
+      "#sport",
+      "#corpo",
+      "#poesia",
+      "#citazioni",
+      "#movimento"
+    ],
+    "generated_at": "2026-11-23T23:04:07.026171+00:00"
   }
 ]

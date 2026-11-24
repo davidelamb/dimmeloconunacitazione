@@ -1,228 +1,5 @@
 [
   {
-    "quote": "Il perdono è l'odore che il fiore lascia sulla mano che lo schiaccia.",
-    "author": "Mahatma Gandhi",
-    "category": "perdono",
-    "caption": "Perdonare non è dimenticare: è smettere di pagare un debito che non è tuo.",
-    "hashtags": [
-      "#perdono",
-      "#gandhi",
-      "#pace",
-      "#libertà",
-      "#cuore",
-      "#rinascita"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516634+00:00"
-  },
-  {
-    "quote": "Un uomo che non legge non è migliore di un uomo che non sa leggere.",
-    "author": "Mark Twain",
-    "category": "crescita personale",
-    "caption": "Leggere è il modo più economico per cambiare idea.",
-    "hashtags": [
-      "#lettura",
-      "#marktwain",
-      "#libri",
-      "#crescita",
-      "#cultura",
-      "#ironia"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516641+00:00"
-  },
-  {
-    "quote": "La speranza è l'unica cosa che resta quando tutto il resto è stato portato via.",
-    "author": "Primo Levi",
-    "category": "speranza",
-    "caption": "Anche nel fondo, qualcosa resiste. E quel qualcosa siamo noi.",
-    "hashtags": [
-      "#speranza",
-      "#primolevi",
-      "#memoria",
-      "#resilienza",
-      "#umanità",
-      "#testimonianza"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516645+00:00"
-  },
-  {
-    "quote": "La vera misura di un uomo è ciò che fa con il potere che ha.",
-    "author": "Platone",
-    "category": "leadership",
-    "caption": "Il potere rivela: non cambia le persone, le mostra.",
-    "hashtags": [
-      "#leadership",
-      "#platone",
-      "#potere",
-      "#responsabilità",
-      "#filosofia",
-      "#etica"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516649+00:00"
-  },
-  {
-    "quote": "Non rimandare a domani ciò che puoi fare oggi.",
-    "author": "Benjamin Franklin",
-    "category": "motivazione",
-    "caption": "Il domani è il rifugio preferito di chi non vuole iniziare.",
-    "hashtags": [
-      "#motivazione",
-      "#franklin",
-      "#azione",
-      "#oggi",
-      "#disciplina",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516653+00:00"
-  },
-  {
-    "quote": "Il fallimento è semplicemente l'opportunità di ricominciare, questa volta con più esperienza.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Cadere è un dato di fatto. Restare a terra è una scelta.",
-    "hashtags": [
-      "#fallimento",
-      "#henryford",
-      "#riprovare",
-      "#esperienza",
-      "#resilienza",
-      "#rinascita"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516657+00:00"
-  },
-  {
-    "quote": "Chi non sa popolare la propria solitudine non sa nemmeno stare con gli altri.",
-    "author": "Carlo Levi",
-    "category": "solitudine",
-    "caption": "Stare bene da soli è il prerequisito per stare bene insieme.",
-    "hashtags": [
-      "#solitudine",
-      "#carlolevi",
-      "#silenzio",
-      "#equilibrio",
-      "#introspezione",
-      "#benessere"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516661+00:00"
-  },
-  {
-    "quote": "La bellezza è una forma di resistenza.",
-    "author": "Albert Camus",
-    "category": "pace",
-    "caption": "Creare qualcosa di bello, anche piccolo, è già un atto contro il rumore del mondo.",
-    "hashtags": [
-      "#pace",
-      "#camus",
-      "#bellezza",
-      "#resistenza",
-      "#arte",
-      "#serenità"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516665+00:00"
-  },
-  {
-    "quote": "La maturità è quando smetti di cercare approvazione e inizi a cercare senso.",
-    "author": "Viktor Frankl",
-    "category": "maturità",
-    "caption": "Crescere è spostare lo sguardo dagli altri a ciò che conta per te.",
-    "hashtags": [
-      "#maturità",
-      "#frankl",
-      "#senso",
-      "#crescita",
-      "#consapevolezza",
-      "#vita"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516669+00:00"
-  },
-  {
-    "quote": "Il viaggio è il sogno di chi non si accontenta di guardare.",
-    "author": "Hans Christian Andersen",
-    "category": "viaggio",
-    "caption": "Partire è il modo più diretto per tornare diversi.",
-    "hashtags": [
-      "#viaggio",
-      "#andersen",
-      "#partire",
-      "#scoperta",
-      "#orizzonte",
-      "#libertà"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516676+00:00"
-  },
-  {
-    "quote": "La giovinezza non è un periodo della vita, è uno stato d'animo.",
-    "author": "Samuel Ullman",
-    "category": "giovinezza",
-    "caption": "Si invecchia quando si smette di stupirsi, non quando si smette di avere vent'anni.",
-    "hashtags": [
-      "#giovinezza",
-      "#giovani",
-      "#entusiasmo",
-      "#curiosità",
-      "#vita",
-      "#spirito"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516680+00:00"
-  },
-  {
-    "quote": "Il destino non è una questione di caso, è una questione di scelta.",
-    "author": "William Jennings Bryan",
-    "category": "destino",
-    "caption": "Il caso apre le porte, ma sei tu a decidere se entrare.",
-    "hashtags": [
-      "#destino",
-      "#scelte",
-      "#responsabilità",
-      "#vita",
-      "#decisioni",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-10-27T17:02:07.516686+00:00"
-  },
-  {
-    "quote": "La vita è quello che succede quando sei occupato a fare altri piani.",
-    "author": "John Lennon",
-    "category": "vita",
-    "caption": "Mentre pianifichi tutto, la vita scorre accanto a te. Forse vale la pena alzare lo sguardo.",
-    "hashtags": [
-      "#vita",
-      "#johnlennon",
-      "#citazioni",
-      "#presente",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-28T03:04:28.076854+00:00"
-  },
-  {
-    "quote": "Il successo è la somma di piccoli sforzi, ripetuti giorno dopo giorno.",
-    "author": "Robert Collier",
-    "category": "motivazione",
-    "caption": "Nessun risultato nasce da un colpo di fortuna: nasce dalla somma di giorni in cui hai scelto di non fermarti.",
-    "hashtags": [
-      "#motivazione",
-      "#successo",
-      "#costanza",
-      "#citazioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-28T03:04:28.076881+00:00"
-  },
-  {
-    "quote": "Il successo è camminare da un fallimento all'altro senza perdere entusiasmo.",
-    "author": "Winston Churchill",
-    "category": "successo",
-    "caption": "L'entusiasmo che resta acceso dopo la caduta è la vera misura del successo.",
-    "hashtags": [
-      "#citazioni",
-      "#successo",
-      "#churchill",
-      "#entusiasmo",
-      "#resilienza",
-      "#motivazione"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267612+00:00"
-  },
-  {
     "quote": "Osa sapere.",
     "author": "Orazio",
     "category": "coraggio",
@@ -7388,5 +7165,230 @@
       "#movimento"
     ],
     "generated_at": "2026-11-23T23:04:07.026171+00:00"
+  },
+  {
+    "quote": "La misura dell'intelligenza è la capacità di cambiare.",
+    "author": "Albert Einstein",
+    "category": "cambiamento",
+    "caption": "Adattarsi non è debolezza: è intelligenza in movimento.",
+    "hashtags": [
+      "#einstein",
+      "#cambiamento",
+      "#intelligenza",
+      "#adattarsi",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136057+00:00"
+  },
+  {
+    "quote": "La bellezza comincia nel momento in cui decidi di essere te stesso.",
+    "author": "Coco Chanel",
+    "category": "autostima",
+    "caption": "Nessun filtro batte l'autenticità.",
+    "hashtags": [
+      "#cocochanel",
+      "#autostima",
+      "#autenticità",
+      "#bellezza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136085+00:00"
+  },
+  {
+    "quote": "Non è la specie più forte che sopravvive, né la più intelligente, ma quella più capace di adattarsi.",
+    "author": "Charles Darwin",
+    "category": "resilienza",
+    "caption": "Flessibile non vuol dire fragile.",
+    "hashtags": [
+      "#darwin",
+      "#resilienza",
+      "#adattamento",
+      "#evoluzione",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136090+00:00"
+  },
+  {
+    "quote": "La gioia è il segno più sicuro della presenza di Dio.",
+    "author": "Pierre Teilhard de Chardin",
+    "category": "felicità",
+    "caption": "Cerchiamo segnali complicati, poi arriva la gioia.",
+    "hashtags": [
+      "#gioia",
+      "#felicità",
+      "#teiharddechardin",
+      "#quotidiano",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136094+00:00"
+  },
+  {
+    "quote": "Chi non ha mai commesso un errore non ha mai tentato nulla.",
+    "author": "Henry Ford",
+    "category": "fallimento",
+    "caption": "Gli errori sono la ricevuta di chi ci ha provato.",
+    "hashtags": [
+      "#henryford",
+      "#fallimento",
+      "#errori",
+      "#tentare",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136097+00:00"
+  },
+  {
+    "quote": "Il modo migliore per cominciare è smettere di parlare e iniziare a fare.",
+    "author": "Walt Disney",
+    "category": "motivazione",
+    "caption": "Le idee diventano belle solo quando si muovono.",
+    "hashtags": [
+      "#waltdisney",
+      "#motivazione",
+      "#fare",
+      "#azione",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136100+00:00"
+  },
+  {
+    "quote": "Un uomo che non ha mai letto un buon libro non ha ancora scoperto la sua stanza più silenziosa.",
+    "author": "Haruki Murakami",
+    "category": "solitudine",
+    "caption": "C'è una solitudine che non pesa: quella scelta con un libro in mano.",
+    "hashtags": [
+      "#murakami",
+      "#solitudine",
+      "#libri",
+      "#lettura",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136102+00:00"
+  },
+  {
+    "quote": "La gentilezza è la più grande forma di intelligenza.",
+    "author": "Ralph Waldo Emerson",
+    "category": "gratitudine",
+    "caption": "Chi è gentile ha già capito molto del mondo.",
+    "hashtags": [
+      "#emerson",
+      "#gentilezza",
+      "#gratitudine",
+      "#intelligenza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136105+00:00"
+  },
+  {
+    "quote": "Il tempo è il miglior autore: dà sempre un finale perfetto.",
+    "author": "Charles Chaplin",
+    "category": "tempo",
+    "caption": "A volte serve solo aspettare la pagina giusta.",
+    "hashtags": [
+      "#chaplin",
+      "#tempo",
+      "#pazienza",
+      "#finale",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136109+00:00"
+  },
+  {
+    "quote": "La libertà è la capacità di scegliere la propria schiavitù.",
+    "author": "Jean-Paul Sartre",
+    "category": "libertà",
+    "caption": "Anche non scegliere è una scelta: e pesa.",
+    "hashtags": [
+      "#sartre",
+      "#libertà",
+      "#scelta",
+      "#responsabilità",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136112+00:00"
+  },
+  {
+    "quote": "La vera scoperta non consiste nel cercare nuove terre, ma nell'avere occhi nuovi.",
+    "author": "Marcel Proust",
+    "category": "viaggio",
+    "caption": "Si può viaggiare lontano restando nella stessa stanza.",
+    "hashtags": [
+      "#proust",
+      "#viaggio",
+      "#sguardo",
+      "#scoperta",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136117+00:00"
+  },
+  {
+    "quote": "Se vuoi andare veloce, vai da solo. Se vuoi andare lontano, vai insieme.",
+    "author": "Proverbio africano",
+    "category": "leadership",
+    "caption": "La velocità è solitaria, la distanza è condivisa.",
+    "hashtags": [
+      "#leadership",
+      "#squadra",
+      "#proverbioafricano",
+      "#insieme",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136119+00:00"
+  },
+  {
+    "quote": "La speranza è il sogno di chi è sveglio.",
+    "author": "Aristotele",
+    "category": "speranza",
+    "caption": "Sognare a occhi aperti è la forma più concreta di coraggio.",
+    "hashtags": [
+      "#aristotele",
+      "#speranza",
+      "#sogni",
+      "#coraggio",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136123+00:00"
+  },
+  {
+    "quote": "Nessuno può farti sentire inferiore senza il tuo consenso.",
+    "author": "Eleanor Roosevelt",
+    "category": "autostima",
+    "caption": "Il permesso lo dai tu: ricordatelo.",
+    "hashtags": [
+      "#eleanorroosevelt",
+      "#autostima",
+      "#rispetto",
+      "#consenso",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136125+00:00"
+  },
+  {
+    "quote": "Non c'è niente di più forte di un'idea il cui tempo è arrivato.",
+    "author": "Victor Hugo",
+    "category": "ambizione",
+    "caption": "Le idee non corrono: aspettano il loro momento.",
+    "hashtags": [
+      "#victorhugo",
+      "#ambizione",
+      "#idee",
+      "#momento",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T07:37:36.136133+00:00"
   }
 ]

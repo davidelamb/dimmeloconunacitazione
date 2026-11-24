@@ -1,290 +1,5 @@
 [
   {
-    "quote": "Osa sapere.",
-    "author": "Orazio",
-    "category": "coraggio",
-    "caption": "Due parole antiche per dire: guarda in faccia la realtà, senza paura.",
-    "hashtags": [
-      "#citazioni",
-      "#coraggio",
-      "#orazio",
-      "#conoscenza",
-      "#filosofia",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267637+00:00"
-  },
-  {
-    "quote": "La notte è più profonda quando sta per finire.",
-    "author": "Fëdor Dostoevskij",
-    "category": "speranza",
-    "caption": "Quando il buio sembra totale, spesso è il segnale che l'alba è vicina.",
-    "hashtags": [
-      "#citazioni",
-      "#speranza",
-      "#dostoevskij",
-      "#resilienza",
-      "#fiducia",
-      "#buioealba"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267644+00:00"
-  },
-  {
-    "quote": "Non è la specie più forte che sopravvive, né la più intelligente, ma quella più reattiva al cambiamento.",
-    "author": "Charles Darwin",
-    "category": "cambiamento",
-    "caption": "Adattarsi non è debolezza: è la forma più intelligente di forza.",
-    "hashtags": [
-      "#citazioni",
-      "#cambiamento",
-      "#darwin",
-      "#adattamento",
-      "#crescita",
-      "#evoluzione"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267649+00:00"
-  },
-  {
-    "quote": "Sii curioso, non giudicare.",
-    "author": "Walt Whitman",
-    "category": "consapevolezza",
-    "caption": "Prima di dare un'etichetta, prova a fare una domanda in più.",
-    "hashtags": [
-      "#citazioni",
-      "#consapevolezza",
-      "#whitman",
-      "#curiosità",
-      "#apertura",
-      "#ascolto"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267655+00:00"
-  },
-  {
-    "quote": "Non piangere perché è finita, sorridi perché è accaduta.",
-    "author": "Gabriel García Márquez",
-    "category": "nostalgia",
-    "caption": "Il rimpianto cambia sapore quando scegli di chiamarlo gratitudine.",
-    "hashtags": [
-      "#citazioni",
-      "#nostalgia",
-      "#marquez",
-      "#gratitudine",
-      "#ricordi",
-      "#cuore"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267660+00:00"
-  },
-  {
-    "quote": "Beato chi non si aspetta nulla, perché non sarà mai deluso.",
-    "author": "Alexander Pope",
-    "category": "delusione",
-    "caption": "Aspettative leggere, cuore più sereno: a volte è solo questione di taratura.",
-    "hashtags": [
-      "#citazioni",
-      "#delusione",
-      "#pope",
-      "#aspettative",
-      "#serenità",
-      "#equilibrio"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267666+00:00"
-  },
-  {
-    "quote": "L'umorismo è la capacità di vedere il lato comico del dramma.",
-    "author": "Charlie Chaplin",
-    "category": "ironia",
-    "caption": "Ridere delle proprie tragedie è già un modo per non esserne schiacciati.",
-    "hashtags": [
-      "#citazioni",
-      "#ironia",
-      "#chaplin",
-      "#umorismo",
-      "#leggerezza",
-      "#sorriso"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267671+00:00"
-  },
-  {
-    "quote": "La filosofia non è una dottrina, ma un'attività.",
-    "author": "Ludwig Wittgenstein",
-    "category": "filosofia",
-    "caption": "Non si impara a pensare leggendo: si impara pensando.",
-    "hashtags": [
-      "#citazioni",
-      "#filosofia",
-      "#wittgenstein",
-      "#pensiero",
-      "#domande",
-      "#riflessione"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267676+00:00"
-  },
-  {
-    "quote": "Meno è meglio.",
-    "author": "Ludwig Mies van der Rohe",
-    "category": "minimalismo",
-    "caption": "Togliere è un'arte: quello che resta pesa di più.",
-    "hashtags": [
-      "#citazioni",
-      "#minimalismo",
-      "#architettura",
-      "#essenziale",
-      "#semplicità",
-      "#menoèmeglio"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267681+00:00"
-  },
-  {
-    "quote": "La pace viene da dentro. Non cercarla fuori.",
-    "author": "Buddha",
-    "category": "pace",
-    "caption": "Nessun silenzio esterno calma un cuore che non ha imparato a fermarsi.",
-    "hashtags": [
-      "#citazioni",
-      "#pace",
-      "#buddha",
-      "#interiorità",
-      "#calma",
-      "#serenità"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267685+00:00"
-  },
-  {
-    "quote": "La forza non viene da ciò che puoi fare, ma dal superare ciò che pensavi di non poter fare.",
-    "author": "Ralph Waldo Emerson",
-    "category": "forza",
-    "caption": "Il muscolo più importante è quello che si allena quando dici 'non ce la faccio'.",
-    "hashtags": [
-      "#citazioni",
-      "#forza",
-      "#emerson",
-      "#superamento",
-      "#resilienza",
-      "#coraggio"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267690+00:00"
-  },
-  {
-    "quote": "Il corpo è la tenda dell'anima.",
-    "author": "Platone",
-    "category": "sport",
-    "caption": "Prenderti cura del corpo è anche un modo per dare ospitalità alla mente.",
-    "hashtags": [
-      "#citazioni",
-      "#sport",
-      "#platone",
-      "#benessere",
-      "#corpoemento",
-      "#salute"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267694+00:00"
-  },
-  {
-    "quote": "Il destino guida chi lo segue, trascina chi resiste.",
-    "author": "Lucio Anneo Seneca",
-    "category": "destino",
-    "caption": "A volte il modo più intelligente di opporsi al destino è seguirlo con dignità.",
-    "hashtags": [
-      "#citazioni",
-      "#destino",
-      "#seneca",
-      "#accettazione",
-      "#filosofia",
-      "#saggezza"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267706+00:00"
-  },
-  {
-    "quote": "Perdonare è liberare un prigioniero e scoprire che il prigioniero eri tu.",
-    "author": "Lewis B. Smedes",
-    "category": "perdono",
-    "caption": "Il rancore è una gabbia di cui hai tu stesso le chiavi in tasca.",
-    "hashtags": [
-      "#citazioni",
-      "#perdono",
-      "#smedes",
-      "#libertà",
-      "#rancore",
-      "#paceinteriore"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267710+00:00"
-  },
-  {
-    "quote": "Nessuna relazione è sana se il prezzo è perdere te stesso.",
-    "author": "Esther Perel",
-    "category": "relazioni",
-    "caption": "Amare è avvicinarsi, non annullarsi: la distanza giusta fa respirare due persone.",
-    "hashtags": [
-      "#citazioni",
-      "#relazioni",
-      "#estherperel",
-      "#confini",
-      "#amore",
-      "#identità"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267715+00:00"
-  },
-  {
-    "quote": "La gratitudine trasforma ciò che abbiamo in abbastanza.",
-    "author": "Aesop",
-    "category": "gratitudine",
-    "caption": "Non è questione di avere di più, ma di guardare meglio ciò che c'è.",
-    "hashtags": [
-      "#citazioni",
-      "#gratitudine",
-      "#esopo",
-      "#abbastanza",
-      "#quotidiano",
-      "#consapevolezza"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267719+00:00"
-  },
-  {
-    "quote": "La felicità è una farfalla che, inseguita, sfugge; seduta tranquilla, può posarsi su di te.",
-    "author": "Nathaniel Hawthorne",
-    "category": "felicità",
-    "caption": "Smetti di rincorrerla e forse si siederà accanto a te, senza fare rumore.",
-    "hashtags": [
-      "#citazioni",
-      "#felicità",
-      "#hawthorne",
-      "#calma",
-      "#presenza",
-      "#serenità"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267724+00:00"
-  },
-  {
-    "quote": "Ogni cosa ha il suo tempo, e ogni tempo ha la sua cosa.",
-    "author": "William Shakespeare",
-    "category": "tempo",
-    "caption": "La fretta è spesso il modo più rapido per arrivare tardi.",
-    "hashtags": [
-      "#citazioni",
-      "#tempo",
-      "#shakespeare",
-      "#pazienza",
-      "#stagioni",
-      "#ritmo"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267732+00:00"
-  },
-  {
-    "quote": "L'ambizione è il fuoco che accende l'anima, ma va alimentata con misura.",
-    "author": "Oscar Wilde",
-    "category": "ambizione",
-    "caption": "Desiderare in grande è bello: il trucco è non lasciare che il fuoco bruci la casa.",
-    "hashtags": [
-      "#citazioni",
-      "#ambizione",
-      "#wilde",
-      "#equilibrio",
-      "#desiderio",
-      "#fuoco"
-    ],
-    "generated_at": "2026-10-28T17:39:12.267737+00:00"
-  },
-  {
     "quote": "Il coraggio è resistere alla paura, dominare la paura, non l'assenza di paura.",
     "author": "Mark Twain",
     "category": "coraggio",
@@ -7390,5 +7105,271 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-24T07:37:36.136133+00:00"
+  },
+  {
+    "quote": "Sono grato a tutte le persone che mi hanno detto di no: mi hanno insegnato a camminare da solo.",
+    "author": "Anonimo",
+    "category": "autostima",
+    "caption": "I no ricevuti sono stati, col tempo, i migliori regali.",
+    "hashtags": [
+      "#autostima",
+      "#indipendenza",
+      "#crescita",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547899+00:00"
+  },
+  {
+    "quote": "La creatività è contagiosa: passala.",
+    "author": "Albert Einstein",
+    "category": "crescita personale",
+    "caption": "Ogni idea condivisa diventa più grande di chi l'ha avuta.",
+    "hashtags": [
+      "#creatività",
+      "#idee",
+      "#condivisione",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547923+00:00"
+  },
+  {
+    "quote": "Il successo è camminare da un fallimento all'altro senza perdere l'entusiasmo.",
+    "author": "Winston Churchill",
+    "category": "successo",
+    "caption": "Non conta quante volte cadi, conta con che faccia ti rialzi.",
+    "hashtags": [
+      "#successo",
+      "#entusiasmo",
+      "#fallimenti",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547930+00:00"
+  },
+  {
+    "quote": "La vita è una tempesta: chi si lamenta affonda, chi rema arriva.",
+    "author": "Anonimo",
+    "category": "resilienza",
+    "caption": "A volte l'unica scelta saggia è prendere i remi.",
+    "hashtags": [
+      "#resilienza",
+      "#tempesta",
+      "#forza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547934+00:00"
+  },
+  {
+    "quote": "L'amore non è guardarsi l'un l'altro, ma guardare insieme nella stessa direzione.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "amore",
+    "caption": "Due sguardi sullo stesso orizzonte valgono più di mille promesse.",
+    "hashtags": [
+      "#amore",
+      "#orizzonte",
+      "#coppia",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547938+00:00"
+  },
+  {
+    "quote": "Il coraggio non è l'assenza della paura, ma la decisione che qualcosa è più importante della paura.",
+    "author": "Ambrose Redmoon",
+    "category": "coraggio",
+    "caption": "Non aspettare di non avere paura: decidi cosa conta di più.",
+    "hashtags": [
+      "#coraggio",
+      "#paura",
+      "#decisioni",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547941+00:00"
+  },
+  {
+    "quote": "Un amico è qualcuno che sa tutto di te e ti vuole bene lo stesso.",
+    "author": "Elbert Hubbard",
+    "category": "amicizia",
+    "caption": "L'amicizia vera non giudica: resta.",
+    "hashtags": [
+      "#amicizia",
+      "#lealtà",
+      "#fiducia",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547945+00:00"
+  },
+  {
+    "quote": "La famiglia non è un'importante cosa: è tutto.",
+    "author": "Michael J. Fox",
+    "category": "famiglia",
+    "caption": "A volte lo capiamo solo quando ci manca il rumore di casa.",
+    "hashtags": [
+      "#famiglia",
+      "#casa",
+      "#radici",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547948+00:00"
+  },
+  {
+    "quote": "La solitudine è lo spazio in cui si sente la propria voce.",
+    "author": "Anonimo",
+    "category": "solitudine",
+    "caption": "Imparare a stare soli è il primo passo per stare bene con gli altri.",
+    "hashtags": [
+      "#solitudine",
+      "#ascolto",
+      "#silenzio",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547951+00:00"
+  },
+  {
+    "quote": "Il tempo è la moneta più preziosa che abbiamo: spendilo bene.",
+    "author": "Anonimo",
+    "category": "tempo",
+    "caption": "Non si compra, non si recupera: si sceglie come spenderlo.",
+    "hashtags": [
+      "#tempo",
+      "#scelte",
+      "#priorità",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547954+00:00"
+  },
+  {
+    "quote": "La pazienza è la virtù dei forti.",
+    "author": "Anonimo",
+    "category": "pazienza",
+    "caption": "Chi sa aspettare costruisce più di chi corre.",
+    "hashtags": [
+      "#pazienza",
+      "#forza",
+      "#attesa",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547957+00:00"
+  },
+  {
+    "quote": "I sogni sono come le stelle: non puoi toccarle, ma puoi usare la loro luce per orientarti.",
+    "author": "Anonimo",
+    "category": "sogni",
+    "caption": "Non serve raggiungerli subito: basta che ti indicano la direzione.",
+    "hashtags": [
+      "#sogni",
+      "#stelle",
+      "#orientamento",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547960+00:00"
+  },
+  {
+    "quote": "L'ambizione è il motore del mondo, ma senza valori è solo rumore.",
+    "author": "Anonimo",
+    "category": "ambizione",
+    "caption": "Punta in alto, ma non perdere la bussola lungo la strada.",
+    "hashtags": [
+      "#ambizione",
+      "#valori",
+      "#direzione",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547963+00:00"
+  },
+  {
+    "quote": "Un leader è chi sa servire prima di guidare.",
+    "author": "Anonimo",
+    "category": "leadership",
+    "caption": "Guidare non è stare davanti: è farsi carico degli altri.",
+    "hashtags": [
+      "#leadership",
+      "#servizio",
+      "#esempio",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547969+00:00"
+  },
+  {
+    "quote": "Il viaggio più bello è quello che ti fa tornare diverso.",
+    "author": "Anonimo",
+    "category": "viaggio",
+    "caption": "Non cambia il posto: cambia il modo in cui lo guardi.",
+    "hashtags": [
+      "#viaggio",
+      "#cambiamento",
+      "#sguardo",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547974+00:00"
+  },
+  {
+    "quote": "La pace non è assenza di conflitto, ma la capacità di gestirlo.",
+    "author": "Anonimo",
+    "category": "pace",
+    "caption": "La quiete non è silenzio: è saper stare dentro il rumore.",
+    "hashtags": [
+      "#pace",
+      "#conflitto",
+      "#equilibrio",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547982+00:00"
+  },
+  {
+    "quote": "La forza non è non cadere mai, ma rialzarsi ogni volta.",
+    "author": "Confucio",
+    "category": "forza",
+    "caption": "La vera potenza è nella ripetizione del rialzarsi.",
+    "hashtags": [
+      "#forza",
+      "#rialzarsi",
+      "#resilienza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547984+00:00"
+  },
+  {
+    "quote": "La consapevolezza è il primo passo verso il cambiamento.",
+    "author": "Anonimo",
+    "category": "consapevolezza",
+    "caption": "Finché non vedi dove sei, non puoi decidere dove andare.",
+    "hashtags": [
+      "#consapevolezza",
+      "#cambiamento",
+      "#direzione",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547990+00:00"
+  },
+  {
+    "quote": "La vita non è aspettare che passi la tempesta, è imparare a ballare sotto la pioggia.",
+    "author": "Vivian Greene",
+    "category": "vita",
+    "caption": "Non serve il sole per essere felici: basta un passo di danza.",
+    "hashtags": [
+      "#vita",
+      "#pioggia",
+      "#danzare",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-24T21:43:23.547997+00:00"
   }
 ]

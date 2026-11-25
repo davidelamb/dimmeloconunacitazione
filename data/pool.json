@@ -1,335 +1,5 @@
 [
   {
-    "quote": "L'ironia è il sorriso della ragione.",
-    "author": "Anonimo",
-    "category": "ironia",
-    "caption": "Ridere delle cose è il modo più intelligente di prenderle sul serio.",
-    "hashtags": [
-      "#ironia",
-      "#sorriso",
-      "#citazioni",
-      "#ragione",
-      "#leggerezza",
-      "#saggezza"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100651+00:00"
-  },
-  {
-    "quote": "La maturità è accettare di non avere tutte le risposte.",
-    "author": "Anonimo",
-    "category": "maturità",
-    "caption": "Crescere è imparare a convivere con le domande aperte.",
-    "hashtags": [
-      "#maturità",
-      "#domande",
-      "#citazioni",
-      "#crescita",
-      "#saggezza",
-      "#vita"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100655+00:00"
-  },
-  {
-    "quote": "La giovinezza è il coraggio di non sapere ancora tutto.",
-    "author": "Anonimo",
-    "category": "giovinezza",
-    "caption": "Essere giovani è avere il diritto di sbagliare strada per trovarne una.",
-    "hashtags": [
-      "#giovinezza",
-      "#coraggio",
-      "#citazioni",
-      "#sbagliare",
-      "#crescita",
-      "#vita"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100658+00:00"
-  },
-  {
-    "quote": "Lo sport è la scuola più onesta della vita.",
-    "author": "Anonimo",
-    "category": "sport",
-    "caption": "In campo non contano le scuse: contano l'impegno e il sudore.",
-    "hashtags": [
-      "#sport",
-      "#vita",
-      "#citazioni",
-      "#impegno",
-      "#sudore",
-      "#lezione"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100665+00:00"
-  },
-  {
-    "quote": "L'ambizione senza valori è solo rumore.",
-    "author": "Anonimo",
-    "category": "ambizione",
-    "caption": "Puntare in alto ha senso solo se sai perché lo stai facendo.",
-    "hashtags": [
-      "#ambizione",
-      "#valori",
-      "#citazioni",
-      "#obiettivi",
-      "#senso",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100668+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più forte di un cuore che sa amare senza possedere.",
-    "author": "Antoine de Saint-Exupéry",
-    "category": "amore",
-    "caption": "Amare non significa trattenere: è imparare a lasciare libero ciò che rende più belli.",
-    "hashtags": [
-      "#amore",
-      "#citazioni",
-      "#SaintExupéry",
-      "#frasi",
-      "#libertà",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-29T17:46:58.785932+00:00"
-  },
-  {
-    "quote": "La vita non è quella che si è vissuta, ma quella che si ricorda e come la si ricorda.",
-    "author": "Gabriel García Márquez",
-    "category": "vita",
-    "caption": "Forse siamo soprattutto la memoria che scegliamo di custodire.",
-    "hashtags": [
-      "#vita",
-      "#citazioni",
-      "#GarcíaMárquez",
-      "#memoria",
-      "#frasi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-29T17:46:58.785960+00:00"
-  },
-  {
-    "quote": "Il successo è camminare con dignità anche quando nessuno ti guarda.",
-    "author": "Seneca",
-    "category": "successo",
-    "caption": "La vera misura non è l'applauso: è come ti comporti quando il sipario è chiuso.",
-    "hashtags": [
-      "#successo",
-      "#Seneca",
-      "#citazioni",
-      "#dignità",
-      "#frasi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-29T17:46:58.785968+00:00"
-  },
-  {
-    "quote": "Il fallimento è la scuola in cui si impara ciò che i libri non insegnano.",
-    "author": "Henry Ford",
-    "category": "fallimento",
-    "caption": "Sbagliare è un maestro severo, ma spesso è l'unico che ricorderai davvero.",
-    "hashtags": [
-      "#fallimento",
-      "#HenryFord",
-      "#citazioni",
-      "#crescita",
-      "#frasi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-29T17:46:58.785973+00:00"
-  },
-  {
-    "quote": "Vivere senza leggere è pericoloso.",
-    "author": "Umberto Eco",
-    "category": "crescita personale",
-    "caption": "Leggere non è un lusso: è una forma di difesa.",
-    "hashtags": [
-      "#lettura",
-      "#crescita",
-      "#citazioni",
-      "#umbertoeco",
-      "#libri",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-31T03:17:47.044245+00:00"
-  },
-  {
-    "quote": "La disciplina è la scelta tra ciò che vuoi ora e ciò che vuoi di più.",
-    "author": "Abraham Lincoln",
-    "category": "disciplina",
-    "caption": "Ogni rinuncia di oggi è un regalo al te stesso di domani.",
-    "hashtags": [
-      "#disciplina",
-      "#motivazione",
-      "#citazioni",
-      "#lincoln",
-      "#obiettivi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-31T03:17:47.044274+00:00"
-  },
-  {
-    "quote": "Non sappiamo quale sia il nostro destino, ma sappiamo che non sarà felice se non lo inseguiamo.",
-    "author": "Simone de Beauvoir",
-    "category": "destino",
-    "caption": "Il destino non arriva: si insegue.",
-    "hashtags": [
-      "#destino",
-      "#scelte",
-      "#citazioni",
-      "#beauvoir",
-      "#libertà",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-31T03:17:47.044281+00:00"
-  },
-  {
-    "quote": "Un uomo che non ha il coraggio di correre rischi non combinerà nulla nella vita.",
-    "author": "Muhammad Ali",
-    "category": "coraggio",
-    "caption": "Rischiare fa paura. Restare fermi, di più.",
-    "hashtags": [
-      "#coraggio",
-      "#rischio",
-      "#citazioni",
-      "#muhammadali",
-      "#forza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-31T03:17:47.044285+00:00"
-  },
-  {
-    "quote": "Non è la più forte delle specie che sopravvive, né la più intelligente, ma quella più adattabile al cambiamento.",
-    "author": "Charles Darwin",
-    "category": "cambiamento",
-    "caption": "Adattarsi non è arrendersi: è evolvere.",
-    "hashtags": [
-      "#cambiamento",
-      "#darwin",
-      "#citazioni",
-      "#evoluzione",
-      "#resilienza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-31T03:17:47.044289+00:00"
-  },
-  {
-    "quote": "La più grande gloria non sta nel non cadere mai, ma nel rialzarsi ogni volta che cadiamo.",
-    "author": "Confucio",
-    "category": "resilienza",
-    "caption": "Cadere è concesso. Restare giù, no.",
-    "hashtags": [
-      "#resilienza",
-      "#confucio",
-      "#citazioni",
-      "#rialzarsi",
-      "#forza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-31T03:17:47.044298+00:00"
-  },
-  {
-    "quote": "La speranza è la cosa buona che resiste in questo mondo.",
-    "author": "Stephen King",
-    "category": "speranza",
-    "caption": "Anche nei giorni bui, la speranza resta la cosa più resistente.",
-    "hashtags": [
-      "#speranza",
-      "#stephenking",
-      "#citazioni",
-      "#resilienza",
-      "#luce",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-31T03:17:47.044309+00:00"
-  },
-  {
-    "quote": "L'ambizione è il sentiero che porta al successo, ma va percorsa con onestà.",
-    "author": "Seneca",
-    "category": "ambizione",
-    "caption": "L'ambizione non è un difetto: è un motore, se sai dove portarlo.",
-    "hashtags": [
-      "#ambizione",
-      "#seneca",
-      "#citazioni",
-      "#successo",
-      "#onestà",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-10-31T03:17:47.044312+00:00"
-  },
-  {
-    "quote": "La vita è un'opera teatrale: non conta quanto è lunga, ma quanto è ben recitata.",
-    "author": "Lucio Anneo Seneca",
-    "category": "vita",
-    "caption": "Non contare le scene: cura come le reciti.",
-    "hashtags": [
-      "#vita",
-      "#seneca",
-      "#citazioni",
-      "#filosofia",
-      "#dimmeloconunacitazione",
-      "#vivere"
-    ],
-    "generated_at": "2026-10-31T16:31:41.104663+00:00"
-  },
-  {
-    "quote": "Che tu creda di potercela fare o che creda di non potercela fare, avrai comunque ragione.",
-    "author": "Henry Ford",
-    "category": "motivazione",
-    "caption": "La prima cosa che costruisci è la fiducia che ti serve per costruire il resto.",
-    "hashtags": [
-      "#motivazione",
-      "#henryford",
-      "#fiducia",
-      "#citazioni",
-      "#dimmeloconunacitazione",
-      "#mindset"
-    ],
-    "generated_at": "2026-10-31T16:31:41.104687+00:00"
-  },
-  {
-    "quote": "Non possiamo risolvere i problemi pensando allo stesso modo di quando li abbiamo creati.",
-    "author": "Albert Einstein",
-    "category": "cambiamento",
-    "caption": "A volte la soluzione non è insistere: è cambiare prospettiva.",
-    "hashtags": [
-      "#cambiamento",
-      "#prospettiva",
-      "#einstein",
-      "#crescita",
-      "#citazioni",
-      "#riflessioni"
-    ],
-    "generated_at": "2026-11-01T03:16:36.871531+00:00"
-  },
-  {
-    "quote": "La gioia più grande della vita è fare ciò che gli altri dicono che non puoi fare.",
-    "author": "Walter Bagehot",
-    "category": "motivazione",
-    "caption": "Le etichette degli altri non sono il tuo destino.",
-    "hashtags": [
-      "#motivazione",
-      "#determinazione",
-      "#citazioni",
-      "#farcela",
-      "#ispirazione",
-      "#forza"
-    ],
-    "generated_at": "2026-11-01T03:16:36.871561+00:00"
-  },
-  {
-    "quote": "Non camminare dietro di me: potrei non guidarti. Non camminare davanti a me: potrei non seguirti. Cammina accanto a me ed essere mio amico.",
-    "author": "Albert Camus",
-    "category": "amicizia",
-    "caption": "L'amicizia vera è camminare fianco a fianco, non uno davanti all'altro.",
-    "hashtags": [
-      "#amicizia",
-      "#camus",
-      "#citazioni",
-      "#essereamici",
-      "#fiancoafianco",
-      "#relazioni"
-    ],
-    "generated_at": "2026-11-01T03:16:36.871567+00:00"
-  },
-  {
     "quote": "Ogni volta che ti trovi dalla parte della maggioranza, è tempo di cambiare.",
     "author": "Mark Twain",
     "category": "scelte",
@@ -7371,5 +7041,335 @@
       "#verità"
     ],
     "generated_at": "2026-11-25T06:06:11.254087+00:00"
+  },
+  {
+    "quote": "La vita è quello che succede mentre sei occupato a fare altri piani.",
+    "author": "John Lennon",
+    "category": "vita",
+    "caption": "Il bello arriva quasi sempre fuori programma.",
+    "hashtags": [
+      "#vita",
+      "#imprevisti",
+      "#johnlennon",
+      "#citazioni",
+      "#presente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896610+00:00"
+  },
+  {
+    "quote": "Fai della tua vita un sogno, e di un sogno una realtà.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "sogni",
+    "caption": "Sognare è solo il primo passo: il resto è lavoro.",
+    "hashtags": [
+      "#sogni",
+      "#realtà",
+      "#saintExupéry",
+      "#citazioni",
+      "#obiettivi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896636+00:00"
+  },
+  {
+    "quote": "La creatività è l'intelligenza che si diverte.",
+    "author": "Albert Einstein",
+    "category": "crescita personale",
+    "caption": "Quando ti diverti, pensi meglio.",
+    "hashtags": [
+      "#creatività",
+      "#intelligenza",
+      "#einstein",
+      "#citazioni",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896643+00:00"
+  },
+  {
+    "quote": "Il genio è l'uno per cento ispirazione e il novantanove per cento traspirazione.",
+    "author": "Thomas Edison",
+    "category": "lavoro",
+    "caption": "L'idea da sola non basta mai.",
+    "hashtags": [
+      "#lavoro",
+      "#genio",
+      "#edison",
+      "#sudore",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896648+00:00"
+  },
+  {
+    "quote": "La forza non viene dalla vittoria. Le tue lotte sviluppano la tua forza.",
+    "author": "Mahatma Gandhi",
+    "category": "forza",
+    "caption": "Le battaglie difficili sono palestre, non condanne.",
+    "hashtags": [
+      "#forza",
+      "#gandhi",
+      "#resilienza",
+      "#citazioni",
+      "#lotte",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896653+00:00"
+  },
+  {
+    "quote": "Il coraggio è ciò che serve per alzarsi e parlare; il coraggio è anche ciò che serve per sedersi e ascoltare.",
+    "author": "Winston Churchill",
+    "category": "coraggio",
+    "caption": "A volte il coraggio più grande è stare zitti.",
+    "hashtags": [
+      "#coraggio",
+      "#ascolto",
+      "#churchill",
+      "#citazioni",
+      "#umiltà",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896658+00:00"
+  },
+  {
+    "quote": "Noi siamo ciò che facciamo ripetutamente. L'eccellenza, quindi, non è un atto ma un'abitudine.",
+    "author": "Aristotele",
+    "category": "disciplina",
+    "caption": "Le piccole ripetizioni costruiscono le grandi differenze.",
+    "hashtags": [
+      "#disciplina",
+      "#abitudini",
+      "#aristotele",
+      "#citazioni",
+      "#eccellenza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896664+00:00"
+  },
+  {
+    "quote": "L'amicizia è una virtù e una cosa necessaria alla vita.",
+    "author": "Aristotele",
+    "category": "amicizia",
+    "caption": "Non è un lusso: è ossigeno.",
+    "hashtags": [
+      "#amicizia",
+      "#virtù",
+      "#aristotele",
+      "#citazioni",
+      "#relazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896667+00:00"
+  },
+  {
+    "quote": "Il dubbio non è piacevole, ma la certezza è ridicola.",
+    "author": "Voltaire",
+    "category": "filosofia",
+    "caption": "Chi non dubita mai, spesso non pensa mai.",
+    "hashtags": [
+      "#dubbio",
+      "#filosofia",
+      "#voltaire",
+      "#citazioni",
+      "#pensiero",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896670+00:00"
+  },
+  {
+    "quote": "Il perfetto è nemico del buono.",
+    "author": "Voltaire",
+    "category": "minimalismo",
+    "caption": "Aspettare la versione ideale è il modo più elegante per non iniziare.",
+    "hashtags": [
+      "#minimalismo",
+      "#perfezionismo",
+      "#voltaire",
+      "#citazioni",
+      "#fare",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896674+00:00"
+  },
+  {
+    "quote": "Hai potere sulla tua mente, non sugli eventi esterni. Renditi conto di questo e troverai la forza.",
+    "author": "Marco Aurelio",
+    "category": "pace",
+    "caption": "La calma è una scelta, non un dono del caso.",
+    "hashtags": [
+      "#pace",
+      "#stoicismo",
+      "#marcoaurelio",
+      "#citazioni",
+      "#mente",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896678+00:00"
+  },
+  {
+    "quote": "La felicità della tua vita dipende dalla qualità dei tuoi pensieri.",
+    "author": "Marco Aurelio",
+    "category": "consapevolezza",
+    "caption": "Quello che rimugini diventa il tuo clima interiore.",
+    "hashtags": [
+      "#consapevolezza",
+      "#pensieri",
+      "#marcoaurelio",
+      "#citazioni",
+      "#felicità",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896681+00:00"
+  },
+  {
+    "quote": "Non è perché le cose sono difficili che non osiamo, è perché non osiamo che sono difficili.",
+    "author": "Lucio Anneo Seneca",
+    "category": "coraggio",
+    "caption": "La difficoltà spesso è solo la paura vista da vicino.",
+    "hashtags": [
+      "#coraggio",
+      "#seneca",
+      "#paura",
+      "#citazioni",
+      "#osare",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896684+00:00"
+  },
+  {
+    "quote": "Mentre aspettiamo di vivere, la vita passa.",
+    "author": "Lucio Anneo Seneca",
+    "category": "tempo",
+    "caption": "Il presente non aspetta che tu sia pronto.",
+    "hashtags": [
+      "#tempo",
+      "#seneca",
+      "#presente",
+      "#citazioni",
+      "#vivere",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896687+00:00"
+  },
+  {
+    "quote": "La fortuna aiuta gli audaci.",
+    "author": "Lucio Anneo Seneca",
+    "category": "ambizione",
+    "caption": "A volte bisogna bussare prima che la porta esista.",
+    "hashtags": [
+      "#ambizione",
+      "#fortuna",
+      "#seneca",
+      "#citazioni",
+      "#audacia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896689+00:00"
+  },
+  {
+    "quote": "Il dubbio è l'inizio della saggezza.",
+    "author": "Cartesio",
+    "category": "filosofia",
+    "caption": "Domandare è già un atto di intelligenza.",
+    "hashtags": [
+      "#dubbio",
+      "#saggezza",
+      "#cartesio",
+      "#citazioni",
+      "#filosofia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896694+00:00"
+  },
+  {
+    "quote": "Penso, dunque sono.",
+    "author": "Cartesio",
+    "category": "consapevolezza",
+    "caption": "L'unica certezza da cui ripartire è che ci sei.",
+    "hashtags": [
+      "#consapevolezza",
+      "#cartesio",
+      "#pensiero",
+      "#citazioni",
+      "#esistenza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896698+00:00"
+  },
+  {
+    "quote": "La noia è il prezzo che paghiamo per la pace.",
+    "author": "Arthur Schopenhauer",
+    "category": "pace",
+    "caption": "A volte la quiete sembra vuota solo perché non ci siamo abituati.",
+    "hashtags": [
+      "#pace",
+      "#noia",
+      "#schopenhauer",
+      "#citazioni",
+      "#quiete",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896701+00:00"
+  },
+  {
+    "quote": "Chi non ha mai disperato non ha mai vissuto.",
+    "author": "Fëdor Dostoevskij",
+    "category": "resilienza",
+    "caption": "Le crepe sono il punto da cui entra la luce.",
+    "hashtags": [
+      "#resilienza",
+      "#dostoevskij",
+      "#sofferenza",
+      "#citazioni",
+      "#rinascita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896704+00:00"
+  },
+  {
+    "quote": "La bellezza salverà il mondo.",
+    "author": "Fëdor Dostoevskij",
+    "category": "speranza",
+    "caption": "Non è una frase dolce: è una scommessa.",
+    "hashtags": [
+      "#speranza",
+      "#bellezza",
+      "#dostoevskij",
+      "#citazioni",
+      "#mondo",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896707+00:00"
+  },
+  {
+    "quote": "Non si può essere saggi senza aver sofferto.",
+    "author": "Eschilo",
+    "category": "maturità",
+    "caption": "La maturità non si studia: si attraversa.",
+    "hashtags": [
+      "#maturità",
+      "#sofferenza",
+      "#eschilo",
+      "#citazioni",
+      "#saggezza",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896710+00:00"
+  },
+  {
+    "quote": "Chi ben comincia è a metà dell'opera.",
+    "author": "Proverbio italiano",
+    "category": "motivazione",
+    "caption": "Il primo passo pesa più di tutti gli altri messi insieme.",
+    "hashtags": [
+      "#motivazione",
+      "#iniziare",
+      "#proverbio",
+      "#citazioni",
+      "#primo passo",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-25T20:51:15.896713+00:00"
   }
 ]

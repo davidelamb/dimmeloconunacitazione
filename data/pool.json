@@ -1,290 +1,5 @@
 [
   {
-    "quote": "Il coraggio è resistere alla paura, dominare la paura, non l'assenza di paura.",
-    "author": "Mark Twain",
-    "category": "coraggio",
-    "caption": "Avere paura è normale. Andare avanti lo stesso è una scelta.",
-    "hashtags": [
-      "#coraggio",
-      "#paura",
-      "#citazioni",
-      "#forza",
-      "#determinazione",
-      "#marktwain"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100549+00:00"
-  },
-  {
-    "quote": "La disciplina è la madre del successo.",
-    "author": "Eschilo",
-    "category": "disciplina",
-    "caption": "Nessun risultato nasce per caso: nasce da piccoli gesti ripetuti.",
-    "hashtags": [
-      "#disciplina",
-      "#successo",
-      "#costanza",
-      "#citazioni",
-      "#impegno",
-      "#abitudini"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100579+00:00"
-  },
-  {
-    "quote": "L'uomo che sposta una montagna comincia portando via piccoli sassi.",
-    "author": "Confucio",
-    "category": "motivazione",
-    "caption": "Le grandi imprese iniziano sempre da qualcosa di piccolo.",
-    "hashtags": [
-      "#motivazione",
-      "#confucio",
-      "#piccolipassi",
-      "#citazioni",
-      "#obiettivi",
-      "#determinazione"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100584+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più bello dell'amicizia: è il rifugio di cui tutti abbiamo bisogno.",
-    "author": "Cicerone",
-    "category": "amicizia",
-    "caption": "Gli amici sono la casa che scegliamo.",
-    "hashtags": [
-      "#amicizia",
-      "#cicerone",
-      "#citazioni",
-      "#legami",
-      "#affetto",
-      "#rifugio"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100589+00:00"
-  },
-  {
-    "quote": "La famiglia è il luogo dove impariamo a stare al mondo.",
-    "author": "Papa Giovanni Paolo II",
-    "category": "famiglia",
-    "caption": "Prima di tutto il resto, c'è chi ci ha insegnato ad amare.",
-    "hashtags": [
-      "#famiglia",
-      "#amore",
-      "#citazioni",
-      "#radici",
-      "#casa",
-      "#legami"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100593+00:00"
-  },
-  {
-    "quote": "Il tempo è il più saggio dei consiglieri.",
-    "author": "Plutarco",
-    "category": "tempo",
-    "caption": "A volte non serve una risposta: serve solo un po' di tempo.",
-    "hashtags": [
-      "#tempo",
-      "#plutarco",
-      "#citazioni",
-      "#saggezza",
-      "#attesa",
-      "#vita"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100597+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più dolce del ritorno a casa.",
-    "author": "Omero",
-    "category": "nostalgia",
-    "caption": "Cerchiamo il mondo intero, poi capiamo che mancava solo casa.",
-    "hashtags": [
-      "#nostalgia",
-      "#casa",
-      "#omerò",
-      "#citazioni",
-      "#ritorno",
-      "#memoria"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100602+00:00"
-  },
-  {
-    "quote": "La felicità non è avere tutto, ma godere di ciò che si ha.",
-    "author": "Orazio",
-    "category": "felicità",
-    "caption": "Forse la felicità era già qui, mentre la cercavamo altrove.",
-    "hashtags": [
-      "#felicità",
-      "#orazio",
-      "#citazioni",
-      "#godersi",
-      "#presente",
-      "#semplicità"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100606+00:00"
-  },
-  {
-    "quote": "La libertà è la capacità di scegliere il proprio cammino.",
-    "author": "Hannah Arendt",
-    "category": "libertà",
-    "caption": "Essere liberi non è non avere limiti: è scegliere quali seguire.",
-    "hashtags": [
-      "#libertà",
-      "#hannaharendt",
-      "#citazioni",
-      "#scelte",
-      "#cammino",
-      "#indipendenza"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100610+00:00"
-  },
-  {
-    "quote": "Il dubbio è il padre della saggezza.",
-    "author": "Cartesio",
-    "category": "filosofia",
-    "caption": "Domandare non è debolezza: è l'inizio di ogni comprensione.",
-    "hashtags": [
-      "#filosofia",
-      "#dubbio",
-      "#cartesio",
-      "#citazioni",
-      "#saggezza",
-      "#pensiero"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100614+00:00"
-  },
-  {
-    "quote": "La forza non è nel non cadere mai, ma nel rialzarsi ogni volta.",
-    "author": "Nelson Mandela",
-    "category": "resilienza",
-    "caption": "Cadere fa parte del gioco. Rialzarsi è la vera partita.",
-    "hashtags": [
-      "#resilienza",
-      "#mandela",
-      "#citazioni",
-      "#rialzarsi",
-      "#forza",
-      "#coraggio"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100619+00:00"
-  },
-  {
-    "quote": "L'educazione è l'arma più potente per cambiare il mondo.",
-    "author": "Nelson Mandela",
-    "category": "cambiamento",
-    "caption": "Ogni cambiamento vero comincia da ciò che impariamo a vedere.",
-    "hashtags": [
-      "#cambiamento",
-      "#educazione",
-      "#mandela",
-      "#citazioni",
-      "#mondo",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100622+00:00"
-  },
-  {
-    "quote": "Il successo non è definito da ciò che hai, ma da ciò che sei.",
-    "author": "Zig Ziglar",
-    "category": "successo",
-    "caption": "I conti più importanti non si fanno in banca.",
-    "hashtags": [
-      "#successo",
-      "#zigziglar",
-      "#citazioni",
-      "#valori",
-      "#identità",
-      "#crescita"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100625+00:00"
-  },
-  {
-    "quote": "Il fallimento è il condimento che dà sapore al successo.",
-    "author": "Truman Capote",
-    "category": "fallimento",
-    "caption": "Senza qualche caduta, la vittoria avrebbe un sapore noioso.",
-    "hashtags": [
-      "#fallimento",
-      "#trumancapote",
-      "#citazioni",
-      "#successo",
-      "#riprovare",
-      "#lezione"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100628+00:00"
-  },
-  {
-    "quote": "La curiosità è l'inizio di ogni avventura.",
-    "author": "Anonimo",
-    "category": "viaggio",
-    "caption": "Chi si chiede 'e se...' ha già iniziato a partire.",
-    "hashtags": [
-      "#viaggio",
-      "#curiosità",
-      "#citazioni",
-      "#avventura",
-      "#scoperta",
-      "#orizzonte"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100632+00:00"
-  },
-  {
-    "quote": "La vera forza è saper chiedere aiuto.",
-    "author": "Anonimo",
-    "category": "autostima",
-    "caption": "Chiedere aiuto non è arrendersi: è riconoscere il proprio valore.",
-    "hashtags": [
-      "#autostima",
-      "#aiuto",
-      "#citazioni",
-      "#forza",
-      "#consapevolezza",
-      "#fragilità"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100638+00:00"
-  },
-  {
-    "quote": "La cosa più difficile è conoscere se stessi.",
-    "author": "Talete",
-    "category": "consapevolezza",
-    "caption": "Il viaggio più lungo è quello che porta dentro di noi.",
-    "hashtags": [
-      "#consapevolezza",
-      "#talete",
-      "#citazioni",
-      "#conoscenzadisé",
-      "#interiore",
-      "#saggezza"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100641+00:00"
-  },
-  {
-    "quote": "Nulla è più forte di un cuore che perdona.",
-    "author": "Anonimo",
-    "category": "perdono",
-    "caption": "Perdonare non cancella il passato: libera il futuro.",
-    "hashtags": [
-      "#perdono",
-      "#cuore",
-      "#citazioni",
-      "#liberazione",
-      "#pace",
-      "#relazioni"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100645+00:00"
-  },
-  {
-    "quote": "Le relazioni più belle sono quelle in cui non devi fingere.",
-    "author": "Anonimo",
-    "category": "relazioni",
-    "caption": "La vera intimità comincia quando smetti di recitare.",
-    "hashtags": [
-      "#relazioni",
-      "#autenticità",
-      "#citazioni",
-      "#legami",
-      "#fiducia",
-      "#amore"
-    ],
-    "generated_at": "2026-10-29T03:31:03.100648+00:00"
-  },
-  {
     "quote": "L'ironia è il sorriso della ragione.",
     "author": "Anonimo",
     "category": "ironia",
@@ -7371,5 +7086,290 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-24T21:43:23.547997+00:00"
+  },
+  {
+    "quote": "Non si è mai troppo vecchi per fissare un nuovo obiettivo o per sognare un nuovo sogno.",
+    "author": "C.S. Lewis",
+    "category": "sogni",
+    "caption": "Finché c'è un domani, c'è spazio per un sogno nuovo.",
+    "hashtags": [
+      "#sogni",
+      "#nuoviinizi",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#ispirazione",
+      "#maiTroppoTardi"
+    ],
+    "generated_at": "2026-11-25T06:06:11.253994+00:00"
+  },
+  {
+    "quote": "La disciplina è scegliere tra ciò che vuoi ora e ciò che vuoi di più.",
+    "author": "Augusta F. Kantra",
+    "category": "disciplina",
+    "caption": "Ogni rinuncia di oggi è un regalo al te stesso di domani.",
+    "hashtags": [
+      "#disciplina",
+      "#obiettivi",
+      "#costanza",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254018+00:00"
+  },
+  {
+    "quote": "Non è la specie più forte che sopravvive, né la più intelligente, ma quella più reattiva al cambiamento.",
+    "author": "Leon Megginson",
+    "category": "cambiamento",
+    "caption": "Adattarsi non è arrendersi: è la mossa più intelligente.",
+    "hashtags": [
+      "#cambiamento",
+      "#adattarsi",
+      "#resilienza",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#evoluzione"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254024+00:00"
+  },
+  {
+    "quote": "Un uomo che non ha mai fatto un errore non ha mai provato nulla di nuovo.",
+    "author": "Albert Einstein",
+    "category": "fallimento",
+    "caption": "Sbagliare è il prezzo di chi osa. Non pagarlo mai significa non giocare mai.",
+    "hashtags": [
+      "#fallimento",
+      "#errori",
+      "#osare",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#ripartire"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254028+00:00"
+  },
+  {
+    "quote": "La gratitudine è la più bella forma di memoria.",
+    "author": "Anonimo",
+    "category": "gratitudine",
+    "caption": "Ricordare chi ci ha dato qualcosa è già un modo di restituirlo.",
+    "hashtags": [
+      "#gratitudine",
+      "#memoria",
+      "#cuore",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#ringraziare"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254031+00:00"
+  },
+  {
+    "quote": "Coraggio è resistere alla paura, dominare la paura, non l'assenza di paura.",
+    "author": "Nelson Mandela",
+    "category": "coraggio",
+    "caption": "La paura c'è: il punto è cosa le fai fare.",
+    "hashtags": [
+      "#coraggio",
+      "#paura",
+      "#forza",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#mandela"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254035+00:00"
+  },
+  {
+    "quote": "Un amico è chi sa tutto di te e ti ama lo stesso.",
+    "author": "Elbert Hubbard",
+    "category": "amicizia",
+    "caption": "L'amicizia vera non ha bisogno di maschere.",
+    "hashtags": [
+      "#amicizia",
+      "#verità",
+      "#affetto",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#amici"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254043+00:00"
+  },
+  {
+    "quote": "La solitudine è la casa dei forti, ma anche il rifugio di chi ha bisogno di ascoltarsi.",
+    "author": "Anonimo",
+    "category": "solitudine",
+    "caption": "Stare soli non è un vuoto: è uno spazio da riempire di sé.",
+    "hashtags": [
+      "#solitudine",
+      "#silenzio",
+      "#ascoltarsi",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#interiorità"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254047+00:00"
+  },
+  {
+    "quote": "La giovinezza è una cosa meravigliosa: peccato che venga sprecata nei giovani.",
+    "author": "George Bernard Shaw",
+    "category": "giovinezza",
+    "caption": "Forse nessuno la vive bene: per questo la ricordiamo così.",
+    "hashtags": [
+      "#giovinezza",
+      "#nostalgia",
+      "#ironia",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#shaw"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254050+00:00"
+  },
+  {
+    "quote": "La maturità è quando smetti di incolpare gli altri e cominci a lavorare su te stesso.",
+    "author": "Anonimo",
+    "category": "maturità",
+    "caption": "Crescere è spostare lo sguardo dallo specchio alla strada.",
+    "hashtags": [
+      "#maturità",
+      "#responsabilità",
+      "#crescita",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254054+00:00"
+  },
+  {
+    "quote": "La delusione è il prezzo che paghi per aver creduto in qualcosa.",
+    "author": "Anonimo",
+    "category": "delusione",
+    "caption": "Chi non si è mai deluso, forse non ha mai creduto davvero a niente.",
+    "hashtags": [
+      "#delusione",
+      "#fiducia",
+      "#vita",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#aspettative"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254060+00:00"
+  },
+  {
+    "quote": "La leadership è l'arte di far fare a qualcun altro ciò che vuoi perché lui stesso lo vuole.",
+    "author": "Dwight D. Eisenhower",
+    "category": "leadership",
+    "caption": "Guidare non è comandare: è far nascere la voglia.",
+    "hashtags": [
+      "#leadership",
+      "#guida",
+      "#squadra",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#eisenhower"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254064+00:00"
+  },
+  {
+    "quote": "Il lavoro è una delle più belle cose della vita: per questo bisogna imparare a farlo bene.",
+    "author": "Anonimo",
+    "category": "lavoro",
+    "caption": "Amare ciò che fai non è fortuna: è una scelta che si costruisce.",
+    "hashtags": [
+      "#lavoro",
+      "#passione",
+      "#impegno",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#carriera"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254067+00:00"
+  },
+  {
+    "quote": "Il minimalismo è la ricerca di ciò che conta davvero, e la rinuncia a tutto il resto.",
+    "author": "Anonimo",
+    "category": "minimalismo",
+    "caption": "Togliere, togliere, togliere: finché resta solo l'essenziale.",
+    "hashtags": [
+      "#minimalismo",
+      "#essenziale",
+      "#semplicità",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#menoèpiù"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254070+00:00"
+  },
+  {
+    "quote": "La forza non è nel non cadere mai, ma nel rialzarsi ogni volta che si cade.",
+    "author": "Confucio",
+    "category": "forza",
+    "caption": "Conta quante volte ti rialzi, non quante volte cadi.",
+    "hashtags": [
+      "#forza",
+      "#rialzarsi",
+      "#resilienza",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#confucio"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254074+00:00"
+  },
+  {
+    "quote": "Lo sport non forgia il carattere, ma lo rivela.",
+    "author": "Heywood Broun",
+    "category": "sport",
+    "caption": "In campo non fingi: sei esattamente chi sei.",
+    "hashtags": [
+      "#sport",
+      "#carattere",
+      "#verità",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#palestra"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254077+00:00"
+  },
+  {
+    "quote": "La consapevolezza è l'unica via d'uscita dalla ripetizione.",
+    "author": "Anonimo",
+    "category": "consapevolezza",
+    "caption": "Finché non vedi il meccanismo, continuerai a girarci dentro.",
+    "hashtags": [
+      "#consapevolezza",
+      "#crescita",
+      "#cambiamento",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#prenderecoscienza"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254080+00:00"
+  },
+  {
+    "quote": "Il perdono è un regalo che fai a te stesso, non a chi ti ha ferito.",
+    "author": "Anonimo",
+    "category": "perdono",
+    "caption": "Perdonare non è giustificare: è smettere di portare quel peso.",
+    "hashtags": [
+      "#perdono",
+      "#liberarsi",
+      "#pace",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#lasciareandare"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254083+00:00"
+  },
+  {
+    "quote": "Le relazioni più belle sono quelle in cui non devi fingere di essere un'altra persona.",
+    "author": "Anonimo",
+    "category": "relazioni",
+    "caption": "La vera intimità comincia quando smetti di recitare.",
+    "hashtags": [
+      "#relazioni",
+      "#autenticità",
+      "#amore",
+      "#citazioni",
+      "#dimmeloconunacitazione",
+      "#verità"
+    ],
+    "generated_at": "2026-11-25T06:06:11.254087+00:00"
   }
 ]

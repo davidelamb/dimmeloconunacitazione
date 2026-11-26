@@ -1,50 +1,5 @@
 [
   {
-    "quote": "Ogni volta che ti trovi dalla parte della maggioranza, è tempo di cambiare.",
-    "author": "Mark Twain",
-    "category": "scelte",
-    "caption": "Il pensiero critico comincia quando osi andare controcorrente.",
-    "hashtags": [
-      "#scelte",
-      "#pensierocritico",
-      "#marktwain",
-      "#controcorrente",
-      "#citazioni",
-      "#libertà"
-    ],
-    "generated_at": "2026-11-01T03:16:36.871570+00:00"
-  },
-  {
-    "quote": "Il successo di solito arriva a chi è troppo occupato per cercarlo.",
-    "author": "Henry David Thoreau",
-    "category": "successo",
-    "caption": "Fai bene le cose ogni giorno e il resto viene da sé.",
-    "hashtags": [
-      "#successo",
-      "#thoreau",
-      "#lavoro",
-      "#costanza",
-      "#citazioni",
-      "#obiettivi"
-    ],
-    "generated_at": "2026-11-01T03:16:36.871574+00:00"
-  },
-  {
-    "quote": "Puoi scoprire di più su una persona in un'ora di gioco che in un anno di conversazione.",
-    "author": "Platone",
-    "category": "amicizia",
-    "caption": "A volte il carattere si vede meglio in una partita che in mille discorsi.",
-    "hashtags": [
-      "#amicizia",
-      "#platone",
-      "#gioco",
-      "#carattere",
-      "#citazioni",
-      "#persone"
-    ],
-    "generated_at": "2026-11-01T03:16:36.871577+00:00"
-  },
-  {
     "quote": "Il segreto del cambiamento è concentrare tutta la tua energia non sul combattere il vecchio, ma sul costruire il nuovo.",
     "author": "Socrate",
     "category": "cambiamento",
@@ -7371,5 +7326,50 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-25T20:51:15.896713+00:00"
+  },
+  {
+    "quote": "L'uomo che sposta una montagna comincia portando via piccoli sassi.",
+    "author": "Confucio",
+    "category": "pazienza",
+    "caption": "Nessuna vetta si scala in un salto: si scala un sasso alla volta.",
+    "hashtags": [
+      "#pazienza",
+      "#Confucio",
+      "#citazioni",
+      "#costanza",
+      "#obiettivi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-26T05:58:24.394765+00:00"
+  },
+  {
+    "quote": "Non piangere perché è finita, sorridi perché è accaduto.",
+    "author": "Gabriel García Márquez",
+    "category": "nostalgia",
+    "caption": "La gratitudine per ciò che è stato vale più del rimpianto per ciò che non è più.",
+    "hashtags": [
+      "#nostalgia",
+      "#GarciaMarquez",
+      "#citazioni",
+      "#gratitudine",
+      "#ricordi",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-26T05:58:24.394788+00:00"
+  },
+  {
+    "quote": "La vera misura di un uomo è come tratta chi non ha potere su di lui.",
+    "author": "Samuel Johnson",
+    "category": "consapevolezza",
+    "caption": "Il carattere si vede da come tratti chi non ti può dare nulla.",
+    "hashtags": [
+      "#consapevolezza",
+      "#carattere",
+      "#citazioni",
+      "#rispetto",
+      "#crescita",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-26T05:58:24.394793+00:00"
   }
 ]

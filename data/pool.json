@@ -1,50 +1,5 @@
 [
   {
-    "quote": "Ho deciso di essere felice perché è bene per la salute.",
-    "author": "Voltaire",
-    "category": "felicità",
-    "caption": "La felicità, prima di tutto, è una questione di salute.",
-    "hashtags": [
-      "#felicità",
-      "#voltaire",
-      "#citazioni",
-      "#frasi",
-      "#gioia",
-      "#benessere"
-    ],
-    "generated_at": "2026-11-02T03:26:29.706016+00:00"
-  },
-  {
-    "quote": "Niente è tanto forte quanto la gentilezza.",
-    "author": "Joseph Joubert",
-    "category": "forza",
-    "caption": "La gentilezza non è debolezza: è la forza più rara.",
-    "hashtags": [
-      "#gentilezza",
-      "#forza",
-      "#citazioni",
-      "#frasi",
-      "#umanità",
-      "#cuore"
-    ],
-    "generated_at": "2026-11-02T03:26:29.706023+00:00"
-  },
-  {
-    "quote": "Chi non ha mai fatto un errore non ha mai provato nulla di nuovo.",
-    "author": "Albert Einstein",
-    "category": "fallimento",
-    "caption": "Sbagliare è il prezzo giusto per imparare qualcosa.",
-    "hashtags": [
-      "#fallimento",
-      "#errori",
-      "#einstein",
-      "#citazioni",
-      "#frasi",
-      "#crescita"
-    ],
-    "generated_at": "2026-11-02T03:26:29.706028+00:00"
-  },
-  {
     "quote": "La pazienza è l'arte di sperare.",
     "author": "Luc de Clapiers de Vauvenargues",
     "category": "pazienza",
@@ -7359,5 +7314,50 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-26T20:42:32.924705+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte di una donna che ha deciso di rinascere.",
+    "author": "Eleanor Roosevelt",
+    "category": "resilienza",
+    "caption": "Rinascere non è tornare come prima: è tornare più consapevoli.",
+    "hashtags": [
+      "#resilienza",
+      "#rinascita",
+      "#donne",
+      "#forza",
+      "#citazioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-27T05:52:07.724136+00:00"
+  },
+  {
+    "quote": "Non c'è nulla che si possa fare meglio dell'amare.",
+    "author": "Henri Matisse",
+    "category": "amore",
+    "caption": "Amare è l'unica cosa che non ha bisogno di essere migliorata.",
+    "hashtags": [
+      "#amore",
+      "#matisse",
+      "#citazioni",
+      "#arte",
+      "#emozioni",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-27T05:52:07.724166+00:00"
+  },
+  {
+    "quote": "La cosa più difficile è la decisione, il resto è solo tenacia.",
+    "author": "Amelia Earhart",
+    "category": "scelte",
+    "caption": "Decidere è la parte coraggiosa. Il resto è solo costanza.",
+    "hashtags": [
+      "#scelte",
+      "#coraggio",
+      "#ameliaearhart",
+      "#citazioni",
+      "#tenacia",
+      "#dimmeloconunacitazione"
+    ],
+    "generated_at": "2026-11-27T05:52:07.724170+00:00"
   }
 ]

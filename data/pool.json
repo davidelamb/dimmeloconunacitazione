@@ -1,245 +1,5 @@
 [
   {
-    "quote": "La pazienza è l'arte di sperare.",
-    "author": "Luc de Clapiers de Vauvenargues",
-    "category": "pazienza",
-    "caption": "Aspettare bene è già un modo di agire.",
-    "hashtags": [
-      "#pazienza",
-      "#speranza",
-      "#citazioni",
-      "#frasi",
-      "#attesa",
-      "#saggezza"
-    ],
-    "generated_at": "2026-11-02T03:26:29.706035+00:00"
-  },
-  {
-    "quote": "La semplicità è la massima forma di sofisticazione.",
-    "author": "Leonardo da Vinci",
-    "category": "minimalismo",
-    "caption": "Meno cose, più senso: la vera eleganza è togliere, non aggiungere.",
-    "hashtags": [
-      "#minimalismo",
-      "#semplicità",
-      "#essenziale",
-      "#filosofia",
-      "#stile",
-      "#menomapiù"
-    ],
-    "generated_at": "2026-11-02T21:04:20.774949+00:00"
-  },
-  {
-    "quote": "La vita non è trovare te stesso. La vita è creare te stesso.",
-    "author": "George Bernard Shaw",
-    "category": "crescita personale",
-    "caption": "Nessuno nasce già finito. Ci si costruisce, un pezzo alla volta.",
-    "hashtags": [
-      "#crescitapersonale",
-      "#citazioni",
-      "#GeorgeBernardShaw",
-      "#diventare",
-      "#ispirazione",
-      "#frasimotivazionali"
-    ],
-    "generated_at": "2026-11-03T04:36:56.240414+00:00"
-  },
-  {
-    "quote": "La gente dimenticherà quello che hai detto, dimenticherà quello che hai fatto, ma non dimenticherà mai come l'hai fatta sentire.",
-    "author": "Maya Angelou",
-    "category": "relazioni",
-    "caption": "Le parole svaniscono, le emozioni restano. Scegli bene come fai sentire gli altri.",
-    "hashtags": [
-      "#relazioni",
-      "#citazioni",
-      "#MayaAngelou",
-      "#empatia",
-      "#emozioni",
-      "#frasibelle"
-    ],
-    "generated_at": "2026-11-03T04:36:56.240441+00:00"
-  },
-  {
-    "quote": "Non ho fallito. Ho solo trovato diecimila modi che non funzionano.",
-    "author": "Thomas Edison",
-    "category": "fallimento",
-    "caption": "Ogni errore è un gradino, non un muro. Basta guardarlo dalla parte giusta.",
-    "hashtags": [
-      "#fallimento",
-      "#citazioni",
-      "#ThomasEdison",
-      "#riprovare",
-      "#tenacia",
-      "#frasimotivazionali"
-    ],
-    "generated_at": "2026-11-03T04:36:56.240447+00:00"
-  },
-  {
-    "quote": "Siate il cambiamento che volete vedere nel mondo.",
-    "author": "Mahatma Gandhi",
-    "category": "consapevolezza",
-    "caption": "Prima di chiedere al mondo di cambiare, guarda dentro di te.",
-    "hashtags": [
-      "#consapevolezza",
-      "#citazioni",
-      "#Gandhi",
-      "#cambiamento",
-      "#esempio",
-      "#frasidivita"
-    ],
-    "generated_at": "2026-11-03T04:36:56.240453+00:00"
-  },
-  {
-    "quote": "La vera amicizia non è mai serena.",
-    "author": "Aristotele",
-    "category": "amicizia",
-    "caption": "Gli amici veri ti dicono anche ciò che non vuoi sentire. Per questo contano.",
-    "hashtags": [
-      "#amicizia",
-      "#citazioni",
-      "#Aristotele",
-      "#verità",
-      "#legami",
-      "#frasidivita"
-    ],
-    "generated_at": "2026-11-03T04:36:56.240461+00:00"
-  },
-  {
-    "quote": "La libertà non è fare ciò che vogliamo, ma volere ciò che facciamo.",
-    "author": "Jean-Paul Sartre",
-    "category": "libertà",
-    "caption": "Liberi non è fare tutto, è scegliere con consapevolezza ciò che fai.",
-    "hashtags": [
-      "#libertà",
-      "#citazioni",
-      "#Sartre",
-      "#scelte",
-      "#filosofia",
-      "#frasidivita"
-    ],
-    "generated_at": "2026-11-03T04:36:56.240467+00:00"
-  },
-  {
-    "quote": "La vita è un sogno, e i sogni sono sogni.",
-    "author": "Pedro Calderón de la Barca",
-    "category": "filosofia",
-    "caption": "Se è tutto un sogno, tanto vale sognarlo bene.",
-    "hashtags": [
-      "#citazioni",
-      "#filosofia",
-      "#vita",
-      "#sogni",
-      "#riflessioni",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-11-03T18:49:05.396552+00:00"
-  },
-  {
-    "quote": "Non c'è vento favorevole per chi non sa dove andare.",
-    "author": "Lucio Anneo Seneca",
-    "category": "motivazione",
-    "caption": "Prima la direzione, poi le vele.",
-    "hashtags": [
-      "#citazioni",
-      "#motivazione",
-      "#seneca",
-      "#direzione",
-      "#obiettivi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-11-03T18:49:05.396582+00:00"
-  },
-  {
-    "quote": "La costanza è la virtù dei forti.",
-    "author": "Vittorio Alfieri",
-    "category": "disciplina",
-    "caption": "Non serve essere veloci, serve non fermarsi.",
-    "hashtags": [
-      "#citazioni",
-      "#disciplina",
-      "#costanza",
-      "#impegno",
-      "#quotidiano",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-11-03T18:49:05.396586+00:00"
-  },
-  {
-    "quote": "Chi non risica non rosica.",
-    "author": "Proverbio italiano",
-    "category": "coraggio",
-    "caption": "Restare fermi sembra sicuro, ma è il rischio più grande.",
-    "hashtags": [
-      "#citazioni",
-      "#coraggio",
-      "#proverbi",
-      "#rischio",
-      "#osare",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-11-03T18:49:05.396589+00:00"
-  },
-  {
-    "quote": "Il successo è fatto di piccoli sforzi ripetuti giorno dopo giorno.",
-    "author": "Robert Collier",
-    "category": "successo",
-    "caption": "La grandezza è una somma di piccole cose fatte bene.",
-    "hashtags": [
-      "#citazioni",
-      "#successo",
-      "#costanza",
-      "#piccolipassi",
-      "#crescita",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-11-03T18:49:05.396592+00:00"
-  },
-  {
-    "quote": "Sbagliando s'impara.",
-    "author": "Proverbio italiano",
-    "category": "fallimento",
-    "caption": "Ogni errore è una lezione travestita.",
-    "hashtags": [
-      "#citazioni",
-      "#fallimento",
-      "#errori",
-      "#lezione",
-      "#proverbi",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-11-03T18:49:05.396595+00:00"
-  },
-  {
-    "quote": "Cadi sette volte, rialzati otto.",
-    "author": "Proverbio giapponese",
-    "category": "resilienza",
-    "caption": "Il numero delle cadute conta meno di quello dei rialzi.",
-    "hashtags": [
-      "#citazioni",
-      "#resilienza",
-      "#rialzarsi",
-      "#proverbi",
-      "#forza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-11-03T18:49:05.396599+00:00"
-  },
-  {
-    "quote": "Non c'è nulla di più costante del cambiamento.",
-    "author": "Eraclito",
-    "category": "cambiamento",
-    "caption": "Resistere al cambiamento è come remare contro la corrente.",
-    "hashtags": [
-      "#citazioni",
-      "#cambiamento",
-      "#eraclito",
-      "#filosofia",
-      "#impermanenza",
-      "#dimmeloconunacitazione"
-    ],
-    "generated_at": "2026-11-03T18:49:05.396601+00:00"
-  },
-  {
     "quote": "Diventa ciò che sei.",
     "author": "Friedrich Nietzsche",
     "category": "crescita personale",
@@ -7359,5 +7119,245 @@
       "#dimmeloconunacitazione"
     ],
     "generated_at": "2026-11-27T05:52:07.724170+00:00"
+  },
+  {
+    "quote": "La libertà è sempre la libertà di chi pensa diversamente.",
+    "author": "Rosa Luxemburg",
+    "category": "libertà",
+    "caption": "La vera libertà si riconosce dal spazio che lasciamo agli altri.",
+    "hashtags": [
+      "#libertà",
+      "#pensierocritico",
+      "#diversità",
+      "#democrazia",
+      "#citazioni",
+      "#rosa_luxemburg"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970687+00:00"
+  },
+  {
+    "quote": "Non c'è nulla di più forte di un cuore che sa aspettare.",
+    "author": "Ernest Hemingway",
+    "category": "pazienza",
+    "caption": "Aspettare non è perdere tempo: è prepararsi al momento giusto.",
+    "hashtags": [
+      "#pazienza",
+      "#attesa",
+      "#tempo",
+      "#citazioni",
+      "#hemingway",
+      "#fiducia"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970710+00:00"
+  },
+  {
+    "quote": "La cosa più importante è non smettere mai di domandare.",
+    "author": "Albert Einstein",
+    "category": "consapevolezza",
+    "caption": "Le domande giuste valgono più delle risposte facili.",
+    "hashtags": [
+      "#curiosità",
+      "#consapevolezza",
+      "#domande",
+      "#einstein",
+      "#citazioni",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970716+00:00"
+  },
+  {
+    "quote": "Agisci come se fosse impossibile fallire.",
+    "author": "Charles Kettering",
+    "category": "motivazione",
+    "caption": "A volte serve solo crederci un po' più di quanto sembri ragionevole.",
+    "hashtags": [
+      "#motivazione",
+      "#fiducia",
+      "#coraggio",
+      "#citazioni",
+      "#agire",
+      "#kettering"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970721+00:00"
+  },
+  {
+    "quote": "Il fallimento è il condimento che dà sapore al successo.",
+    "author": "Truman Capote",
+    "category": "fallimento",
+    "caption": "Anche gli inciampi fanno parte della ricetta.",
+    "hashtags": [
+      "#fallimento",
+      "#successo",
+      "#resilienza",
+      "#citazioni",
+      "#capote",
+      "#rinascita"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970724+00:00"
+  },
+  {
+    "quote": "La disciplina è la scelta tra ciò che vuoi ora e ciò che vuoi di più.",
+    "author": "Augusta F. Kantra",
+    "category": "disciplina",
+    "caption": "Ogni rinuncia consapevole è un investimento su te stesso.",
+    "hashtags": [
+      "#disciplina",
+      "#scelte",
+      "#obiettivi",
+      "#citazioni",
+      "#costanza",
+      "#futuro"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970728+00:00"
+  },
+  {
+    "quote": "La speranza è l'unica cosa che resta quando tutto il resto è stato portato via.",
+    "author": "Anne Frank",
+    "category": "speranza",
+    "caption": "Anche nei giorni più bui, qualcosa può ancora fiorire.",
+    "hashtags": [
+      "#speranza",
+      "#annefrank",
+      "#resilienza",
+      "#citazioni",
+      "#luce",
+      "#domani"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970731+00:00"
+  },
+  {
+    "quote": "Non c'è amicizia senza una dose di fiducia cieca.",
+    "author": "Michel de Montaigne",
+    "category": "amicizia",
+    "caption": "L'amicizia vera non chiede prove: si fida e basta.",
+    "hashtags": [
+      "#amicizia",
+      "#fiducia",
+      "#montaigne",
+      "#citazioni",
+      "#legami",
+      "#veriamici"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970737+00:00"
+  },
+  {
+    "quote": "La gratitudine trasforma ciò che abbiamo in abbastanza.",
+    "author": "Aesopo",
+    "category": "gratitudine",
+    "caption": "A volte basta cambiare sguardo per accorgersi di quanto si ha.",
+    "hashtags": [
+      "#gratitudine",
+      "#abbastanza",
+      "#quotidiano",
+      "#citazioni",
+      "#ringraziare",
+      "#consapevolezza"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970740+00:00"
+  },
+  {
+    "quote": "La vera libertà è non avere paura.",
+    "author": "Nelson Mandela",
+    "category": "coraggio",
+    "caption": "La paura ci chiude, il coraggio ci apre porte che non sapevamo di avere.",
+    "hashtags": [
+      "#coraggio",
+      "#libertà",
+      "#mandela",
+      "#citazioni",
+      "#paura",
+      "#forza"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970744+00:00"
+  },
+  {
+    "quote": "Il tempo che hai perso non è mai completamente perduto.",
+    "author": "Baltasar Gracián",
+    "category": "tempo",
+    "caption": "Anche gli errori hanno insegnato qualcosa: niente è davvero sprecato.",
+    "hashtags": [
+      "#tempo",
+      "#errori",
+      "#citazioni",
+      "#gracian",
+      "#esperienza",
+      "#crescita"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970747+00:00"
+  },
+  {
+    "quote": "La famiglia è la prima scuola di umanità.",
+    "author": "Papa Giovanni XXIII",
+    "category": "famiglia",
+    "caption": "È tra le mura di casa che impariamo a essere persone.",
+    "hashtags": [
+      "#famiglia",
+      "#umanità",
+      "#citazioni",
+      "#giovanniXXIII",
+      "#casa",
+      "#radici"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970752+00:00"
+  },
+  {
+    "quote": "Il cambiamento è la legge della vita e chi guarda solo al passato perde il futuro.",
+    "author": "John F. Kennedy",
+    "category": "cambiamento",
+    "caption": "Il futuro non aspetta chi resta fermo a guardare indietro.",
+    "hashtags": [
+      "#cambiamento",
+      "#futuro",
+      "#kennedy",
+      "#citazioni",
+      "#adattarsi",
+      "#rinnovamento"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970755+00:00"
+  },
+  {
+    "quote": "L'ironia è la forma più elegante di distacco dal mondo.",
+    "author": "Umberto Eco",
+    "category": "ironia",
+    "caption": "Ridere delle cose è un modo raffinato di non farsene travolgere.",
+    "hashtags": [
+      "#ironia",
+      "#distacco",
+      "#umbertoeco",
+      "#citazioni",
+      "#leggerezza",
+      "#saggezza"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970762+00:00"
+  },
+  {
+    "quote": "Non c'è viaggio più bello di quello che ci porta dentro noi stessi.",
+    "author": "Hermann Hesse",
+    "category": "viaggio",
+    "caption": "A volte il viaggio più importante è quello verso la propria interiorità.",
+    "hashtags": [
+      "#viaggio",
+      "#interiorità",
+      "#hesse",
+      "#citazioni",
+      "#scoperta",
+      "#anima"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970766+00:00"
+  },
+  {
+    "quote": "La nostalgia è il desiderio di un tempo che non possiamo più vivere.",
+    "author": "Milan Kundera",
+    "category": "nostalgia",
+    "caption": "La nostalgia è la prova che qualcosa ci ha toccati davvero.",
+    "hashtags": [
+      "#nostalgia",
+      "#ricordi",
+      "#kundera",
+      "#citazioni",
+      "#passato",
+      "#emozioni"
+    ],
+    "generated_at": "2026-11-28T05:31:48.970769+00:00"
   }
 ]
